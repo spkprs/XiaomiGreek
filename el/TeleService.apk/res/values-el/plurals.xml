@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Χωρίς σύνδεση δεδομένων για %s λεπτά</item>
+        <item quantity="one">Χωρίς σύνδεση δεδομένων για %s λεπτό</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Το τηλέφωνο θα είναι σε κατάσταση επείγουσας κλήσης για %s λεπτά. Κατά την διάρκεια αυτής της κατάστασης δεν θα μπορεί να γίνει χρήση δεδομένων δικτύου. Θέλετε να εξέλθετε;</item>
+        <item quantity="one">Το τηλέφωνο θα είναι σε κατάσταση επείγουσας κλήσης για %s λεπτό. Κατά την διάρκεια αυτής της κατάστασης δεν θα μπορεί να γίνει χρήση δεδομένων δικτύου. Θέλετε να εξέλθετε;</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Η επιλεγμένη ενέργεια δεν είναι διαθέσιμη στην κατάσταση επείγουσας κλήσης. Το τηλέφωνο θα παραμείνει σε αυτή την κατάσταση για %s λεπτά. Θέλετε να εξέλθετε;</item>
+        <item quantity="one">Η επιλεγμένη ενέργεια δεν είναι διαθέσιμη στην κατάσταση επείγουσας κλήσης. Το τηλέφωνο θα παραμείνει σε αυτή την κατάσταση για %s λεπτό. Θέλετε να εξέλθετε;</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d αριθμοί</item>
+        <item quantity="one">%d αριθμός</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d αριθμοί θα διαγραφούν.</item>
+        <item quantity="one">%d αριθμός θα διαγραφεί.</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Μπορείτε να προσθέσετε έως %s άτομα, επιλέξτε ξανά.</item>
+        <item quantity="one">Μπορείτε να προσθέσετε έως %s άτομο, επιλέξτε ξανά.</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">μετά απο: %s Δευτ.</item>
+        <item quantity="one">μετά απο %s Δευτ.</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d προσπάθειες απομένουν."</item>
+        <item quantity="one">"
+%d προσπάθεια απομένει."</item>
+    </plurals>
+</resources>

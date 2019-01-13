@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_main">Κύρια Δραστηριότητα</string>
+    <string name="hello_world">Γειά σου Κόσμε!</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="my_app_name">FIDO UAF1.0 ASM</string>
+    <string name="my_description">"Μπορείτε να ρυθμίσετε το FIDO UAF1.0 AUTHENTICATOR στη συσκευή σας Android για να συνδεθείτε στο APP. Είναι ασφαλές και πιο εύκολο από το να συνδεθείτε με το όνομα χρήστη και τον κωδικό πρόσβασής σας."</string>
+    <string name="my_title_ecdsa">FIDO UAF1.0 AUTHENTICATOR (ECDSA)</string>
+    <string name="my_title_sm2">FIDO UAF1.0 AUTHENTICATOR (SM2)</string>
+    <string name="touch_finger_hint">Αγγίξτε το δάχτυλό σας</string>
+    <string name="transaction_confirmation">Επιβεβαίωση συναλλαγής</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="unknown_error">Άγνωστο σφάλμα!</string>
+    <string name="fingerprint_matched">Ταιριάζει!</string>
+    <string name="fingerprint_mismatched">Δεν Ταιριάζει! Δοκιμάστε ξανά.</string>
+    <string name="timeout">Εκτός χρόνου</string>
+    <string name="toomanyattempts">"Έχετε εξαντλήσει πάρα πολύ χρόνο!
+Δοκιμάστε ξανά αργότερα."</string>
+    <string name="finger_image">Εικόνα δακτύλου</string>
+    <string name="manage_ok">Μεταβείτε στις Ρυθμίσεις</string>
+    <string name="manage_hint">"Ακαταχώρητα δακτυλικά αποτυπώματα!
+Μεταβείτε στις Ρυθμίσεις και καταχωρίστε το δακτυλικό σας αποτύπωμα και επιστρέψτε για να εγγραφείτε."</string>
+    <string name="select_user_title">Επιλογή Χρήστη</string>
+    <string name="click_to_authorize">Εξουσιοδότηση</string>
+    <string name="app_name">asmsdk</string>
+</resources>

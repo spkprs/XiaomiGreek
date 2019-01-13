@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MiCloudSync</string>
+  <string name="error_data_in_transfer">Ο συγχρονισμός θα ολοκληρωθεί σε %s ώρες.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud μη διαθέσιμο</string>
+  <string name="error_forbidden">Ο συγχρονισμός απενεργοποιήθηκε λόγω προβλήματος με το Λογαριασμό Mi.</string>
+  <string name="error_not_acceptable">Ο συγχρονισμός έχει απενεργοποιηθεί.</string>
+  <string name="error_title">"Αδύνατος ο συγχρονισμός"</string>
+  <string name="error_unauthorized">Ο συγχρονισμός απενεργοποιήθηκε λόγω υπερβολικά πολλών προσπαθειών.</string>
+  <string name="micloud_send_message_desc">Αποστολή Mi Μήνυμα</string> 
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Πρόχειρο: Ελήφθη ένα μήνυμα από τον υπολογιστή σας</string>
+</resources>

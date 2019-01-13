@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">Αυτό είναι συγκεκριμένο υλικό και θα πρέπει να εκχωρείται μόνο σε εφαρμογές ή υπηρεσίες OEM.</string>
+    <string name="label">Επιτρέπεται πρόσβαση στις υπηρεσίες και πόρους του IZAT.</string>
+</resources>

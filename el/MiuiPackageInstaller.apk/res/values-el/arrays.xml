@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="wifi_status">
+    <item></item>
+    <item>Σάρωση…</item>
+    <item>Σύνδεση…</item>
+    <item>Επαλήθευση ταυτότητας…</item>
+    <item>Λήψη διεύθυνσης IP…</item>
+    <item>Συνδεδεμένος</item>
+    <item>Ανασταλμένη</item>
+    <item>Αποσύνδεση…</item>
+    <item>Αποσυνδεμένο</item>
+    <item>Ανεπιτυχής</item>
+    <item>Αποκλεισμένο</item>
+    <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item></item>
+    <item>Σάρωση…</item>
+    <item>Σύνδεση σε %1$s…</item>
+    <item>Έλεγχος ταυτότητας με %1$s…</item>
+    <item>Λήψη διεύθυνσης IP από %1$s…</item>
+    <item>Συνδεδεμένο με %1$s</item>
+    <item>Ανασταλμένη</item>
+    <item>Αποσύνδεση από %1$s…</item>
+    <item>Αποσυνδεμένο</item>
+    <item>Ανεπιτυχής</item>
+    <item>Αποκλεισμένο</item>
+    <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
+  </string-array>
+</resources>

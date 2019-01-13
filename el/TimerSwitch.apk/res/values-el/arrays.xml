@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="switch_set">
+    <item>%1$s για λιγότερο από 1 λεπτό από τώρα.</item>
+    <item>%1$s οριστεί για %2$s από τώρα.</item>
+    <item>%1$s οριστεί για %3$s από τώρα.</item>
+    <item>%1$s οριστεί για %2$s και %3$s από τώρα.</item>
+    <item>%1$s οριστεί για %4$s από τώρα.</item>
+    <item>%1$s οριστεί για %2$s και %4$s από τώρα.</item>
+    <item>%1$s οριστεί για %3$s και %4$s από τώρα.</item>
+    <item>%1$s οριστεί για %2$s, %3$s, και %4$s από τώρα.</item>
+  </string-array>
+</resources>

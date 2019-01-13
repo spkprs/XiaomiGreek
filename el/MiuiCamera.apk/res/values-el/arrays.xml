@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="denoise_entries">
+        <item>Προεπιλογή</item>
+        <item>Ενεργό</item>
+        <item>Ανενεργό</item>
+  </string-array>
+  <string-array name="ai_scene_names">
+        <item>Δεν υπάρχει</item>
+        <item>Έγγραφα</item>
+        <item>Λουλούδια</item>
+        <item>Φαγητό</item>
+        <item>ppt</item>
+        <item>Ουρανός</item>
+        <item>Ανατολή και ηλιοβασίλεμα</item>
+        <item>Γάτες</item>
+        <item>Σκυλιά</item>
+        <item>Πράσινα φυτά</item>
+        <item>Σκηνή νύχτας</item>
+        <item>Σκηνή χιόνι</item>
+        <item>Παραθαλάσσιο</item>
+        <item>Φθινόπωρο</item>
+        <item>Φως κεριών</item>
+        <item>Αυτοκίνητο</item>
+        <item>Λιβάδι</item>
+        <item>Φύλλο σφενδάμου</item>
+        <item>Πολλά κρέατα</item>
+        <item>Αρχιτεκτονική</item>
+        <item>Πόλη</item>
+        <item>Συννεφιά</item>
+        <item>Βροχερός</item>
+        <item>Οπίσθιος φωτισμός</item>
+        <item>Σιλουέτα</item>
+        <item>Πορτρέτο</item>
+        <item>Κοσμήματα</item>
+        <item>Άγαλμα του Βούδα</item>
+        <item>Βοοειδή</item>
+        <item>Μπαχαρικό</item>
+        <item>Μοτοσυκλέτα</item>
+        <item>Ναός</item>
+        <item>Παραλία</item>
+        <item>Υποβρύχιο</item>
+  </string-array>
+</resources>

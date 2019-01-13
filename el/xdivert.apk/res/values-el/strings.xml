@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xdivert_title">Έξυπνη-Εκτροπή</string>
+    <string name="xdivert_summary">Προώθηση κλήσης όταν δεν είναι προσβάσιμο</string>
+    <string name="phone_numbers">Εισαγωγή αριθμού τηλεφώνου</string>
+    <string name="sub1LineNumber">Sub1 Αριθμός:</string>
+    <string name="sub2LineNumber">Sub2 Αριθμός:</string>
+    <string name="proceed">Συνέχεια</string>
+    <string name="xdivert_button">Ρύθμιση Έξυπνη-Εκτροπή</string>
+    <string name="xdivert_setting">Ρύθμιση Έξυπνη-Εκτροπή</string>
+    <string name="sum_xdivert_enabled">Ενεργή Έξυπνη-Εκτροπή</string>
+    <string name="sum_xdivert_disabled">Ανενεργή Έξυπνη-Εκτροπή</string>
+    <string name="xdivert_not_supported">Η Έξυπνη-Εκτροπή δεν υποστηρίζεται για CDMA</string>
+    <string name="xdivert_enternumber_error">Πληκτρολογήστε τον αριθμό τηλεφώνου και για τις δύο συνδρομές</string>
+    <string name="xdivert_partial_set">Η Έξυπνη-Εκτροπή έχει οριστεί μόνο για την 1η συνδρομή</string>
+    <string name="xdivert_sub_absent">Και οι δύο συνδρομές πρέπει να ενεργοποιηθούν για την Έξυπνη-Εκτροπή</string>
+    <string name="xdivert_status">Κατάσταση Έξυπνη-Εκτροπή</string>
+    <string name="xdivert_active">Ενεργή</string>
+    <string name="xdivert_not_active">Ανενεργή</string>
+    <string name="xdivert_imsi_not_read">Προετοιμασία SIM. Παρακαλώ δοκιμάστε μετά από κάποιο χρονικό διάστημα.</string>
+    <string name="xdivert_setting_primary_user_only">Η Έξυπνη-Εκτροπή δεν υποστηρίζεται για το χρήστη Επισκέπτη.</string>
+    <string name="updating_title">Ρυθμίσεις Κλήσης</string>
+    <string name="reading_settings">Ανάγνωση ρυθμίσεων…</string>
+    <string name="updating_settings">Ενημέρωση ρυθμίσεων…</string>
+    <string name="reverting_settings">Επαναφορά ρυθμίσεων...</string>
+    <string name="response_error">Απροσδόκητη απόκριση από το δίκτυο.</string>
+    <string name="exception_error">Σφάλμα κάρτας δικτύου ή SIM.</string>
+    <string name="fdn_check_failure">"Η ρύθμιση σταθερών κλήσεων της εφαρμογής είναι ενεργή. Ως αποτέλεσμα, ορισμένες λειτουργίες που σχετίζονται με την κλήση δεν λειτουργούν."</string>
+    <string name="radio_off_error">Ενεργοποιήστε το radio πριν προβείτε σε αυτές τις ρυθμίσεις.</string>
+    <string name="close_dialog">OK</string>
+    <string name="error_updating_title">Σφάλμα ρυθμίσεων κλήσεων</string>
+    <string name="set_subscription_error_atleast_one">Επιλέξτε τουλάχιστον μία συνδρομή</string>
+    <string name="sub_1">SUB 1</string>
+    <string name="sub_2">SUB 2</string>
+    <string name="sub_3">SUB 3</string>
+    <string name="sim1LineNumber">SIM 1 Αριθμός:</string>
+    <string name="sim2LineNumber">SIM 2 Αριθμός:</string>
+    <string name="xdivert_status_active">Έξυπνη-Εκτροπή Ενεργή</string>
+    <string name="xdivert_status_not_active">Έξυπνη-Εκτροπή Ανενεργή</string>
+</resources>

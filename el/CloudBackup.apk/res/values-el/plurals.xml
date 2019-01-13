@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">Επαναφορά %d αρχείων</item>
+        <item quantity="one">Επαναφορά %d αρχείου</item>
+    </plurals>
+     <plurals name="cloud_backup_detail_frequence_day">
+         <item quantity="other">Αντίγραφα κάθε %d ημέρες</item>
+         <item quantity="one">Αντίγραφο καθημερινά</item>
+     </plurals>
+     <plurals name="cloud_backup_detail_manage_summary">
+         <item quantity="other">%1$s αντίγραφα, μέγεθος:%2$s</item>
+         <item quantity="one">%1$s αντίγραφο, μέγεθος:%2$s</item>
+     </plurals>
+</resources>

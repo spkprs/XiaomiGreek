@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ αδιάβαστα</item>
+        <item quantity="one">%1$d+ αδιάβαστο</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Αρχειοθέτηση %1$d συζητήσεων;</item>
+        <item quantity="one">Αρχειοθέτηση 1 συζήτησης;</item>
+        <item quantity="two">Αρχειοθέτηση %1$d συζητήσεων;</item>
+        <item quantity="few">Αρχειοθέτηση %1$d συζητήσεων;</item>
+        <item quantity="many">Αρχειοθέτηση %1$d συζητήσεων;</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">"Διαγραφή  %1$d συζητήσεων;"</item>
+        <item quantity="one">Διαγραφή 1 συζήτησης;</item>
+        <item quantity="two">"Διαγραφή  %1$d συζητήσεων;"</item>
+        <item quantity="few">"Διαγραφή  %1$d συζητήσεων;"</item>
+        <item quantity="many">"Διαγραφή  %1$d συζητήσεων;"</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Οι συζητήσεις περιέχουν πολλαπλά μηνύματα. Διαγραφή ούτως ή άλλως;</item>
+        <item quantity="one">Η συζήτηση περιέχει πολλαπλά μηνύματα. Διαγραφή ούτως ή άλλως;</item>
+        <item quantity="two">Οι συζητήσεις περιέχουν πολλαπλά μηνύματα. Διαγραφή ούτως ή άλλως;</item>
+        <item quantity="few">Οι συζητήσεις περιέχουν πολλαπλά μηνύματα. Διαγραφή ούτως ή άλλως;</item>
+        <item quantity="many">Οι συζητήσεις περιέχουν πολλαπλά μηνύματα. Διαγραφή ούτως ή άλλως;</item>
+    </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">Διαγραφή %1$d στα πρόχειρα;</item>
+        <item quantity="one">Διαγραφή %1$d το προσχέδιο;</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+        <item quantity="two">%d επιλεγμένα στοιχεία</item>
+        <item quantity="few">%d επιλεγμένα στοιχεία</item>
+        <item quantity="many">%d επιλεγμένα στοιχεία</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d στο αρχείο.</item>
+        <item quantity="one">%1$d στο αρχείο.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d διεγράφησαν.</item>
+        <item quantity="one">%1$d διεγράφη.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Αλλαγμένοι φάκελοι.</item>
+        <item quantity="one">Αλλαγμένος φάκελος.</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d οι άνθρωποι</item>
+        <item quantity="one">+%1$d άτομο</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">%1$d σε σίγαση.</item>
+        <item quantity="one">%1$d σε σίγαση.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">%1$d όχι ως σημαντικά.</item>
+        <item quantity="one">%1$d όχι ως σημαντικό.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">%1$d όχι σαν spam.</item>
+        <item quantity="one">%1$d όχι σαν spam.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">%1$d αναφέρθηκαν ως απάτη.</item>
+        <item quantity="one">%1$d αναφέρθηκε ως απάτη.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">%1$d αναφέρθηκαν ως spam.</item>
+        <item quantity="one">%1$d αναφέρθηκε ως spam.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">Σε %d ημέρες</item>
+        <item quantity="one">Σε %d ημέρα</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d ημέρες πριν</item>
+        <item quantity="one">%d ημέρα πριν</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Πρόχειρα</item>
+        <item quantity="one">Πρόχειρο</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
+        <item quantity="one">%1$d μήνυμα θα διαγραφεί μόνιμα.</item>
+        <item quantity="two">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
+        <item quantity="few">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
+        <item quantity="many">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Hide %1$d συνημμένα</item>
+        <item quantity="one">Hide %1$d συνημμένο</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s αποτελέσματα σε συγχρονισμένα μηνύματα</item>
+        <item quantity="one">%s αποτελέσματα σε συγχρονισμένο μηνύμα</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">%d μήνες</item>
+        <item quantity="one">%d μήνα</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d περισσότερα απομένουν</item>
+        <item quantity="one">%1$d περισσότερο απομένει</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Μετακίνηση %1$d συζητήσεων</item>
+        <item quantity="one">Μετακίνηση 1 συζήτησης</item>
+        <item quantity="two">Μετακίνηση %1$d συζητήσεων</item>
+        <item quantity="few">Μετακίνηση %1$d συζητήσεων</item>
+        <item quantity="many">Μετακίνηση %1$d συζητήσεων</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
+        <item quantity="two">%1$d νέα μηνύματα</item>
+        <item quantity="few">%1$d νέα μηνύματα</item>
+        <item quantity="many">%1$d νέα μηνύματα</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νεο μήνυμα</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+        <item quantity="two">%d επιλεγμένα στοιχεία</item>
+        <item quantity="few">%d επιλεγμένα στοιχεία</item>
+        <item quantity="many">%d επιλεγμένα στοιχεία</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Απάντηση σε %1$d άτομα</item>
+        <item quantity="one">Απάντηση σε %1$d άτομο</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s αποτελέσματα στον διακομιστή</item>
+        <item quantity="one">%s αποτέλεσμα στον διακομιστή</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d παλαιότερα μηνύματα</item>
+        <item quantity="one">%1$d παλαιότερο μήνυμα</item>
+        <item quantity="two">%1$d παλαιότερα μηνύματα</item>
+        <item quantity="few">%1$d παλαιότερα μηνύματα</item>
+        <item quantity="many">%1$d παλαιότερα μηνύματα</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s μη απεσταλμένα απο %2$s</item>
+        <item quantity="one">%1$s μη απεσταλμένο απο %2$s</item>
+    </plurals>
+</resources>

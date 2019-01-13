@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="face_album_list_item_height">90.0dip</dimen>
+    <dimen name="select_all_button_wrap_width">130.0dip</dimen>
+</resources>

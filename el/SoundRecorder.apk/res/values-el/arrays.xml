@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="hd_record_scenes_entries">
+    <item>Μουσική</item>
+    <item>Φωνή</item>
+    <item>Συνέντευξη</item>
+    <item>HD</item>
+  </string-array>
+  <string-array name="interview_record_scenes_entries">
+    <item>Μουσική</item>
+    <item>Φωνή</item>
+    <item>Συνέντευξη</item>
+  </string-array>
+  <string-array name="record_quality_entries">
+    <item>Υψηλή</item>
+    <item>Κανονική</item>
+    <item>Χαμηλή</item>
+  </string-array>
+  <string-array name="record_quality_summaries">
+    <item>MP3, ~192kbit/s, ~90MB/ώ</item>
+    <item>MP3, ~100kbit/s, ~45MB/ώ</item>
+    <item>MP3, ~75kbit/s, ~32MB/ώ</item>
+  </string-array>
+  <string-array name="record_scenes_entries">
+    <item>Μουσική</item>
+    <item>Φωνή</item>
+  </string-array>
+  <string-array name="record_scenes_summaries">
+    <item>Εγγραφή μουσικής με καλή ποιότητα</item>
+    <item>Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή ήχου για καλύτερη ποιότητα</item>
+    <item>Τοποθετήστε το τηλέφωνο μεταξύ 2 ατόμων για να καταγράψετε με σαφήνεια τη συνομιλία τους</item>
+    <item>Η τεχνολογία υψηλής δυναμικής εμβέλειας επιτρέπει στο μικρόφωνο να καταγράφει πιο λεπτομερή ήχο</item>
+  </string-array>
+  <string-array name="record_scenes_summaries_stereo">
+    <item>Εγγραφή μέσω 2 καναλιών, ακούστε στερεοφωνικό ήχο στα ακουστικά</item>
+    <item>Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή του ήχου για καλύτερη ποιότητα</item>
+    <item>Τοποθετήστε το τηλέφωνο μεταξύ 2 ατόμων για να καταγράψετε με σαφήνεια τη συνομιλία τους</item>
+    <item>Η τεχνολογία υψηλής δυναμικής εμβέλειας επιτρέπει στο μικρόφωνο να καταγράφει πιο λεπτομερή ήχο</item>
+  </string-array>
+</resources>

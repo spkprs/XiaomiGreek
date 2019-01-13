@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="call_waiting_settings">Ρυθμίσεις αναμονής κλήσεων</string>
+    <string name="call_forwarding_settings">Ρυθμίσεις προώθησης κλήσεων</string>
+    <string name="labelCFU">Πάντα προώθηση</string>
+    <string name="messageCFU">Πάντα χρήση αυτού του αριθμού</string>
+    <string name="labelCFB">Όταν είναι απασχολημένο</string>
+    <string name="messageCFB">Όταν ο Αριθμός είναι απασχολημένος</string>
+    <string name="labelCFNRy">Όταν δεν απαντά</string>
+    <string name="messageCFNRy">Όταν ο Αριθμός δεν απαντά</string>
+    <string name="labelCFNRc">Όταν δεν είναι προσβάσιμος</string>
+    <string name="messageCFNRc">Όταν ο Αριθμός  δεν είναι προσβάσιμος</string>
+    <string name="labelCF">Προώθηση κλήσεων</string>
+    <string name="labelCW">Κλήση σε αναμονή</string>
+    <string name="labelCFNRc_cdma">Έμμεση προώθηση</string>
+    <string name="CFActivate">Ενεργή</string>
+    <string name="CFDeactivate">Ανενεργή</string>
+    <string name="null_phone_number">Ο αριθμός δεν μπορεί να είναι κενός !</string>
+    <string name="labelCFDeactAll">Απενεργοποίηση όλων</string>
+    <string name="enable">Ενεργοποίηση</string>
+    <string name="disable">Απενεργοποίηση</string>
+    <string name="change_num">Ενημέρωση</string>
+    <string name="selectContact">επιλογή επαφής</string>
+    <string name="CFU_ACT" />
+    <string name="CFU_DEACT" />
+    <string name="CFB_ACT" />
+    <string name="CFB_DEACT" />
+    <string name="CFNRY_ACT" />
+    <string name="CFNRY_DEACT" />
+    <string name="CFNRC_ACT" />
+    <string name="CFNRC_DEACT" />
+    <string name="CFA_DEACT" />
+    <string name="CW_ACT" />
+    <string name="CW_DEACT" />
+</resources>

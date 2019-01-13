@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="comment_count">
+    <item quantity="other">%d σχόλια</item>
+    <item quantity="one">%d σχόλιο</item>
+  </plurals>
+  <plurals name="comment_sub_count">
+    <item quantity="other">%d απαντήσεις</item>
+    <item quantity="one">%d απάντηση</item>
+  </plurals>
+  <plurals name="comment_view_all_comment">
+    <item quantity="other">Προβολή όλων των %d σχολίων</item>
+    <item quantity="one">Προβολή %d σχόλιο</item>
+  </plurals>
+  <plurals name="downloading_task_num">
+    <item quantity="other">%d αρχεία</item>
+    <item quantity="one">%d αρχείο</item>
+  </plurals>
+  <plurals name="favor_short_selected_counts">
+    <item quantity="other">Επιλεγμένα %1$s στοιχεία</item>
+    <item quantity="one">Επιλεγμένο %1$s στοιχείο</item>
+  </plurals>
+  <plurals name="finish_item_all_counts">
+    <item quantity="other">%1$s βίντεο</item>
+    <item quantity="one">%1$s βίντεο</item>
+  </plurals>
+  <plurals name="notification_sub_title">
+    <item quantity="other">Λήψη %d αρχείων με επιτυχία</item>
+    <item quantity="one">Λήψη %d αρχείο με επιτυχία</item>
+  </plurals>
+  <plurals name="offline_num">
+    <item quantity="other">%d αρχεία</item>
+    <item quantity="one">%d αρχείο</item>
+  </plurals>
+  <plurals name="offline_num_title">
+    <item quantity="other">(%d επεισόδια)</item>
+    <item quantity="one">(%d επεισόδιο)</item>
+  </plurals>
+  <plurals name="subtitle_offset_advance_times">
+    <item quantity="other">Οι υπότιτλοι μετακινήθηκαν %.1f δευτ. προς τα εμπρός</item>
+    <item quantity="one">Οι υπότιτλοι μετακινήθηκαν %.1f δευτ. προς τα εμπρός</item>
+  </plurals>
+  <plurals name="subtitle_offset_delay_times">
+    <item quantity="other">Υπότιτλοι με καθυστέρηση %.1f δευτ.</item>
+    <item quantity="one">Υπότιτλοι με καθυστέρηση %.1f δευτ.</item>
+  </plurals>
+  <plurals name="subtitle_onlinesub_size_float_kb">
+    <item quantity="other">Μέγεθος: %.2fKB</item>
+    <item quantity="one">Μέγεθος: %.2fKB</item>
+  </plurals>
+  <plurals name="updated_already">
+    <item quantity="other">Ενημερώθηκαν %d στοιχεία</item>
+    <item quantity="one">Ενημερώθηκε %d στοιχείο</item>
+  </plurals>
+  <plurals name="v_cache_videos">
+    <item quantity="other">%d αποθηκευμένα βίντεο</item>
+    <item quantity="one">%d αποθηκευμένο βίντεο</item>
+  </plurals>
+  <plurals name="v_coin_show">
+    <item quantity="other">%d νομίσματα</item>
+    <item quantity="one">%d νόμισμα</item>
+  </plurals>
+  <plurals name="v_video_count">
+    <item quantity="other">%d βίντεο</item>
+    <item quantity="one">%d βίντεο</item>
+  </plurals>
+  <plurals name="video_pre_play_tip">
+    <item quantity="other">%1$d-λεπτά προεπισκοπήσεων είναι διαθέσιμα. Για να παρακολουθήσετε τα πλήρες βίντεο,&lt;Data&gt;&lt;font color=#ffa201&gt;Αγόρασέ τα τώρα&lt;/font&gt;&lt;/Data&gt;.</item>
+    <item quantity="one">%1$d-λεπτά προεπισκόπησης είναι διαθέσιμη. Για να παρακολουθήσετε το πλήρες βίντεο,&lt;Data&gt;&lt;font color=#ffa201&gt;Αγόρασέ το τώρα&lt;/font&gt;&lt;/Data&gt;.</item>
+  </plurals>
+</resources>

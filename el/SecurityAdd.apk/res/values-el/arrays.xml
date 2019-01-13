@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="app_start_setting">
+    <item>επιτρέπεται μόνο η αυτόματη λευκή λίστα</item>
+    <item>όλες οι απαγορεύσεις</item>
+  </string-array>
+</resources>

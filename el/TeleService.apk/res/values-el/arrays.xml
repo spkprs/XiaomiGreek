@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>Μόνο TD-SCDMA</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Παγκόσμιο</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Μόνο EvDo</item>
+        <item>CDMA χωρίς EvDo</item>
+        <item>CDMA/EvDo αυτόματο</item>
+        <item>GSM/WCDMA αυτόματο</item>
+        <item>Μόνο WCDMA</item>
+        <item>Μόνο GSM</item>
+        <item>Προτιμώμενο το GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Αγγλικά</item>
+        <item>Γαλλικά</item>
+        <item>Ισπανικά</item>
+        <item>Ιαπωνικά</item>
+        <item>Κορεάτικα</item>
+        <item>Κινέζικα</item>
+        <item>Εβραϊκά</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Μόνο το τοπικό σύστημα</item>
+        <item>Αυτόματο</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Τριπλή λειτουργία</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Τριπλή λειτουργία</item>
+    </string-array>
+    <string-array name="call_backlight_entries">
+        <item>Μόνο σε εισερχόμενη κλήση</item>
+        <item>Μετά την απάντηση στην κλήση</item>
+        <item>Πάντα με τις εισερχόμενες</item>
+        <item>Πάντα με τις εξερχόμενες</item>
+    </string-array>
+    <string-array name="call_entries">
+        <item>Καμιά</item>
+        <item>Πληκτρολόγιο</item>
+        <item>Έξοδος/Αρχική</item>
+        <item>Έξοδος/Κλείδωμα</item>
+    </string-array>
+    <string-array name="incall_small_background_entries">
+        <item>Προεπιλογή</item>
+        <item>Πράκτορας</item>
+        <item>Κουνέλι</item>
+        <item>Μάσκα</item>
+        <item>MI λογότυπο</item>
+        <item>Άγνωστο</item>
+    </string-array>
+    <string-array name="incall_background_entries">
+        <item>Προεπιλογή</item>
+        <item>Κραυγή</item>
+        <item>Ματωμένα χέρια</item>
+        <item>Ο άνθρωπος με την κουκούλα</item>
+        <item>Hitman</item>
+        <item>Χέρι πίσω από γυαλί</item>
+    </string-array>
+    <string-array name="set_samplingrate_entries">
+        <item>Προεπιλογή (8000 Hz)</item>
+        <item>16000 Hz</item>
+        <item>22050 Hz</item>
+        <item>44100 Hz</item>
+    </string-array>
+    <string-array name="set_bitrate_entries">
+        <item>Προεπιλογή (8 kbps)</item>
+        <item>24 kbps</item>
+        <item>32 kbps</item>
+        <item>48 kbps</item>
+        <item>64 kbps</item>
+        <item>96 kbps</item>
+        <item>128 kbps</item>
+    </string-array>
+    <string-array name="show_search_entries">
+        <item>Εμφάνιση</item>
+        <item>Εμφάνιση στις επαφές</item>
+        <item>Εμφάνιση στην οθόνη κλήσης</item>
+        <item>Απόκρυψη</item>
+    </string-array>
+    <string-array name="key_call_entries">
+        <item>Απόκρυψη</item>
+        <item>Εμφάνιση</item>
+    </string-array>
+    <string-array name="call_home_entries">
+        <item>Αποδοχή κλήσεων</item>
+        <item>Απόρριψη κλήσεων</item>
+        <item>Σίγαση</item>
+        <item>Ανενεργό</item>
+    </string-array>
+    <string-array name="call_windows_entries">
+        <item>Σε πλήρη οθόνη</item>
+        <item>Αναδυόμενο παράθυρο</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (αυτόματο)</item>
+        <item>Μόνο 3G</item>
+        <item>Μόνο 2G</item>
+    </string-array>
+    <string-array name="livetalk_about_info_array">
+        <item>• Χρήση: Καλέστε οποιοδήποτε τηλέφωνο στον κόσμο. Δεν υπάρχουν περιορισμοί φορέα.</item>
+        <item>• Απαιτήσεις: Κάθε κλήση απαιτεί 1KB δεδομένων κινητής τηλεφωνίας.</item>
+        <item>• Άλλα: Αγοράστε πακέτο και ξεκινήστε τις κλήσεις. Δεν υπάρχουν περίπλοκες ρυθμίσεις.</item>
+        <item>• Αν χρειάζεστε βοήθεια, παρακαλώ καλέστε το 400-100-5678.</item>
+    </string-array>
+    <string-array name="ims_call_cap_types">
+        <item>Φωνή</item>
+        <item>Βίντεο</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Φωνή</item>
+        <item>Βίντεο</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Βίντεο</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Φωνή</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Προεπιλογή δικτύου</item>
+        <item>Απόκρυψη αριθμού</item>
+        <item>Εμφάνιση αριθμού</item>
+    </string-array>		
+</resources>

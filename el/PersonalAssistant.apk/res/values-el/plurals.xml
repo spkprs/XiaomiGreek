@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_day">
+        <item quantity="other">Σε %d ημέρες</item>
+        <item quantity="one">Σε %d ημέρα</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d ημέρες πριν</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ωρες πριν</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Αφαίρεση %s στοιχεία από τα αγαπημένα;</item>
+        <item quantity="one">Αφαίρεση %s στοιχείο από τα αγαπημένα;</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Μαρκαρισμένα %s στοιχεία σημαντικά</item>
+        <item quantity="one">Μαρκαρισμένο %s στοιχείο σημαντικό</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Επιλεγμένα %s στοιχεία</item>
+        <item quantity="one">Επιλεγμένο %s στοιχείο</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d λεπτά πριν</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Διαγραφή %s στοιχεία από την πληρωμή;</item>
+        <item quantity="one">Διαγραφή %s στοιχείο από την πληρωμή;</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Επιλεγμένο %s στοιχεία</item>
+        <item quantity="one">Επιλεγμένο %s στοιχείο</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">Σε %d ημέρες</item>
+        <item quantity="one">Σε %d ημέρα</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Σε %d ώρες</item>
+        <item quantity="one">Σε %d ώρα</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Σε %d λεπτά</item>
+        <item quantity="one">Σε %d λεπτό</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|βήματα</item>
+        <item quantity="zero">%d|βήματα</item>
+        <item quantity="one">%d|βήμα</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d ώρες πριν</item>
+        <item quantity="one">%d πριν από μία ώρα</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">%d πριν από ένα λεπτό</item>
+    </plurals>
+    <plurals name="miot_device_camera_size">
+        <item quantity="other">%d έξυπνες κάμερες</item>
+        <item quantity="one">%d έξυπνη κάμερα</item>
+    </plurals>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Ενίσχυση μπάσων</string>
+  <string name="ci_extreme">Ηλεκτρονική</string>
+  <string name="classical">Κλασική</string>
+  <string name="combo_device">Τα εφέ υποστηρίζονται μόνο στην αναπαραγωγή ακουστικών.</string>
+  <string name="dance">Χορός</string>
+  <string name="eq_custom">Για να προσαρμόσετε, επιλέξτε Προσαρμοσμένο</string>
+  <string name="eq_dialog_title">Snapdragon Audio +</string>
+  <string name="flat">Επίπεδη</string>
+  <string name="folk">Λαϊκή</string>
+  <string name="headset_plug">Τοποθετήστε τα ακουστικά για αυτά τα εφέ.</string>
+  <string name="heavy_metal">Βαρύ μέταλλο</string>
+  <string name="hip_hop">Χιπ χοπ</string>
+  <string name="jazz">Τζαζ</string>
+  <string name="largehall">Μεγάλη αίθουσα</string>
+  <string name="largeroom">Μεγάλο δωμάτιο</string>
+  <string name="main_toggle_effects_title">Εφέ ήχου</string>
+  <string name="mediumhall">Μεσαία αίθουσα</string>
+  <string name="mediumroom">Μεσαίο δωμάτιο</string>
+  <string name="new_app_name">Εφέ ήχου</string>
+  <string name="no_effects">Μη διαθέσιμα εφέ.</string>
+  <string name="none">Κανένα</string>
+  <string name="normal">Κανονική</string>
+  <string name="picker_title">Πίνακας ελέγχου μουσικών εφέ</string>
+  <string name="plate">Πλάκα</string>
+  <string name="pop">Pop</string>
+  <string name="power_on_prompt">Πατήστε το κουμπί λειτουργίας στην επάνω δεξιά γωνία.</string>
+  <string name="pr_dialog_title">Προκαθορισμένη Αντήχηση</string>
+  <string name="pr_summary">Επιπλέον επιδράσεις αντήχησης δωματίου</string>
+  <string name="pr_title">Αντήχηση:</string>
+  <string name="rock">Ροκ</string>
+  <string name="setup">Ρυθμίσεις</string>
+  <string name="smallroom">Μικρό δωμάτιο</string>
+  <string name="toggle_button_off">Ανενεργό</string>
+  <string name="toggle_button_on">Ενεργό</string>
+  <string name="user">Χρήστης</string>
+  <string name="virtualizer_strength">3D εφέ</string>
+</resources>

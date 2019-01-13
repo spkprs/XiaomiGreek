@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="show_hiden_test">
+    <item quantity="other">εκτελέστε ξανά τώρα %1$d  βήματα επιτρέπεται να εισάγετε εσωτερικά στοιχεία δοκιμής.</item>
+    <item quantity="one">εκτελέστε ξανά τώρα %1$d  βήμα επιτρέπεται να εισάγετε εσωτερικό στοιχείο δοκιμής.</item>
+  </plurals>
+</resources>

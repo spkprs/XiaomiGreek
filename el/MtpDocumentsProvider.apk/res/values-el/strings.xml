@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="accessing_notification_title">Πρόσβαση σε αρχεία από %1$s</string>
+  <string name="app_label">MTP υποδοχής</string>
+  <string name="downloads_app_label">Λήψεις</string>
+  <string name="error_busy_device">Η άλλη συσκευή είναι απασχολημένη. Δεν μπορείτε να μεταφέρετε αρχεία μέχρι να είναι διαθέσιμα.</string>
+  <string name="error_locked_device">Δεν βρέθηκαν αρχεία. Η άλλη συσκευή μπορεί να είναι κλειδωμένη. Αν ναι, ξεκλειδώστε το και δοκιμάστε ξανά.</string>
+  <string name="root_name">%1$s %2$s</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Πάροχος Βημάτων</string>
+    <string name="permstep_label">Ανάγνωση Βημάτων</string>
+    <string name="permstep_description">"Επιτρέψτε στην εφαρμογή να διαβάσει τις βηματικές πληροφορίες του τηλεφώνου σας"</string>
+    <string name="joyose_name">Joyose Πάροχος Βημάτων</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="activity_title_fakecell">Προστασία από ψευδείς σταθμούς βάσης</string>
+    <string name="detect_fakecell">Αναγνώριση SMS από ψεύτικους σταθμούς βάσης</string>
+    <string name="forbidden_fakecell">"Χωρίς σύνδεση σε ψεύτικους σταθμούς βάσης"</string>
+    <string name="forbidden_fakecell_summary">Αποφύγετε τη σύνδεση του τηλεφώνου σας σε ψεύτικους σταθμούς βάσης</string>
+    <string name="support_forbidden_fakecell">Σημείωση: Ο περιορισμός της σύνδεσης σε ψεύτικους σταθμούς βάσης μπορεί να μειώσει το σήμα σε περιοχές με κακή κάλυψη.</string>
+    <string name="not_support_forbidden_fakecell">"Η συσκευή σας δεν υποστηρίζει την προστασία επιπέδου chip από ψεύτικους σταθμούς βάσης."</string>
+    <string name="restart_details">Η ενεργοποίηση ή απενεργοποίηση αυτής της λειτουργίας απαιτεί την επανεκκίνηση της συσκευής σας. Επανεκκινήστε τώρα?</string>
+    <string name="restart_later">Αργότερα</string>
+    <string name="restart_now">Επανεκκίνηση τώρα</string>
+    <string name="switch_to_official">Μεταβείτε στον επίσημο διακομιστή</string>
+    <string name="switch_to_staging">Μετάβαση σε δοκιμαστικό διακομιστή</string>
+    <string name="lab_switch_server">Εναλλαγή διακομιστών</string>
+    <string name="foreground_title">Υπηρεσία προσκηνίου</string>
+    <string name="foreground_text">Προώθηση προτεραιότητας με την υπηρεσία προσκηνίου</string>
+    <string name="switch_international">Μετάβαση σε διακομιστή εξωτερικού</string>
+</resources>

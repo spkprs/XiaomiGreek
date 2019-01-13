@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Άνδρας</item>
+        <item>Γυναίκα</item>
+    </string-array>
+    <string-array name="education">
+        <item>Γυμνάσιο</item>
+        <item>Δημοτικό</item>
+        <item>Λύκειο</item>
+        <item>Επαγγελματική σχολή</item>
+        <item>Κολέγιο</item>
+        <item>Πτυχίο μάστερ</item>
+        <item>Διδακτορικό</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt;300 €</item>
+        <item>301~600 €</item>
+        <item>601~900 €</item>
+        <item>901~1200 €</item>
+        <item>1201~1800 €</item>
+        <item>">1800 €"</item>
+    </string-array>
+</resources>

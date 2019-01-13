@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Υβριδικό Εξάρτημα</string>
+    <string name="short_cut_dialog_cancel_button_text">Οχι</string>
+    <string name="short_cut_dialog_cotent">Οι παρακάτω εφαρμογές μπορούν να χρησιμοποιηθούν χωρίς εγκατάσταση. Αποθήκευση συντομεύσεων?</string>
+    <string name="short_cut_dialog_create_button_text">Ναί</string>
+    <string name="short_cut_dialog_not_tip_check_box">"Υπενθύμιση ξανά σε 2 εβδομάδες"</string>
+    <string name="short_cut_dialog_title">Δημιουργία συντόμευσης</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Συγχρονισμός δεδ. εφαρμογών</item>
+        <item>Αντίγραφο διάταξης αρχικής οθόνης</item>
+        <item>Αντίγραφο ρυθμίσεων συστήματος</item>
+        <item>Εύρεση συσκευής</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Συγχρονίστε τις επαφές, τα μηνύματα, τις σημειώσεις, το ημερολόγιό σας και πολλά άλλα</item>
+        <item>Δημιουργία αντιγράφων εφαρμογών, διάταξη αρχικής οθόνης και ταπετσαρίας</item>
+        <item>"Δημιουργία αντιγράφων ασφαλείας για σημαντικές ρυθμίσεις, συμπεριλαμβανομένου του Wi-Fi και της οθόνης "</item>
+        <item>Κλειδώστε τη συσκευή σας απο απόσταση εάν την χάσετε</item>
+    </string-array>
+</resources>

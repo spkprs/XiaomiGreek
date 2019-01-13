@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="ad_service">Υπηρεσία διαφημίσεων</string>
+  <string name="app_label">Προβολή HTML</string>
+  <string name="app_name_which_call">Εφαρμογή: %s</string>
+  <string name="app_version_which_call">Έκδοση εφαρμογής: %s</string>
+  <string name="autoconnect">Αυτόματη σύνδεση</string>
+  <string name="ime_privacy_policy">Επιλέξτε πληκτρολόγιο</string>
+  <string name="license_host_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα,\nπηγαίνετε σε %s σε άλλη συνδεδεμένη συσκευή.</string>
+  <string name="loading">Μισό λεπτό…</string>
+  <string name="mibi_license">Mi Credits Συμφωνία Χρήστη</string>
+  <string name="open_wifi_connect_and_use_data_summary">συνεχίση της χρήσης κυκλοφορίας, πατήστε για μετάβαση στο wifi και επιβεβαιώστε.</string>
+  <string name="open_wifi_connect_summary">Πατήστε για προβολή λεπτομερειών.</string>
+  <string name="open_wifi_connect_title">Συνδεδεμένο στο %1$s</string>
+  <string name="permdesc_accessDrm">Αφήστε την εφαρμογή να αποκτήσει πρόσβαση σε περιεχόμενο που προστατεύεται με DRM.</string>
+  <string name="policy_name">Πρωτόκολλο: %s</string>
+  <string name="pre_installed_apps">Προεγκατεστημένες εφαρμογές</string>
+  <string name="settings_ad_loading">Μισό λεπτό…</string>
+  <string name="settings_ad_loading_unavailable">Δεν ήταν δυνατή η φόρτωση πληροφοριών.</string>
+  <string name="settings_license_activity_loading">Μισό λεπτό…</string>
+  <string name="settings_license_activity_title">Άδειες ανοιχτού κώδικα</string>
+  <string name="settings_license_activity_unavailable">Δεν ήταν δυνατή η φόρτωση των αδειών χρήσης.</string>
+  <string name="settings_safetylegal_activity_loading">Μισό λεπτό…</string>
+  <string name="settings_safetylegal_activity_title">Πληροφορίες ασφαλείας</string>
+  <string name="settings_safetylegal_activity_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα, πηγαίνετε στο %s από οποιονδήποτε υπολογιστή συνδεδεμένο στο Internet.</string>
+  <string name="settings_safetylegal_title">Πληροφορίες ασφαλείας</string>
+  <string name="poco_privacy_policy">POCO Εκκινητής Πολιτική Απορρήτου &amp; POCO Εκκινητής Συμφωνία Χρήστη</string>
+</resources>

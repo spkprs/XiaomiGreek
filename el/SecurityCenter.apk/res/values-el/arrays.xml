@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="alarm_repeat_type">
+    <item>Μια φορά</item>
+    <item>Καθημερινά</item>
+    <item>Εργάσιμες ημ</item>
+    <item>Δευτ έως Παρ</item>
+    <item>Προσαρμογή</item>
+  </string-array>
+  <string-array name="alarm_repeat_type_no_workdays">
+    <item>Μια φορά</item>
+    <item>Καθημερινά</item>
+    <item>Δευτ έως Παρ</item>
+    <item>Προσαρμογή</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>Χθές (δεδομένα)</item>
+    <item>Σήμερα (δεδομένα)</item>
+    <item>Τον προηγούμενο μήνα (δεδομένα)</item>
+    <item>Αυτό το μήνα (δεδομένα)</item>
+    <item>Χθες Wi-Fi</item>
+    <item>Σήμερα Wi-Fi</item>
+    <item>Τον προηγούμενο μήνα Wi-Fi</item>
+    <item>Αυτό το μήνα Wi-Fi</item>
+  </string-array>
+  <string-array name="date_of_traffic">
+    <item>Χθές</item>
+    <item>Σήμερα</item>
+    <item>Τον προηγούμενο μήνα</item>
+    <item>Αυτό το μήνα</item>
+  </string-array>
+  <string-array name="date_of_traffic_cmcc">
+    <item>Αυτή την εβδομάδα</item>
+    <item>Σήμερα</item>
+    <item>Αυτό το μήνα</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix">
+    <item>Χθές:</item>
+    <item>Σήμερα:</item>
+    <item>Τον προηγούμενο μήνα:</item>
+    <item>Αυτό το μήνα:</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix_cmcc">
+    <item>Αυτή την εβδομάδα:</item>
+    <item>Σήμερα:</item>
+    <item>Αυτό το μήνα:</item>
+  </string-array>
+  <string-array name="lock_mode">
+    <item>Όταν είναι κλειδωμένη η συσκευή</item>
+    <item>Όταν είναι κλειδωμένη ή μετά την έξοδο από την εφαρμογή</item>
+    <item>Όταν είναι κλειδωμένη ή σε 1 λεπτό μετά την έξοδο από την εφαρμογή</item>
+  </string-array>
+  <string-array name="mi_service_traffic_type">
+    <item>Χρήση κινητής...</item>
+    <item>Χρήση Wi‑Fi...</item>
+  </string-array>
+  <string-array name="over_limit_traffic_waring_style">
+    <item>Προειδοποίηση</item>
+    <item>Προειδ./Απενερ.</item>
+  </string-array>
+  <string-array name="roaming_network_type">
+    <item>Πάντα</item>
+    <item>Μόνο για εξαιρέσεις</item>
+    <item>Ποτέ</item>
+  </string-array>
+  <string-array name="sms_report_type">
+    <item>Χρήση δεδομένων</item>
+    <item>Υπόλοιπο τηλεφώνου</item>
+  </string-array>
+  <string-array name="sort_title">
+    <item>Ταξινόμηση κατά κατάσταση</item>
+    <item>Ταξινόμηση κατά όνομα εφαρμογής</item>
+    <item>Ταξινόμηση κατά συχνότητα χρήσης</item>
+    <item>Ταξινόμηση κατά χρήση αποθήκευσης</item>
+    <item>Ταξινόμηση κατά ώρα εγκατάστασης</item>
+  </string-array>
+  <string-array name="sort_type">
+    <item>Κατάσταση</item>
+    <item>Όνομα εφαρμογής</item>
+    <item>Συχνότητα χρήσης</item>
+    <item>Χρήση αποθήκευσης</item>
+    <item>Χρόνο εγκατάστασης</item>
+  </string-array>
+  <string-array name="tether_limit_warn_type">
+    <item>Απενεργοποίηση και ειδοποίηση</item>
+    <item>Μόνον ειδοποίηση</item>
+  </string-array>
+  <string-array name="title_app_info">
+    <item>Πηγή εγκατάστασης</item>
+    <item>Χρόνος εγκατάστασης</item>
+    <item>Τελευταία πηγή ενημέρωσης</item>
+    <item>Τελευταία ώρα ενημέρωσης</item>
+  </string-array>
+  <string-array name="traffic_type">
+    <item>Χρήση κινητής...</item>
+    <item>Χρήση Wi‑Fi...</item>
+  </string-array>
+   <string-array name="traffic_package_type">
+        <item>Μηνιαίο πρόγραμμα δεδομένων</item>
+        <item>Ημερήσιο πρόγραμμα δεδομένων</item>
+        <item>Απεριόριστο πρόγραμμα δεδομένων</item>
+    </string-array>
+</resources>

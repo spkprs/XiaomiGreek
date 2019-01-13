@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="available_networks">Διαθέσιμα δίκτυα</string>
+  <string name="connect_later">Δεν είναι δυνατή η σύνδεση με αυτό το δίκτυο αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.</string>
+  <string name="dialog_message">Η Έξοδος θα σταματήσει την αναζήτηση, σίγουρα τερματισμός;</string>
+  <string name="disconnect_data_confirm">Η υπηρεσία δεδομένων θα αποσυνδεθεί προσωρινά. Είστε σίγουρος?</string>
+  <string name="network_forbidden">(Απαγορευμένο)</string>
+  <string name="network_query_error">Σφάλμα κατά την αναζήτηση δικτύων.</string>
+  <string name="no_network">Δεν βρέθηκαν δίκτυα.</string>
+  <string name="not_allowed">Η κάρτα SIM δεν επιτρέπει σύνδεση σε αυτό το δίκτυο.</string>
+  <string name="progress_scanning">Αναζήτηση…</string>
+  <string name="quit_mention">Προειδοποίηση!</string>
+  <string name="register_automatically">Αυτόματη εγγραφή…</string>
+  <string name="register_on_network">Εγγραφή σε %1$s…</string>
+  <string name="registration_done">Εγγεγραμμένοι στο δίκτυο.</string>
+  <string name="roamingTextSearching">Αναζήτηση υπηρεσίας</string>
+  <string name="search_networks">Αναζήτηση δικτύων</string>
+  <string name="select_automatically">Επιλέξτε αυτόματα</string>
+  <string name="sum_select_automatically">Επιλέξτε αυτόματα το προτιμώμενο δίκτυο</string>
+  <string name="timeout_message">Δεν βρέθηκε διαθέσιμο δίκτυο.</string>
+</resources>

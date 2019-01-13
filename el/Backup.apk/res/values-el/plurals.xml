@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d αρχεία δεδομένων συστήματος</item>
+        <item quantity="one">%d αρχείο δεδομένων συστήματος</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d αρχεία δεδομένων εφαρμογών</item>
+        <item quantity="one">%d αρχείο δεδομένων εφαρμογής</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d στοιχεία,</item>
+        <item quantity="one">%d στοιχείο,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d στοιχεία</item>
+        <item quantity="one">%1$s | %2$d στοιχείο</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">στοιχεία</item>
+        <item quantity="one">στοιχείο</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Επαναφορά %d στοιχείων</item>
+        <item quantity="one">Επαναφορά %d στοιχείου</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Εισαγωγή και αποκατάσταση %d αντικειμένων</item>
+        <item quantity="one">Εισαγωγή και αποκατάσταση %d αντικειμένου</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">Εισήχθησαν %d στοιχεία</item>
+        <item quantity="one">Εισήχθει %d στοιχείο.</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Εισαγωγή %d στοιχείων ξανά.</item>
+        <item quantity="one">Εισαγωγή %d στοιχείου ξανά.</item>
+    </plurals>
+  <plurals name="trans_failed_summary">
+    <item quantity="other">"Αδύνατη η μεταφορά %d στοιχείων. Πατήστε για λεπτομέρειες."</item>
+    <item quantity="one">"Αδύνατη η μεταφορά %d στοιχείου. Πατήστε για λεπτομέρειες."</item>
+ </plurals>
+ <plurals name="trans_item_failed_summary">
+    <item quantity="other">"Αδύνατη η μεταφορά %d στοιχείων."</item>
+    <item quantity="one">"Αδύνατη η μεταφορά %d στοιχείου."</item>
+ </plurals>
+</resources>
