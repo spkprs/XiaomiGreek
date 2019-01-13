@@ -393,4 +393,5 @@
   <string name="train_event_station_stay_time">%1$s λεπτά</string>
   <string name="notification_channel_name">Υπενθυμίσεις ημερολογίου</string>
   <string name="search_menu_title">Εύρεση</string>
+    <string name="action_bar_date_button_title">Υπολογισμός ημερ.</string>
 </resources>

@@ -1310,4 +1310,14 @@
         <item>" | Ενεργό (Πολυμέσα)"</item>
         <item>" | Ενεργό (Τηλέφωνο)"</item>
     </string-array>
+  <string-array name="def_audio_entries"> 
+        <item>Ήχος κλήσης</item> 
+        <item>Πολυμέσα</item> 
+   </string-array> 
+    <string-array name="volbtn_action_entries">
+        <item>Επόμενο</item>
+        <item>Προηγούμενο</item>
+        <item>Παύση</item>
+        <item>Χωρίς</item>
+    </string-array>
 </resources>
