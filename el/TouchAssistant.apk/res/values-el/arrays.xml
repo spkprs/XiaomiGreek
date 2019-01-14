@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string-array name="enabled_for_pad_entries">
-        <item>Ανενεργό</item>
-        <item>Ενεργό</item>
-        <item>Προσωρινή εμφάνιση σε οριζόντια προβολή</item>
-    </string-array>
-    <string-array name="motion_behavior_entries">
+     <string-array name="motion_behavior_entries">
         <item>Σάρωση</item>
         <item>Άγγιγμα</item>
-    </string-array>
+     </string-array>
+     <string-array name="motion_behavior_entry_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
 </resources>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="configure">Διαμόρφωση</string>
      <string name="data_received">Λήφθησαν:</string>
      <string name="data_transmitted">Απεσταλμένα:</string>
+     <string name="data_value_format">%1$s bytes / %2$s packets</string>
      <string name="disconnect">Αποσύνδεση</string>
      <string name="duration">Διάρκεια:</string>
      <string name="legacy_title">Σύνδεση σε VPN</string>

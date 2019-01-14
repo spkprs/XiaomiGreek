@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Πριν 1 ώρα</item>
-     </plurals>
-     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Πριν μισή ώρα</item>
-     </plurals>
-     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Σε 1 ώρα</item>
-     </plurals>
-     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Σε μισή ώρα</item>
-     </plurals>
      <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Άμεσα</item>
      </plurals>
-     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Σε %d λεπτά</item>
-        <item quantity="one">Σε 1 λεπτό</item>
-     </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">μόλις τώρα</item>
-     </plurals>
-     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Πριν %d λεπτά</item>
-        <item quantity="one">Πριν 1 λεπτό</item>
      </plurals>
      <plurals name="batch_delete_msg">
         <item quantity="other">Διαγραφή %d επαφών;</item>
@@ -54,10 +35,10 @@
         <item quantity="other">%1$d επαφές έχουν εισαχθεί</item>
         <item quantity="one">%1$d επαφή έχει εισαχθεί</item>
      </plurals>
-    <plurals name="device_import_progress_toast_plurals">
+     <plurals name="device_import_progress_toast_plurals">
         <item quantity="other">Εισήχθησαν %1$d επαφές</item>
         <item quantity="one">Εισήχθη %1$d επαφή</item>
-    </plurals>
+     </plurals>
      <plurals name="dlg_add_blacklist">
         <item quantity="other">Φραγή αυτών των %1$d αριθμών;</item>
         <item quantity="one">Φραγή αυτού του αριθμού;</item>
@@ -70,12 +51,13 @@
         <item quantity="other">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφές.</item>
         <item quantity="one">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφή.</item>
      </plurals>
+     <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Βρέθηκαν περισσότερες από %d επαφές.</item>
+        <item quantity="one">Βρέθηκαν περισσότερες από %d επαφή.</item>
+     </plurals>
      <plurals name="group_add_success_toast">
         <item quantity="other">"Προστέθηκαν %1$d επαφές"</item>
         <item quantity="one">Προστέθηκε %1$d επαφή</item>
-     </plurals>
-     <plurals name="group_copy_success_toast">
-        <item quantity="other">Αντιγράφηκαν %1$d επαφές</item>
      </plurals>
      <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d άτομα</item>
@@ -84,9 +66,6 @@
      <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d νούμερα</item>
         <item quantity="one">%1$d νούμερο</item>
-     </plurals>
-     <plurals name="group_move_success_toast">
-        <item quantity="other">Μεταφέρθηκαν %1$d επαφές</item>
      </plurals>
      <plurals name="hint_account_contacts">
         <item quantity="other">Βρέθηκαν %1$d στοιχεία</item>
@@ -104,6 +83,10 @@
         <item quantity="other">%1$d αριθμοί</item>
         <item quantity="one">%1$d αριθμός</item>
      </plurals>
+     <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+     </plurals>
      <plurals name="listFoundAllContacts">
         <item quantity="other">Βρέθηκαν %d</item>
         <item quantity="one">Βρέθηκε 1</item>
@@ -116,9 +99,9 @@
         <item quantity="other">%d επαφές με τηλέφωνα</item>
         <item quantity="one">1 επαφή με τηλέφωνο</item>
      </plurals>
-     <plurals name="livetalk_unit">
-        <item quantity="other">Λεπτά</item>
-        <item quantity="one">Λεπτό</item>
+     <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
+        <item quantity="one">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
      </plurals>
      <plurals name="merge_info">
         <item quantity="other">συγχωνεύθηκαν από %0$d πηγές</item>
@@ -169,52 +152,16 @@
         <item quantity="other">Βρέθηκαν %d</item>
         <item quantity="one">Βρέθηκε 1</item>
      </plurals>
+     <plurals name="select_all_exceed_plurals">
+        <item quantity="other">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλων"</item>
+        <item quantity="one">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλων"</item>
+     </plurals>
+     <plurals name="select_exceed_plurals">
+        <item quantity="other">Επιλέξτε έως %1$d</item>
+        <item quantity="one">Επιλέξτε έως %1$d</item>
+     </plurals>
      <plurals name="smart_group_member_count">
         <item quantity="other">%d άτομα</item>
         <item quantity="one">1 άτομο</item>
      </plurals>
-     <plurals name="voip_contacts_count">
-        <item quantity="other">%1$d άτομα</item>
-        <item quantity="one">%1$d άτομο</item>
-     </plurals>
-     <plurals name="device_import_progress_toast">
-        <item quantity="other">%1$d επαφές εισήχθησαν</item>
-        <item quantity="one">%1$d επαφή εισήχθη</item>
-     </plurals>
-     <plurals name="foundTooManyContacts">
-        <item quantity="other">Περισσότερες απο %d βρέθηκαν.</item>
-        <item quantity="one">Περισσότερες απο %d βρέθηκε.</item>
-     </plurals>
-     <plurals name="merge_contact_message">
-        <item quantity="other">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
-        <item quantity="one">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
-     </plurals>
-     <plurals name="select_all_exceed">
-        <item quantity="other">"Επιλέξτε όχι περισσότερες απο %1$d, δεν μπορείτε όλες"</item>
-        <item quantity="one">"Επιλέξτε όχι περισσότερη απο %1$d, δεν μπορείτε όλες"</item>
-     </plurals>
-     <plurals name="select_exceed">
-        <item quantity="other">Επιλέξτε όχι περισσότερες απο %1$d</item>
-        <item quantity="one">Επιλέξτε όχι περισσότερη απο %1$d</item>
-     </plurals>
-     <plurals name="foundTooManyContacts_plurals">
-        <item quantity="other">Βρέθηκαν περισσότερες από %d επαφές.</item>
-        <item quantity="one">Βρέθηκαν περισσότερες από %d επαφή.</item>
-    </plurals>
-	    <plurals name="label_duplicate_count_plurals">
-        <item quantity="other">(%1$d)</item>
-        <item quantity="one">(%1$d)</item>
-    </plurals>
-	    <plurals name="merge_contact_message_plurals">
-        <item quantity="other">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
-        <item quantity="one">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
-    </plurals>
-	    <plurals name="select_all_exceed_plurals">
-        <item quantity="other">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλων"</item>
-        <item quantity="one">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλων"</item>
-    </plurals>
-    <plurals name="select_exceed_plurals">
-        <item quantity="other">Επιλέξτε έως %1$d</item>
-        <item quantity="one">Επιλέξτε έως %1$d</item>
-    </plurals>
 </resources>

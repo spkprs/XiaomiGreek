@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-  <string name="app_label">Κέλυφος</string>
-  <string name="bugreport_confirm">Οι αναφορές σφαλμάτων περιέχουν στοιχεία από διάφορα αρχεία καταγραφής του συστήματος, συμπεριλαμβανομένων των προσωπικών και ιδιωτικών πληροφοριών. Μοιραστείτε τις αναφορές σφαλμάτων μόνο με τις εφαρμογές και τα άτομα που εμπιστεύεστε.</string>
-  <string name="bugreport_confirm_repeat">Εμφανίστε αυτό το μήνυμα την επόμενη φορά</string>
-  <string name="bugreport_finished_text">Πατήστε για κοινή χρήση της αναφοράς</string>
-  <string name="bugreport_finished_title">Αναφορά σφάλματος που καταγράφηκε</string>
-  <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
+     <string name="app_label">Κέλυφος</string>
+     <string name="bugreport_add_details_to_zip_failed">"Couldn't add bug report details to zip file"</string>
+     <string name="bugreport_confirm">Οι αναφορές σφαλμάτων περιέχουν στοιχεία από διάφορα αρχεία καταγραφής του συστήματος, συμπεριλαμβανομένων των προσωπικών και ιδιωτικών πληροφοριών. Μοιραστείτε τις αναφορές σφαλμάτων μόνο με τις εφαρμογές και τα άτομα που εμπιστεύεστε.</string>
+     <string name="bugreport_confirm_dont_repeat">"Don't show again"</string>
+     <string name="bugreport_finished_pending_screenshot_text">Tap to share your bug report without a screenshot or wait for the screenshot to finish</string>
+     <string name="bugreport_finished_text">Πατήστε για κοινή χρήση της αναφοράς</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 0
+	%d: 0 Original: 1 -->
+     <!-- Original string: Bug report #%d captured -->
+     <string name="bugreport_finished_title">Αναφορά σφάλματος που καταγράφηκε</string>
+     <string name="bugreport_in_progress_title">Bug report #%d is being generated</string>
+     <string name="bugreport_info_action">Details</string>
+     <string name="bugreport_info_description">Bug summary</string>
+     <string name="bugreport_info_dialog_title">Bug report #%d details</string>
+     <string name="bugreport_info_name">Filename</string>
+     <string name="bugreport_info_title">Bug title</string>
+     <string name="bugreport_screenshot_action">Screenshot</string>
+     <string name="bugreport_screenshot_failed">Screenshot could not be taken.</string>
+     <string name="bugreport_screenshot_taken">Screenshot taken successfully.</string>
+     <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
+     <string name="bugreport_unnamed">unnamed</string>
+     <string name="bugreport_unreadable_text">Bug report file could not be read</string>
+     <string name="bugreport_updating_title">Adding details to the bug report</string>
+     <string name="bugreport_updating_wait">Please wait…</string>
+     <string name="save">Save</string>
 </resources>

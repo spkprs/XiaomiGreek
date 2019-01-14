@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_label">Διαχειριστής λήψεων</string>
      <string name="auto_restart_under_wifi">Μέσω Wi‑Fi θα ληφθεί αυτόματα το αρχείο αυτό</string>
@@ -7,13 +8,25 @@
      <string name="button_queue_for_wifi">Ανομονή</string>
      <string name="button_start_now">Έναρξη τώρα</string>
      <string name="button_wait_for_wifi">Αναμονή</string>
-    <string name="channel_active">Ενεργή Λήψη</string>
-    <string name="channel_complete">Η Λήψη ολοκληρώθηκε</string>
-    <string name="channel_insufficient_space">Ανεπαρκής χώρος</string>
-    <string name="channel_waiting">Αναμονή Λήψης</string>		
+     <string name="channel_active">Ενεργή Λήψη</string>
+     <string name="channel_complete">Η Λήψη ολοκληρώθηκε</string>
+     <string name="channel_insufficient_space">Ανεπαρκής χώρος</string>
+     <string name="channel_waiting">Αναμονή Λήψης</string>
+     <string name="dialog_button_cancel">Cancel</string>
+     <string name="dialog_button_ok">OK</string>
+     <string name="dialog_content_limit0">Restrict downloads</string>
+     <string name="dialog_content_limit_max">Unlimited</string>
+     <string name="dialog_data_limit_button1">Wait for WLAN</string>
+     <string name="dialog_data_limit_button2">Download now</string>
+     <string name="dialog_data_limit_msg1">%s of mobile data will be used to download this file. Download now?</string>
+     <string name="dialog_data_limit_msg3">Change limit</string>
+     <string name="dialog_data_limit_title">Data usage warning</string>
      <string name="dialog_insufficient_space_on_cache">Δεν υπάρχει αρκετός χώρος στον εσωτ. χώρο αποθήκευσης</string>
      <string name="dialog_insufficient_space_on_external">Δεν υπάρχει αρκετός χώρος στον εξωτ. χώρο αποθήκευσης</string>
      <string name="dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
+     <string name="dialog_tip_limit">Warn when downloading file bigger than %s</string>
+     <string name="dialog_tip_limit0">Warn every time</string>
+     <string name="dialog_tip_no_limit">"Don't warn"</string>
      <string name="download_apk_desktop_installing">Εγκατάσταση…</string>
      <string name="download_apk_desktop_pause">Σε παύση</string>
      <string name="download_apk_desktop_pending">Σε αναμονή</string>
@@ -36,7 +49,6 @@
      <string name="notif_title_single_downloading">Λήψη %1$s</string>
      <string name="notification_download_complete">Η λήψη ολοκληρώθηκε.</string>
      <string name="notification_download_failed">Αποτυχία λήψης.</string>
-     <string name="notification_download_failed_more">"Αποτυχία λήψης %1$d στοιχείων"</string>
      <string name="notification_download_success_more">%1$d ληφθέντα</string>
      <string name="notification_need_wifi_for_size">Το μέγεθος λήψης απαιτεί Wi‑Fi.</string>
      <string name="notification_paused_in_background">Σε παύση στο παρασκήνιο.</string>

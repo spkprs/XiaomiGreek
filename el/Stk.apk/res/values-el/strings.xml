@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="alphabet">Αλφάβητο</string>
      <string name="app_name">Εργαλεία SIM</string>
-     <string name="app_name2">Εργαλεία SIM 2</string>
-     <string name="app_name3">Εργαλεία SIM 3</string>
      <string name="button_cancel">Άκυρο</string>
      <string name="button_no">Όχι</string>
      <string name="button_ok">OK</string>
      <string name="button_yes">Ναι</string>
+     <string name="default_call_setup_msg">Call in progress…</string>
+     <string name="default_close_channel_msg">Channel closed</string>
+     <string name="default_open_channel_msg">Open channel?</string>
+     <string name="default_receive_data_msg">Receiving data…</string>
+     <string name="default_send_data_msg">Sending data…</string>
+     <string name="default_setup_call_msg">Setting up call…</string>
+     <string name="default_tone_dialog_msg">Playing tone…</string>
      <string name="digits">Ψηφία (0-9, *, #, +)</string>
      <string name="disable_app">Ανενεργό</string>
      <string name="enable_app">Ενεργό</string>

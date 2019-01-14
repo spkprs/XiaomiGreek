@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="composite_notification_title_template">
-        <item quantity="other">%1$d εργασίες εκτύπωσης</item>
-        <item quantity="one">%1$d εργασία εκτύπωσης</item>
-     </plurals>
      <plurals name="print_search_result_count_utterance">
         <item quantity="other">Βρέθηκαν %1$s εκτυπωτές</item>
         <item quantity="one">Βρέθηκε %1$s εκτυπωτής</item>
+     </plurals>
+     <plurals name="print_services_recommendation_subtitle">
+        <item quantity="other">Install to discover %1$s printers</item>
+        <item quantity="one">Install to discover %1$s printer</item>
      </plurals>
 </resources>

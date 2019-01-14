@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Πρόγρ. εγκατάστασης Πιστοποιητικών</string>
      <string name="cert_is_added">%s είναι εγκατεστημένα.</string>
@@ -32,7 +33,6 @@
      <string name="pkcs12_file_password_dialog_title">Εξαγωγή από %s</string>
      <string name="pkcs12_password_dialog_title">Εξαγωγή πιστοποιητικού</string>
      <string name="sdcard_not_present">Το USB δεν είναι διαθέσιμο.</string>
-     <string name="storage_error">Αδυναμία αποθήκευσης πιστοποιητικού. Πατήστε OK για να προσπαθήσετε ξανά.</string>
      <string name="unable_to_save_cert">Αδυναμία αποθήκευσης πιστοποιητικού. Ο χώρος αποθήκευσης διαπιστευτηρίων δεν είναι ενεργοποιημένος ή δεν έχει προετοιμαστεί σωστά.</string>
      <string name="wifi_cancel_label">Ακύρωση</string>
      <string name="wifi_config_text">"Όνομα: %1$s

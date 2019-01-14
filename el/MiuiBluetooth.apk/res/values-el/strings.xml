@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">MIUI Bluetooth</string>
      <string name="ble_device_address">MAC address συσκευής BLE</string>
@@ -6,6 +7,8 @@
      <string name="ble_device_profile_header_title">Ρυθμίσεις</string>
      <string name="ble_device_profile_title">Συνδεδεμένη συσκευή BLE</string>
      <string name="ble_device_rename">Μετονομασία</string>
+     <string name="ble_profile_1">ble_profile_mi_band</string>
+     <string name="ble_profile_2">ble_profile_mi_key</string>
      <string name="bluetooth_connected">Συνδέθηκε</string>
      <string name="bluetooth_connecting">Σύνδεση…</string>
      <string name="bluetooth_device_context_unpair">Αποσύζευξη</string>
@@ -17,6 +20,20 @@
      <string name="bluetooth_search_for_devices">Αναζήτηση για συσκευές</string>
      <string name="device_picker">Ρυθμίσεις συσκευής Bluetooth</string>
      <string name="disconnect">Αποσύνδεση</string>
+     <string name="fast_connect_device_box">Box</string>
+     <string name="fast_connect_device_box_name">%1$s Box</string>
+     <string name="fast_connect_device_connect_cancel">Ακύρωση</string>
+     <string name="fast_connect_device_connect_ok">Σύνδεση</string>
+     <string name="fast_connect_device_connect_retry">Επανάληψη</string>
+     <string name="fast_connect_device_connect_setup">Ρυθμίσεις</string>
+     <string name="fast_connect_device_connect_success">Ολοκληρώθηκε</string>
+     <string name="fast_connect_device_headset_l">Αριστερό</string>
+     <string name="fast_connect_device_headset_r">Δεξιό</string>
+     <string name="fast_connect_device_headset_reset">Παρατετ. πάτημα κουμπιού στο box</string>
+     <string name="fast_connect_device_title_connect_fail">"Αποτυχία σύνδεσης του %1$s"</string>
+     <string name="fast_connect_device_title_connecting">Σύνδεση...</string>
+     <string name="fast_connect_device_title_find_headset">Βρέθηκαν ακουστικά %1$s</string>
+     <string name="fast_connect_device_title_find_headset_others">Βρέθηκαν άλλα ακουστικά %1$s</string>
      <string name="goto_package">Άνοιγμα %1$s</string>
      <string name="install_package">Εγκατάσταση %1$s για περισσότερες λειτουργίες</string>
      <string name="mi_band_vibrate_alarm">Δόνηση κατά την αφύπνιση</string>
@@ -45,27 +62,4 @@
      <string name="unbind_device_alert_content">Χάθηκε η σύνδεση με το %1$s. Για εξοικονόμηση μπαταρίας, αποσυνδέστε τη συσκευή τώρα.</string>
      <string name="unbind_device_alert_ok">Αποσύνδεση</string>
      <string name="unbind_device_alert_title">Αποσύνδεση συσκευής</string>
-  <string name="fast_connect_device_box">Box</string>
-  <string name="fast_connect_device_box_name">%1$s Box</string>
-  <string name="fast_connect_device_box_use_time">Μπορεί να χρησιμοπ. %1$s ώρες</string>
-  <string name="fast_connect_device_connect_cancel">Ακύρωση</string>
-  <string name="fast_connect_device_connect_ok">Σύνδεση</string>
-  <string name="fast_connect_device_connect_retry">Επανάληψη</string>
-  <string name="fast_connect_device_connect_setup">Ρυθμίσεις</string>
-  <string name="fast_connect_device_connect_success">Ολοκληρώθηκε</string>
-  <string name="fast_connect_device_headset_l">Αριστερό</string>
-  <string name="fast_connect_device_headset_l_not_connect">L χωρίς σύνδεση</string>
-  <string name="fast_connect_device_headset_l_use_time">L %1$s ώρες</string>
-  <string name="fast_connect_device_headset_name">%1$s Ακουστικά</string>
-  <string name="fast_connect_device_headset_r">Δεξιό</string>
-  <string name="fast_connect_device_headset_r_not_connect">R χωρίς σύνδεση</string>
-  <string name="fast_connect_device_headset_r_use_time">R %1$s ώρες</string>
-  <string name="fast_connect_device_headset_reset">Παρατετ. πάτημα κουμπιού στο box</string>
-  <string name="fast_connect_device_title_connect_fail">"Αποτυχία σύνδεσης του %1$s"</string>
-  <string name="fast_connect_device_title_connecting">Σύνδεση...</string>
-  <string name="fast_connect_device_title_find_headset">Βρέθηκαν ακουστικά %1$s</string>
-  <string name="fast_connect_device_title_find_headset_others">Βρέθηκαν άλλα ακουστικά %1$s</string>
-  <string name="notify_fast_connect_device_group">Αυτόματη σύνδεση ακουστικών</string>
-  <string name="notify_fast_connect_device_text">Ξεκλειδώστε την οθόνη και προσπαθήστε να συνδεθείτε</string>
-  <string name="notify_fast_connect_device_title">Βρέθηκαν ακουστικά %1$s</string>
 </resources>

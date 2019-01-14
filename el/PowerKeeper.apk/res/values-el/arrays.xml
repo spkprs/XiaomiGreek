@@ -1,38 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-  <string-array name="hmode_app_groups">
-    <item>Προσαρμογή</item>
-    <item>Εξοικονόμηση απόδοσης</item>
-  </string-array>
-  <string-array name="power_mode_entries">
-    <item>Απόδοση</item>
-    <item>Ισορροπημένη</item>
-  </string-array>
-  <string-array name="thermal_entries">
-    <item>Προεπιλεγμένη λειτ. ελέγχου θερμοκρασίας</item>
-    <item>Λειτουργία απόδοσης</item>
-  </string-array>
-  <string-array name="thermal_summaries">
-    <item>Προτεραιότητα ελέγχου θερμοκρ.</item>
-    <item>Προτεραιότητα απόδοσης</item>
-    <item>Ρύθμιση ανενεργή σε λειτ. Ακραίας απόδοσης</item>
-  </string-array>
-     <string-array name="pc_manage_active_app_items">
-         <item>Τοποθέτ. εφαρμ. σε αναστολή λειτουργίας</item>
-         <item>Εξοικονόμηση ενέργειας</item>
-     </string-array>
-     <string-array name="hmode_app_classify1">
-         <item>Προσαρμογή</item>
-         <item>Εξοικονόμηση ενέργειας</item>
-     </string-array>
-     <string-array name="hmode_app_classify2">
-         <item>Ενεργές Εφαρμογές</item>
-         <item>Εφαρμ. σε αναστολή</item>
-     </string-array>
-    <string-array name="emode_app_groups">
+     <string-array name="emode_app_groups">
         <item>Εφαρμ. Συστήματος</item>
         <item>Άλλες Εφαρμογές</item>
         <item>Επιλεγμένες εφαρμογές</item>
-    </string-array>
+     </string-array>
+     <string-array name="hmode_app_classify1">
+        <item>Προσαρμογή</item>
+        <item>Εξοικονόμηση ενέργειας</item>
+     </string-array>
+     <string-array name="hmode_app_classify2">
+        <item>Ενεργές Εφαρμογές</item>
+        <item>Εφαρμ. σε αναστολή</item>
+     </string-array>
+     <string-array name="pc_manage_active_app_items">
+        <item>Τοποθέτ. εφαρμ. σε αναστολή λειτουργίας</item>
+        <item>Εξοικονόμηση ενέργειας</item>
+     </string-array>
+     <string-array name="power_mode_entries">
+        <item>Απόδοση</item>
+        <item>Ισορροπημένη</item>
+     </string-array>
+     <string-array name="sleep_white_list">
+        <item>android</item>
+        <item>com.android.mms</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.keychain</item>
+        <item>com.qualcomm.qti.telephonyservice</item>
+        <item>com.qualcomm.qti.services.secureui</item>
+        <item>com.qualcomm.qti.callenhancement</item>
+        <item>com.qualcomm.qti.tetherservice</item>
+        <item>com.qualcomm.qti.poweroffalarm</item>
+        <item>com.qualcomm.location</item>
+        <item>com.qualcomm.qti.GBAHttpAuthentication.auth</item>
+        <item>com.qualcomm.qti.auth.sampleauthenticatorservice</item>
+        <item>com.qualcomm.qti.auth.secureextauthservice</item>
+        <item>com.qualcomm.qti.auth.securesampleauthservice</item>
+        <item>com.qti.qualcomm.datastatusnotification</item>
+        <item>com.qualcomm.embms</item>
+        <item>com.qualcomm.fastdormancy</item>
+        <item>com.qualcomm.shutdownlistner</item>
+        <item>com.qualcomm.timeservice</item>
+        <item>com.android.cellbroadcastreceiver</item>
+        <item>com.android.carrierconfig</item>
+        <item>com.android.server.telecom</item>
+     </string-array>
+     <string-array name="thermal_entries">
+        <item>Προεπιλεγμένη λειτ. ελέγχου θερμοκρασίας</item>
+        <item>Λειτουργία απόδοσης</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+        <item>Προτεραιότητα ελέγχου θερμοκρ.</item>
+        <item>Προτεραιότητα απόδοσης</item>
+        <item>Ρύθμιση ανενεργή σε λειτ. Ακραίας απόδοσης</item>
+     </string-array>
 </resources>
-

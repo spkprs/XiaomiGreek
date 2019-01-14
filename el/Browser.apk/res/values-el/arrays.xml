@@ -1,44 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string-array name="pref_fling_gesture_entries">
+     <string-array name="bookmarks">
+        <item>Xiaomi-Miui Hellas</item>
+        <item>https://xiaomi-miui.gr/</item>
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://www.msn.com/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>CNN</item>
+        <item>http://www.cnn.com/</item>
+        <item>NY Times</item>
+        <item>http://www.nytimes.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+     </string-array>
+     <integer-array name="hot_words_item_text_bg_color">
+        <item>0xFFF2F6E8</item>
+        <item>0xFFE8F6F6</item>
+        <item>0xFFF6F6F6</item>
+        <item>0xFFF7F2EC</item>
+        <item>0xFFF9EBEB</item>
+     </integer-array>
+     <integer-array name="hot_words_item_text_frame_color">
+        <item>0xFFBAC49F</item>
+        <item>0xFFA3CED7</item>
+        <item>0xFFADADAD</item>
+        <item>0xFFE1C7A6</item>
+        <item>0xFFDBACB6</item>
+     </integer-array>
+     <string-array name="pref_fling_gesture_entries">
         <item>Πίσω/Επόμενη</item>
         <item>Εναλλαγή καρτελών</item>
         <item>Χωρίς</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
+     </string-array>
+     <string-array name="pref_fling_gesture_values">
+        <item>back_forward</item>
+        <item>switch_tabs</item>
+        <item>none</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
         <item>Προεπιλογή</item>
         <item>Προσαρμογή</item>
-    </string-array>
-    <string-array name="pref_nav_mode_summary">
+     </string-array>
+     <string-array name="pref_nav_mode_summary">
         <item>Τηλέφωνο</item>
         <item>Tablet</item>
-    </string-array>
-    <string-array name="pref_text_zoom_choices">
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Κάθετη προβολή</item>
+        <item>Οριζόντια προβολή</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="pref_restore_tabs_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Ερώτηση πάντα</item>
+        <item>Άνοιγμα</item>
+        <item>Κλείσιμο</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>
         <item>Μικρό</item>
         <item>Κανονικό</item>
         <item>Μεγάλο</item>
         <item>Πολύ Μεγάλο</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
+     </string-array>
+     <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Η/Υ</item>
         <item>iPhone</item>
         <item>iPad</item>
-    </string-array>
-    <string-array name="shortcut_dialog_delete">
+     </string-array>
+     <string-array name="readmode_theme_background_color">
+        <item>white</item>
+        <item>beige</item>
+        <item>brown</item>
+        <item>green</item>
+        <item>gray</item>
+        <item>black</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
         <item>Διαγραφή</item>
         <item>Όχι ευχαριστώ</item>
-    </string-array>
-    <string-array name="shortcut_dialog_keep">
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
         <item>OK</item>
         <item>Ακολουθήστε</item>
-    </string-array>
-    <string-array name="shortcut_dialog_title">
+     </string-array>
+     <string-array name="shortcut_dialog_title">
         <item>Μήνυμα από τον Πλοηγό</item>
         <item>Ακολουθήστε τους Ολυμπιακούς με την Mi</item>
-    </string-array>
-    <string-array name="suggestion_weather_condition_message">
+     </string-array>
+     <string-array name="suggestion_topic_tips">
+        <item>Watching Focus</item>
+        <item>Central Issue</item>
+     </string-array>
+     <string-array name="suggestion_weather_condition_code">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>49</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>99</item>
+        <item>301</item>
+        <item>33</item>
+     </string-array>
+     <string-array name="suggestion_weather_condition_message">
         <item>Καθαρός</item>
         <item>Μερικώς συννεφιασμένος</item>
         <item>Συννεφιασμένος</item>
@@ -82,44 +207,5 @@
         <item>Τίποτα</item>
         <item>Βροχή</item>
         <item>Χιόνι</item>
-    </string-array>
-    <string-array name="bookmarks">
-        <item>Xiaomi-Miui Hellas</item>
-        <item>https://xiaomi-miui.gr/</item>
-        <item>Google</item>
-        <item>http://www.google.com/</item>
-        <item>Picasa</item>
-        <item>http://picasaweb.google.com/</item>
-        <item>Yahoo!</item>
-        <item>http://www.yahoo.com/</item>
-        <item>MSN</item>
-        <item>http://www.msn.com/</item>
-        <item>Twitter</item>
-        <item>http://twitter.com/</item>
-        <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>Amazon</item>
-        <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
-    </string-array>
-    <string-array name="pref_navscreen_layoutstate_choices">
-       <item>Κάθετη προβολή</item>
-       <item>Οριζόντια προβολή</item>
-    </string-array>
-    <string-array name="pref_tab_restore_array">
-        <item>Ερώτηση πάντα</item>
-        <item>Άνοιγμα</item>
-        <item>Κλείσιμο</item>
-    </string-array>
+     </string-array>
 </resources>

@@ -1,182 +1,338 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string-array name="animator_duration_scale_entries">
-    <item>Η κινούμενη εικόνα είναι εκτός λειτουργίας</item>
-    <item>Κλίμακα κινούμενων εικόνων .5x</item>
-    <item>Κλίμακα κινούμενης εικόνας 1x</item>
-    <item>Κλίμακα κινούμενης εικόνας 1,5x</item>
-    <item>Κλίμακα κινούμενης εικόνας 2x</item>
-    <item>Κλίμακα κινούμενων εικόνων 5x</item>
-    <item>Κλίμακα κινούμενων εικόνων 10x</item>
-  </string-array>
-  <string-array name="app_process_limit_entries">
-    <item>Πρότυπο όριο</item>
-    <item>Καμία διεργασίες παρασκηνίου</item>
-    <item>Το πολύ 1 διαδικασία</item>
-    <item>Το πολύ 2 διαδικασίες</item>
-    <item>Στις περισσότερες 3 διαδικασίες</item>
-    <item>Το πολύ 4 διαδικασίες</item>
-  </string-array>
-  <string-array name="color_mode_descriptions">
-    <item>Ενισχυμένα χρώματα</item>
-    <item>Φυσικά χρώματα όπως φαίνονται από το μάτι</item>
-    <item>Χρώματα βελτιστοποιημένα για ψηφιακό περιεχόμενο</item>
-  </string-array>
-  <string-array name="color_mode_names">
-    <item>Ζωντανό (προεπιλογή)</item>
-    <item>Φυσικά</item>
-    <item>Πρότυπο</item>
-  </string-array>
-  <string-array name="debug_hw_overdraw_entries">
-    <item>Απενεργοποίηση</item>
-    <item>Εμφάνιση υπερβάλλουσων περιοχές</item>
-    <item>Εμφάνιση περιοχών για Deuteranomaly</item>
-  </string-array>
-  <string-array name="enable_opengl_traces_entries">
-    <item>Κανένα</item>
-    <item>Logcat</item>
-    <item>Συλλογή (Γραφικά)</item>
-    <item>Σειρά κλήσεων στο glGetError</item>
-  </string-array>
-  <string-array name="enable_opengl_traces_values">
-    <item>0</item>
-    <item>1</item>
-    <item>systrace</item>
-    <item>λάθος</item>
-  </string-array>
-  <string-array name="hdcp_checking_summaries">
-    <item>Ποτέ μην χρησιμοποιείτε έλεγχο HDCP</item>
-    <item>Χρησιμοποιήστε έλεγχο HDCP μόνο για περιεχόμενο DRM</item>
-    <item>Πάντα να χρησιμοποιείτε έλεγχο HDCP</item>
-  </string-array>
-  <string-array name="hdcp_checking_titles">
-    <item>Ποτέ μην ελέγχετε</item>
-    <item>Ελέγξτε μόνο για περιεχόμενο DRM</item>
-    <item>Ελέγχετε πάντα</item>
-  </string-array>
-  <string-array name="hdcp_checking_values">
-    <item>ποτέ</item>
-    <item>drm-μόνο</item>
-    <item>πάντα</item>
-  </string-array>
-  <string-array name="organ_donor_values">
-    <item>Ναι</item>
-    <item>Όχι</item>
-    <item />
-  </string-array>
-  <string-array name="overlay_display_devices_entries">
-    <item>Κανένα</item>
-    <item>480p</item>
-    <item>480p (ασφαλές)</item>
-    <item>720p</item>
-    <item>720p (ασφαλές)</item>
-    <item>1080p</item>
-    <item>1080p (ασφαλές)</item>
-    <item>4K</item>
-    <item>4K (ασφαλές)</item>
-    <item>4Κ (αναβαθμισμένη)</item>
-    <item>4K (αναβαθμισμένη, ασφαλή)</item>
-    <item>720p, 1080p (διπλή οθόνη)</item>
-  </string-array>
-  <string-array name="select_logd_size_summaries">
-    <item>Απενεργοποίηση</item>
-    <item>64K ανά buffer απογραφής</item>
-    <item>256K ανά buffer καταγραφής</item>
-    <item>1 Μ ανά προσωρινό buffer</item>
-    <item>4Μ ανά buffer απογραφής</item>
-    <item>16M ανά buffer απογραφής</item>
-  </string-array>
-  <string-array name="show_non_rect_clip_entries">
-    <item>Απενεργοποίηση</item>
-    <item>Σχεδιάστε την μη ορθογώνια περιοχή κλιπ με μπλε χρώμα</item>
-    <item>Επισημάνετε τις δοκιμασμένες εντολές σχεδίασης με πράσινο χρώμα</item>
-  </string-array>
-  <string-array name="show_non_rect_clip_values">
-    <item>απόκρυψη</item>
-    <item>περιοχή</item>
-    <item>highlight</item>
-  </string-array>
-  <string-array name="track_frame_time_entries">
-    <item>Απενεργοποίηση</item>
-    <item>Στην οθόνη ως μπάρες</item>
-    <item>Στη adb κέλυφος dumpsys gfxinfo</item>
-  </string-array>
-  <string-array name="track_frame_time_values">
-    <item>ψευδής</item>
-    <item>visual_bars</item>
-    <item>αληθής</item>
-  </string-array>
-  <string-array name="transition_animation_scale_entries">
-    <item>Η κινούμενη εικόνα είναι εκτός λειτουργίας</item>
-    <item>Κλίμακα κινούμενων εικόνων .5x</item>
-    <item>Κλίμακα κινούμενης εικόνας 1x</item>
-    <item>Κλίμακα κινούμενης εικόνας 1,5x</item>
-    <item>Κλίμακα κινούμενης εικόνας 2x</item>
-    <item>Κλίμακα κινούμενων εικόνων 5x</item>
-    <item>Κλίμακα κινούμενων εικόνων 10x</item>
-  </string-array>
-  <string-array name="tts_demo_strings">
-    <item>Αυτό είναι ένα παράδειγμα σύνθεσης ομιλίας στα αγγλικά.</item>
-    <item />
-    <item />
-    <item />
-    <item />
-    <item />
-  </string-array>
-  <string-array name="tts_rate_entries">
-    <item>Πολύ αργή</item>
-    <item>Αργή</item>
-    <item>Κανονική</item>
-    <item>Γρήγορα</item>
-    <item>Πιο γρήγορα</item>
-    <item>Πολύ γρήγορα</item>
-    <item>Ταχεία</item>
-    <item>Πολύ γρήγορη</item>
-    <item>Πιο γρήγορος</item>
-  </string-array>
-  <string-array name="usb_configuration_titles">
-    <item>Φόρτιση</item>
-    <item>MTP (πρωτόκολλο μεταφοράς μέσων)</item>
-    <item>PTP (Πρωτόκολλο μεταφοράς φωτογραφιών)</item>
-    <item>RNDIS (USB Ethernet)</item>
-    <item>Πηγή ήχου</item>
-    <item>MIDI</item>
-  </string-array>
-  <string-array name="wifi_status">
-    <item />
-    <item>Σάρωση…</item>
-    <item>Σύνδεση…</item>
-    <item>Τον έλεγχο ταυτότητας…</item>
-    <item>Απόκτηση διεύθυνσης IP…</item>
-    <item>Συνδεδεμένοι</item>
-    <item>Ανασταλμένη</item>
-    <item>Αποσύνδεση…</item>
-    <item>Αποσυνδεθεί</item>
-    <item>Ανεπιτυχής</item>
-    <item>Αποκλεισμένος</item>
-    <item>Προσωρινά για την αποφυγή κακής σύνδεσης</item>
-  </string-array>
-  <string-array name="wifi_status_with_ssid">
-    <item />
-    <item>Σάρωση…</item>
-    <item>Συνδέομαι σε %1$s…</item>
-    <item>Έλεγχος ταυτότητας με %1$s…</item>
-    <item>Λήψη διεύθυνσης IP από %1$s…</item>
-    <item>Συνδεδεμένος με %1$s</item>
-    <item>Ανασταλεί</item>
-    <item>Αποσύνδεση από %1$s…</item>
-    <item>Ασύνδετος</item>
-    <item>Ανεπιτυχής</item>
-    <item>Αποκλεισμένος</item>
-    <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
-  </string-array>
-  <string-array name="window_animation_scale_entries">
-    <item>Η κινούμενη εικόνα είναι εκτός λειτουργίας</item>
-    <item>Κλίμακα κινούμενων εικόνων .5x</item>
-    <item>Κλίμακα κινούμενης εικόνας 1x</item>
-    <item>Κλίμακα κινούμενης εικόνας 1,5x</item>
-    <item>Κλίμακα κινούμενης εικόνας 2x</item>
-    <item>Κλίμακα κινούμενων εικόνων 5x</item>
-    <item>Κλίμακα κινούμενων εικόνων 10x</item>
-  </string-array>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="animator_duration_scale_entries">
+        <item>Η κινούμενη εικόνα είναι εκτός λειτουργίας</item>
+        <item>Κλίμακα κινούμενων εικόνων .5x</item>
+        <item>Κλίμακα κινούμενης εικόνας 1x</item>
+        <item>Κλίμακα κινούμενης εικόνας 1,5x</item>
+        <item>Κλίμακα κινούμενης εικόνας 2x</item>
+        <item>Κλίμακα κινούμενων εικόνων 5x</item>
+        <item>Κλίμακα κινούμενων εικόνων 10x</item>
+     </string-array>
+     <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Πρότυπο όριο</item>
+        <item>Καμία διεργασίες παρασκηνίου</item>
+        <item>Το πολύ 1 διαδικασία</item>
+        <item>Το πολύ 2 διαδικασίες</item>
+        <item>Στις περισσότερες 3 διαδικασίες</item>
+        <item>Το πολύ 4 διαδικασίες</item>
+     </string-array>
+     <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </string-array>
+     <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+     </string-array>
+     <string-array name="blood_type_content_description">
+        <item>@string/o_positive</item>
+        <item>@string/o_negative</item>
+        <item>@string/a_positive</item>
+        <item>@string/a_negative</item>
+        <item>@string/b_positive</item>
+        <item>@string/b_negative</item>
+        <item>@string/ab_positive</item>
+        <item>@string/ab_negative</item>
+        <item>@string/h_h</item>
+        <item>@string/unknown_blood_type</item>
+     </string-array>
+     <string-array name="blood_type_entries">
+        <item>@string/oplus</item>
+        <item>@string/ominus</item>
+        <item>@string/aplus</item>
+        <item>@string/aminus</item>
+        <item>@string/bplus</item>
+        <item>@string/bminus</item>
+        <item>@string/abplus</item>
+        <item>@string/abminus</item>
+        <item>@string/hh</item>
+        <item>@string/unknown_blood_type</item>
+     </string-array>
+     <string-array name="blood_type_values">
+        <item>0+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>H/H</item>
+        <item></item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Ενισχυμένα χρώματα</item>
+        <item>Φυσικά χρώματα όπως φαίνονται από το μάτι</item>
+        <item>Χρώματα βελτιστοποιημένα για ψηφιακό περιεχόμενο</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Ζωντανό (προεπιλογή)</item>
+        <item>Φυσικά</item>
+        <item>Πρότυπο</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Απενεργοποίηση</item>
+        <item>Εμφάνιση υπερβάλλουσων περιοχές</item>
+        <item>Εμφάνιση περιοχών για Deuteranomaly</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Κανένα</item>
+        <item>Logcat</item>
+        <item>Συλλογή (Γραφικά)</item>
+        <item>Σειρά κλήσεων στο glGetError</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>λάθος</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Ποτέ μην χρησιμοποιείτε έλεγχο HDCP</item>
+        <item>Χρησιμοποιήστε έλεγχο HDCP μόνο για περιεχόμενο DRM</item>
+        <item>Πάντα να χρησιμοποιείτε έλεγχο HDCP</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Ποτέ μην ελέγχετε</item>
+        <item>Ελέγξτε μόνο για περιεχόμενο DRM</item>
+        <item>Ελέγχετε πάντα</item>
+     </string-array>
+     <string-array name="hdcp_checking_values">
+        <item>ποτέ</item>
+        <item>drm-μόνο</item>
+        <item>πάντα</item>
+     </string-array>
+     <string-array name="organ_donor_entries">
+        <item>@string/yes</item>
+        <item>@string/no</item>
+        <item>@string/unknown_organ_donor</item>
+     </string-array>
+     <string-array name="organ_donor_values">
+        <item>Ναι</item>
+        <item>Όχι</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Κανένα</item>
+        <item>480p</item>
+        <item>480p (ασφαλές)</item>
+        <item>720p</item>
+        <item>720p (ασφαλές)</item>
+        <item>1080p</item>
+        <item>1080p (ασφαλές)</item>
+        <item>4K</item>
+        <item>4K (ασφαλές)</item>
+        <item>4Κ (αναβαθμισμένη)</item>
+        <item>4K (αναβαθμισμένη, ασφαλή)</item>
+        <item>720p, 1080p (διπλή οθόνη)</item>
+     </string-array>
+     <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,secure</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,secure</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,secure</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,secure</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,secure</item>
+        <item>1280x720/213;1920x1080/320</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Απενεργοποίηση</item>
+        <item>64K ανά buffer απογραφής</item>
+        <item>256K ανά buffer καταγραφής</item>
+        <item>1 Μ ανά προσωρινό buffer</item>
+        <item>4Μ ανά buffer απογραφής</item>
+        <item>16M ανά buffer απογραφής</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+     </string-array>
+     <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>16777216</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>Απενεργοποίηση</item>
+        <item>Σχεδιάστε την μη ορθογώνια περιοχή κλιπ με μπλε χρώμα</item>
+        <item>Επισημάνετε τις δοκιμασμένες εντολές σχεδίασης με πράσινο χρώμα</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_values">
+        <item>απόκρυψη</item>
+        <item>περιοχή</item>
+        <item>highlight</item>
+     </string-array>
+     <string-array name="simulate_color_space_entries">
+        <item>@string/daltonizer_mode_disabled</item>
+        <item>@string/daltonizer_mode_monochromacy</item>
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+     </string-array>
+     <string-array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>Απενεργοποίηση</item>
+        <item>Στην οθόνη ως μπάρες</item>
+        <item>Στη adb κέλυφος dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="track_frame_time_values">
+        <item>ψευδής</item>
+        <item>visual_bars</item>
+        <item>αληθής</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Η κινούμενη εικόνα είναι εκτός λειτουργίας</item>
+        <item>Κλίμακα κινούμενων εικόνων .5x</item>
+        <item>Κλίμακα κινούμενης εικόνας 1x</item>
+        <item>Κλίμακα κινούμενης εικόνας 1,5x</item>
+        <item>Κλίμακα κινούμενης εικόνας 2x</item>
+        <item>Κλίμακα κινούμενων εικόνων 5x</item>
+        <item>Κλίμακα κινούμενων εικόνων 10x</item>
+     </string-array>
+     <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+     </string-array>
+     <string-array name="tts_demo_strings">
+        <item>Αυτό είναι ένα παράδειγμα σύνθεσης ομιλίας στα αγγλικά.</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Πολύ αργή</item>
+        <item>Αργή</item>
+        <item>Κανονική</item>
+        <item>Γρήγορα</item>
+        <item>Πιο γρήγορα</item>
+        <item>Πολύ γρήγορα</item>
+        <item>Ταχεία</item>
+        <item>Πολύ γρήγορη</item>
+        <item>Πιο γρήγορος</item>
+     </string-array>
+     <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Φόρτιση</item>
+        <item>MTP (πρωτόκολλο μεταφοράς μέσων)</item>
+        <item>PTP (Πρωτόκολλο μεταφοράς φωτογραφιών)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Πηγή ήχου</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item>Σάρωση…</item>
+        <item>Σύνδεση…</item>
+        <item>Τον έλεγχο ταυτότητας…</item>
+        <item>Απόκτηση διεύθυνσης IP…</item>
+        <item>Συνδεδεμένοι</item>
+        <item>Ανασταλμένη</item>
+        <item>Αποσύνδεση…</item>
+        <item>Αποσυνδεθεί</item>
+        <item>Ανεπιτυχής</item>
+        <item>Αποκλεισμένος</item>
+        <item>Προσωρινά για την αποφυγή κακής σύνδεσης</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item>Σάρωση…</item>
+        <item>Συνδέομαι σε %1$s…</item>
+        <item>Έλεγχος ταυτότητας με %1$s…</item>
+        <item>Λήψη διεύθυνσης IP από %1$s…</item>
+        <item>Συνδεδεμένος με %1$s</item>
+        <item>Ανασταλεί</item>
+        <item>Αποσύνδεση από %1$s…</item>
+        <item>Ασύνδετος</item>
+        <item>Ανεπιτυχής</item>
+        <item>Αποκλεισμένος</item>
+        <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Η κινούμενη εικόνα είναι εκτός λειτουργίας</item>
+        <item>Κλίμακα κινούμενων εικόνων .5x</item>
+        <item>Κλίμακα κινούμενης εικόνας 1x</item>
+        <item>Κλίμακα κινούμενης εικόνας 1,5x</item>
+        <item>Κλίμακα κινούμενης εικόνας 2x</item>
+        <item>Κλίμακα κινούμενων εικόνων 5x</item>
+        <item>Κλίμακα κινούμενων εικόνων 10x</item>
+     </string-array>
+     <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
 </resources>
