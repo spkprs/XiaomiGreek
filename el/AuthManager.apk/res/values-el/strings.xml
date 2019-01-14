@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="HIPS_Action_Accept">Αποδοχή</string>
      <string name="HIPS_Action_Accept_Once">Αποδοχή μία φορά</string>

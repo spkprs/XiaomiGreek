@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="abort_backup_confirm">Το αντίγραφο δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;</string>
      <string name="abort_restore_confirm">Η επαναφορά δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;</string>

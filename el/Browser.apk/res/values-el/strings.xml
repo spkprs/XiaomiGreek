@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
      <string name="abc_action_bar_up_description">Πλοήγηση προς τα πάνω</string>

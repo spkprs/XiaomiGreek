@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="ErrorTooManyRequests">Πολλές αιτήσεις προς επεξεργασία. Παρακαλώ δοκιμάστε αργότερα.</string>
      <string name="ack_record">Εγγραφή Ack</string>

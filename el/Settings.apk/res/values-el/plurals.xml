@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Εξαιρετικά μικρή καθυστέρηση (%1$d ms)</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string-array name="mi_stat_cancel_survey_key">
         <item>transfer_takes_too_long</item>
