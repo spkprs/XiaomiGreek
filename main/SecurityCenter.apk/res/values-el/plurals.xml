@@ -205,8 +205,8 @@
         <item quantity="one">%d ημέρα απομένει πριν από τη λήξη λειτουργίας Ώθηση Ταχύτητας δικτύου. Ανανεώστε την περίοδο λειτουργίας για να αποφύγετε προβλήματα Ταχύτητας δικτύου.</item>
      </plurals>
      <plurals name="network_restrict_count">
-        <item quantity="other">"Η πρόσβαση στο δίκτυο είναι περιορισμένη για &lt;font color="'#ff0000'">%d:&lt;/font> εφαρμογές"</item>
-        <item quantity="one">"Η πρόσβαση στο δίκτυο είναι περιορισμένη σε &lt;font color="'#ff0000'">%d&lt;/font> εφαρμογή"</item>
+        <item quantity="other">"Η πρόσβαση στο δίκτυο είναι περιορισμένη για &lt;font color="#ff0000">%d:&lt;/font> εφαρμογές"</item>
+        <item quantity="one">"Η πρόσβαση στο δίκτυο είναι περιορισμένη σε &lt;font color="#ff0000">%d&lt;/font> εφαρμογή"</item>
      </plurals>
      <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Καταναλώθηκε το %2$d%% στα τελευταία %1$d λεπτά</item>
