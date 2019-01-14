@@ -539,4 +539,12 @@
   <string name="sar_sensor_collect_test_summary">"Περιστρέψτε το τηλέφωνο, τοποθετήστε το στο εξάρτημα
 Κάντε κλικ στο κουμπί Εκκίνηση λήψης δεδομένων
 Ελέγξτε το εξάρτημα κοντά και μακριά από το τηλέφωνο"</string>
+  <string name="dsi_sar_on_off_tips">Dsi Sar On/Off Διακόπτης</string>
+  <string name="receiver_off">Δέκτης Off</string>
+  <string name="receiver_on">Δέκτης On</string>
+  <string name="receiver_on_off_tips">Δέκτης On/Off Διακόπτης</string>
+  <string name="sar_authentation_test_title">Sar ελέγχος ταυτότητας</string>
+  <string name="sar_off">Sar Off</string>
+  <string name="sar_on">Sar On</string>
+  <string name="set_dsi_tips">Ορισμός DSI</string>
 </resources>

@@ -30,7 +30,7 @@
   <string name="buy_claim_ps">Για περισσότερες λεπτομέρειες, διαβάστε το</string>
   <string name="buy_claim_terms">Οροι και Προϋποθέσεις*</string>
   <string name="buy_confirm">ΣΥΜΦΩΝΟΥΜΕ ΚΑΙ ΑΓΟΡΑΣΤΕ ΤΗΝ ΠΡΟΣΤΑΣΙΑ</string>
-  <string name="buy_insurance_desc">Μόνο νέα συσκευή</string>
+  <string name="buy_insurance_desc">Υποστηρίζεται απο OneAssist</string>
   <string name="buy_privacy_agree">Συνεχίστε</string>
   <string name="buy_privacy_title">Αποποίηση ευθυνών</string>
   <string name="buy_recycle_desc">Τροφοδοτείται από Cashify</string>
@@ -106,7 +106,7 @@
   <string name="instant_bank_transfer">Άμεση τραπεζική μεταφορά</string>
   <string name="insurance_button">Ασφάλιση</string>
   <string name="insurance_description">Η ασφάλιση σας παρέχει πρόσθετη κάλυψη επισκευής</string>
-  <string name="insurance_entrance">Mi Protect - προστασία ακουστικών</string>
+  <string name="insurance_entrance">Mi Protect για νεα συσκευή</string>
   <string name="item_name_battery">Μπαταρία</string>
   <string name="item_name_frontcamera">Εμπρός κάμερα</string>
   <string name="item_name_rearcamera">Πίσω κάμερα</string>
@@ -140,11 +140,12 @@
   <string name="password_toggle_content_description">Εναλλαγή προβολής κωδικού πρόσβασης</string>
   <string name="postal_code">Ταχυδρομικός Κώδικας</string>
   <string name="powered_by_cashify">Τροφοδοτείται από</string>
-  <string name="push_ht_content">Εκκινίστε την Ασφαλεία, μετακινηθείτε προς τα κάτω, και να δοκιμάσετε το υλικό σας</string>
-  <string name="push_ht_title">Ψάξτε για ένα νέο χαρακτηριστικό Ασφαλείας</string>
+  <string name="push_ht_content">Μάθετε σχετικά για την κατάσταση του υλικού σας</string>
+  <string name="push_ht_title">Έλεγχος υλικού</string>
   <string name="push_oa_content">Διασφάλιση της συσκευής σας χρησιμοποιώντας την επέκταση εγγύησης</string>
-  <string name="quote_upto_price">Φοβερό! Η συσκευή σας είναι ακόμα σε καλή κατάσταση και σε τιμές πολύ. Πάρτε μέχρι και Rs. %s</string>
-  <string name="recycle_button">Ανακύκλωσης</string>
+  <string name="quote_upto_price">"Φοβερό! Η συσκευή σας είναι ακόμα σε καλή κατάσταση και σε τιμές πολύ. Πάρτε μέχρι και Rs. %s
+Σημειώστε ότι οι τιμές των συσκευών υπόκεινται σε αλλαγές. Πουλήστε τώρα το τηλέφωνό σας για να επωφεληθείτε από την καλύτερη προσφορά."</string>
+  <string name="recycle_button">Ανακύκλωση</string>
   <string name="recycle_description">Πάρτε τιμή ανακυκλώνοντας το παλιό σας τηλέφωνο</string>
   <string name="recycle_entrance">Cashify Ανακύκλωσης</string>
   <string name="reschedule">Επαναπρογραμματισμός</string>
