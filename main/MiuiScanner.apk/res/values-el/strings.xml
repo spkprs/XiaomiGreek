@@ -289,4 +289,17 @@
      <string name="wifi_pwd">Κωδικός:</string>
      <string name="wifi_security">Ασφάλεια:</string>
      <string name="wifi_ssid">SSID:</string>
+	  <string name="about_title">Σχετικά</string>
+	  <string name="business_card_result_title">Επαγγελματική κάρτα</string>
+	  <string name="choose_pay_title">Επιλέξτε τρόπο πληρωμής</string>
+	  <string name="no_support_to_translate_type">"Αυτή η γλώσσα δεν υποστηρίζεται"</string>
+	  <string name="scan_support_type">WeChat, Alipay, QR codes, barcodes</string>
+	  <string name="setting_alipay">Alipay</string>
+	  <string name="setting_choose_every_time">Ερώτηση πάντα</string>
+	  <string name="setting_default_function">Προεπιλεγμένη λειτουργία</string>
+	  <string name="setting_preference_pay">Προτιμώμενος τρόπος πληρωμής</string>
+	  <string name="setting_title">Ρυθμίσεις</string>
+	  <string name="setting_use_last_choose">Ενθύμιση προηγούμενης επιλογής</string>
+	  <string name="setting_wechat">WeChat</string>
+	  <string name="to_pay">Ολοκλήρωση πληρωμής</string>
 </resources>

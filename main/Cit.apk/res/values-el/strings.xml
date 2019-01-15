@@ -547,4 +547,6 @@
   <string name="sar_off">Sar Off</string>
   <string name="sar_on">Sar On</string>
   <string name="set_dsi_tips">Ορισμός DSI</string>
+  <string name="cit_tof_sensor_check_summary">Οι τιμές για το TOF πρέπει να εμφανίζονται παρακάτω</string>
+  <string name="cit_tof_sensor_check_title">TofSensor</string>
 </resources>
