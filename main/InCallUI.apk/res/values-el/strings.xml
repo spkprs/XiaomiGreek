@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="antispam_local_marked">Τοπική σήμανση</string>
      <string name="antispam_notification_title">Άγνωστος αριθμός</string>
@@ -209,5 +209,4 @@
      <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων
 "</string>
      <string name="waiting_close_airplane_mode">Μισό λεπτό…</string>
-     <string name="call_not_support_high_frequency_click">"Μην αγγίζετε αυτό το κουμπί τόσο συχνά"</string>
 </resources>

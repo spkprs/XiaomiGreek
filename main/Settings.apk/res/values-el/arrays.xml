@@ -1610,7 +1610,7 @@
         <item>Επανεγκατάσταση Mi PC Suite</item>
      </string-array>
      <string-array name="mtp_default_entries">
-        <item>Charging</item>
+        <item>Φορτίζεται</item>
         <item>MTP</item>
         <item>"MTP if screen isn't locked with a password"</item>
      </string-array>
@@ -2435,7 +2435,6 @@
         <item>Κακό</item>
         <item>Χαμηλό</item>
         <item>Επαρκές</item>
-        <item>Καλό</item>
         <item>Εξαιρετικό</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries">

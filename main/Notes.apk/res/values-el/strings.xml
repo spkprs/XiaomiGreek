@@ -232,4 +232,5 @@
      <string name="widget_content_loading">Φόρτωση…</string>
      <string name="widget_havenot_content">Χωρίς περιεχόμενο. Πατήστε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, πατήστε &amp; σύρετε μία άκρη.</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="unclassfied_folder_name">Αταξινόμητα</string>
 </resources>

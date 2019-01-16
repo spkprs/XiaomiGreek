@@ -1398,7 +1398,7 @@
      <string name="recents_empty_message">Δεν υπάρχουν πρόσφατα στοιχεία</string>
      <string name="recents_empty_message_dismissed_all">Καταργήσατε όλα τα στοιχεία</string>
      <string name="recents_empty_message_multi_window">Ανοίξτε τις εφαρμογές από την Αρχική οθόνη</string>
-     <string name="recents_exit_multi_window_mode">Εξοδος</string>
+     <string name="recents_exit_multi_window_mode">|   ΕΞΟΔΟΣ  |</string>
      <string name="recents_incompatible_app_message">Αυτή η εφαρμογή δεν υποστηρίζει τη Διαιρούμενη οθόνη</string>
      <string name="recents_launch_disabled_message">%s αδύνατη η εκκίνηση στην ασφαλή λειτουργία</string>
      <string name="recents_launch_error_message">Αδύνατη η εκκίνηση %s</string>
