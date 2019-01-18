@@ -238,6 +238,12 @@
         <item>1 ώρα</item>
         <item>Χωρίς χρονικό όριο</item>
      </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Ενεργό"</item>
+        <item>" | Ενεργό (Πολυμέσα)"</item>
+        <item>" | Ενεργό (Τηλέφωνο)"</item>
+     </string-array>
      <string-array name="broadcast_locales">
         <item>AE</item>
         <item>AG</item>
@@ -2492,4 +2498,12 @@
         <item>Κλίμακα κίνησης 5.0x</item>
         <item>Κλίμακα κίνησης 10x</item>
      </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Λειτουργία Υψηλής Ποιότητας (Προεπιλογή)</item>
+        <item>Λειτουργία Χαμηλής Αδράνειας</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Λειτουργία Υψηλής Ποιότητας (Προεπιλογή)</item>
+        <item>Λειτουργία Χαμηλής Αδράνειας</item>
+    </string-array>
 </resources>

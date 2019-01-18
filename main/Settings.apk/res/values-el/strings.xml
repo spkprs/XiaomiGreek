@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="APN_NAME_CMMMS">CMMMS</string>
      <string name="APN_NAME_CMNET">CMNET</string>
@@ -5911,4 +5911,7 @@ VK: vk.com/mi_room_ru"</string>
      <string name="zone_auto_summaryOn">Μέσω δικτύου</string>
      <string name="zone_list_menu_sort_alphabetically">Ταξινόμηση αλφαβητικά</string>
      <string name="zone_list_menu_sort_by_timezone">Ταξινόμηση κατά ζώνη ώρας</string>
+     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth Ήχος aptX Προσαρμοστική Λειτουργία</string>
+     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Ενεργοποίηση Ήχου Bluetooth
+aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης"</string>
 </resources>

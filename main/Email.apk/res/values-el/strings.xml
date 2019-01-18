@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="SMTP_independent_verification_text">Ανεξάρτητη επαλήθευση SMTP</string>
      <string name="SMTP_password_text">Κωδικός πρόσβασης</string>
@@ -849,7 +849,7 @@
      <string name="preview_attachment">Προεπισκόπηση</string>
      <string name="previous_action">Προηγούμενο</string>
      <string name="print">Εκτύπωση</string>
-     <string name="privacy_des">Οι πληροφορίες καταγραφής περιέχουν πληροφορίες εντοπισμού σφαλμάτων που εκτυπώνονται από την εφαρμογή ηλεκτρονικού ταχυδρομείου και πληροφορίες της συσκευής σας για να εντοπίσουμε το πρόβλημα που αναφέρετε. Επιλέξτε %1$s παρακάτω για να δηλώσετε ότι έχετε διαβάσει και συμφωνήσει με την %2$s της Xiaomi</string>
+     <string name="privacy_des">"Οι πληροφορίες καταγραφής περιέχουν πληροφορίες εντοπισμού σφαλμάτων που εκτυπώνονται από την εφαρμογή ηλεκτρονικού ταχυδρομείου και πληροφορίες της συσκευής σας για να εντοπίσουμε το πρόβλημα που αναφέρετε. Επιλέξτε την παρακάτω \"%1$s\" Αυτό σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την 《%2$s》"</string>
      <string name="privacy_policy">Πολιτική απορρήτου</string>
      <string name="prompt_title">Προτροπή</string>
      <string name="protocol_eas">eas</string>
@@ -1184,4 +1184,15 @@
      <string name="you_are_in_mobile_network">Αυτή την στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>
      <string name="youfuli">Προσφορά</string>
      <string name="zip_viewer_no_file">Χωρίς αρχεία!</string>
+	 <string name="appraise_des">Εργαζόμαστε πολύ σκληρά για την ανάπτυξη προϊόντων, μόνο για την ικανοποίησή σας. Υποστηρίξτε μας με τα σχόλιά σας.</string>
+	 <string name="appraise_good">Έπαινος και ενθάρρυνση</string>
+	 <string name="appraise_ignore">Προσωρινή αξιολόγηση</string>
+	 <string name="appraise_negative">Αρνητικό σχόλιο</string>
+	 <string name="have_auth_code">Σύνδεση με κωδικό</string>
+	 <string name="help_me_get_qq_auth">Βοηθήστε με να πάρω τον κωδικό εξουσιοδότησης QQ</string>
+	 <string name="open_androidp_warning">Άνοιγμα 9.0 ανεπίσημη προειδοποίηση SDK</string>
+	 <string name="qq_login_notice">Θερμή Συμβουλή: Αν έχετε ρυθμίσει έναν ανεξάρτητο κωδικό πρόσβασης, πρέπει να εισαγάγετε έναν ανεξάρτητο κωδικό πρόσβασης για να επαληθεύσετε την είσοδό σας στο γραμματοκιβώτιο.</string>
+	 <string name="qq_pwd_or_qq_auth_code">QQ κωδικός εξουσιοδότησης ή κωδικός γραμματοκιβωτίου</string>
+     <string name="notify_channel_service">Συγχρονισμός Υπενθύμισης Παρασκηνίου</string>
+     <string name="privacy_des">"Οι πληροφορίες καταγραφής περιέχουν πληροφορίες εντοπισμού σφαλμάτων που εκτυπώνονται από την εφαρμογή ηλεκτρονικού ταχυδρομείου και πληροφορίες της συσκευής σας για να εντοπίσουμε το πρόβλημα που αναφέρετε. Επιλέξτε την παρακάτω \"%1$s\" Αυτό σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την 《%2$s》"</string>
 </resources>
