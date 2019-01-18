@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="BaMmi">Φραγή κλήσεων</string>
      <string name="CLIRDefaultOffNextCallOff">Η αναγνώριση κλήσης βρίσκεται από προεπιλογή στην \"μη περιορισμένη\". Επόμενη κλήση: Μη περιορισμένη</string>
@@ -373,7 +373,7 @@
      <string name="ext_media_new_notification_message">Νέα %s εντοπίστηκε</string>
      <string name="ext_media_nomedia_notification_message">Η %s αφαιρέθηκε. Τοποθετήστε ένα νέο.</string>
      <string name="ext_media_nomedia_notification_title">Η %s αφαιρέθηκε</string>
-     <string name="ext_media_ready_notification_message">Για την μετακίνηση φωτογραφιών και πολυμέσων</string>
+     <string name="ext_media_ready_notification_message">Για την αντιγραφή φωτογραφιών και πολυμέσων</string>
      <string name="ext_media_status_bad_removal">Αφαιρέθηκε εσφαλμένα</string>
      <string name="ext_media_status_checking">Ελεγχος…</string>
      <string name="ext_media_status_ejecting">Εξαγωγή…</string>
