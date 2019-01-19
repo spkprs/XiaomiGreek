@@ -2057,11 +2057,6 @@
         <item>Español (América)</item>
         <item>Português (Brasil)</item>
      </string-array>
-     <string-array name="standard_configuration_version">
-        <item>3.00GB</item>
-        <item>16GB</item>
-        <item>Quad-core Max 2.5GHz</item>
-     </string-array>
      <string-array name="startup_hips_action">
         <item>Επέτρεψε</item>
         <item>Απόρριψη</item>
