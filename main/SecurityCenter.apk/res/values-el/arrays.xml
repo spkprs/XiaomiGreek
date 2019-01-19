@@ -110,8 +110,8 @@
         <item>红包来了</item>
      </string-array>
      <string-array name="mi_service_traffic_type">
-        <item>Χρήση κινητής...</item>
-        <item>Χρήση Wi‑Fi...</item>
+        <item> Χρήση κινητής... </item>
+        <item> Χρήση Wi‑Fi... </item>
      </string-array>
      <integer-array name="om_app_background_restrict">
         <item>0</item>

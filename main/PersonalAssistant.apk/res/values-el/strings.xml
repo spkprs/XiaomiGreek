@@ -678,7 +678,7 @@
      <string name="express_setting_authorized_number">Επαληθευμένος αριθμός τηλεφώνου</string>
      <string name="express_setting_authorized_number_add">Προσθήκη</string>
      <string name="express_setting_authorized_number_delete">Διαγραφή</string>
-     <string name="express_setting_authorized_number_description">Δήλωση προστασίας ιδιωτικού απορρήτου: Ο αριθμός τηλεφώνου σας θα χρησιμοποιηθεί μόνο για τον έλεγχο της κατάστασης παραγγελίας και των λεπτομερειών παραγγελίας.</string>
+     <string name="express_setting_authorized_number_description">Δήλωση προστασίας ιδιωτικού απορρήτου: Ο αριθμός τηλεφώνου σας θα χρησιμοποιηθεί μόνο για τον έλεγχο της κατάστασης παραγγελίας και των λεπτομερειών της.</string>
      <string name="express_setting_authorized_number_empty">Δεν έχετε επαληθεύσει ακόμα τον αριθμό τηλεφώνου σας.</string>
      <string name="express_setting_authorized_number_limit">You can add up to 4 phone numbers.</string>
      <string name="express_setting_brief">Παρακολουθήστε τα πακέτα ρητής παράδοσης</string>

@@ -2042,7 +2042,7 @@
      <string name="hotspot_accout_up_sell_url" />
      <string name="http_invoke_app">Εφαρμογές Web</string>
      <string name="http_invoke_app_summary">Ανοίξτε τις εφαρμογές πιο γρήγορα χωρίς εγκατάσταση</string>
-     <string name="icon_app_color_summary">Απαιτείται η διαγραφή των ειδοποιήσεων</string>
+     <string name="icon_app_color_summary">Απαιτείται η εκκαθάριση ειδοποιήσεων</string>
      <string name="icon_app_color_title">Χρωματιστά εικονίδια ειδοποίησης</string>
      <string name="icon_app_style_color_title">Στυλ εικονιδίων ειδοποίησης</string>
      <string name="ignore_optimizations_off">Βελτιστοποίηση</string>

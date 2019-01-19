@@ -44,7 +44,7 @@
      <string name="extreme_power_config_mode_title">Μέγιστη εξοικονόμηση</string>
      <string name="failure">Απέτυχε</string>
      <string name="hide_mode_desc"><font color="#000000">Όταν μια εφαρμογή εκτελείται στο παρασκήνιο, οι δραστηριότητές της θα παρακολουθούνται για να μειωθεί η χρήση της μπαταρίας. Αυτή η λειτουργία θα λάβει και θα χρησιμοποιήσει τα δεδομένα χρήστη σύμφωνα με την %s</font></string>
-     <string name="hide_system_app">Απόκρυψη εφαρμογών συστήματος</string>
+     <string name="hide_system_app">Απόκρυψη εφαρμ συστήματος</string>
      <string name="high_temp_state">Υπερθέρμανση</string>
      <string name="high_temp_state_message">Η συσκευή σας έχει υπερθερμανθεί. Τα Δεδομένα κινητής, το σημείο Πρόσβασης Wi-Fi, το GPS και η Κάμερα θα περιοριστούν.</string>
      <string name="hints_loading_text">Μισό λεπτό…</string>
@@ -85,7 +85,7 @@
      <string name="scenario_policies_warmcontrol">Ελεγχος θερμοκρασίας</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
      <string name="search_result_text">Δεν ήταν δυνατή η εύρεση εφαρμογών</string>
-     <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
+     <string name="show_system_app">Εμφάνιση εφαρμ συστήματος</string>
      <string name="sleep_config_enhance_description">Κάθε φορά που το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το NFC, το Bluetooth, το GPS, τα δεδομένα κινητής τηλεφωνίας και τη χρήση Wi-Fi και δεν θα ενεργοποιήσει την οθόνη για ειδοποιήσεις.</string>
      <string name="sleep_config_enhance_description_non_nfc">Όποτε το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το Bluetooth, το GPS, τα δεδομένα κινητής και τη χρήση Wi-Fi και δεν θα ενεργοποιήσει την οθόνη για ειδοποιήσεις.</string>
      <string name="sleep_config_enhance_title">Κατάσταση αδράνειας</string>

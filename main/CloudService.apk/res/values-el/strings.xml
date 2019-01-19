@@ -54,7 +54,7 @@
      <string name="ks_certificate_version">Αριθμός πιστοποιητικού</string>
      <string name="ks_download_certificate">Λήψη πιστοποιητικού</string>
      <string name="ks_download_success">"Επιτυχής Λήψη "</string>
-     <string name="ks_fingerprint_payment">Πληρωμές μέσω Δακτυλικών Αποτυπωμάτων</string>
+     <string name="ks_fingerprint_payment">Πληρωμές μέσω Δακτ. Αποτυπωμάτων</string>
      <string name="ks_fingerprint_status">Κατάσταση πληρωμής</string>
      <string name="ks_key_download_button">ks_key_download_button</string>
      <string name="ks_key_status">ks_key_status</string>
