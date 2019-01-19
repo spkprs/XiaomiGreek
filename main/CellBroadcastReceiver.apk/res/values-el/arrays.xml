@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="alert_reminder_interval_entries">
+    <item>Μια φορά</item>
+    <item>Κάθε 2 λεπτά</item>
+    <item>Κάθε 5 λεπτά</item>
+    <item>Κάθε 15 λεπτά</item>
+    <item>Off</item>
+  </string-array>
+  <string-array name="alert_reminder_interval_values">
+    <item>1</item>
+    <item>2</item>
+    <item>5</item>
+    <item>15</item>
+    <item>0</item>
+  </string-array>
+  <string-array name="alert_sound_duration_entries">
+    <item>2 δευτ</item>
+    <item>4 δευτ</item>
+    <item>6 δευτ</item>
+    <item>8 δευτ</item>
+    <item>10 δευτ</item>
+  </string-array>
+  <string-array name="alert_sound_duration_values">
+    <item>2</item>
+    <item>4</item>
+    <item>6</item>
+    <item>8</item>
+    <item>10</item>
+  </string-array>
+</resources>

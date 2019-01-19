@@ -41,6 +41,9 @@
         <item quantity="other">%d εφαρμογές δεν μπορούν να συνδεθούν στο δίκτυο</item>
         <item quantity="one">%d εφαρμογή δεν μπορεί να συνδεθεί στο δίκτυο</item>
      </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">Επαφές %d</item>
+    </plurals>
      <plurals name="connected_devices_number">
         <item quantity="other">%d συσκευές</item>
         <item quantity="one">%d συσκευή</item>
