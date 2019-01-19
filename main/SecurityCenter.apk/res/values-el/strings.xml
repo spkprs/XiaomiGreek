@@ -1054,7 +1054,7 @@
      <string name="hide_mode_app_background_setting_text">Εξοικονόμηση ενέργ. εφαρμογών</string>
      <string name="hide_mode_result_summary_text">Προσαρμογή ρυθμίσεων εξοικον. μπαταρίας για μεμονωμένες εφαρμογές</string>
      <string name="hide_mode_summary_text">Διαχείριση δραστηριοτήτων παρασκηνίου εφαρμογών για εξοικονόμηση μπαταρίας</string>
-     <string name="hide_system_app">Απόκρυψη εφαρμογών συστήματος</string>
+     <string name="hide_system_app">Απόκρυψη εφαρμ συστήματος</string>
      <string name="hint_antispam_mode_edit">Προσαρμοσμένη λειτουργία</string>
      <string name="hints_handle_item_text_virus">Κίνδυνος</string>
      <string name="hints_input_roaming_daily_limit">Εισάγετε το όριο χρήσης</string>
@@ -1988,7 +1988,7 @@
      <string name="shield_keyboard_detail">Πατήστε δύο φορές τα κουμπιά για να τα ενεργοποιήσετε ξανά</string>
      <string name="shield_keyboard_title">Απενεργοποίηση πλήκτρων</string>
      <string name="shoop_again_float">咻一咻</string>
-     <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
+     <string name="show_system_app">Εμφάνιση εφαρμ συστήματος</string>
      <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στον πίνακα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων &gt; Ρυθμίσεις</string>
      <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στον πίνακα ειδοποιήσεων</string>
      <string name="showpattern">Εμφάνιση μοτίβου</string>
