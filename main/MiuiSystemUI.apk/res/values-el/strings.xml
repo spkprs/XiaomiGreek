@@ -298,7 +298,7 @@
      <string name="app_info">Πληροφορίες Εφαρμ.</string>
      <string name="app_label">System UI</string>
      <string name="app_name">Κλείδωμα Οθόνης</string>
-     <string name="app_process_limit_title">Όριο διαδικασών παρασκηνίου</string>
+     <string name="app_process_limit_title">Όριο διεργ. παρασκηνίου</string>
      <string name="as_important">Σημαντική</string>
      <string name="as_unimportant">Ασήμαντη</string>
      <string name="audio_effect_custom">Ρύθμιση</string>
@@ -573,9 +573,9 @@
      <string name="enable_opengl_traces_title">Ενεργοποίηση εντοπισμού OpenGL</string>
      <string name="enable_power_save_mode">Ενεργοποίηση εξοικονόμησης μπαταρίας</string>
      <string name="enable_terminal_summary">Ενεργοποίηση εφαρμογής Τερματικού για πρόσβαση τοπικού κελύφους</string>
-     <string name="enable_terminal_title">Τοπικό τερματικό</string>
-     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-     <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
+     <string name="enable_terminal_title">Τοπική τερματική εφαρμογή</string>
+     <string name="enable_webview_multiprocess">Πολυεπεξεργασία WebView</string>
+     <string name="enable_webview_multiprocess_desc">Εκτελέστε το WebView renderers ξεχωριστά</string>
      <string name="enabled_by_admin">Ενεργό από τον διαχειριστή</string>
      <string name="ethernet_label">Ethernet</string>
      <string name="expanded_confirm_disable_notification">Απόκρυψη</string>
@@ -712,6 +712,7 @@
      <string name="gxzw_try_again">Προσπάθησε ξανά</string>
      <string name="gxzw_try_more_again">Δοκιμάστε ξανά</string>
      <string name="gxzw_use_password">Χρησιμοποιείστε τον κωδικό σας για ξεκλείδωμα</string>
+	<string name="gxzw_long_press_tip"/>
      <string name="hdcp_checking_dialog_title">Ρύθμιση συμπεριφοράς ελέγχου HDCP</string>
      <string name="hdcp_checking_title">Έλεγχος HDCP</string>
      <string name="headset">Ακουστικά</string>

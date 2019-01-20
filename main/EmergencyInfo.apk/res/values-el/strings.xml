@@ -61,7 +61,7 @@
      <string name="aplus">A +</string>
      <string name="apn_settings_not_available">Οι ρυθμίσεις ονόματος σημείου πρόσβασης δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
      <string name="app_label">Πληροφορίες έκτακτης ανάγκης</string>
-     <string name="app_process_limit_title">Όριο διαδικασίας παρασκηνίου</string>
+     <string name="app_process_limit_title">Όριο διεργ. παρασκηνίου</string>
      <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="available_via_passpoint">Διατίθεται μέσω %1$s</string>
      <string name="b_negative">Β αρνητικό</string>
@@ -199,9 +199,9 @@
      <string name="enable_freeform_support_summary">Ενεργοποιήστε την υποστήριξη για πειραματικά παράθυρα ελεύθερης μορφής.</string>
      <string name="enable_opengl_traces_title">Ενεργοποιήστε τα ίχνη του OpenGL</string>
      <string name="enable_terminal_summary">Ενεργοποιήστε την εφαρμογή τερματικού που προσφέρει πρόσβαση τοπικού κελύφους</string>
-     <string name="enable_terminal_title">Τοπικό τερματικό</string>
+     <string name="enable_terminal_title">Τοπική τερματική εφαρμογή</string>
      <string name="enable_webview_multiprocess">Πολυεπεξεργασία WebView</string>
-     <string name="enable_webview_multiprocess_desc">Εκτελέστε εκδότες WebView ξεχωριστά</string>
+     <string name="enable_webview_multiprocess_desc">Εκτελέστε το WebView renderers ξεχωριστά</string>
      <string name="enabled_by_admin">Ενεργοποιήθηκε από διαχειριστή</string>
      <string name="force_allow_on_external">Δύναμη επιτρέπουν εφαρμογές σε εξωτερικό</string>
      <string name="force_allow_on_external_summary">Κάνει οποιαδήποτε εφαρμογή κατάλληλη για εγγραφή σε εξωτερικό αποθηκευτικό χώρο, ανεξάρτητα από τις δηλωμένες τιμές</string>
@@ -224,7 +224,7 @@
      <string name="inactive_app_active_summary">Ενεργός. Πατήστε για εναλλαγή.</string>
      <string name="inactive_app_inactive_summary">Αδρανής. Πατήστε για εναλλαγή.</string>
      <string name="inactive_apps_title">Ανενεργές εφαρμογές</string>
-     <string name="keep_screen_on">Μείνετε ξύπνιοι</string>
+     <string name="keep_screen_on">Παραμένει ενεργή</string>
      <string name="keep_screen_on_summary">Η οθόνη δεν θα κοιμηθεί ποτέ κατά τη φόρτιση</string>
      <string name="launch_defaults_none">Δεν έχουν οριστεί προεπιλογές</string>
      <string name="launch_defaults_some">Ορισμένες προεπιλεγμένες ρυθμίσεις</string>

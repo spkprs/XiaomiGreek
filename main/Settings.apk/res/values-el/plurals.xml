@@ -57,9 +57,9 @@
         <item quantity="one">Κατάργηση επιλεγμένης γλώσσας;</item>
      </plurals>
      <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d apps can open their supported links</item>
-        <item quantity="zero">No app can open any supported link</item>
-        <item quantity="one">One app can open its supported links</item>
+        <item quantity="other">%d εφαρμογές μπορούν να ανοίξουν τους υποστηριζόμενους συνδέσμους</item>
+        <item quantity="zero">Καμία εφαρμογή δεν μπορεί να ανοίξει κανένα υποστηριζόμενο σύνδεσμο</item>
+        <item quantity="one">Μια εφαρμογή μπορεί να ανοίξει τους υποστηριζόμενους συνδέσμους</item>
      </plurals>
      <plurals name="firewall_item_summary">
         <item quantity="other">Περιορισμένη σύνδεση για %s εφαρμογές</item>
@@ -70,8 +70,8 @@
         <item quantity="one">%1$d συνδεδεμένο άτομα</item>
      </plurals>
      <plurals name="high_power_count">
-        <item quantity="other">%d apps allowed to ignore battery optimization</item>
-        <item quantity="one">1 app allowed to ignore battery optimization</item>
+        <item quantity="other">%d εφαρμογές επιτρέπεται να αγνοούν τη βελτιστοποίηση της μπαταρίας</item>
+        <item quantity="one">1 εφαρμογή επιτρέπεται να αγνοεί τη βελτιστοποίηση της μπαταρίας</item>
      </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
