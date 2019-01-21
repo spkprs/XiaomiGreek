@@ -33,8 +33,8 @@
     <item quantity="one">&lt;font color==\"red\"&gt;%d τραγούδι&lt;/font&gt; γίνεται λήψη</item>
   </plurals>
   <plurals name="multichoice_title">
-    <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
-    <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
+    <item quantity="other">%d στοιχεία επιλέχθηκαν</item>
+    <item quantity="one">%d στοιχείο επιλέχθηκε</item>
   </plurals>
   <plurals name="Nalbum_total_songs">
     <item quantity="other">Συνολικά %d τραγούδια</item>

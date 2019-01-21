@@ -3350,7 +3350,7 @@
      <string name="privacy_authorize_revoke_time">Ανάκληση (%1$ds)</string>
      <string name="privacy_authorize_revoke_title">Εξουσιοδότηση και ανάκληση</string>
      <string name="privacy_authorize_revoking">Ανάκληση εξουσιοδότησης…</string>
-     <string name="privacy_authorize_success">Έγκριση με επιτυχία</string>
+     <string name="privacy_authorize_success">Εγκρίθηκε επιτυχώς</string>
      <string name="privacy_authorize_title">Χορήγηση εξουσιοδότησης</string>
      <string name="privacy_close_dlg_button_ok">Κλείσιμο</string>
      <string name="privacy_close_dlg_msg">Όταν ο κωδικός προστασίας απορρήτου είναι απενεργοποιημένος, τα στοιχεία σας δεν θα προστατεύονται πλέον.</string>

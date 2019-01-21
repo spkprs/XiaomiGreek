@@ -1492,9 +1492,9 @@
      <string name="whichEditApplication">Επεξεργασία με</string>
      <string name="whichEditApplicationLabel">Επεξεργασία</string>
      <string name="whichEditApplicationNamed">Επεξεργασία με %1$s</string>
-     <string name="whichHomeApplication">Επιλέξτε μια εφαρμογή Αρχικής σελίδας</string>
+     <string name="whichHomeApplication">Επιλέξτε εφαρμ. Αρχικής οθόνης</string>
      <string name="whichHomeApplicationLabel">Λήψη εικόνας</string>
-     <string name="whichHomeApplicationNamed">Χρήση %1$s ως Αρχικής σελίδας</string>
+     <string name="whichHomeApplicationNamed">Χρήση %1$s ως Αρχική οθόνη</string>
      <string name="whichImageCaptureApplication">Λήψη εικόνας με</string>
      <string name="whichImageCaptureApplicationLabel">Λήψη εικόνας</string>
      <string name="whichImageCaptureApplicationNamed">Λήψη εικόνας με %1$s</string>

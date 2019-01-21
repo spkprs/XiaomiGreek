@@ -408,7 +408,7 @@
      <string name="category_catering">Τρόφιμα</string>
      <string name="category_education">Εκπαίδευση</string>
      <string name="category_entertainment">Ψυχαγωγία</string>
-     <string name="category_go_dutch">Ολλανδικά</string>
+     <string name="category_go_dutch">Μπαταρία</string>
      <string name="category_life">Life</string>
      <string name="category_medical">Φροντίδα υγείας</string>
      <string name="category_other">Επιπλέον</string>
@@ -441,7 +441,7 @@
      <string name="cta_dialog_miot_text_all">Για να διασφαλιστεί η κανονική λειτουργία, το Mi Home μπορεί να χρειαστεί να αποκτήσει πρόσβαση στο Wi-Fi σας, στην Τοποθεσία σας, την ενεργοποίηση του Bluetooth, στο Δίκτυο κινητής, στο Μικρόφωνο και στην ανάγνωση των Επαφών σας. Επιβεβαιώνετε;</string>
      <string name="cta_dialog_negative">Έξοδος</string>
      <string name="cta_dialog_positive">Συμφωνώ</string>
-     <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τη θυρίδα εφαρμογής, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
+     <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τον Προσωπικό Βοηθό, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
      <string name="cta_dialog_title">Οροι και Προϋποθέσεις</string>
      <string name="cta_negative">Κλείστε</string>
      <string name="cta_positive">Λεπτομέρειες</string>
@@ -1365,7 +1365,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="pie_chart_label_education">Εκπαίδευση:</string>
      <string name="pie_chart_label_entertainment">Ψυχαγωγία:</string>
      <string name="pie_chart_label_format">%1$s %2$s%%</string>
-     <string name="pie_chart_label_go_dutch">Go Dutch:</string>
+     <string name="pie_chart_label_go_dutch">Μπαταρία:</string>
      <string name="pie_chart_label_life">Ζωή:</string>
      <string name="pie_chart_label_medical">Φροντίδα υγείας:</string>
      <string name="pie_chart_label_other">Αλλα:</string>
@@ -1671,7 +1671,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="widget_more">Δείτε περισσότερα</string>
      <string name="widget_no_data">Δεν υπάρχουν ακόμη αγαπημένα.</string>
      <string name="widget_title">Πρόσφατα προστέθηκε</string>
-     <string name="wx_aa">Go Dutch</string>
+     <string name="wx_aa">Μπαταρία</string>
      <string name="wx_collectioncode">Λήψη πληρωμής</string>
      <string name="wx_name">Η κάρτα μου</string>
      <string name="wx_parent">WeChat</string>

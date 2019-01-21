@@ -5,10 +5,10 @@
         <item>Αγόρι</item>
         <item>Κορίτσι</item>
      </string-array>
-     <string-array name="baby_sexy_value">
-        <item>αρσενικός</item>
-        <item>θηλυκός</item>
-     </string-array>
+    <string-array name="baby_sexy_value">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
      <integer-array name="backup_pause_hours">
         <item>2</item>
         <item>12</item>
@@ -116,15 +116,15 @@
         <item>Φίλοι</item>
         <item>Άγνωστο</item>
      </string-array>
-     <string-array name="relation_with_me_value">
-        <item>εγώ ο ίδιος</item>
-        <item>παιδί</item>
-        <item>οικογένεια</item>
-        <item>συνάδελφο</item>
-        <item>συμμαθητής</item>
-        <item>φίλος</item>
-        <item>άγνωστος</item>
-     </string-array>
+    <string-array name="relation_with_me_value">
+        <item>myself</item>
+        <item>child</item>
+        <item>family</item>
+        <item>collegue</item>
+        <item>classmate</item>
+        <item>friend</item>
+        <item>unknown</item>
+    </string-array>
      <string-array name="search_voice_assistant_suggestion">
         <item>βοηθήστε με να βρω φωτογραφία ταυτότητασ</item>
         <item>θέλω να δω σε sanya φωτογραφίες</item>

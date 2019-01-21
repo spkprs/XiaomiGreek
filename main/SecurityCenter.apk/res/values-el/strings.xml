@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="Phonepass">Αποδοχή κλήσεων</string>
      <string name="SMS_and_MMS">SMS και MMS</string>
@@ -112,10 +112,10 @@
      <string name="antivirus_monitor_virus_advice">Αυτή η εφαρμογή μπορεί να περιέχει ιούς. Διαγράψτε την</string>
      <string name="antivirus_none_engine_dialog_ok">OK</string>
      <string name="antivirus_not_wlan">Δεν είστε συνδεδεμένοι σε Wi‑Fi. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις. Συνέχεια ούτως ή άλλως;</string>
-     <string name="antivirus_privacy_dialog_cloudscan">Αποστολή ονομάτων και λεπτομερειών εφαρμογών</string>
-     <string name="antivirus_privacy_dialog_cloudscan_description">Ανεβάστε και σαρώστε τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών.</string>
+     <string name="antivirus_privacy_dialog_cloudscan">Αποστολή ονομ. και λεπτ. εφαρμογών</string>
+     <string name="antivirus_privacy_dialog_cloudscan_description">Ανεβάζει και σαρώνει τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών τους.</string>
      <string name="antivirus_privacy_dialog_ok">OK</string>
-     <string name="antivirus_privacy_dialog_summary">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει ID της συσκευής σας στους διακομιστές των AVL και Tencent (%s).</string>
+     <string name="antivirus_privacy_dialog_summary">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές των AVL και Tencent (%s).</string>
      <string name="antivirus_privacy_dialog_summary_link">Δείτε την Πολιτική Απορρήτου</string>
      <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
      <string name="antivirus_sec_network_unavailable">Η εφαρμογή Ασφαλείας δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
@@ -129,7 +129,7 @@
      <string name="antivirus_update_btn_update">Ενημέρωση</string>
      <string name="apn_exception_summary">Δοκιμή διαμόρφωσης φορέα APN</string>
      <string name="apn_exception_title">Έλεγχος ρυθμίσεων APN</string>
-     <string name="app_bg_restrict_dialog_message">Ο περιορισμός της σύνδεσης στο παρασκήνιο ενδέχεται να εμποδίσει την κανονική λειτουργία της εφαρμογής. Για παράδειγμα, ενδέχεται να μην είναι πλέον σε θέση να λαμβάνει μηνύματα ή ενημέρωση περιεχομένου. ΠεριοριορΑναζήτηση ούτως ή άλλως;</string>
+     <string name="app_bg_restrict_dialog_message">Ο περιορισμός της σύνδεσης στο παρασκήνιο ενδέχεται να εμποδίσει την κανονική λειτουργία της εφαρμογής. Για παράδειγμα, ενδέχεται να μην είναι πλέον σε θέση να λαμβάνει μηνύματα ή ενημέρωση περιεχομένου. Περιοριορισμός ούτως ή άλλως;</string>
      <string name="app_check_no_issue">Δεν υπάρχουν προβλήματα με την μπαταρία.</string>
      <string name="app_detail">Λεπτομέρειες</string>
      <string name="app_error_tip_for_launcher">Τα στοιχεία υλικού της συσκευής σας ή η έκδοση του συστήματος Android, ενδέχεται να προκαλέσουν προβλήματα συμβατότητας με αποτέλεσμα ορισμένες εφαρμογές να μην λειτουργήσουν σωστά, να κολλήσουν ή να τερματιστούν. Εάν αντιμετωπίσετε τέτοια προβλήματα, κοινοποιήστε τα σχόλιά σας στους προγραμματιστές εφαρμογών.</string>
@@ -374,7 +374,7 @@
      <string name="back_sound_fail">Απέτυχε!</string>
      <string name="back_sound_success">Ολοκληρώθηκε!</string>
      <string name="back_sound_support">Οι τρέχοντες φορείς δικτύων δεν το υποστηρίζουν!</string>
-     <string name="background_restrict_app_dialog_message">Ο περιορισμός της πρόσβασης στο δίκτυο στο παρασκήνιο για αυτήν την εφαρμογή μπορεί να καταστήσει αδύνατη την κανονική λειτουργία της εφαρμογής, τη λήψη μηνυμάτων, τη λήψη περιεχομένου κ.λπ.. Περιορίστε ούτως ή άλλως;</string>
+     <string name="background_restrict_app_dialog_message">Ο περιορισμός της πρόσβασης δικτύου στο παρασκήνιο για αυτήν την εφαρμογή μπορεί να καταστήσει αδύνατη την κανονική λειτουργία της εφαρμογής, τη λήψη μηνυμάτων, τη λήψη περιεχομένου κ.λπ.. Περιορίστε ούτως ή άλλως;</string>
      <string name="background_traffic">Παρασκήνιο %s</string>
      <string name="backsound_set_hint">Ρύθμιση ήχου επιστροφής σε %s;</string>
      <string name="battery_capacity_title">Χωρητικότητα</string>
@@ -840,7 +840,7 @@
      <string name="firewall_applist">Εφαρμογές</string>
      <string name="firewall_fragment_nonesys_listempty">Κενό</string>
      <string name="firewall_fragment_sys_listempty">Κενό</string>
-     <string name="firewall_mobile">Δεδομένα Κινητής</string>
+     <string name="firewall_mobile">Δεδ. Κινητής</string>
      <string name="firewall_mobile_dialog_message">Η εγκατεστημένη εφαρμογή δεν θα μπορεί να συνδεθεί στο Internet μέσω δεδομένων κινητής όταν αυτός ο διακόπτης είναι ανενεργός.</string>
      <string name="firewall_network_allow">Να επιτρέπεται στο %1$s να χρησιμοποιεί τη σύνδεση %2$s</string>
      <string name="firewall_network_restrict_notify_message">Πατήστε για αλλαγή ρυθμίσεων.</string>

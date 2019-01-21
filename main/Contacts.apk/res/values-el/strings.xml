@@ -182,7 +182,7 @@
      <string name="cloud_antispam_marked">Επισημάνθηκε</string>
      <string name="cloud_antispam_title">Εντοπισμός άγνωστων αριθμών</string>
      <string name="cloud_recommend_msg">Πατήστε για να συγχρονίσετε τις επαφές με το Mi Cloud.</string>
-     <string name="cloud_state_disabled">Ο συγχρονισμός με Mi Cloud είναι ανενεργός</string>
+     <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
      <string name="cloud_state_loading">Περιμένετε…</string>
      <string name="cloud_state_sync_finished">Συγχρονισμένο με Mi Cloud</string>
      <string name="cloud_state_syncing">Συγχρονισμένο με Mi Cloud</string>
@@ -249,7 +249,7 @@
      <string name="contact_edit_title_edit">Επεξεργασία επαφής</string>
      <string name="contact_edit_title_insert">Προσθήκη %s επαφών</string>
      <string name="contact_edit_title_readonly">Επαφή μόνο για ανάγνωση</string>
-     <string name="contact_editor_prompt_multiple_accounts">Αποθήκευση επαφής στο</string>
+     <string name="contact_editor_prompt_multiple_accounts">Αποθήκευση επαφής στο...</string>
      <string name="contact_editor_prompt_one_account">Η νέα επαφή θα συγχρονιστεί με %1$s</string>
      <string name="contact_editor_prompt_zero_accounts">Αποθηκεύστε στο κινητό ή σε ένα νέο online λογαριασμό</string>
      <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>

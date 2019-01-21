@@ -112,7 +112,7 @@
      <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
      <string name="module_download_fail">"Δεν ήταν δυνατή η λήψη πρόσθετου ήχου"</string>
      <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. Αποδοχή?</string>
-     <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. Αποδοχή?</string>
+     <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχων περιβάλλοντος και χρονομέτρου για το MIUI 10. Αποδοχή?</string>
      <string name="module_download_no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
      <string name="module_download_ok">Αποδοχή</string>
      <string name="module_download_success">Έγινε λήψη του πρόσθετου ήχου με επιτυχία</string>

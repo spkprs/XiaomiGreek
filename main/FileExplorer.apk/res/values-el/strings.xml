@@ -92,8 +92,8 @@
      <string name="clear_record">Καθαρισμός ιστορικού</string>
      <string name="click_login_str">Σύνδεση</string>
      <string name="click_to_refresh">Πατήστε εδώ για ανανέωση</string>
-     <string name="click_to_switch_volume">Πατήστε για εναλλαγή μεταξύ εσωτερικού χώρου και κάρτας SD</string>
-     <string name="click_to_switch_volume_pad">Πατήστε για εναλλαγή μεταξύ εσωτερικού χώρου και κάρτας SD</string>
+     <string name="click_to_switch_volume">Πατήστε για εναλλαγή μεταξύ Εσωτερικού χώρου και Κάρτας SD</string>
+     <string name="click_to_switch_volume_pad">Πατήστε για εναλλαγή μεταξύ Εσωτερικού χώρου και Κάρτας SD</string>
      <string name="clock_in">Σύνδεση…</string>
      <string name="clockin_failed">Αδυναμία σύνδεσης. Δοκιμάστε ξανά</string>
      <string name="clockin_success">Επιτυχής σύνδεση</string>
@@ -127,7 +127,7 @@
      <string name="data_consumption_cancel">"Δεν συμφωνώ"</string>
      <string name="data_consumption_checkbox_hint">Να μην εμφανιστεί ξανά</string>
      <string name="data_consumption_confirm">OK</string>
-     <string name="data_consumption_message">"Ο διαχειριστής αρχείων θα πρέπει να συνδεθεί στο δίκτυο ενώ το χρησιμοποιείτε. Συμφωνείτε;"</string>
+     <string name="data_consumption_message">"Ο Διαχειριστής αρχείων θα πρέπει να συνδεθεί στο δίκτυο ενώ τον χρησιμοποιείτε. Συμφωνείτε;"</string>
      <string name="data_consumption_message1">Η συσκευή θα πρέπει να συνδεθεί με το Internet για να δείτε δημοφιλή αυτοκόλλητα και βίντεο.</string>
      <string name="data_consumption_title">Σύνδεση στο Internet</string>
      <string name="decompress_cancel">Άκυρο</string>
@@ -171,7 +171,7 @@
      <string name="dialog_type_video">Βίντεο</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="disk_available">Διαθέσιμα:</string>
-     <string name="disk_total">Σύνολο:</string>
+     <string name="disk_total">Συνολικά:</string>
      <string name="dislike_toast">Τέτοια βίντεο δεν θα προτείνονται σε εσάς.</string>
      <string name="dislike_video">Δεν με ενδιαφέρει</string>
      <string name="download">Λήψη</string>

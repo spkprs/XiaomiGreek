@@ -1505,7 +1505,7 @@
      <string name="show_hidden_album_title">Εμφάνιση κρυφών άλμπουμ</string>
      <string name="show_in_other_albums_disable_toast_long_press_menu">Μεταφέρθηκε με επιτυχία, πηγαίνετε σε άλλο Άλμπουμ για προβολή</string>
      <string name="show_in_other_albums_enable_toast_long_press_menu">Μεταφέρθηκε με επιτυχία, πηγαίνετε στο Άλμπουμ για προβολή</string>
-     <string name="slideshow_interval_dialog_title">Διάστημα μεγαλύτερο απο 0 δευτ.</string>
+     <string name="slideshow_interval_dialog_title">Διάστημα πάνω απο 0 δευτ.</string>
      <string name="slideshow_interval_invalid">Το χρονικό διάστημα είναι λανθασμένο, πρέπει να είναι 1 ~ 3600. Θα επαναφερθεί η προεπιλεγμένη τιμή</string>
      <string name="slideshow_interval_title">Εμφάνιση κάθε διαφάνειας για</string>
      <string name="slideshow_interval_value">%1$d δευτ.</string>

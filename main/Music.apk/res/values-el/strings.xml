@@ -88,7 +88,7 @@
   <string name="checking_new_version">Έλεγχος για ενημερώσεις…</string>
   <string name="choose_download_quality">Επιλογή ποιότητας λήψης</string>
   <string name="choose_stream_quality">Επιλογή ποιότητας ροής</string>
-  <string name="click_to_shuffle">Αγγίξτε για τυχαία αναπαραγωγή</string>
+  <string name="click_to_shuffle">Τυχαία αναπαραγωγή</string>
   <string name="close_music_time">"Χρόνος που απομένει: "</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Ενεργοποίηση</string>
@@ -243,7 +243,7 @@
   <string name="downloading_empty">Κενή</string>
   <string name="downloading_pause_apk">Έγινε παύση. Συνεχίστε την λήψη από τον Πίνακα ειδοποιήσεων.</string>
   <string name="due_date">Προθεσμία: %s</string>
-  <string name="edit_playlist_info">Επεξεργασία πληροφοριών λίστας</string>
+  <string name="edit_playlist_info">Επεξεργασία πληροφ. λίστας</string>
   <string name="empty_page_no_album">Δεν υπάρχουν άλμπουμ.</string>
   <string name="empty_page_no_artist">Δεν υπάρχουν καλλιτέχνες.</string>
   <string name="enabled">Ενεργοποιήθηκε</string>
@@ -429,7 +429,7 @@
   <string name="modify_pic">Αλλαγή εξώφυλλου</string>
   <string name="modify_progress">Αλλαγή ταχύτητας στίχων</string>
   <string name="modify_progress_helper">Σάρωση προς τα επάνω ή κάτω για διόρθωση των στίχων.</string>
-  <string name="modify_song_info">Επεξεργασία πληροφοριών τραγουδιού</string>
+  <string name="modify_song_info">Επεξεργασία πληροφ. τραγουδιού</string>
   <string name="modify_song_info_success">Έγινε ενημέρωση πληροφοριών τραγουδιού</string>
   <string name="more">Περισσότερα</string>
   <string name="more_add_song_list">Προσθέστε τραγούδια σε αναμονή</string>
@@ -583,7 +583,7 @@
   <string name="search_empty">Αδυναμία εύρεσης αποτελεσμάτων</string>
   <string name="search_for_album">Άλμπουμ</string>
   <string name="search_for_artist">Καλλιτέχνης</string>
-  <string name="search_hint">Αναζήτηση για καλλιτέχνες, τραγούδια, άλμπουμ, και προτάσεις</string>
+  <string name="search_hint">Καλλιτέχνες Τραγούδια Άλμπουμ, κ.α.</string>
   <string name="search_history_clear_all">Εκκαθάριση</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Αναζήτηση</string>

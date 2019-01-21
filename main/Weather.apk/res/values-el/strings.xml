@@ -18,7 +18,7 @@
      <string name="activity_alert_detail_title" />
      <string name="activity_find_city_dialog_cancel">Ακύρωση</string>
      <string name="activity_find_city_dialog_message">Επιτρέψτε στον Καιρό να αποκτήσει πρόσβαση στην τοποθεσία σας για να λάβετε ακριβείς πληροφορίες σχετικά με την τοποθεσία.</string>
-     <string name="activity_find_city_dialog_message_global">Ενεργοποιήστε τις υπηρεσίες τοποθεσίας και επιτρέψτε στη συσκευή να προσδιορίσει την τοποθεσία χρησιμοποιώντας ασύρματα δίκτυα.</string>
+     <string name="activity_find_city_dialog_message_global">Ενεργοποιήστε τις υπηρεσίες τοποθεσίας και επιτρέψτε στη συσκευή να προσδιορίσει την τοποθεσία σας χρησιμοποιώντας ασύρματα δίκτυα.</string>
      <string name="activity_find_city_dialog_set">Ρυθμίσεις</string>
      <string name="activity_find_city_dialog_title">Πρόσβαση τοποθεσίας</string>
      <string name="activity_main_clickable">></string>

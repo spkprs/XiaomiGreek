@@ -1228,7 +1228,7 @@
   <string name="registration_status_server_unreachable">Αποτυχία εγγραφής λογαριασμού: Ελέγξτε το όνομα του διακομιστή.</string>
   <string name="registration_status_still_trying">Συνεχής προσπάθεια…</string>
   <string name="reject_via_sms">Γρήγορες απαντήσεις</string>
-  <string name="reject_via_sms_summary">Εμφάνιση κουμπιών για τον τερματισμό κλήσης και αποστολής SMS</string>
+  <string name="reject_via_sms_summary">Εμφάνιση πλήκτρων για τον τερματισμό κλήσης και αποστολής SMS</string>
   <string name="reject_via_sms_title">Γρήγορες απαντήσεις</string>
   <string name="remaining_length_format">%1$s απομένουν</string>
   <string name="remove">Διαγραφή</string>
@@ -1331,9 +1331,9 @@
   <string name="singleContactImportedMsg">Εισαγόμενη επαφή</string>
   <string name="sip_account_disable">Ο λογαριασμός δεν είναι ενεργός. Αδύνατη η αποδοχή κλήσεων.</string>
   <string name="sip_account_list">Λογαριασμοί SIP</string>
-  <string name="sip_accounts">Κλήσεις μέσω Διαδικ SIP λογαριασμοί</string>
+  <string name="sip_accounts">Κλήσεις μέσω SIP λογαριασμών</string>
   <string name="sip_accounts_title">Λογαριασμοί SIP</string>
-  <string name="sip_add_account_tip_text">Για χρήση κλήσης μέσω Διαδικτύου, προσθέσετε ένα λογαριασμό SIP</string>
+  <string name="sip_add_account_tip_text">Για κλήσεις μέσω Διαδικτύου, προσθέσετε ένα λογαρ. SIP</string>
   <string name="sip_always_send_keepalive">Αποστολή πάντα</string>
   <string name="sip_call_options_entry_1">Όταν το δίκτυο δεδομένων είναι διαθέσιμο</string>
   <string name="sip_call_options_entry_2">Μόνο για κλήσεις μέσω του Διαδικτύου</string>

@@ -232,7 +232,7 @@
      <string name="guide_virus_dialog_negative">Ματαίωση</string>
      <string name="guide_virus_dialog_positive">Σάρωση</string>
      <string name="guide_virus_dialog_title">Ανίχνευση ιών</string>
-     <string name="header_optimizer">Χρησιμοποιώντας αυτή τη λειτουργία, συμφωνείτε σε %s.</string>
+     <string name="header_optimizer">Χρησιμοποιώντας αυτή τη λειτουργία, συμφωνείτε με την %s μας.</string>
      <string name="hint_clean_select_items">Διαγραφή αντιγράφων…</string>
      <string name="hints_ad_header_left">Παλιά αρχεία</string>
      <string name="hints_apk_header_left">Πακέτα</string>
@@ -538,7 +538,7 @@
      <string name="summary_optimizer">Αυτή η λειτουργία ανεβάζει τα ονόματα φακέλων για να ενημερώσει την ηλεκτρονική βάση δεδομένων της Cheetah Mobile και απαιτεί το αναγνωριστικό της συσκευής σας.</string>
      <string name="sys_cache_on_sdcard_item_name">Cache</string>
      <string name="terabyteShort">TB</string>
-     <string name="text_optimizer">Ανεβάστε ονόματα φακέλων</string>
+     <string name="text_optimizer">Ανεβάστε τα ονόματα φακέλων</string>
      <string name="there_is_no">Όλα φαίνονται καλά, επιστρέφω αργότερα</string>
      <string name="tips_low_storage_dialog_cancel">Ακύρωση</string>
      <string name="tips_low_storage_dialog_msg_qq">Το μέγεθος της κρυφής μνήμης QQ έχει φτάσει τα 3 GB. Αυτό μπορεί να επιβραδύνει τη συσκευή σας. Καθαρισμός προσωρινής μνήμης QQ τώρα;</string>
