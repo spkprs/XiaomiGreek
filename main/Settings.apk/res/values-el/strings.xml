@@ -249,7 +249,7 @@
      <string name="animator_duration_scale_title">Χωρίς κινήσεις οθόνης</string>
      <string name="another_migration_already_in_progress">Μια άλλη αλλαγή είναι ήδη σε εξέλιξη.</string>
      <string name="anti_spam">Λίστα αποκλεισμών</string>
-     <string name="aod_mode_summary">Να εμφανίζεται πάντα ο χρόνος, η ημερομηνία και τα μηνύματα σε ανενεργή οθόνη .</string>
+     <string name="aod_mode_summary">Εμφάνιση ώρας, ημέρας και μηνυμάτων σε ανενεργή οθόνη.</string>
      <string name="aod_mode_title">Πάντα ενεργοποιημένη</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Τύπος ταυτοποίησης</string>
@@ -5914,4 +5914,14 @@ VK: vk.com/mi_room_ru"</string>
      <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth Ήχος aptX Προσαρμοστική Λειτουργία</string>
      <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Ενεργοποίηση Ήχου Bluetooth
 aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης"</string>
+	  <string name="aod_mode_bg">Υπόβαθρο</string>
+	  <string name="aod_mode_clock">Ρολόι</string>
+	  <string name="aod_mode_style">Στυλ Ώρας και Υποβάθρου</string>
+	  <string name="aod_sample_date">Μάιος 10 Τρίτη</string>
+	  <string name="dark_color_mode">Σκοτεινή λειτουργία</string>
+	  <string name="dark_color_summary">Χρησιμοποιήστε τη πιο σκούρα παλέτα χρωμάτων για Υπόβαθρο συστήματος και συμβατών εφαρμογών</string>
+	  <string name="open_dark_mode_dialog_summary">"Ορισμένες ρυθμίσεις οθόνης δεν είναι συμβατές με τη Σκοτεινή λειτουργία. Ωστόσο, θα επαναφερθούν μόλις κλείσετε την λειτουργία αυτή. Ενεργοποίηση;"</string>
+	  <string name="open_dark_mode_dialog_title">Συμβατότητα Σκοτεινής λειτουργίας</string>
+	  <string name="screen_cancel">Ακύρωση</string>
+	  <string name="screen_confirm">Ενεργοποίηση</string>
 </resources>

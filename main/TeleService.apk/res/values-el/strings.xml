@@ -1625,4 +1625,16 @@
   <string name="wild_prompt_str">Αντικατάσταση χαρακτήρα μπαλαντέρ με</string>
   <string name="window_animation_scale_title">Κλίμακα κινούμενων παραθύρων</string>
   <string name="wrong_password">Ο κωδικός που δώσατε είναι λανθασμένος</string>
+  <string name="vowifi_emergency_notification_channel">Kλήση WiFi επείγουσας προειδοποίησης</string>
+  <string name="vowifi_emergency_notification_content">Οι κλήσεις έκτακτης ανάγκης διατίθενται μόνο σε κυψελοειδή κάλυψη.</string>
+  <string name="vowifi_emergency_notification_title">Kλήση WiFi Vodafone</string>
+  <string name="vowifi_emergency_warning_check">"Χωρίς επανεμφάνιση."</string>
+  <string name="vowifi_emergency_warning_message">"Οι κλήσεις έκτακτης ανάγκης δεν είναι δυνατές μέσω WiFi.
+
+Η συσκευή μεταβαίνει αυτόματα σε ένα κυψελοειδή δίκτυο (2G/3G) για να πραγματοποιήσει μια κλήση έκτακτης ανάγκης.
+
+Οι κλήσεις έκτακτης ανάγκης είναι δυνατές μόνο σε περιοχές με κυψελοειδή κάλυψη."</string>
+  <string name="vowifi_emergency_warning_title">ECC καλεί μέσω WiFi</string>
+  <string name="wifi_call_setting_vodafone_de">WiFi κλήσεις</string>
+  <string name="wifi_call_setting_vodafone_uk">WiFi καλεί</string>
 </resources>

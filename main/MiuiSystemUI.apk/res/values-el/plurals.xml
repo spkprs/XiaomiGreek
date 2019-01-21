@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <plurals name="accessibility_recent_task_enter">
         <item quantity="other">Άνοιξαν πρόσφατα, διαθέσιμες εφαρμ: %d.</item>
@@ -141,4 +141,7 @@
         <item quantity="other">Καθαρός</item>
         <item quantity="one">Λιακάδα</item>
      </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Ώρες %2$s"</item>
+    </plurals>
 </resources>

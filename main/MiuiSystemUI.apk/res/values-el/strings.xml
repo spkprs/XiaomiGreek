@@ -1638,7 +1638,7 @@
      <string name="structure_face_unlock_tof_covered">"Αδύνατη η η προσθήκη δεδομένων προσώπου. Μετακινηθείτε πιο μακριά από την οθόνη."</string>
      <string name="switch_bar_off">OFF</string>
      <string name="switch_bar_on">ON</string>
-     <string name="switch_system_user">Άνοιγμα Πρώτου Χώρου</string>
+     <string name="switch_system_user">Επιστροφή στον Πρώτο Χώρο</string>
      <string name="symbol_colon">:</string>
      <string name="system_ui_tuner">Ρυθμιστής συστήματος UI</string>
      <string name="task_access_locked_app_msg">Κλείδωμα εφαρμογών ενεργό</string>
@@ -1872,4 +1872,5 @@
      <string name="zen_priority_introduction">Δεν θα ενοχληθείτε από ήχους και δονήσεις, εκτός από αφυπνήσεις, υπενθυμίσεις, γεγονότα, και τους καλούντες που καθορίσατε. Θα συνεχίσετε να ακούτε ήχους μουσικής, βίντεο, και παιχνιδιών.</string>
      <string name="zen_silence_introduction">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπνήσεων, της μουσικής, των βίντεο και των παιχνιδιών.</string>
      <string name="zen_silence_introduction_voice">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπμήσεων, της μουσικής, των βίντεο και των παιχνιδιών. Θα εξακολουθείτε να πραγματοποιείτε τηλεφωνικές κλήσεις.</string>
+     <string name="face_unlock_not_roi">Κρατήστε το πρόσωπό σας εντός πλαισίου</string>
 </resources>

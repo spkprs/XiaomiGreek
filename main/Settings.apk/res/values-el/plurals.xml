@@ -221,4 +221,7 @@
         <item quantity="other">Αλλαγή αφυπνίσεων για %1$d λεπτά (μέχρι %2$s)</item>
         <item quantity="one">Αλλαγή αφυπνίσεων για ένα λεπτό μέχρι %2$s</item>
      </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Ώρες %2$s"</item>
+    </plurals>
 </resources>
