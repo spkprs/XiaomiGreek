@@ -287,7 +287,7 @@
   <string name="cit_sd_unmount">Αφαίρεση κάρτας SD</string>
   <string name="cit_sd_unmount_sucess">Η κάρτα SD δεν έχει τοποθετηθεί</string>
   <string name="cit_signature_check_label">έλεγχος υπογραφής:</string>
-  <string name="cit_sim_check_summary">Επιβεβαιώστε ότι η σωστή εμφάνιση της κατάστασης και των πληροφοριών της κάρτας SIM εμφανίζεται παρακάτω</string>
+  <string name="cit_sim_check_summary">Επιβεβαιώστε για την σωστή εμφάνιση της κατάστασης και των πληροφοριών της κάρτας SIM που εμφανίζεται παρακάτω, εάν υπάρχουν δύο υποδοχές SIM, ταυτόχρονα δύο κάρτες SIM με την σωστή κατάσταση μόνο μπορούν να περάσουν.</string>
   <string name="cit_sim_check_title">Κάρτα SIM</string>
   <string name="cit_sim_error_unknown">Άγνωστο</string>
   <string name="cit_sim_network_operator">Παροχέας υπηρεσιών δικτύου:</string>
