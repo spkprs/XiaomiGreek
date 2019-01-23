@@ -6,8 +6,8 @@
         <item quantity="one">Σε %d ημέρα</item>
      </plurals>
      <plurals name="book_start_interval">
-        <item quantity="other">距出发还有%d天</item>
-        <item quantity="one">距出发还有%d天</item>
+        <item quantity="other">Αναχωρεί σε %d ημέρες</item>
+        <item quantity="one">Αναχωρεί σε %d ημέρα</item>
      </plurals>
      <plurals name="days_ago">
         <item quantity="other">%1$d ημέρες πριν</item>
@@ -55,16 +55,16 @@
         <item quantity="one">Delete %s selected item?</item>
      </plurals>
      <plurals name="sms_day_suffix">
-        <item quantity="other">Σε %d ημέρες</item>
-        <item quantity="one">Σε %d ημέρα</item>
+        <item quantity="other">Αναχωρεί σε %d ημέρες</item>
+        <item quantity="one">Αναχωρεί σε %d ημέρα</item>
      </plurals>
      <plurals name="sms_hour_suffix">
-        <item quantity="other">Σε %d ώρες</item>
-        <item quantity="one">Σε %d ώρα</item>
+        <item quantity="other">Αναχωρεί σε %d ώρες</item>
+        <item quantity="one">Αναχωρεί σε %d ώρα</item>
      </plurals>
      <plurals name="sms_minute_suffix">
-        <item quantity="other">Σε %d λεπτά</item>
-        <item quantity="one">Σε %d λεπτό</item>
+        <item quantity="other">Αναχωρεί σε %d λεπτά</item>
+        <item quantity="one">Αναχωρεί σε %d λεπτό</item>
      </plurals>
      <plurals name="sms_title_hours">
         <item quantity="other">%d ώρες</item>

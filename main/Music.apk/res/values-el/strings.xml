@@ -724,4 +724,7 @@
   <string name="xiaomi_update_sdk_dialog_message_diff">Εισαγωγή έκδοσης %1$s\nΜέγεθος ενημέρωσης Delta: %2$s</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s ενημέρωση!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Αποθήκευση μη διαθέσιμη, ελέγξτε την κάρτα SD.</string>
+  <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
+  <string name="gcm_fallback_notification_channel_label">Διάφορα</string>
+  <string name="ready_to_play">Επόμενο</string>
 </resources>
