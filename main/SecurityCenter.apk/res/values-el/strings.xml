@@ -279,7 +279,7 @@
      <string name="applock_function_pwd_settings">Κωδικός</string>
      <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
      <string name="applock_login_and_add_account">Συνδεθείτε &amp;amp; προσθέστε</string>
-     <string name="applock_not_add_account">&lt;u&gt;Οχι τώρα&lt;/u&gt;</string>
+     <string name="applock_not_add_account"><u>Αργότερα</u></string>
      <string name="applock_not_login_account">Δεν είστε συνδεδεμένοι</string>
      <string name="apps_item_sign_dialog_content">Η υπογραφή του \"%s\" είναι διαφορετική από την έκδοση στο App Store. Διαγραφή της εφαρμογής και εγκατάσταση της επίσημης έκδοσης; Σημείωση: εγκαθιστώντας μια εφαρμογή με διφορετική υπογραφή μπορεί να οδηγήσει σε απώλεια δεδομένων.</string>
      <string name="apps_item_sign_dialog_title">Εγκατάσταση επίσημης έκδοσης εφαρμογής</string>
@@ -915,9 +915,9 @@
      <string name="forbid_autobright_summary">Η αυτόματη φωτεινότητα θα απενεργοποιηθεί ενώ παίζετε και θα επανέλθει αφού τελειώσετε</string>
      <string name="forbid_autobright_title">Καθορίστε τη φωτεινότητα της οθόνης</string>
      <string name="foreground_traffic">Προσκήνιο %s</string>
-     <string name="forget_password_button_text">&lt;u&gt;Ξέχασα τον κωδικό&lt;/u&gt;</string>
+     <string name="forget_password_button_text"><u>Ξέχασα τον κωδικό</u></string>
      <string name="forget_password_button_text_normal">Ξέχασα τον κωδικό</string>
-     <string name="forget_pattern">&lt;u&gt;Ξέχασα τον κωδικό&lt;/u&gt;</string>
+     <string name="forget_pattern"><u>Ξέχασα τον κωδικό</u></string>
      <string name="free_send_net_booster">Δωρεάν ενίσχυση ταχύτητας Δικτύου</string>
      <string name="free_send_net_booster_busniess">Αποκτήστε μια δωρεάν ώθηση ταχύτητας Xunlei</string>
      <string name="free_send_net_booster_busniess_tip">Πατήστε για να λάβετε</string>
@@ -1378,7 +1378,7 @@
      <string name="mixed_recording_intro_header">Εισάγετε τουλάχιστον 4 χαρακτήρες</string>
      <string name="mixed_retry_button_text">Ακύρωση</string>
      <string name="mixed_settings_help_how_to_record">Πώς να ορίσετε κωδικό</string>
-     <string name="modify_password_mode">&lt;u&gt;Αλλαγή τύπου κωδικού πρόσβασης&lt;/u&gt;</string>
+     <string name="modify_password_mode"><u>Αλλαγή τύπου κωδικού</u></string>
      <string name="modifypassword">Αλλαγή τύπου κωδικού</string>
      <string name="monitor_app_add">Πρόσθεση</string>
      <string name="monitor_app_more">Περισσότερα</string>
@@ -1463,7 +1463,7 @@
      <string name="notification_battery_consume_abnormal_title">Η μπαταρία αδειάζει πολύ γρήγορα</string>
      <string name="notification_exit_power_save_mode">Εξοικονόμηση μπαταρίας ανενεργή</string>
      <string name="notification_exit_power_save_mode_subtitle">Μπαταρία %s φορτισμένη.</string>
-     <string name="notification_mask_summary">Απόκρυψη περιεχομένου ειδοποίησης στην οθόνη Κλείδωμα και στη σκιά ειδοποίησης</string>
+     <string name="notification_mask_summary">Απόκρυψη περιεχομένου ειδοποίησης στην Οθόνη Κλειδώματος και στον Πίνακα.</string>
      <string name="notification_mask_title">Απόκρυψη περιεχομένου</string>
      <string name="notification_masked_item">Απόκρυψη ειδοποιήσεων</string>
      <string name="notification_masked_subtitle">Απόκρυψη ειδοποιήσεων από εφαρμογές που προστατεύονται με κλείδωμα εφαρμογής</string>
@@ -1585,7 +1585,7 @@
      <string name="password_promotion_postbutton_text">Πηγαίνετε στις Ρυθμίσεις</string>
      <string name="password_promotion_title">Κωδικός Προσωπικής προστασίας</string>
      <string name="password_type">Αλλαγή κωδικού</string>
-     <string name="password_type_underline">&lt;u&gt;Αλλαγή κωδικού&lt;/u&gt;</string>
+     <string name="password_type_underline"><u>Αλλαγή κωδικού</u></string>
      <string name="password_xspace_forget_pattern_message">Για να αλλάξετε τον κωδικό Δεύτερου χώρου, θα πρέπει να διαγράψετε τον τρέχοντα Δεύτερο χώρο και να δημιουργήσετε ένα νέο.</string>
      <string name="path_antispam">Εφαρμογές συστήματος/Ασφάλεια/Λίστα αποκλεισμών</string>
      <string name="path_antivirus">Εφαρμογές συστήματος/Ασφάλεια/Virus scan</string>
@@ -2529,7 +2529,7 @@
      <string name="uninstall_danagerous_title">Καταργήστε την εγκατάσταση κακόβουλης εφαρμογής</string>
      <string name="unlike">Όχι ευχαριστώ</string>
      <string name="unlock_failed">Εσωτερικό σφάλμα</string>
-     <string name="unlock_pattern">&lt;u&gt;Μοτίβο&lt;/u&gt;</string>
+     <string name="unlock_pattern"><u>Μοτίβο</u></string>
      <string name="unlock_pattern_to_bind_fingerprint">Πληκτρολογήστε τον κωδικό πρόσβασης για να ενεργοποιήσετε τα δακτυλικά αποτυπώματα</string>
      <string name="unlock_set_unlock_password_summary">Συνδυάστε διαφορετικούς χαρακτήρες</string>
      <string name="unlock_set_unlock_password_title">Κωδικός</string>

@@ -571,7 +571,7 @@
      <string name="save_to_local">Λήψη</string>
      <string name="search_app">Εφαρμογές και Φάκελοι</string>
      <string name="search_app_more">Περισσότερα</string>
-     <string name="search_description">Ψάξτε όλα τα αρχεία στη συσκευή</string>
+     <string name="search_description">Εύρεση όλων των αρχείων στη συσκευή</string>
      <string name="search_download">Λήψεις;Πρόσφατες λήψεις</string>
      <string name="search_empty_view_hint">Χωρίς αποτελέσματα</string>
      <string name="search_error_hint">Αναζήτηση</string>

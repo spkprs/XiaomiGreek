@@ -61,7 +61,7 @@
      <string name="edit_alarm">Επεξεργασία αφύπνισης</string>
      <string name="edit_systemtime">Ρύθμιση ώρας συστήματος</string>
      <string name="elapsed_time_format">+</string>
-     <string name="every_day">Κάθε μέρα</string>
+     <string name="every_day">Καθημερινά</string>
      <string name="expired_timers_dismissed">Ο χρονομετρητής απορρίφθηκε</string>
      <string name="force_touch_add_alarm">Προσθήκη Αφύπνισης</string>
      <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="abc_action_bar_home_description">Πλοήγηση στην Αρχική</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -632,7 +632,7 @@
      <string name="setting_title_about">Σχετικά</string>
      <string name="setting_title_debug">导出日志</string>
      <string name="setting_title_holiday_display">Εμφάνιση Αργιών</string>
-     <string name="setting_title_limit_card_desc">位于日历首页的倒班助手卡片,该服务需要联网</string>
+     <string name="setting_title_limit_card_desc">Μια κάρτα βρίσκεται σε περιορισμό στην αρχική σελίδα του ημερολογίου, η υπηρεσία απαιτεί δικτύωση</string>
      <string name="setting_title_limit_card_display">显示限行服务</string>
      <string name="setting_title_lottery_card_desc">位于日历首页的彩票开奖卡片，该服务需要联网</string>
      <string name="setting_title_lottery_card_display">彩票开奖服务</string>
@@ -795,7 +795,7 @@ You can also add reminders so you don't miss anything important."</string>
      <string name="unsubscribing_card">Unsubscribed</string>
      <string name="user_notice_button_exit">Έξοδος</string>
      <string name="user_notice_button_ok">OK</string>
-     <string name="user_notice_message">Με την χρήση αυτού του προϊόντος, συμφωνείτε με τα Xiaomi %1$s και %2$s. Ορισμένες λειτουργίες απαιτούν σύνδεση στο Internet και πρόσβαση στην τοποθεσία και στις επαφές για να δουλέψουν κανονικά.</string>
+     <string name="user_notice_message">Πρέπει να συμφωνήσετε με την %1$s και την %2$s πριν χρησιμοποιήσετε το ημερολόγιο. Για την παροχή ακριβών δεδομένων σχετικά με τις τοπικές αργίες, τα γενέθλια, τις επιστροφές πιστωτικών καρτών και τα προγραμματισμένα ταξίδια, το ημερολόγιο πρέπει να έχει πρόσβαση στην τοποθεσία, τις επαφές και τα μηνύματά σας, καθώς και σύνδεση στο Internet. Συμφωνείτε?</string>
      <string name="user_notice_title">Ειδοποίηση χρήστη</string>
      <string name="valentines_day">情人节</string>
      <string name="vernal_equinox">春分</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Αναβολή για %d λεπ</item>
@@ -30,8 +30,8 @@
         <item quantity="one">%d λεπ.</item>
      </plurals>
      <plurals name="second">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">%d second</item>
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
      </plurals>
      <plurals name="snooze_duration_summary">
         <item quantity="other">Οι αφυπνίσεις θα σιγήσουν %2$s φορές (κάθε %1$s λεπ.)</item>

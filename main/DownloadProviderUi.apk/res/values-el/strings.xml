@@ -332,8 +332,8 @@
      <string name="search_hot_variety">Ψυχαγωγία</string>
      <string name="search_hotwords">Λέξεις-κλειδιά</string>
      <string name="search_hotwords_switch">Εναλλαγή</string>
-     <string name="search_input_empty_toast">Ψάξτε ή εισάγετε URL</string>
-     <string name="search_input_hint">Ψάξτε ή εισάγετε URL</string>
+     <string name="search_input_empty_toast">Εύρεση ή εισαγωγή URL</string>
+     <string name="search_input_hint">Εύρεση ή εισαγωγή URL</string>
      <string name="search_new_download">新建下载</string>
      <string name="search_new_download_desc">支持BT、电驴、磁力链任务</string>
      <string name="search_new_download_key_words">新建下载任务;新建下载文件;bt下载器;种子下载器;emule下载器;电驴下载器;迅雷下载器;thunder;磁力链下载器;资源下载器;下载工具;新建任务;视频下载</string>

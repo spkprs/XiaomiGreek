@@ -411,7 +411,7 @@
      <string name="no_network">Αδύνατη η σύνδεση στο δίκτυο, δοκιμάστε ξανά</string>
      <string name="no_network_btn">Δοκιμάστε ξανά</string>
      <string name="notification_summary_after_auto_cleanup">Εκκαθαρίστηκαν %s.</string>
-     <string name="notification_summary_of_garbage_cleanup">Πατήστε για περισσότερο χώρο.</string>
+     <string name="notification_summary_of_garbage_cleanup">Πατήστε για περισσότερο διαθέσιμο χώρο.</string>
      <string name="notification_title_of_garbage_cleanup">%s Μέγεθος αχρήστων</string>
      <string name="notify_when">Λήψη ειδοποίησης όταν το μέγεθος του κάδου φτάσει τα 100MB</string>
      <string name="ok">Εντάξει</string>
