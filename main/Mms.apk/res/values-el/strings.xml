@@ -807,7 +807,7 @@
      <string name="verification_code_list_title">Κωδικοί επαλήθευσης</string>
      <string name="view">Προβολή</string>
      <string name="view_bookmark">Προβολή αρχικού μηνύματος</string>
-     <string name="view_message_details">Δείτε λεπτομέρειες</string>
+     <string name="view_message_details">Προβολή λεπτομερειών</string>
      <string name="wap_push_title">"[WAP Push] "</string>
      <string name="warning_show">Αποστολή σε %ds</string>
      <string name="wild_msg_processing">επεξεργασία…</string>

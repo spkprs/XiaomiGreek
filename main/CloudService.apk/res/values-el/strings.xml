@@ -186,7 +186,7 @@
      <string name="micloud_main_cancel_sync">Ακύρωση συγχρονισμού</string>
      <string name="micloud_main_cancel_sync_now">Ακυρώνεται…</string>
      <string name="micloud_main_clear_now">Καθαρισμός</string>
-     <string name="micloud_main_detail">Δείτε λεπτομέρειες</string>
+     <string name="micloud_main_detail">Προβολή λεπτομερειών</string>
      <string name="micloud_main_error_activated_fail">Ενεργοποιήστε την κάρτα SIM.</string>
      <string name="micloud_main_error_network_disallowed">Βεβαιωθείτε ότι έχετε επιτρέψει την πρόσβαση στο διαδίκτυο.</string>
      <string name="micloud_main_error_permission_limit">Επιτρέψτε στο Mi Cloud να έχει πρόσβαση στην αποθήκευση.</string>

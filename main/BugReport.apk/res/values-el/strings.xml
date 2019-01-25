@@ -144,7 +144,7 @@
      <string name="feedback_status_supplement">Περιγράψτε το πρόβλημά σας με λεπτομέρειες</string>
      <string name="feedback_status_supplement_more">Προσθήκη σχολίου</string>
      <string name="feedback_status_upload_log_failed">Δεν ήταν δυνατή η μεταφόρτωση συνημμένων</string>
-     <string name="feedback_submit_failed_notification_desc">Δείτε λεπτομέρειες</string>
+     <string name="feedback_submit_failed_notification_desc">Προβολή λεπτομερειών</string>
      <string name="feedback_submit_failed_notification_retry">Αποστολή ξανά</string>
      <string name="feedback_submit_failed_notification_title">Αδυναμία αποστολής αναφοράς</string>
      <string name="feedback_submit_hint">Η αναφορά σφαλμάτων μας βοηθά κάθε φορά που αντιμετωπίζετε προβλήματα, στη γρηγορότερη επίλυσή τους.</string>
@@ -235,7 +235,7 @@
      <string name="michat_type_picture">Εικόνα</string>
      <string name="michat_user_quit">Φύγατε από την συνομιλία</string>
      <string name="michat_wait_for_a_moment">Μισό λεπτό. Έρχεται βοήθεια!</string>
-     <string name="michat_webview_title">Δείτε λεπτομέρειες</string>
+     <string name="michat_webview_title">Προβολή λεπτομερειών</string>
      <string name="min_error">Η %1$s σας πρέπει να είναι μεγαλύτερη.</string>
      <string name="mobile_data_note_dialog_cancel">Περιμένετε για Wi-Fi</string>
      <string name="mobile_data_note_dialog_confirm">Μεταφόρτωση</string>

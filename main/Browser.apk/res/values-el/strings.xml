@@ -552,7 +552,7 @@
      <string name="error_title">Αδυναμία συγχρονισμού</string>
      <string name="error_unauthorized">Ο συγχρονισμός απενεργοποιήθηκε λόγω πολλών προσπαθειών σύνδεσης.</string>
      <string name="exit">Εξοδος</string>
-     <string name="exit_browser_confirmation">Ξαναπατήστε για επιστροφή στην επιφάνεια εργασίας</string>
+     <string name="exit_browser_confirmation">Αγγίξτε ξανά για έξοδο</string>
      <string name="exit_browser_warning">Κλείσιμο πλοηγού;</string>
      <string name="exit_fullscreen">Έξοδος Πλήρους οθόνης</string>
      <string name="expand_button_title">Προηγμένες</string>
@@ -1197,7 +1197,7 @@
      <string name="pref_file_downlaod_save_reset_default_settings">Επαναφορά προεπιλεγμένου φακέλου</string>
      <string name="pref_file_download_default_path_prefix">Προεπιλεγμένος φάκελος: %s</string>
      <string name="pref_file_download_save_modify_default_path">Φάκελος Λήψεων</string>
-     <string name="pref_fling_gesture">Σύρετε χειρονομία</string>
+     <string name="pref_fling_gesture">Σάρωση χειρονομίας</string>
      <string name="pref_font_size_category">Μέγεθος κειμένου</string>
      <string name="pref_force_userscalable">Ενεργοποίηση επιβολής ζουμ</string>
      <string name="pref_force_userscalable_summary">Παράκαμψη ελέγχου ζουμ ιστοσελίδων</string>

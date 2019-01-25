@@ -824,7 +824,7 @@
      <string name="keyguard_charged">Φορτισμένο</string>
      <string name="keyguard_charging_back_to_lockscreen">Επιστροφή στην Οθόνη Κλειδώματος</string>
      <string name="keyguard_charging_info_battery_used_time_text">Με μπαταρία</string>
-     <string name="keyguard_charging_info_click_to_detail">Δείτε λεπτομέρειες</string>
+     <string name="keyguard_charging_info_click_to_detail">Προβολή λεπτομερειών</string>
      <string name="keyguard_charging_info_data_c">%s℃</string>
      <string name="keyguard_charging_info_data_ma">%smA</string>
      <string name="keyguard_charging_info_data_percent">%s%%</string>

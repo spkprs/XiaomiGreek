@@ -812,7 +812,7 @@
      <string name="error_internal_sdcard_write_tip">Παρουσιάστηκε σφάλμα. Επανεκκινήστε τη συσκευή σας και δοκιμάστε ξανά.</string>
      <string name="error_invalid_link">Ο σύνδεσμος είναι άκυρος ή έληξε, παρακαλώ ζητήστε από τον ιδιοκτήτη έναν νέο σύνδεσμο.</string>
      <string name="error_link_has_expired">Ο σύνδεσμος έχει λήξει</string>
-     <string name="error_network_restrict_action">Δείτε λεπτομέρειες</string>
+     <string name="error_network_restrict_action">Προβολή λεπτομερειών</string>
      <string name="error_network_restrict_msg">Να επιτρέπεται στη Συλλογή να συνδεθεί στο δίκτυο.</string>
      <string name="error_network_restrict_tip">Δεν είναι δυνατή η σύνδεση στο δίκτυο.</string>
      <string name="error_no_account_action">Συνδεθείτε</string>
