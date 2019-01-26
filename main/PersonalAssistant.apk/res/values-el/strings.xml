@@ -376,11 +376,11 @@
      <string name="card_detail">Οδηγός</string>
      <string name="card_example">Κάρτα</string>
      <string name="card_expand_note_clear">Καθαρισμός</string>
-     <string name="card_expand_note_clear_all">Clear</string>
+     <string name="card_expand_note_clear_all">Εκκαθάριση</string>
      <string name="card_expand_note_dialog_button">Το κατάλαβα</string>
-     <string name="card_expand_note_dialog_message">Μια νέα σημείωση δημιουργείται κάθε φορά που πατάτε το πλήκτρο \"Αποθήκευση\" στην Θυρίδα εφαρμογών.</string>
+     <string name="card_expand_note_dialog_message">Μια νέα σημείωση δημιουργείται κάθε φορά που πατάτε το πλήκτρο \"Αποθήκευση\" στον Έξυπνο Βοηθό.</string>
      <string name="card_expand_note_dialog_title">Αποθήκευση σημείωσης</string>
-     <string name="card_expand_note_sure_clear_all">Clear now</string>
+     <string name="card_expand_note_sure_clear_all">Εκκαθάριση τώρα</string>
      <string name="card_expand_note_toast_clear_null">Επιτυχής Καθαρισμός</string>
      <string name="card_expand_note_toast_save_done">Η σημείωση αποθηκεύτηκε</string>
      <string name="card_expand_note_toast_save_dup">Επιτυχής αποθήκευση</string>
