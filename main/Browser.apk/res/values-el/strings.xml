@@ -1154,7 +1154,7 @@
      <string name="pref_adblock_counts">%d μπλοκαρισμένα</string>
      <string name="pref_adblock_title">Adblock</string>
      <string name="pref_advert_null">Δεν υπάρχουν στοιχεία που να επισημαίνονται ως διαφημίσεις. Πατήστε παρατεταμένα ένα στοιχείο στην ιστοσελίδα για να επισημάνετε.</string>
-     <string name="pref_auto_update_under_wifi">Αυτόματη ενημέρωση πακέτου με Wi‑Fi</string>
+     <string name="pref_auto_update_under_wifi">Αυτόματη ενημέρωση με Wi‑Fi</string>
      <string name="pref_automatic_matching_searchengines_title">Μετάβ. στη συχνή μηχ. αναζήτησης</string>
      <string name="pref_cancel_screen">Απεμπλοκή</string>
      <string name="pref_category_hint">Κατηγορία</string>
@@ -1197,7 +1197,7 @@
      <string name="pref_file_downlaod_save_reset_default_settings">Επαναφορά προεπιλεγμένου φακέλου</string>
      <string name="pref_file_download_default_path_prefix">Προεπιλεγμένος φάκελος: %s</string>
      <string name="pref_file_download_save_modify_default_path">Φάκελος Λήψεων</string>
-     <string name="pref_fling_gesture">Σάρωση χειρονομίας</string>
+     <string name="pref_fling_gesture">Χειρονομία ολίσθησης</string>
      <string name="pref_font_size_category">Μέγεθος κειμένου</string>
      <string name="pref_force_userscalable">Ενεργοποίηση επιβολής ζουμ</string>
      <string name="pref_force_userscalable_summary">Παράκαμψη ελέγχου ζουμ ιστοσελίδων</string>

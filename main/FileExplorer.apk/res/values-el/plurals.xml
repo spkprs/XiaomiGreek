@@ -141,28 +141,28 @@
         <item quantity="many">Βρέθηκαν %1$d νέα βίντεο</item>
      </plurals>
      <plurals name="search_head_hint_app">
-        <item quantity="other">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
-        <item quantity="zero">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
-        <item quantity="one">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχείο)</item>
-        <item quantity="two">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
-        <item quantity="few">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
-        <item quantity="many">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
+        <item quantity="other">Σχετικά αρχεία εφαρμογής \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="zero">Σχετικά αρχεία εφαρμογής \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="one">Σχετικά αρχεία εφαρμογής \"%1$s\" (%2$d στοιχείο)</item>
+        <item quantity="two">Σχετικά αρχεία εφαρμογής \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="few">Σχετικά αρχεία εφαρμογής \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="many">Σχετικά αρχεία εφαρμογής \"%1$s\" (%2$d στοιχεία)</item>
      </plurals>
      <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="zero">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="one">%1$s σχετικά αρχεία (%2$d στοιχείο)</item>
-        <item quantity="two">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="few">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="many">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="other">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="zero">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="one">Σχετικά αρχεία \"%1$s\" (%2$d στοιχείο)</item>
+        <item quantity="two">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="few">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="many">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
      </plurals>
      <plurals name="search_head_hint_tag">
-        <item quantity="other">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="zero">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="one">%1$s σχετικά αρχεία (%2$d στοιχείο)</item>
-        <item quantity="two">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="few">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
-        <item quantity="many">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
+        <item quantity="other">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="zero">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="one">Σχετικά αρχεία \"%1$s\" (%2$d στοιχείο)</item>
+        <item quantity="two">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="few">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
+        <item quantity="many">Σχετικά αρχεία \"%1$s\" (%2$d στοιχεία)</item>
      </plurals>
      <plurals name="total_topic_num">
         <item quantity="other">%1$s θέματα</item>
