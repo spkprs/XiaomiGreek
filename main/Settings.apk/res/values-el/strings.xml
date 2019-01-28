@@ -2491,7 +2491,7 @@
      <string name="long_press_menu_key">Παρατεταμένα το πλήκτρο Menu</string>
      <string name="long_press_menu_key_when_lock">Παρατεταμένα το Menu στην οθόνη κλειδώματος</string>
      <string name="long_press_volume_down">Παρατεταμένα το πλήκτρο μείωσης έντασης</string>
-     <string name="low_battery_warning_title">Προειδοποίηση χαμηλής μπαταρίας</string>
+     <string name="low_battery_warning_title">Ήχος χαμηλής μπαταρίας</string>
      <string name="lte_4g_settings_4gdisable_summary">4G Ανενεργό</string>
      <string name="lte_4g_settings_4genable_summary">4G Ενεργό</string>
      <string name="lte_4g_settings_disable">Η λειτουργία πτήσης ή η κάρτα SIM δεν είναι έτοιμη</string>
@@ -5192,7 +5192,7 @@
      <string name="voice_recognizer_preference_summary">Απλή ομιλία σε κείμενο</string>
      <string name="voice_search_settings_title">Φωνητική αναζήτηση</string>
      <string name="voice_service_preference_section_title">Υπηρεσίες φωνητικών εντολών</string>
-     <string name="vol_silent_sounds_title">Σίγαση ήχου επαναφοράς</string>
+     <string name="vol_silent_sounds_title">Ενεργός ήχος λειτουργιών</string>
      <string name="volbtn_timeout_summary">Κάθε %s ms</string>
      <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
      <string name="volbtn_title">Μουσική</string>

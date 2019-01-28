@@ -1466,7 +1466,7 @@
      <string name="notification_mask_summary">Απόκρυψη περιεχομένου ειδοποίησης στην Οθόνη Κλειδώματος και στον Πίνακα.</string>
      <string name="notification_mask_title">Απόκρυψη περιεχομένου</string>
      <string name="notification_masked_item">Απόκρυψη ειδοποιήσεων</string>
-     <string name="notification_masked_subtitle">Απόκρυψη ειδοποιήσεων από εφαρμογές που προστατεύονται με κλείδωμα εφαρμογής</string>
+     <string name="notification_masked_subtitle">Απόκρ. ειδοπ. Κλειδωμένων εφαρμ.</string>
      <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="notify_channel_mipush">Προωθ. Μηνύματα Ασφάλειας</string>
      <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>

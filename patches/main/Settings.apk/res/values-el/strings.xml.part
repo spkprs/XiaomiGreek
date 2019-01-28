@@ -27,7 +27,7 @@
   <string name="ios_toggle_title">Στυλ γραμμής κατάστασης</string>
   <string name="launch_camera">Εκκίνηση Κάμερας</string>
   <string name="launch_my_app_title">Επιλογή εφαρμογής</string>
-  <string name="low_battery_warning_title">Προειδοποίηση χαμηλής μπαταρίας</string>
+  <string name="low_battery_warning_title">Ήχος χαμηλής μπαταρίας</string>
   <string name="mi_shopping_mall">Ενημέρωση MIUI</string>
   <string name="miui_updater">MIUI 10</string>
   <string name="miui_updater_summary">Ταχύτερο από το φως</string>
@@ -60,7 +60,7 @@
   <string name="toggles_columns_title">Αριθμός διακοπτών</string>
   <string name="toggles_count_title">Εικονίδια σε μεγιστοποιημένο πίνακα</string>
   <string name="translation_contributors_title">Συντελεστές</string>
-  <string name="vol_silent_sounds_title">Σίγαση ήχου επαναφοράς</string>
+  <string name="vol_silent_sounds_title">Ενεργός ήχος λειτουργιών</string>
   <string name="volbtn_timeout_summary">Κάθε: %s ms</string>
   <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
   <string name="volbtn_title">Μουσική</string>
