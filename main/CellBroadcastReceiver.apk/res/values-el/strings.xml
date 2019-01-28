@@ -93,8 +93,8 @@
   <string name="en_warning_alert_title">Προειδοποιητικό Σήμα</string>
   <string name="en_warning_alerts_title">Προειδοποιητικές ειδοποιήσεις</string>
   <string name="enable">Ενεργοποίηση</string>
-  <string name="enable_alert_speech_summary">Χρησιμοποιήστε το κείμενο προς την ομιλία για να μιλήσετε μηνύματα συναγερμού έκτακτης ανάγκης</string>
-  <string name="enable_alert_speech_title">Μιλήστε με μήνυμα ειδοποίησης</string>
+  <string name="enable_alert_speech_summary">Χρησιμοποιήστε το κείμενο σε ομιλία για Ομιλία μηνυμάτων ειδοποίησης έκτακτης ανάγκης</string>
+  <string name="enable_alert_speech_title">Ομιλία με μήνυμα ειδοποίησης</string>
   <string name="enable_alert_tone_summary">Έχει ενεργοποιηθεί ο ήχος ειδοποίησης</string>
   <string name="enable_alert_tone_title">Ήχος ειδοποίησης</string>
   <string name="enable_alert_vibrate_summary">Δόνηση κατά την ειδοποίηση</string>
@@ -103,12 +103,12 @@
   <string name="enable_channel_50_alerts_title">Εμφάνιση εκπομπών καναλιού 50</string>
   <string name="enable_channel_60_alerts_summary">Το κανάλι 60 χρησιμοποιείται στην Ινδία για ειδικές πληροφορίες για τον χειριστή</string>
   <string name="enable_channel_60_alerts_title">Εμφάνιση εκπομπών καναλιού 60</string>
-  <string name="enable_cmas_amber_alerts_summary">Εμφάνιση ενημερωτικών δελτίων έκτακτης ανάγκης απαγωγής παιδιών (ειδοποίηση AMBER)</string>
+  <string name="enable_cmas_amber_alerts_summary">Εμφάνιση ενημερωτικών δελτίων έκτακτης ανάγκης απαγωγής παιδιών (AMBER ALERT)</string>
   <string name="enable_cmas_amber_alerts_title">Εμφάνιση ειδοποιήσεων AMBER</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Προβολή ειδοποιήσεων για ακραίες απειλές για τη ζωή και την ιδιοκτησία</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Εμφάνιση ακραίες απειλές</string>
-  <string name="enable_cmas_presidential_alerts_summary">Εμφανίζει πάντα το προεδρικό ειδοποιήσεις</string>
-  <string name="enable_cmas_presidential_alerts_title">Εμφάνιση προειδοποιήσεων προεδρίας</string>
+  <string name="enable_cmas_presidential_alerts_summary">Εμφανίζει πάντα Προεδρικές ειδοποιήσεις</string>
+  <string name="enable_cmas_presidential_alerts_title">Εμφάνιση ειδοποιήσεων Προέδρου</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Προβολή ειδοποιήσεων για σοβαρές απειλές για τη ζωή και την ιδιοκτησία</string>
   <string name="enable_cmas_severe_threat_alerts_title">Εμφάνιση σοβαρών απειλών</string>
   <string name="enable_cmas_test_alerts_summary">Προβολή εκπομπών δοκιμών για το σύστημα Commercial Mobile Alert</string>

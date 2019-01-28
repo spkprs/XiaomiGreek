@@ -68,7 +68,7 @@
   <string name="volbtn_toggle_title">Διαχείριση μουσικής</string>
   <string name="volbtn_vol_down_title">Μείωση έντασης</string>
   <string name="volbtn_vol_up_title">Αύξηση έντασης</string>
-  <string name="wifi_type_approval_dialog_title">Επαφές</string>
-  <string name="wifi_type_approval_title">Επαφές</string>
+  <string name="wifi_type_approval_dialog_title">Επικοινωνία</string>
+  <string name="wifi_type_approval_title">Επικοινωνία</string>
   <string name="WiFiOn_mobile_title">Όταν είναι ενεργοποιημένο το Wi-Fi</string>
 </resources>

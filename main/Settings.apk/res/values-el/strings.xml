@@ -5718,8 +5718,8 @@ Site: mi-room.ru
 Telegram channel: @miroom
 Telegram chat: @xiaomi_global
 VK: vk.com/mi_room_ru"</string>
-     <string name="wifi_type_approval_dialog_title">Επαφές</string>
-     <string name="wifi_type_approval_title">Επαφές</string>
+     <string name="wifi_type_approval_dialog_title">Επικοινωνία</string>
+     <string name="wifi_type_approval_title">Επικοινωνία</string>
      <string name="wifi_unchanged">(χωρίς αλλαγή)</string>
      <string name="wifi_unspecified">(δεν έχει οριστεί)</string>
      <string name="wifi_update">Ανανέωση στατιστικών</string>
