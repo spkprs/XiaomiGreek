@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
      <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
@@ -287,4 +287,5 @@
      <string name="xiaomi_weather_description_title">Σχετικά με Καιρό</string>
      <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
      <string name="your_location">Η τοποθεσία σας</string>
+    <string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
 </resources>
