@@ -71,7 +71,7 @@
      <string name="buffering">Φόρτωση…</string>
      <string name="cancel_action">Άκυρο</string>
      <string name="cancel_btn_label">Άκυρο</string>
-     <string name="cant_edit_lock_screen">Αδύνατη η επεξεργασία του στυλ της οθόνης κλειδώματος.</string>
+     <string name="cant_edit_lock_screen">Αδύνατη η επεξεργασία του τύπου οθόνης κλειδώματος.</string>
      <string name="cant_remove_folder">Αδύνατη η διαγραφή του άδειου φακέλου</string>
      <string name="cant_remove_retained_app">Αδύνατη η απεγκατάσταση διατηρητέας εφαρμογής</string>
      <string name="cant_remove_system_app">Αδύνατη η διαγραφή εφαρμογής συστήματος</string>
@@ -244,10 +244,10 @@
      <string name="online_wallpaper">Online</string>
      <string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
      <string name="open_personal_assistant_dialog_btn_confirm">Κλείσιμο</string>
-     <string name="open_personal_assistant_dialog_desc">Δεν θα μπορείτε να κάνετε χρήση του Έξυπνου βοηθού και να λάβετε τις ενημερώσεις του. Απενεργοποίηση τώρα;</string>
-     <string name="open_personal_assistant_dialog_desc_international">Δεν θα μπορείτε να χρησιμοποιείτε τις κάρτες του Έξυπνου Βοηθού (Αποθέσεις, Συντομεύσεις κ.λ.π.) και λήψη ενημερώσεων μετά την απενεργοποίηση αυτής της λειτουργίας.</string>
-     <string name="open_personal_assistant_dialog_title">Απενεργοποίηση Έξυπνου βοηθού</string>
-     <string name="open_personal_assistant_title">Έξυπνος Βοηθός</string>
+     <string name="open_personal_assistant_dialog_desc">Δεν θα μπορείτε να κάνετε χρήση του Προσωπικού βοηθού και να λάβετε τις ενημερώσεις του. Απενεργοποίηση τώρα;</string>
+     <string name="open_personal_assistant_dialog_desc_international">Δεν θα μπορείτε να χρησιμοποιείτε τις κάρτες του Προσωπικού βοηθού (Αποθέσεις, Συντομεύσεις κ.λ.π.) και λήψη ενημερώσεων μετά την απενεργοποίηση αυτής της λειτουργίας.</string>
+     <string name="open_personal_assistant_dialog_title">Απενεργοποίηση Προσωπικού βοηθού</string>
+     <string name="open_personal_assistant_title">Προσωπικός βοηθός</string>
      <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
      <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
      <string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή να προσθέτει widgets, χωρίς την παρέμβαση του χρήστη.</string>
