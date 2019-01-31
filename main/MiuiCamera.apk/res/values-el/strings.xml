@@ -233,7 +233,7 @@
      <string name="pano_how_to_use_prompt_align_reference_line">Ευθυγραμμίστε το βέλος με τη γραμμή αναφοράς</string>
      <string name="pano_how_to_use_prompt_go_on_moving">Συνέχιστε την κίνηση...</string>
      <string name="pano_how_to_use_prompt_slow_down">Παρακαλώ πιο αργά</string>
-     <string name="pano_how_to_use_prompt_start">Αγγίξτε το βέλος για αλλαγή κατεύθυνσης και αρχίστε να κινείστε αργά.</string>
+     <string name="pano_how_to_use_prompt_start">Άγγιγμα βέλους για αλλαγή κατεύθυνσης και ξεκινήστε αργά.</string>
      <string name="pano_how_to_use_prompt_to_move">Ξεκινήστε αργά</string>
      <string name="path_settings">Εφαρμογές συστήματος/Κάμερα/Ρυθμίσεις</string>
      <string name="popup_tip_3d_beauty_intro_text">3D Αισθητική</string>

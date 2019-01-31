@@ -1603,9 +1603,9 @@
      <string name="thumbnail_name">μικρογραφία</string>
      <string name="tip_capture_location">Τοποθεσία:</string>
      <string name="tip_capture_params">Παράμετροι EXIF:</string>
-     <string name="tip_capture_time">Ελήφθη την:</string>
-     <string name="tip_file_info">Πληροφορίες αρχείου:</string>
-     <string name="tip_file_path">Τοπική διαδρομή:</string>
+     <string name="tip_capture_time">Ελήφθη:</string>
+     <string name="tip_file_info">Πληροφορίες:</string>
+     <string name="tip_file_path">Διαδρομή:</string>
      <string name="tip_not_download">Δεν έχει ληφθεί. Αυτό θα γίνει αυτόματα κατά τη διάρκεια της αναπαραγωγής.</string>
      <string name="tip_screenshot_package_info">Όνομα εφαρμογής:</string>
      <string name="title_set_name">Ορισμός ονόματος</string>
