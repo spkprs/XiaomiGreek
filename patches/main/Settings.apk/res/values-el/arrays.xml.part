@@ -329,7 +329,7 @@
   </string-array>
   <string-array name="ios_toggle_entries">
       <item>Προεπιλογή</item>
-      <item>iOS Στυλ</item>
+      <item>Στυλ iOS</item>
       <item>Νέα</item>
       <item>AOSP</item>
   </string-array>
