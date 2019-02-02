@@ -48,7 +48,7 @@
   <string name="smart_mobiledata_on">Τα δεδομένα κινητής είναι ενεργά</string>
   <string name="smart_timer">Χρονομετρητής μεταφοράς δικτύου στο 2G</string>
   <string name="smart_timer_sleepon">Αφύπνιση χρονομετρητή όταν το δίκτυο μεταβαίνει σε 2G</string>
-  <string name="smart_wifi_data_transfer">Απενεργοποίηση Wi-Fi όταν καλείτε</string>
+  <string name="smart_wifi_data_transfer">Απενεργοποίηση Wi-Fi στην Κλήση</string>
   <string name="status_bar_icons_switcher">Εικονίδια γραμμής κατάστασης</string>
   <string name="status_bar_screen_button_keys">Υποστήριξη πλοήγησης Χειρονομιών</string>
   <string name="switch_mobile_title">Τύπος δικτύου κατά την κλήση</string>
@@ -56,7 +56,7 @@
   <string name="toast_appname_summary">Εμφάνιση ονόματος εφαρμ. για προειδοποιήσεις</string>
   <string name="toast_appname_title">Όνομα εφαρμ. για προειδοποίηση</string>
   <string name="toggle_count_title">Εικονίδια σε ελαχιστοποιημένο πίνακα</string>
-  <string name="toggles_columns_summary">Εμφάνιση: %s σε μια γραμμή σε μία σελίδα</string>
+  <string name="toggles_columns_summary">Εμφάνιση: %s σε μια γραμμή/σελίδα</string>
   <string name="toggles_columns_title">Αριθμός διακοπτών</string>
   <string name="toggles_count_title">Εικονίδια σε μεγιστοποιημένο πίνακα</string>
   <string name="translation_contributors_title">Συντελεστές</string>
@@ -64,7 +64,7 @@
   <string name="volbtn_timeout_summary">Κάθε: %s ms</string>
   <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
   <string name="volbtn_title">Μουσική</string>
-  <string name="volbtn_toggle_summary">Διαχείρηση μουσικής με παρατεταμένα πλήκτρα έντασης όταν η οθόνη είναι κλειδωμένη</string>
+  <string name="volbtn_toggle_summary">Διαχείριση μουσικής αγγίζοντας παρατεταμένα τα πλήκτρα έντασης σε κλειδωμένη οθόνη</string>
   <string name="volbtn_toggle_title">Διαχείριση μουσικής</string>
   <string name="volbtn_vol_down_title">Μείωση έντασης</string>
   <string name="volbtn_vol_up_title">Αύξηση έντασης</string>
