@@ -290,7 +290,7 @@
         <item>Τεγκουσιγάλπα</item>
         <item>Παραμαρίμπο</item>
         <item>Κίτο</item>
-		<item>Νήσοι Μάρσαλ</item>
+	<item>Νήσοι Μάρσαλ</item>
         <item>Νήσος Μιντγουέι</item>
         <item>Ώρα Ειρηνικού</item>
         <item>Σασκατσουάν</item>
@@ -320,18 +320,18 @@
 		<item>Γρήγορα</item>
   </string-array>
   <string-array name="def_audio_entries">
-    <item>Ήχος κλήσης</item>
-    <item>Πολυμέσων</item>
+      <item>Ήχος κλήσης</item>
+      <item>Πολυμέσων</item>
   </string-array>
   <string-array name="icon_app_color_entries">
-    <item>Δυναμικά</item>
-    <item>Χρωματιστά</item>
+      <item>Δυναμικά</item>
+      <item>Χρωματιστά</item>
   </string-array>
   <string-array name="ios_toggle_entries">
-    <item>Προεπιλογή</item>
-    <item>iOS Στυλ</item>
-    <item>Νέα</item>
-    <item>AOSP</item>
+      <item>Προεπιλογή</item>
+      <item>iOS Στυλ</item>
+      <item>Νέα</item>
+      <item>AOSP</item>
   </string-array>
   <string-array name="low_battery_warning_entries">
     <item>Μήνυμα και ήχος</item>
