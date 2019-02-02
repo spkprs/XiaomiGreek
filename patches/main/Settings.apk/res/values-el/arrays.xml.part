@@ -312,12 +312,12 @@
         <item>Μαγκαντάν</item>
         <item>Τόνγκα</item>
     </string-array>
-	<string-array name="crt_animation_entries">
-		<item>Ανενεργή</item>
-		<item>Πολύ αργή</item>
-		<item>Αργή</item>
-		<item>Κανονική</item>
-		<item>Γρήγορα</item>
+   <string-array name="crt_animation_entries">
+       <item>Ανενεργή</item>
+       <item>Πολύ αργή</item>
+       <item>Αργή</item>
+       <item>Κανονική</item>
+       <item>Γρήγορα</item>
   </string-array>
   <string-array name="def_audio_entries">
       <item>Ήχος κλήσης</item>
@@ -340,9 +340,9 @@
     <item>Ανενεργό</item>
   </string-array>
   <string-array name="mtp_default_entries">
-    <item>Φόρτιση</item>
-    <item>MTP</item>
-    <item>MTP σε κλειδωμένη οθόνη με κωδικό πρόσβασης</item>
+      <item>Φόρτιση</item>
+      <item>MTP</item>
+      <item>MTP σε κλειδωμένη οθόνη με κωδικό</item>
   </string-array>
   <string-array name="smart_mobiledata_entries">
     <item>Χωρίς αλλαγή</item>
