@@ -768,8 +768,6 @@
      <string name="download_type_thumbnail">Υψηλή ποιότητα</string>
      <string name="download_type_thumbnail_desc">Υψηλή ποιότητα</string>
      <string name="download_type_title">Ποιότητα Λήψης</string>
-     <!--string name="download_without_wifi_msg">Χρησιμοποιώντας τα δεδομένα κινητής για να κατεβάσετε φωτογραφίες, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
-     <string name="download_without_wifi_title">Προειδοποίηση χρήσης δεδομένων</string-->
      <string name="downloading_desc">%1$d/%2$d</string>
      <string name="downloading_dialog_message">Μπορείτε να επιλέξετε την ποιότητα των ληφθέντων εικόνων ή να απενεργοποιήσετε τις αυτόματες λήψεις στις Ρυθμίσεις.</string>
      <string name="downloading_title">Λήψη φωτογραφιών από το Mi Cloud</string>
@@ -1103,7 +1101,6 @@
      <string name="movie_download_sdk_without_wifi_msg">"Φαίνεται ότι η συσκευή σας δεν είναι συνδεδεμένη στο Wi-Fi. Λήψη της απαιτούμενης προσθήκης (3MB) χρησιμοποιώντας δεδομένα κινητής ;"</string>
      <string name="movie_download_sdk_without_wifi_title">Λήψη με χρήση δεδομένων κινητής</string>
      <string name="movie_download_without_wifi_msg">"Η χρήση σύνδεσης δεδομένων κινητής για λήψη αρχείων θα αυξήσει τη χρήση δεδομένων. Εάν ξεπεράσετε το όριο του πακέτου σας, ο φορέας σας θα σας χρεώσει με πρόσθετα τέλη."</string>
-     <!--string name="movie_download_without_wifi_title">Προειδοποίηση χρήσης δεδομένων</string-->
      <string name="movie_edit">Επεξεργασία</string>
      <string name="movie_item_name">Κλίπ</string>
      <string name="movie_preview_btn">Προεπισκόπηση</string>
@@ -1552,7 +1549,6 @@
      <string name="story_cancel_download">Ακύρωση</string>
      <string name="story_download">Λήψη</string>
      <string name="story_download_failed_for_notwork">"Αδυναμία λήψης. Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</string>
-     <!--string name="story_download_without_wifi_msg">"Η χρήση σύνδεσης δεδομένων κινητής για λήψη αρχείων θα αυξήσει τη χρήση δεδομένων. Εάν ξεπεράσετε το όριο του πακέτου σας, ο φορέας σας θα σας χρεώσει με πρόσθετα τέλη."</string-->
      <string name="story_download_without_wifi_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="story_option_menu_delete">Διαγραφή ιστορίας</string>
      <string name="story_option_menu_rename">Μετονομασία</string>
@@ -1661,8 +1657,6 @@
      <string name="video_editor_down_load_now">Λήψη</string>
      <string name="video_editor_download">Λήψη</string>
      <string name="video_editor_download_failed_for_notwork">Αδύνατη η λήψη. Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
-     <!--string name="video_editor_download_without_wifi_msg">Η χρήση της σύνδεσης δεδομένων για λήψη αρχείων θα αυξήσει τη χρήση τους. Εάν υπερβείτε το όριο δεδομένων του σχεδίου σας, ο φορέας σας μπορεί να σας χρεώσει με πρόσθετα τέλη.</string>
-     <string name="video_editor_download_without_wifi_title">Προειδοποίηση χρήσης</string-->
      <string name="video_editor_encode_video">Κωδικοποίηση βίντεο…</string>
      <string name="video_editor_encode_video_error">Αδύνατη η κωδικοποίηση βίντεο</string>
      <string name="video_editor_fatal_error">Αγνωστο σφάλμα</string>
