@@ -244,4 +244,13 @@
      <string name="worldcolock_timezone_date">MMM dd</string>
      <string name="worldcolock_timezone_gap">%s Ω</string>
      <string name="worldcolock_timezone_local">Ίδια με την τοπική</string>
+	  <string name="korea_permission_calendar"> Ημερολόγιο</string>
+	  <string name="korea_permission_calendar_desc"> Για πρόσβαση σε πληροφορίες συμβάντων και την αποστολή υπενθυμίσεων</string>
+	  <string name="korea_permission_phone">Τηλέφωνο</string>
+	  <string name="korea_permission_phone_desc"> Για πρόσβαση κατάστασης συσκευής και σίγαση υπενθυμίσεων κατά τη διάρκεια κλήσεων</string>
+	  <string name="korea_permission_storage">Αποθήκευση</string>
+	  <string name="korea_permission_storage_desc">Για αποθήκευση αφυπνίσεων</string>
+	  <string name="module_download_data_msg_replace">Διατίθεται ενημέρωση ήχου έξυπνων ειδοποιήσεων (≈ 20MB). Σύνδεση στο δίκτυο για λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας;</string>
+	  <string name="module_download_msg_replace">Διατίθεται ενημέρωση ήχου έξυπνων ειδοποιήσεων. Σύνδεση στο δίκτυο για λήψη τώρα?</string>
+	  <string name="search_menu_title">Αναζήτηση</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <plurals name="dirty_blocklist_count">
         <item quantity="other">%d καταχωρήσεις φραγών</item>
@@ -65,4 +65,16 @@
         <item quantity="other">Συνέχιση συγχρονισμού μετά από %d λεπτά</item>
         <item quantity="one">Συνέχιση συγχρονισμού μετά από %d λεπτό</item>
      </plurals>
+	  <plurals name="micloud_manual_pause_and_resume">
+		<item quantity="other">Ο συγχρονισμός διακόπηκε. Συνέχιση μετά από %d λεπτά</item>
+		<item quantity="one">Ο συγχρονισμός διακόπηκε. Συνέχιση μετά από %d λεπτό</item>
+	  </plurals>
+	   <plurals name="last_sync_time_mins_ago">
+		<item quantity="other">"  λεπτά πριν "</item>
+		<item quantity="one">"  λεπτό πριν"</item>
+	  </plurals>
+	  <plurals name="last_sync_time_hours_ago">
+		<item quantity="other">"  ώρες πριν"</item>
+		<item quantity="one">"  ώρα πριν"</item>
+	  </plurals>
 </resources>

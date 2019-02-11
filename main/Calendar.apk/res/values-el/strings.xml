@@ -338,7 +338,9 @@
      <string name="hksar_establishment_day">香港特别行政区成立纪念日</string>
      <string name="hoar_frost_falls">霜降</string>
      <string name="holiday_card_title">Αργίες</string>
-     <string name="holiday_detail_read_more">More</string>
+     <string name="holiday_detail_read_more">Περισσότερα</string>
+  <string name="talkback_festival_and">και</string>
+  <string name="talkback_festival_is">Η γιορτή είναι</string>
      <string name="homepage_nowadays">今天</string>
      <string name="homepage_today">今</string>
      <string name="horoscope_card_comprehensive">综合运势：</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <array name="ai_scene_drawables">
         <item>@drawable/ic_ai_scene_on</item>
@@ -72,6 +72,7 @@
         <item>Ναός</item>
         <item>Παραλία</item>
         <item>Υποβρύχιο</item>
+        <item>Αγαλμα</item>
      </string-array>
      <array name="camera_face_beautify_icons">
         <item>@drawable/ic_camera_face_beatify_smart</item>

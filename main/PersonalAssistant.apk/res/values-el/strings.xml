@@ -1692,4 +1692,5 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
 	  <string name="notification_channel_favorite_description">Ειδοποιήσεις σχετικά με τα στοιχεία που προστέθηκαν στα αγαπημένα σε διαφορετικές εφαρμογές</string>
 	  <string name="notification_channel_payment_description">Ειδοποιήσεις σχετικά με  Πληρωμές</string>
 	  <string name="notification_channel_shopping_description">Ειδοποιήσεις για τα προϊόντα που προστέθηκαν στα αγαπημένα ή το καλάθι αγορών σας</string>
+      <string name="card_expand_note_add_checkbox">Προσθήκη πλαισίου ελέγχου</string>
 </resources>

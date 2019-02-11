@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="about_device_info">Σχετικά με την συσκευή</string>
      <string name="access_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει.</string>
@@ -489,4 +489,12 @@ ID:%s
      <string name="vip_account_settings">Ρυθμίσεις VIP</string>
      <string name="vip_settings_info">Ρυθμίσεις VIP</string>
      <string name="xiao_mi_vip">Mi VIP</string>
+	  <string name="confirm_new_pwd">Επιβεβαίωση νέου κωδικού</string>
+	  <string name="inconsistent_pwd">"Οι κωδικοί δεν ταιριάζουν"</string>
+	  <string name="input_new_pwd">Εισαγωγή νέου κωδικού</string>
+	  <string name="mi_finance">Τα οικονομικά μου</string>
+	  <string name="mi_finance_info">Μπόνους για νέους χρήστες</string>
+	  <string name="same_new_and_old_pwd">"Δεν μπορεί να είναι το ίδιο με τον τρέχοντα κωδικό"</string>
+	  <string name="sim_card">Κάρτα SIM</string>
+	  <string name="used_cloud_storage_info">χρησιμοποιείται %s αποθηκ. χώρος</string>
 </resources>
