@@ -1620,7 +1620,7 @@
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_verbose_logging">Ενεργοποιήστε τη λεπτομερή καταγραφή WLAN</string>
   <string name="wifi_verbose_logging_summary">Αύξηση του επιπέδου καταγραφής WLAN, εμφάνιση ανά SSID RSSI σε WLAN Picker</string>
-  <string name="wificall_switch_summary">Η συσκευή σας μπορεί να αλλάξει μεταξύ Wi-Fi και VoLTE όταν η σύνδεση είναι ασθενής</string>
+  <string name="wificall_switch_summary">Χρησιμοποιήστε το Wi-Fi για πραγματοποίηση και λήψη κλήσεων, όποτε είναι δυνατόν</string>
   <string name="wificall_switch_title">Κάντε κλήσεις με χρήση Wi-Fi</string>
   <string name="wild_prompt_str">Αντικατάσταση χαρακτήρα μπαλαντέρ με</string>
   <string name="window_animation_scale_title">Κλίμακα κινούμενων παραθύρων</string>

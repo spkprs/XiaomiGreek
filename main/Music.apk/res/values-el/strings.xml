@@ -727,4 +727,17 @@
   <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
   <string name="gcm_fallback_notification_channel_label">Διάφορα</string>
   <string name="ready_to_play">Επόμενο</string>
+  <string name="agreement_desc">Συμφωνία χρήστη (υποχρεωτική)</string>
+  <string name="app_permission_confirm">Κατανοητό</string>
+  <string name="app_permission_optional">Προαιρετικά δικαιώματα</string>
+  <string name="app_permission_require">Υποχρεωτικά δικαιώματα</string>
+  <string name="app_permission_use_desc">Δικαιώματα</string>
+  <string name="app_permission_use_group_account">Λογαριασμοί</string>
+  <string name="app_permission_use_group_account_desc">Για λήψη πληροφοριών σχετικά με το Λογαριασμό Mi</string>
+  <string name="app_permission_use_group_phone">Τηλέφωνο</string>
+  <string name="app_permission_use_group_phone_desc">Για τις υπηρεσίες Google Push</string>
+  <string name="app_permission_use_group_storage">Αποθ. χώρος</string>
+  <string name="app_permission_use_group_storage_desc">Για εύρεση και αναπαραγωγή τραγουδιών αποθηκευμένων στη συσκευή</string>
+  <string name="data_use_desc">Νομικά έγγραφα</string>
+  <string name="privacy_desc">Πολιτική απορρήτου (υποχρεωτική)</string>
 </resources>
