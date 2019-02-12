@@ -203,6 +203,7 @@
      <string name="module_title_document">Έγγραφο</string>
      <string name="module_title_plant">Φυτό</string>
      <string name="module_title_shopping">Ψώνια</string>
+     <string name="module_title_study">Μελέτη</string>
      <string name="module_title_translation">Μετάφραση</string>
      <string name="name">Όνομα:</string>
      <string name="new_schedule">Δημιουργία συμβάντος</string>
@@ -289,4 +290,12 @@
      <string name="wifi_pwd">Κωδικός:</string>
      <string name="wifi_security">Ασφάλεια:</string>
      <string name="wifi_ssid">SSID:</string>
+     <string name="crop_title_study">Περικοπή φωτογραφίας</string>
+     <string name="common_retry">Προσπαθήστε ξανά</string>
+     <string name="choose_pay_title">Επιλέξτε τρόπο πληρωμής</string>
+     <string name="business_card_result_title">Επαγγελματική κάρτα</string>
+     <string name="action_search">Αναζήτηση</string>
+     <string name="error_empty_result">Δεν βρέθηκαν αποτελέσματα</string>
+     <string name="no_support_to_translate_type">"Αυτή η γλώσσα δεν υποστηρίζεται"</string>
+     <string name="translate_parallel_2_lines">Βεβαιωθείτε ότι το κείμενο είναι παράλληλο με τις γραμμές στην οθόνη</string>
 </resources>

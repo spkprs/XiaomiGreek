@@ -601,6 +601,7 @@
   <string name="hint">Υπόδειξη</string>
   <string name="history">Ιστορικό</string>
   <string name="home_description">Αρχική</string>
+  <string name="home_hybrid_application_tips">Μικροεφαρμογές περιλαμβάνονται εδώ</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Διαγραφή</string>
   <string name="homepage_get_location">Λήψη τοποθεσίας</string>
@@ -615,6 +616,8 @@
   <string name="hot_word_item_mark_new_text">ΝΕΟ</string>
   <string name="hot_word_item_mark_recommend_text">ΠΡΟΤΕΙΝΟΜΕΝΑ</string>
   <string name="hot_words_item_ads_mark">Διαφημίσεις</string>
+  <string name="hybrid_application_no_data_text">Χωρίς Μικροεφαρμογές</string>
+  <string name="hybrid_popup_window_delete_button">Διαγραφή</string>
   <string name="ignore_add_pwa_dialog_today">Μην εμφανιστεί σήμερα</string>
   <string name="in_secureaccess">Εναλλαγή σε Ασφαλή λειτουργία</string>
   <string name="info_flow_description">Κανάλι πληροφοριών</string>
@@ -1595,4 +1598,5 @@
   <string name="voice_title_speech_again">Δεν μπορώ να σας καταλάβω</string>
   <string name="weather_location_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει τη χρήση.</string>
   <string name="webpage_title">Αγαπημένα και ιστορικό</string>
+  <string name="window_manager_hybrid_application_list_title_text">Πρόσφατη Χρήση</string>
 </resources>

@@ -1249,5 +1249,9 @@
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Προστέθηκε στην Αρχική οθόνη</string>
      <string name="yellowpage_search_the_yellowpage">Αναζήτηση στον κατάλογο</string>
      <string name="yellowpage_user_profile">Προφίλ</string>
+     <string name="yesterday">Χθές</string>
      <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
+     <string name="open_wifi_connect_and_use_data_summary">Χρήση δεδομένων. Πατήστε για μετάβαση σε Wi-Fi.</string>
+     <string name="contacts_default_notification_channel">Ειδοποιήσεις</string>
 </resources>
+

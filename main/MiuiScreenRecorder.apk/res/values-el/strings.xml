@@ -88,4 +88,5 @@
      <string name="unchecked">Μη επιλεγμένο</string>
      <string name="using_record_confirm_cancel">Περιορισμός</string>
      <string name="using_record_confirm_ok">Επιτρέπεται</string>
+     <string name="warning_recording_when_a2dp_connect">"Η συσκευή σας δεν υποστηρίζει εγγραφή ήχων συστήματος ενώ χρησιμοποιείται ακουστικό Bluetooth."</string>
 </resources>

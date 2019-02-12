@@ -50,6 +50,9 @@
      <string name="cloud_app_restore_success">Οι εφαρμογές αποκαταστάθηκαν</string>
      <string name="cloud_app_restore_wifi_prompt">Για την επαναφορά από ένα αντίγραφο ασφαλείας Mi Cloud, πρέπει να συνδεθείτε σε ένα δίκτυο Wi‑Fi.</string>
      <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, καθημερινά αντίγραφα, και πολλά άλλα.</string>
+    <string name="cloud_back_up_subscribe_vip_title">Αναβάθμιση Mi Account</string>
+     <string name="cloud_back_up_subscribe_vip_confirm">Αναβάθμιση</string>
      <string name="cloud_back_up_detail_discription">"Αυτά τα στοιχεία θα αντιγραφούν στο Mi Cloud όταν η συσκευή σας είναι συνδεδεμένη σε Wi‑Fi: 
 *  Εφαρμογές, Αρχική οθόνη, Ταπετσαρίες 
 *  Ξυπνητήρια, ρολόι και ρυθμίσεις ώρας 
