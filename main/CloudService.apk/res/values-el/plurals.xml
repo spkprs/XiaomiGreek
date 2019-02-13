@@ -66,15 +66,15 @@
         <item quantity="one">Συνέχιση συγχρονισμού μετά από %d λεπτό</item>
      </plurals>
 	  <plurals name="micloud_manual_pause_and_resume">
-		<item quantity="other">Ο συγχρονισμός διακόπηκε. Συνέχιση μετά από %d λεπτά</item>
-		<item quantity="one">Ο συγχρονισμός διακόπηκε. Συνέχιση μετά από %d λεπτό</item>
+		<item quantity="other">Ο συγχρονισμός διακόπηκε. Συνέχιση σε %d λεπτά...</item>
+		<item quantity="one">Ο συγχρονισμός διακόπηκε. Συνέχιση σε %d λεπτό...</item>
 	  </plurals>
 	   <plurals name="last_sync_time_mins_ago">
-		<item quantity="other">"  λεπτά πριν "</item>
-		<item quantity="one">"  λεπτό πριν"</item>
+		<item quantity="other">" %s λεπτά πριν "</item>
+		<item quantity="one">"  %s λεπτό πριν"</item>
 	  </plurals>
 	  <plurals name="last_sync_time_hours_ago">
-		<item quantity="other">"  ώρες πριν"</item>
-		<item quantity="one">"  ώρα πριν"</item>
+		<item quantity="other">"  %s ώρες πριν"</item>
+		<item quantity="one">"  %s ώρα πριν"</item>
 	  </plurals>
 </resources>
