@@ -70,11 +70,11 @@
 		<item quantity="one">Ο συγχρονισμός διακόπηκε. Συνέχιση σε %d λεπτό...</item>
 	  </plurals>
 	   <plurals name="last_sync_time_mins_ago">
-		<item quantity="other">" %s λεπτά πριν "</item>
-		<item quantity="one">"  %s λεπτό πριν"</item>
+		<item quantity="other"> %s λεπτά πριν </item>
+		<item quantity="one">  %s λεπτό πριν</item>
 	  </plurals>
 	  <plurals name="last_sync_time_hours_ago">
-		<item quantity="other">"  %s ώρες πριν"</item>
-		<item quantity="one">"  %s ώρα πριν"</item>
+		<item quantity="other">  %s ώρες πριν</item>
+		<item quantity="one">  %s ώρα πριν</item>
 	  </plurals>
 </resources>

@@ -1383,9 +1383,9 @@
         <item>@string/layout_size_exhuge</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
-        <item>4.5 ίντσες</item>
-        <item>4.0 ίντσες</item>
-        <item>3.5 ίντσες</item>
+        <item>4.5\u2033</item>
+        <item>4.0\u2033</item>
+        <item>3.5\u2033</item>
      </string-array>
      <string-array name="haptic_feedback_level_texts">
         <item>Ανενεργή</item>
@@ -1465,7 +1465,7 @@
         <item>green</item>
         <item>cyan</item>
         <item>white</item>
-        <item>\#FFAA00AA</item>
+        <item>magenta</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 δευτ.</item>

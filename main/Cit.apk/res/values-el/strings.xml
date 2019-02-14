@@ -570,6 +570,17 @@
   <string name="cit_tool_select_none">Χωρίς επιλογή</string>
   <string name="cit_tool_select_opposite">Επιλέξτε αντίθετα</string>
   <string name="cit_tool_setting_expired">Ρύθμιση έληξε, προσπαθήστε ξανά!</string>
-  <string name="cit_tool_setting_wait">Ρύθμιση! περιμένετε (5δ)</string>
+  <string name="cit_tool_setting_wait">Ρύθμιση! περιμένετε...</string>
   <string name="cit_tool_to_fetching">για να φέρετε</string>
+  <string name="cit_tool_active_mbn">ενεργό</string>
+  <string name="cit_tool_getting_expired">Η Λήψη Έληξε!</string>
+  <string name="cit_tool_getting_wait">Λήψη! περιμένετε</string>
+  <string name="cit_tool_mbn_default_notfiy">ππροεπιλογή MBN</string>
+  <string name="cit_tool_mbn_no_default_notfiy">Χωρίς προεπιλογή MBN</string>
+  <string name="cit_tool_mbn_path_select_hit">επιλέξτε την πλήρη διαδρομή του mbn:</string>
+  <string name="cit_tool_mbn_path_select_notice">μην αναζητάτε παραπάνω; Αναζήτηση εδώ; Όπως για MCFG, CT, EPS...</string>
+  <string name="cit_tool_mbn_recovery_default">Προεπιλογή ανάκτησης MBN</string>
+  <string name="cit_tool_modem_clear_empty">εκκαθάριση</string>
+  <string name="cit_tool_modem_mbn_config_load_and_active">MBN εργαλείο φόρτωσης και ρύθμισης παραμέτρων</string>
+  <string name="cit_tool_opt_fail_info_notify">Η επιλογή απέτυχε, επανεκκινήστε και δοκιμάστε ξανά.</string>
 </resources>
