@@ -238,4 +238,12 @@
 	  <string name="permission_intro_microphone">Για την εγγραφή φωνητικών σημειώσεων</string>
 	  <string name="permission_intro_phone">Για την επισήμανση σημειώσεων που λαμβάνονται κατά τη διάρκεια κλήσεων</string>
 	  <string name="permission_intro_storage">Για την αποθήκευση σημειώσεων και συνημμένων</string>
+     <string name="toast_refuse_to_use_contact">"Τα δικαιώματα επαφών είναι περιορισμένα.
+Να επιτρέπεται στις σημειώσεις να διαβάζουν τις επαφές σας και να βρίσκουν λογαριασμούς στη συσκευή."</string>
+     <string name="toast_refuse_to_use_external_storage">"Τα δικαιώματα αποθήκευσης είναι περιορισμένα.
+Να επιτρέπεται στις σημειώσεις να διαβάζουν τα περιεχόμενα της κάρτας SD."</string>
+     <string name="toast_refuse_to_use_phone_state">"Τα δικαιώματα τηλεφώνου είναι περιορισμένα.
+Να επιτρέπεται στις σημειώσεις να διαβάζουν την κατάσταση και την ταυτότητα τηλεφώνου."</string>
+     <string name="toast_refuse_to_use_record_audio">"Τα δικαιώματα μικροφώνου είναι περιορισμένα.
+Να επιτρέπεται στις σημειώσεις την εγγραφή ήχου."</string>
 </resources>

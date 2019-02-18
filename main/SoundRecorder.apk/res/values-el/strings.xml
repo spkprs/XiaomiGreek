@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="alert_message_clear_records">Διαγραφή επιλεγμένων εγγραφών;</string>
      <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
@@ -123,10 +123,6 @@
      <string name="online_recognize_running">Ακριβής αναγνώριση...</string>
      <string name="online_recognize_service_unavailable">Η υπηρεσία αυτή τη στιγμή δεν είναι διαθέσιμη. Παρακαλώ δοκιμάστε αργότερα</string>
      <string name="order_item_duration">διάρκεια %s</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Order number: %s -->
      <string name="order_item_number">Παραγγελία Νο.:$s</string>
      <string name="order_item_price">￥%s</string>
      <string name="path_soundrecorder_setting">Εφαρμογές συστήματος/Ηχογράφηση</string>
@@ -281,4 +277,10 @@
      <string name="webview_try_again">Δοκιμάστε ξανά</string>
      <string name="wifi_recommended_body" formatted="false">Χρήση δεδομένων κινητής για λήψη του αρχείου (%s) θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα. Αναμονή σύνδεσης Wi‑Fi για τη λήψη αυτού του αρχείου, πατήστε %s.</string>
      <string name="wifi_recommended_title">Προειδοποίηση χρήσης δεδομένων</string>
+	  <string name="korea_permission_phone">Τηλέφωνο</string>
+	  <string name="korea_permission_phone_resc">Για πρόσβαση στην κατάσταση της συσκευής και χειρισμός εγγραφών κατά τη διάρκεια κλήσεων</string>
+	  <string name="korea_permission_record">Μικρόφωνο</string>
+	  <string name="korea_permission_record_resc">Για την εγγραφή ήχου</string>
+	  <string name="korea_permission_storage">Αποθήκευση</string>
+	  <string name="korea_permission_storage_desc">Για την αποθήκευση εγγραφών</string>
 </resources>

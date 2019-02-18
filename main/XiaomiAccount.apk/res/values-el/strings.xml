@@ -497,4 +497,21 @@ ID:%s
 	  <string name="same_new_and_old_pwd">"Δεν μπορεί να είναι το ίδιο με τον τρέχοντα κωδικό"</string>
 	  <string name="sim_card">Κάρτα SIM</string>
 	  <string name="used_cloud_storage_info">χρησιμοποιείται %s αποθηκ. χώρος</string>
+	  <string name="exit">Έξοδος</string>
+	  <string name="i_agree">OK</string>
+	  <string name="i_agree_continue">Συνέχεια</string>
+	  <string name="kr_license_desc">Ο Mi λογαριασμός και η υπηρεσία MiCloud σας χρειάζονται για την συμφωνία χρήστη και την πολιτική απορρήτου.</string>
+	  <string name="kr_permission_contacts_desc">Χρησιμοποιείται για την ανάγνωση πληροφοριών επαφών</string>
+	  <string name="kr_permission_desc">Διαβάστε παρακάτω τις απαιτούμενες άδειες</string>
+	  <string name="kr_permission_phone_desc">Χρησιμοποιείται για την ασφάλεια του λογαριασμού</string>
+	  <string name="kr_permission_sms_desc">Χρησιμοποιείται για αυτόματη συμπλήρωση του κωδικού επαλήθευσης</string>
+	  <string name="kr_permission_storage_desc">Χρησιμοποιείται για πληροφορίες διάγνωσης καταστήματος</string>
+	  <string name="optional_permissions">Προαιρετικά δικαιώματα</string>
+	  <string name="passport_privacy_policy_required">Πολιτική Απορρήτου (απαιτείται)</string>
+	  <string name="passport_user_agreement_required">Συμφωνία Χρήστη (απαιτείται)</string>
+	  <string name="permission_group_contacts">Επαφές</string>
+	  <string name="permission_group_phone">Τηλέφωνο</string>
+	  <string name="permission_group_sms">SMS</string>
+	  <string name="permission_group_storage">Αποθήκευση</string>
+	  <string name="select_all">Επιλογή όλων</string>
 </resources>

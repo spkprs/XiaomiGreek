@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="activity_package_delete_confirm_title">Προσοχή</string>
      <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
@@ -199,4 +199,10 @@
      <string name="wifi_assistant_wifi_no_internet_detail">Αγγίξτε για προβολή λεπτομερειών</string>
      <string name="xspace_head">Διπλές εφαρμογές</string>
      <string name="xspace_resolver_activity_title">Επιλέξτε εφαρμογή</string>
+	  <string name="resolver_checkbox_always">Πάντα</string>
+	  <string name="resolver_checkbox_once">Μια φορά</string>
+	  <string name="resolver_mi_browser">Mi Πλοηγός</string>
+	  <string name="resolver_offical_recommend">Επίσημη</string>
+	  <string name="resolver_other_method">Άλλες επιλογές</string>
+	  <string name="resolver_recommend_options_tag">Προτεινόμενες επιλογές</string>
 </resources>

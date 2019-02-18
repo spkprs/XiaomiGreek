@@ -737,4 +737,5 @@
 	  <string name="autozoom_disabled_hint">Σταμάτησε η παρακολούθηση κινούμενου αντικειμένου</string>
 	  <string name="autozoom_hint">Παρακολούθηση κινούμενου αντικειμένου</string>  
 	  <string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
+      <string name="hint_ae_lock">Η Αυτόματη Έκθεση έχει κλειδωθεί</string>
 </resources>

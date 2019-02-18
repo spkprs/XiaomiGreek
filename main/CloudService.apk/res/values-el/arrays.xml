@@ -12,4 +12,18 @@
         <item>"Δημιουργία αντιγράφων ασφαλείας για σημαντικές ρυθμίσεις, συμπεριλαμβανομένου του Wi-Fi και της οθόνης "</item>
         <item>Κλειδώστε τη συσκευή σας απο απόσταση εάν την χάσετε</item>
     </string-array>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Για τον εντοπισμό συγχρονισμένων στοιχείων</item>
+        <item>Για τον συγχρονισμό μηνυμάτων</item>
+        <item>Για συγχρονισμό επαφών</item>
+        <item>Για τον συγχρονισμό συμβάντων ημερολογίου</item>
+        <item>Για τον συγχρονισμό στοιχείων με υπηρεσίες που χρησιμοποιούν χώρο αποθήκευσης</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Τηλέφωνο</item>
+        <item>SMS</item>
+        <item>Επαφές</item>
+        <item>Ημερολόγιο</item>
+        <item>Αποθήκευση</item>
+    </string-array>
 </resources>

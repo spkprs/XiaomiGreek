@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="app_name">Εγγραφή οθόνης</string>
      <string name="app_notification_info">Η Εγγραφή Οθόνης λειτουργεί στο παρασκήνιο</string>
@@ -89,4 +89,6 @@
      <string name="using_record_confirm_cancel">Περιορισμός</string>
      <string name="using_record_confirm_ok">Επιτρέπεται</string>
      <string name="warning_recording_when_a2dp_connect">"Η συσκευή σας δεν υποστηρίζει εγγραφή ήχων συστήματος ενώ χρησιμοποιείται ακουστικό Bluetooth."</string>
+	 <string name="permission_intro_microphone">Για την εγγραφή ήχου όταν η πηγή ήχου έχει οριστεί σε μικρόφωνο</string>
+	 <string name="permission_intro_storage">Για την αποθήκευση εγγραφών οθόνης</string>
 </resources>
