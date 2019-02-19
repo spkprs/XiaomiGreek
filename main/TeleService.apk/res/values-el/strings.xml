@@ -1634,7 +1634,7 @@
 Η συσκευή μεταβαίνει αυτόματα σε ένα κυψελοειδή δίκτυο (2G/3G) για να πραγματοποιήσει μια κλήση έκτακτης ανάγκης.
 
 Οι κλήσεις έκτακτης ανάγκης είναι δυνατές μόνο σε περιοχές με κυψελοειδή κάλυψη."</string>
-  <string name="vowifi_emergency_warning_title">ECC καλεί μέσω WiFi</string>
+  <string name="vowifi_emergency_warning_title">Επείγουσες κλήσεις μέσω WiFi</string>
   <string name="wifi_call_setting_vodafone_de">WiFi κλήσεις</string>
   <string name="wifi_call_setting_vodafone_uk">WiFi καλεί</string>
 </resources>

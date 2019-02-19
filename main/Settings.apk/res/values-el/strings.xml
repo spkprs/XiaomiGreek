@@ -5928,4 +5928,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	  <string name="more_dangerous_option_hint">Είναι ενεργές οι λειτουργίες υψηλού κινδύνου και σε \"%1$s\". Αγγίξτε για  αλλαγή ρυθμίσεων.</string>
 	  <string name="mute_voiceassist_stream">Σίγαση Φωνητ/Βοηθού</string>
       <string name="settings_notify_new_version">Υπάρχει διαθέσιμη ενημέρωση. Αγγίξτε για προβολή λεπτομερειών.</string>
+	  <string name="crypt_keeper_switch_to_pattern">Χρήση Μοτίβου</string>
+	  <string name="crypt_keeper_switch_to_pin">Χρήση PIN</string>
 </resources>
