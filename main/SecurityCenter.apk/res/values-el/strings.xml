@@ -256,6 +256,27 @@
      <string name="app_name_na">Χρήση δεδομένων</string>
      <string name="app_name_securitycenter">Ασφάλεια</string>
      <string name="app_not_installed_toast">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας.</string>
+	  <string name="app_permission_use_group_calendar">Ημερολόγιο</string>
+	  <string name="app_permission_use_group_calendar_des">Ανάγνωση και προσθήκη πληροφοριών ημερολογίου</string>
+	  <string name="app_permission_use_group_camera">Κάμερα</string>
+	  <string name="app_permission_use_group_camera_des">Χρήση Κάμερας</string>
+	  <string name="app_permission_use_group_contact">Επαφές</string>
+	  <string name="app_permission_use_group_contact_des">Ανάγνωση και προσθήκη πληροφοριών Επαφής</string>
+	  <string name="app_permission_use_group_location">Πληροφορίες Τοποθεσίας</string>
+	  <string name="app_permission_use_group_location_des">Ακριβής και κατά προσέγγιση τοποθεσία</string>
+	  <string name="app_permission_use_group_mic">Μικρόφωνο</string>
+	  <string name="app_permission_use_group_mic_des">Εγγραφή ήχου</string>
+	  <string name="app_permission_use_group_phone">Τηλέφωνο</string>
+	  <string name="app_permission_use_group_phone_des">Ανάγνωση και προσθήκη στοιχείων στο ιστορικό κλήσεων, πραγματοποίηση κλήσεων και πρόσβαση στις κλήσεις</string>
+	  <string name="app_permission_use_group_sensor">Αισθητήρες Σώματος</string>
+	  <string name="app_permission_use_group_sensor_des">Ανάγνωση δεδομένων που δημιουργούνται από τους Αισθητήρες Σώματος</string>
+	  <string name="app_permission_use_group_sms">Μηνύματα</string>
+	  <string name="app_permission_use_group_sms_des">Αποστολή, λήψη και ανάγνωση μηνυμάτων</string>
+	  <string name="app_permission_use_group_storage">Αποθήκευση</string>
+	  <string name="app_permission_use_group_storage_des">Πρόσβαση και αποθήκευση στοιχείων στο χώρο Αποθήκευσης</string>
+	  <string name="app_permission_use_neccesary">Απαιτούμενα δικαιώματα</string>
+	  <string name="app_permission_use_no_neccesary">Προαιρετικά δικαιώματα</string>
+	  <string name="app_permission_use_title">Δικαιώματα</string>
      <string name="app_right">ο υπάλληλος της εταιρείας millet παρήγαγε</string>
      <string name="app_summary">"微信/QQ/米聊抢红包神器\u000d
 υποστήριξη προσωπικών φακέλων κόκκινο και κόκκινο φάκελοι της ομάδας\u000d
