@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
+	  <string name="abc_action_bar_home_description">Πλοήγηση στην Αρχική</string>
+	  <string name="abc_action_bar_up_description">Πλοήγηση επάνω</string>
+	  <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+	  <string name="abc_action_mode_done">Ολοκληρώθηκε</string>
+	  <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+	  <string name="abc_activitychooserview_choose_application">Επιλέξτε εφαρμογή</string>
+	  <string name="abc_capital_off">OFF</string>
+	  <string name="abc_capital_on">ON</string>
+	  <string name="abc_search_hint">Αναζήτηση…</string>
+	  <string name="abc_searchview_description_clear">Καθαρισμός ερωτήματος</string>
+	  <string name="abc_searchview_description_query">Αναζήτηση ερωτήματος</string>
+	  <string name="abc_searchview_description_search">Αναζήτηση</string>
+	  <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+	  <string name="abc_searchview_description_voice">Φωνητική Αναζήτηση</string>
+	  <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+	  <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+	  <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+	  <string name="search_menu_title">Αναζήτηση</string>
      <string name="access_sd_fail">Αδυναμία πρόσβασης στην κάρτα SD</string>
      <string name="accessibility_shutter_button">Shutter</string>
      <string name="address">Διεύθυνση:</string>
