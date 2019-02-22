@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="accessibility_notification_vibration_title">Δόνηση κλήσης και ειδοποιήσεων</string>
+  <string name="accessibility_touch_vibration_title">Δόνηση αφής</string>
+  <string name="accessibility_vibration_settings_title">Δόνηση</string>
+  <string name="accessibility_disable_animations">Κατάργηση κινούμενων εικόνων</string>
   <string name="alarm_icon_title">Απόκρυψη εικονιδίου Αφύπνισης</string>
   <string name="animator_duration_scale_title">Χωρίς κινήσεις οθόνης</string>
   <string name="battery_light_100">Ένδειξη πλήρους φόρτισης</string>
@@ -71,4 +75,8 @@
   <string name="wifi_type_approval_dialog_title">Επικοινωνία</string>
   <string name="wifi_type_approval_title">Επικοινωνία</string>
   <string name="WiFiOn_mobile_title">Όταν είναι ενεργοποιημένο το Wi-Fi</string>
+  <string name="double_tap_lock_keyguard_title">Διπλό άγγιγμα για κλείδωμα</string>
+  <string name="vol_sounds_title">Ενεργοποίηση ήχου επαναφοράς από την Αθόρυβη λειτουργία</string>
+  <string name="date_time_24hour_auto_summary">Χρήση τοπικής προεπιλογής</string>
+  <string name="decryption_settings_summary">Το τηλέφωνο δεν είναι κρυπτογραφημένο</string>
 </resources>
