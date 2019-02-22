@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="about_extreme_mode">Μέγιστη λειτουργία</string>
      <string name="about_hide_mode">Περί Εξοικονόμησης μπαταρίας</string>
      <string name="active_classify">Ταξινόμηση κατά κατάσταση δραστηριότητας</string>
      <string name="app_list_title">Επιλέξτε εφαρμογές</string>
      <string name="app_name">Μπαταρία και απόδοση</string>
-     <string name="app_preload_policies_summary">Χρήση των μηχανών εκμάθησης για να προβλέψετε τις εφαρμογές που πιθανόν να χρησιμοποιήσετε και να φορτώσετε πόρους εκ των προτέρων.</string>
+     <string name="app_preload_policies_summary">Χρήση των μηχανών εκμάθησης για πρόβλεψη των εφαρμογών που πιθανόν θα χρησιμοποιήσετε για φόρτωση των πόρων τους εκ των προτέρων.</string>
      <string name="app_preload_policies_title">AI προ-φόρτωση</string>
      <string name="appconfig_active_app_dialog_title">Διαχείριση ενεργών εφαρμογών</string>
      <string name="atrace_saved">Αποθηκεύτηκε με επιτυχία</string>
@@ -52,7 +52,7 @@
      <string name="lasttime_applist_cloud">Ενημερώσεις εφαρμογών:</string>
      <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
      <string name="message_i_know">Το Γνωρίζω</string>
-     <string name="nonui_mode_config_description">Δεν ενεργοποιεί τηνη οθόνη για ειδοποιήσεις, απενεργοποιεί το LED, αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για εξοικονόμιση μπαταρίας όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
+     <string name="nonui_mode_config_description">Δεν ενεργοποιεί την οθόνη για ειδοποιήσεις, απενεργοποιεί το LED, αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για εξοικονόμιση μπαταρίας όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
      <string name="nonui_mode_config_title">Μη διαδραστική λειτουργία</string>
      <string name="performance_category">Απόδοση</string>
      <string name="power_center">Εξοικονόμιση μπαταρίας</string>

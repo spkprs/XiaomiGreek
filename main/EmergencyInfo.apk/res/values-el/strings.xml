@@ -315,7 +315,7 @@
      <string name="show_hw_layers_updates_summary">Τα στρώματα υλικών Flash είναι πράσινα όταν ενημερώνονται</string>
      <string name="show_hw_screen_updates">Εμφάνιση αναπροσαρμογών προβολής GPU</string>
      <string name="show_hw_screen_updates_summary">Προβολές φλας μέσα από τα παράθυρα όταν σχεδιάζονται με τη GPU</string>
-     <string name="show_non_rect_clip">Αντιμετώπιση προβλημάτων μη ορθογώνιας λειτουργίας κλιπ</string>
+     <string name="show_non_rect_clip">Απασφαλμάτωση μη ορθογώνιας λειτουργίας κλιπ</string>
      <string name="show_screen_updates">Εμφάνιση ενημερώσεων επιφάνειας</string>
      <string name="show_screen_updates_summary">Φλας ολόκληρες επιφάνειες παραθύρων όταν ενημερώνονται</string>
      <string name="show_touches">Εμφάνιση αγγιγμάτων</string>

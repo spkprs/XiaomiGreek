@@ -254,7 +254,7 @@
         <item>@string/antispam_notificaiton_type_show_none</item>
      </string-array>
      <string-array name="tether_limit_warn_type">
-        <item>Απενεργοποίηση και ειδοποίηση</item>
+        <item>Απενεργ/Ειδοποίηση</item>
         <item>Μόνον ειδοποίηση</item>
      </string-array>
      <string-array name="title_app_info">
