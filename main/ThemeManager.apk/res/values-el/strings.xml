@@ -568,7 +568,7 @@
      <string name="theme_favorite_waiting">Μισό λεπτό…</string>
      <string name="theme_fresh_man_notifaction">Νέα θέματα διαθέσιμα</string>
      <string name="theme_immediately_apply_tip">Το θέμα είναι ενημερωμένο, να εφαρμοστεί άμεσα;</string>
-     <string name="theme_import_from_sdcard">Εισαγωγή από κάρτα SD</string>
+     <string name="theme_import_from_sdcard">Εισαγωγή</string>
      <string name="theme_is_external_priority_storage">Αποθήκευση στην κάρτα SD</string>
      <string name="theme_is_external_priority_storage_summary">Μετά τη ρύθμιση του θέματος θα γίνει άμεσα επανεκκίνηση της εφαρμογής Θέματα</string>
      <string name="theme_multiple_button_title_customize">Μείξη</string>

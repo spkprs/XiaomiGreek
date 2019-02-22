@@ -155,7 +155,7 @@
   <string name="files_backup_info">Όλα τα αρχεία στην κάρτα SD (συμπεριλαμβανομένων των Φωτογραφιών, Τραγουδιών, Βίντεο, Δεδομένα Εφαρμογών, κλπ)</string>
   <string name="findlost_contact">Εύρεση διαγραμμένων επαφών</string>
   <string name="findlost_contact_online">Επαναφέρετε τις επαφές από το Mi Cloud</string>
-  <string name="flash_drive_backup_btn">Αντίγραφα σε δίσκο USB</string>
+  <string name="flash_drive_backup_btn">Αντίγραφα σε μονάδα USB</string>
   <string name="flash_drive_backup_note">Δημιουργία αντιγράφων εφαρμογών σε μονάδα USB.\nΒεβαιωθείτε ότι η μονάδα USB διαθέτει αρκετό χώρο αποθήκευσης πριν ξεκινήσετε.</string>
   <string name="flash_drive_backup_restore">Δημιουργία αντιγράφων USB</string>
   <string name="flash_drive_connection_failed">Η μονάδα USB αποσυνδέθηκε</string>

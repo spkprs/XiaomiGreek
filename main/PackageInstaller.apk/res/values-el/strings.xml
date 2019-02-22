@@ -378,7 +378,7 @@
      <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
      <string name="show_hw_screen_updates">Show GPU view updates</string>
      <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
-     <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
+     <string name="show_non_rect_clip">Απασφαλμάτωση μη ορθογώνιας λειτουργίας κλιπ</string>
      <string name="show_screen_updates">Show surface updates</string>
      <string name="show_screen_updates_summary">Flash entire window surfaces when they update</string>
      <string name="show_touches">Show taps</string>
