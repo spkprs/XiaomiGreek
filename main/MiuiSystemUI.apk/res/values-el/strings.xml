@@ -1674,7 +1674,7 @@
      <string name="tts_default_rate_title">Ρυθμός ομιλίας</string>
      <string name="tts_default_sample_string">Αυτό είναι ένα παράδειγμα σύνθεσης ομιλίας</string>
      <string name="tts_engine_network_required">Αυτή η γλώσσα απαιτεί μια λειτουργική σύνδεση δικτύου για την έξοδο κειμένου σε ομιλία.</string>
-     <string name="tts_engine_preference_section_title">Προτιμώμενη μηχανή</string>
+     <string name="tts_engine_preference_section_title">Προτεινόμενη μηχανή</string>
      <string name="tts_engine_security_warning">Αυτή η μηχανή σύνθεσης ομιλίας μπορεί να είναι σε θέση να συλλέξει όλο το κείμενο που θα μιλήσει, συμπεριλαμβανομένων προσωπικών δεδομένων όπως κωδικοί πρόσβασης και αριθμοί πιστωτικών καρτών. Προέρχεται από το %s μηχανή. Ενεργοποίηση της χρήσης αυτής της μηχανής σύνθεσης ομιλίας;</string>
      <string name="tts_engine_settings_button">"Εκκινήστε τις ρυθμίσεις μηχανής "</string>
      <string name="tts_engine_settings_title">Ρυθμίσεις για %s</string>

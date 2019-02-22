@@ -6,8 +6,8 @@
         <item quantity="one">Αναβολή για %d λεπ</item>
      </plurals>
      <plurals name="day">
-        <item quantity="other">%d ημ.</item>
-        <item quantity="one">%d ημ.</item>
+        <item quantity="other">%dΗ</item>
+        <item quantity="one">%dΗ</item>
      </plurals>
      <plurals name="delete_alarm_confirm">
         <item quantity="other">Διαγραφή των επιλεγμένων αφυπνίσεων;</item>
@@ -18,20 +18,20 @@
         <item quantity="one">Διαγραφή αυτής της ζώνης ώρας;</item>
      </plurals>
      <plurals name="hour">
-        <item quantity="other">%d ώρ.</item>
-        <item quantity="one">%d ώρ.</item>
+        <item quantity="other">%dΩ</item>
+        <item quantity="one">%dΩ</item>
      </plurals>
      <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%1$d ημ.</item>
-        <item quantity="one">%1$d ημ.</item>
+        <item quantity="other">%1$dΗ</item>
+        <item quantity="one">%1$dΗ</item>
      </plurals>
      <plurals name="minute">
-        <item quantity="other">%d λεπ.</item>
-        <item quantity="one">%d λεπ.</item>
+        <item quantity="other">%dΛ</item>
+        <item quantity="one">%dΛ</item>
      </plurals>
      <plurals name="second">
-        <item quantity="other">%d δευτ.</item>
-        <item quantity="one">%d δευτ.</item>
+        <item quantity="other">%dΔ</item>
+        <item quantity="one">%dΔ</item>
      </plurals>
      <plurals name="snooze_duration_summary">
         <item quantity="other">Οι αφυπνίσεις θα σιγήσουν %2$s φορές (κάθε %1$s λεπ.)</item>
@@ -42,15 +42,15 @@
         <item quantity="one">Αναβολή για %d λεπ</item>
      </plurals>
      <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d ώρ "</item>
-        <item quantity="one">"%1$d ώρ"</item>
+        <item quantity="other">"%1$dΩ"</item>
+        <item quantity="one">"%1$dΩ"</item>
      </plurals>
      <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d λεπ "</item>
-        <item quantity="one">"%1$d λεπ "</item>
+        <item quantity="other">"%1$dΛ"</item>
+        <item quantity="one">"%1$dΛ"</item>
      </plurals>
      <plurals name="timer_message_second">
-        <item quantity="other">%1$d δευτ.</item>
-        <item quantity="one">%1$d δευτ.</item>
+        <item quantity="other">%1$dΔ</item>
+        <item quantity="one">%1$dΔ</item>
      </plurals>
 </resources>

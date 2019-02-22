@@ -3,7 +3,7 @@
 <resources>
      <string name="app_loaction">Αναζήτηση στην Αρχική οθόνη</string>
      <string name="app_name">Αναζήτηση</string>
-     <string name="appindex_description">λειτουργίες εγκατεστημένων εφαρμογών</string>
+     <string name="appindex_description">λειτουργίες εγκατ. εφαρμογών</string>
      <string name="appindex_search_label">Λειτουργίες εφαρμογών</string>
      <string name="application_desc">Εφαρμογή</string>
      <string name="applications_search_label">Εφαρμογές</string>
@@ -110,8 +110,8 @@
      <string name="settings_description">Ονόματα εγκατεστημένων εφαρμογών</string>
      <string name="show_more">Δείτε περισσότερα</string>
      <string name="suggest_open_app_failed">Αδυναμία ανοίγματος εφαρμογής</string>
-     <string name="swipe_up_summary">Σύρετε προς τα πάνω για να ανοίξει η παγκόσμια αναζήτηση</string>
-     <string name="swipe_up_title">Σύρετε προς τα πάνω</string>
+     <string name="swipe_up_summary">Σάρωση προς τα πάνω για να ανοίξει η παγκόσμια αναζήτηση</string>
+     <string name="swipe_up_title">Σάρωση προς τα πάνω</string>
      <string name="switch_application">Εφαρμογές</string>
      <string name="switch_browser">Πλοηγός</string>
      <string name="switch_contacts">Επαφές</string>

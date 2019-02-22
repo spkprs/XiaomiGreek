@@ -867,7 +867,7 @@
      <string name="ext_sdcard_operation_failed_title">"Αδυναμία ολοκλήρωσης αυτής της ενέργειας"</string>
      <string name="ext_sdcard_permission_request_button_text">Κατανοητό</string>
      <string name="ext_sdcard_permission_request_reason">Η Συλλογή χρειάζεται την άδειά σας για πρόσβαση στην κάρτα SD. Θα μπορείτε να διαγράψετε και να επεξεργαστείτε φωτογραφίες και βίντεο που είναι αποθηκευμένα στην κάρτα SD σας.</string>
-     <string name="ext_sdcard_permission_request_title">Επιτρέψτε στη Συλλογή την πρόσβαση στην κάρτα SD</string>
+     <string name="ext_sdcard_permission_request_title">Παραχώρηση πρόσβασης</string>
      <string name="ext_sdcard_request_failed_button_text">OK</string>
      <string name="ext_sdcard_request_succeed_toast_text">"Είστε έτοιμοι!"</string>
      <string name="face_album_empty">"Δεν υπάρχουν αρκετές φωτογραφίες για να αναγνωρίσουν τους ανθρώπους.\u000d
@@ -1610,7 +1610,7 @@
      <string name="to_count">%d σύνολο</string>
      <string name="to_enable_gallery_sync_dialog_message">Ενεργοποιήστε πρώτα το συγχρονισμό για το Άλμπουμ</string>
      <string name="to_enable_sync_dialog_message">Ενεργοποιήστε πρώτα το συγχρονισμό</string>
-     <string name="to_enable_sync_dialog_positive_button_text">Πηγαίνετε στις Ρυθμίσεις</string>
+     <string name="to_enable_sync_dialog_positive_button_text">Ρυθμίσεις</string>
      <string name="to_enable_sync_dialog_title">Συγχρονισμός</string>
      <string name="today">Σήμερα</string>
      <string name="too_many_recipients">Το μήνυμα έχει πολλούς παραλήπτες ( %1$s ), %2$s είναι οι μέγιστοι επιτρεπόμενοι παραλήπτες.</string>

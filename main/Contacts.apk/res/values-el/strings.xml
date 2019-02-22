@@ -854,7 +854,7 @@
      <string name="picker_number_title">Επιλέξτε έναν αριθμό</string>
      <string name="picker_postal_title">Επιλέξτε ένα ταχυδρομικό κώδικα</string>
      <string name="picker_recent_list_empty">Δεν υπάρχουν πρόσφατες επαφές</string>
-     <string name="pkgLabel">Επαφές και πληκτρολόγιο</string>
+     <string name="pkgLabel">Επαφές-Πληκτρολόγιο</string>
      <string name="play_add_incall_show_entry">Αναπαραγωγή ή προσθήκη βίντεο</string>
      <string name="play_incall_show_entry">Αναπαραγωγή βίντεο</string>
      <string name="postalLabelsGroup">Διεύθυνση</string>

@@ -95,9 +95,9 @@
         <item>update_time</item>
      </string-array>
      <string-array name="lock_mode">
-        <item>Όταν είναι κλειδωμένη η συσκευή</item>
-        <item>Όταν είναι κλειδωμένη ή μετά την έξοδο από την εφαρμογή</item>
-        <item>Όταν είναι κλειδωμένη ή σε 1 λεπτό μετά την έξοδο από την εφαρμογή</item>
+        <item>Όταν κλειδώσει η συσκευή</item>
+        <item>Όταν κλειδώσει ή κλείσει η εφαρμογή</item>
+        <item>Όταν κλειδ. ή σε 1λ όταν κλείσει η εφαρμογή</item>
      </string-array>
      <string-array name="lock_mode_value">
         <item>1</item>

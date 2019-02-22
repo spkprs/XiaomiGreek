@@ -125,6 +125,10 @@
         <item quantity="other">%d εφαρμ. με πρόσβαση</item>
         <item quantity="one">%d εφαρμ. με πρόσβαση</item>
      </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">%d ενεργοί έμπιστοι παράγοντες</item>
+        <item quantity="one">1 ενεργός έμπιστος παράγοντας</item>
+    </plurals>
      <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d εφαρμογές χρησιμοποίησαν τη μνήμη τα τελευταία %2$s</item>
         <item quantity="one">1 εφαρμογή χρησιμοποίησε μνήμη το τελευταίο %2$s</item>

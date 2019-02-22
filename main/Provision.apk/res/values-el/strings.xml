@@ -37,7 +37,7 @@
      <string name="enable_accessibility_dialog_positive_btn">OK</string>
      <string name="ime_privacy_policy">Πολιτική απορρήτου για το επιλεγμένο πληκτρολόγιο</string>
      <string name="ime_privacy_policy_no_network">Δεν υπάρχει σύνδεση δικτύου. Προβολή της πολιτικής απορρήτου για το πληκτρολόγιο στο %s.</string>
-     <string name="input_method_category">Επιλέξτε το προεπιλεγμένο πληκτρολόγιο το οποίο θα έχετε όταν γράφετε email, σημειώσεις, και όπου αλλού το χρειάζεστε. Σημειώστε πως μπορείτε αργότερα να βάλετε όποιο άλλο πληκτρολόγιο θέλετε.</string>
+     <string name="input_method_category">Επιλέξτε το προεπιλεγμένο πληκτρολόγιο το οποίο θα χρησιμοποιήσετε για email, σημειώσεις, και όπου αλλού το χρειάζεστε. Σημειώστε πως μπορείτε αργότερα να εγκαταστήσετε όποιο άλλο πληκτρολόγιο θέλετε.</string>
      <string name="input_method_setting">Επιλέξτε πληκτρολόγιο</string>
      <string name="install_preinstall_app">Φόρτωση εφαρμογών…</string>
      <string name="item_fingerprint">Δακτυλικό αποτύπωμα</string>

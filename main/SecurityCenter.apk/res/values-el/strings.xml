@@ -291,8 +291,8 @@
      <string name="applock_add_account_info">Προσθέστε το Λογαριασμό Mi για να μπορέσετε να επαναφέρετε τον κωδικό πρόσβασής σας σε περίπτωση που το ξεχάσετε.</string>
      <string name="applock_add_account_setting">Λογαριασμός και ιδιωτικότητα</string>
      <string name="applock_bind_account_title">Ξεχάσατε τον κωδικό</string>
-     <string name="applock_close_dialog_summary">Όλες οι κρυφές εφαρμογές θα εμφανιστούν, οι συντομεύσεις στην Αρχική οθόνη θα επαναφερθούν και ο κωδικός κλειδώματος εφαρμογών θα διαγραφούν. Απενεργοποιείτε το Κλείδωμα Εφαρμογής;.</string>
-     <string name="applock_close_dialog_title">Να απενεργοποιηθεί το κλείδωμα εφαρμογής;</string>
+     <string name="applock_close_dialog_summary">Όλες οι κρυφές εφαρμογές θα εμφανιστούν, οι συντομεύσεις στην Αρχική οθόνη θα επαναφερθούν και ο κωδικός κλειδώματος εφαρμογών θα διαγραφεί. Απενεργοποιείτε το Κλείδωμα Εφαρμογής ?</string>
+     <string name="applock_close_dialog_title">Απενεργοποίηση κλειδώματος ;</string>
      <string name="applock_exit_account_info">Ο λογαριασμός θα καταργηθεί αυτόματα όταν αποσυνδεθείτε</string>
      <string name="applock_face_unlock_summary">Ξεκλείδωμα εφαρμ. με χρήση Δεδομ. προσώπου</string>
      <string name="applock_face_unlock_title">Ξεκλείδωμα προσώπου</string>
@@ -1027,7 +1027,7 @@
      <string name="gmscore_support_remind">Ενεργοποιήστε αυτή τη λειτουργία εάν αντιμετωπίζετε προβλήματα με τη χρήση του G-mail, των Χαρτών Google και άλλων εφαρμογών Google. Θα μειώσει ελαφρώς τη διάρκεια ζωής της μπαταρίας.</string>
      <string name="gmscore_support_service">Υπηρεσίες Google</string>
      <string name="go_to">Μετάβαση</string>
-     <string name="go_to_setting_fingerprint">Πηγαίνετε στις Ρυθμίσεις</string>
+     <string name="go_to_setting_fingerprint">Ρυθμίσεις</string>
      <string name="google_base_app_install_choice">Η εφαρμογή απαιτεί το Google Services Framework για να λειτουργήσει κανονικά. Να γίνει λήψη και εγκατάσταση;</string>
      <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
      <string name="gs_anto_clean_memory_whitelist">Εξαιρέσεις</string>
@@ -1603,7 +1603,7 @@
      <string name="password_forget_pattern_reset">Επαναφορά</string>
      <string name="password_forget_pattern_title">Προσοχή</string>
      <string name="password_promotion_not_login_xiaomi_account_message">Το Κλείδωμα εφαρμογής αναβαθμίζεται σε κωδικός Προσωπικής προστασίας. Μπορείτε να χρησιμοποιήσετε τον τρέχοντα λογαριασμό Mi για να τον επαναφέρετε. Προσθέστε τον Mi λογαριασμό σας για να μπορείτε να το κάνετε αυτό.</string>
-     <string name="password_promotion_postbutton_text">Πηγαίνετε στις Ρυθμίσεις</string>
+     <string name="password_promotion_postbutton_text">Ρυθμίσεις</string>
      <string name="password_promotion_title">Κωδικός Προσωπικής προστασίας</string>
      <string name="password_type">Αλλαγή κωδικού</string>
      <string name="password_type_underline"><u>Αλλαγή κωδικού</u></string>

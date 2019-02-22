@@ -181,7 +181,7 @@
      <string name="gps">Πλοηγός</string>
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
      <string name="import_contact">Εισαγωγή επαφής</string>
-     <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί δικαιώματα πρόσβασης στη φωτογραφική σας μηχανή και στην δημιουργία φωτογραφιών.Ο Σαρωτής πρέπει επίσης να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά. Θα θεωρείται ότι έχετε διαβάσει και συμφωνήσει με την %1$sΠολιτική Απορρήτου%2$s όταν επιλέξετε \"Αποδοχή\" παρακάτω."</string>
+     <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών. Μη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες.  Όταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας, και την πρόσβαση του Σαρωτή στο διαδύκτιο."</string>
      <string name="impunity_declaration_negative_text">Έξοδος</string>
      <string name="impunity_declaration_title">Πολιτική Απορρήτου</string>
      <string name="init_success">初始化完成</string>
