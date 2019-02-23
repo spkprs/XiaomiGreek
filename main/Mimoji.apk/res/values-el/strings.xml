@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">MiMoji</string>
     <string name="AR_IMG_SHARE">Mimoji</string>
     <string name="BLOG_APP_NO_INSTALL">Η εφαρμογή δεν έχει εγκατασταθεί</string>
     <string name="MILIAO_APP_NO_INSTALL">Η εφαρμογή δεν έχει εγκατασταθεί</string>
@@ -24,16 +25,27 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="search_menu_title">Αναζήτηση</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="app_name">Mimoji</string>
     <string name="cta_message">Συμφωνία χρήστη<a href="http://www.miui.com/res/doc/privacy/cn.html">《Πολιτική απορρήτου》</a>，Να επιτρέπεται η πρόσβαση στο δίκτυο, στην εγγραφή και στην κάμερα;</string>
     <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/cn.html</string>
     <string name="error_tip_out_range">Κρατήστε τη συσκευή στο πρόσωπο</string>
     <string name="error_tip_sleep">Κάντε κλικ για να συνεχίσετε.</string>
     <string name="permission_message">Η εφαρμογή απαιτεί πρόσβαση στη φωτογραφική μηχανή και τη μνήμη της συσκευής</string>
     <string name="save_success">Αποθηκεύτηκε στη Συλλογή</string>
+    <string name="search_menu_title">Αναζήτηση</string>
     <string name="splash_text">Διατηρήστε τη συσκευή στο πρόσωπο</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="support_phone_message">Η συσκευή δεν υποστηρίζεται!</string>
     <string name="webo_version_too_low">Πρέπει να ενημερώσετε την εφαρμογή</string>
+	  <string name="text_1">Περιμένετε...</string>
+	  <string name="text_2">Προσωπικά δεδομένα</string>
+	  <string name="text_3">Φωνή</string>
+	  <string name="text_4">Κανονικό</string>
+	  <string name="text_5">Θηλυκό</string>
+	  <string name="text_6">Αρσενικό</string>
+	  <string name="text_7">Κιν. σχέδιο</string>
+	  <string name="text_8">Πίσω</string>
+	  <string name="text_9">Αποθήκευση</string>
+	  <string name="text_10">Κοινοποίηση</string>
+	  <string name="text_11">Περισσότερα</string>
+	  <string name="text_12">Ακύρωση</string>
 </resources>
