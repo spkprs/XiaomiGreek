@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="install_carrier_app_defer_action">Οχι τώρα</string>
+  <string name="install_carrier_app_description">Για να λειτουργήσει σωστά η νέα σας κάρτα SIM, θα χρειαστεί να την εγκαταστήσετε %1$s app</string>
+  <string name="install_carrier_app_description_default">Για να λειτουργήσει σωστά η νέα SIM σας, θα πρέπει να εγκαταστήσετε την εφαρμογή φορέα</string>
+  <string name="install_carrier_app_download_action">Λήψη εφαρμογής</string>
+  <string name="install_carrier_app_title">Ενεργοποιήστε την υπηρεσία κινητής</string>
+  <string name="suw_back_button_label">Πίσω</string>
+  <string name="suw_more_button_label">Περισσότερα</string>
+  <string name="suw_next_button_label">Επόμενο</string>
+</resources>
