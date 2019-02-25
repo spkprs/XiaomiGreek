@@ -25,7 +25,7 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="cta_message">Συμφωνία χρήστη<a href="http://www.miui.com/res/doc/privacy/cn.html">《Πολιτική απορρήτου》</a>，Να επιτρέπεται η πρόσβαση στο δίκτυο, στην εγγραφή και στην κάμερα;</string>
+    <string name="cta_message">Θα πρέπει να αποδεχθείτε την <a href="http://www.miui.com/res/doc/privacy/en.html">《Πολιτική απορρήτου》</a>，και να επιτρέψτε την πρόσβαση στο δίκτυο, στην εγγραφή και στην κάμερα. Αποδοχή;</string>
     <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/cn.html</string>
     <string name="error_tip_out_range">Κρατήστε τη συσκευή στο πρόσωπο</string>
     <string name="error_tip_sleep">Κάντε κλικ για να συνεχίσετε.</string>
