@@ -287,5 +287,15 @@
      <string name="xiaomi_weather_description_title">Σχετικά με Καιρό</string>
      <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
      <string name="your_location">Η τοποθεσία σας</string>
-    <string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
+     <string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
+	  <string name="permission_device_info">Πληροφορίες συσκευής</string>
+	  <string name="permission_device_introduce">Για την αναγνώριση της συσκευής με βάση το μοντέλο και ΙΜΕΙ, για την παροχή μεταφρασμένων υπηρεσιών με βάση τις προτιμήσεις γλώσσας</string>
+	  <string name="permission_exit">Έχοδος</string>
+	  <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτικό)</string>
+	  <string name="permission_select_all">Επιλογή όλων</string>
+	  <string name="permission_storage">Αποθ. Χώρος</string>
+	  <string name="permission_storage_introduce">Για την πρόσβαση σε στοιχεία στη συσκευή και αποθήκευση αρχείων</string>
+	  <string name="permission_user_protocol">User Agreement (mandatory)</string>
+	  <string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
+	  <string name="weather_permission_agree">Αποδοχή</string>
 </resources>

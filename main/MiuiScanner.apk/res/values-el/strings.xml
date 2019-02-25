@@ -109,7 +109,7 @@
      <string name="barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
      <string name="birthday">Γενέθλια:</string>
      <string name="blog">Weibo</string>
-     <string name="business_card">Επαγγελματική Κάρτα</string>
+     <string name="business_card">Κάρτα</string>
      <string name="business_card_title">Τοποθετήστε την κάρτα μέσα στο πλαίσιο</string>
      <string name="business_copy">Αντιγραφή</string>
      <string name="business_new_contacts">Δημιουργία επαφής</string>
@@ -311,7 +311,7 @@
      <string name="crop_title_study">Περικοπή φωτογραφίας</string>
      <string name="common_retry">Προσπαθήστε ξανά</string>
      <string name="choose_pay_title">Επιλέξτε τρόπο πληρωμής</string>
-     <string name="business_card_result_title">Επαγγελματική κάρτα</string>
+     <string name="business_card_result_title">Κάρτα</string>
      <string name="action_search">Αναζήτηση</string>
      <string name="error_empty_result">Δεν βρέθηκαν αποτελέσματα</string>
      <string name="no_support_to_translate_type">"Αυτή η γλώσσα δεν υποστηρίζεται"</string>

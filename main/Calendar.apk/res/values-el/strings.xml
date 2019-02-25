@@ -831,4 +831,8 @@ You can also add reminders so you don't miss anything important."</string>
 	  <string name="lottery_red_ball_tip">Κόκκινη μπάλα</string>
 	  <string name="select_today_tip">Σήμερα</string>
 	  <string name="today_icon_voice_contentdescription">Επιστροφή σήμερα</string>
+	  <string name="notification_open_setting_button_exit">Όχι ευχαριστώ</string>
+	  <string name="notification_open_setting_button_ok">Αποδοχή</string>
+	  <string name="notification_open_setting_message">"Δεν θα μπορείτε να λαμβάνετε ειδοποιήσεις σχετικά με συμβάντα εκτός εάν επιτρέψετε στο Ημερολόγιο να σας στέλνει ειδοποιήσεις."</string>
+	  <string name="notification_open_setting_title">Αποδοχή ειδοποιήσεων?</string>
 </resources>
