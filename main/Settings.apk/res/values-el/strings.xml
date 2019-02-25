@@ -5941,7 +5941,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
       <string name="accessibility_vibration_settings_title">Δόνηση</string>
       <string name="interaction_control_category_title">Στοιχεία ελέγχου αλληλεπίδρασης</string>
 	  <string name="experimental_category_title">Σε πειραματικό στάδιο</string>
-	  <string name="experimental_preference">(Πειραματικό)</string>
       <string name="accessibility_settings_summary">Στοιχεία ελέγχου αναγνώστων οθόνης, αλληλεπίδρασης</string>
       <string name="display_category_title">Οθόνη</string>
       <string name="find_my_device">Εύρεση συσκευής</string>

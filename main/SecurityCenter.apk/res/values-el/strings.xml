@@ -1049,13 +1049,13 @@
      <string name="gs_game_performance">Εκτέλεση</string>
      <string name="gs_game_shortcut">Απολαύστε μεγαλύτερη εμπειρία ροής παιχνιδιού</string>
      <string name="gs_gamebox">Συντομεύσεις εντός-παιχνιδιού</string>
-     <string name="gs_gamebox_detail">Εμφάνιση πίνακα συντομεύσεων εντός-παιχνιδιού</string>
+     <string name="gs_gamebox_detail">Σαρώστε από το επάνω πλαϊνό άκρο της οθόνης για προβολή</string>
      <string name="gs_gamebox_slip">Σύρετε προς τα κάτω την οθόνη για άνοιγμα</string>
      <string name="gs_only_self_start_for_list">Περιορίστε τις διαδικασίες παρασκηνίου για εξοικονόμηση μπαταρίας στα παιχνίδια</string>
      <string name="gs_open_game_booster">Αύξηση Ταχύτητας</string>
      <string name="gs_open_game_booster_summary">Ενισχύστε την ταχύτητα του δικτύου για παιχνίδια</string>
      <string name="gs_performance_mode">Λειτουργία απόδοσης</string>
-     <string name="gs_performance_mode_detail">Αυξήστε τη χρήση της CPU για να εξασφαλίσετε καλύτερη απόδοση</string>
+     <string name="gs_performance_mode_detail">Βελτιστοποιήστε την απόδοση του συστήματος για gaming</string>
      <string name="gs_sign_notification">Υπενθυμίστε να κάνετε check in στις 8 μ.μ. καθημερινά</string>
      <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό για να εμφανιστεί ο πίνακας συντομεύσεων. Γρήγορες απαντήσεις και επιλογές εγγραφής οθόνης είναι διαθέσιμες.</string>
      <string name="guide_get_operator_error">"&lt;font color=\"\'#33b4ff\'\"&gt;Λάθος φορέας;&lt;/font&gt;"</string>
@@ -2007,7 +2007,7 @@
      <string name="shake_send_sticker">ανακινήστε μια έκφραση μαλλιών</string>
      <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
      <string name="shield_keyboard_detail">Πατήστε δύο φορές τα κουμπιά για να τα ενεργοποιήσετε ξανά</string>
-     <string name="shield_keyboard_title">Απενεργοποίηση πλήκτρων</string>
+     <string name="shield_keyboard_title">Περιορίστε κουμπιά και χειρονομίες</string>
      <string name="shoop_again_float">咻一咻</string>
      <string name="show_system_app">Εμφάνιση εφαρμ συστήματος</string>
      <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στον πίνακα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων &gt; Ρυθμίσεις</string>
@@ -2620,4 +2620,7 @@
      <string name="zhifubao_not_found">η έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
 	 <string name="cta_dialog_negative">Έξοδος</string>
 	 <string name="cta_dialog_positive">Αποδοχή</string>
+	  <string name="forground_network_optimization_summary">Δώστε μεγαλύτερο εύρος ζώνης στα παιχνίδια που τρέχουν στο προσκήνιο</string>
+	  <string name="forground_network_optimization_title">Προτεραιότητα εύρους ζώνης</string>
+	  <string name="function_shield_summary_m">Περιορίστε την αυτόματη φωτεινότητα και τις χειρονομίες στιγμιότυπου οθόνης</string>
 </resources>

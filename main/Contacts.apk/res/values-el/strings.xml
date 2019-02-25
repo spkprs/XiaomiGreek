@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="accessibility_calllog_detail">Λεπτομέρειες αρχείου κλήσης</string>
      <string name="accessibility_contact_detail">Στοιχεία επαφής</string>
      <string name="account_container_title">Εισήχθη από</string>
+     <string name="account_dual_sim">Κάρτα SIM %s</string>
      <string name="account_default">Τηλέφωνο</string>
      <string name="account_phone">Μόνο στο τηλέφωνο, χωρίς συγχρονισμό</string>
      <string name="account_sdn">SDN</string>

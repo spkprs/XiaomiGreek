@@ -22,12 +22,12 @@
         <item quantity="one">Πολύ μικρή καθυστέρηση (%1$d ms)</item>
      </plurals>
      <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Ποτέ μην απενεργοποιήτε %d εφαρμογές</item>
-        <item quantity="one">Μην απενεργοποιείτε ποτέ για 1 εφαρμογή</item>
+        <item quantity="other">Χωρίς απενεργοποίηση για %d εφαρμογές</item>
+        <item quantity="one">Χωρίς απενεργοποίηση για 1 εφαρμογή</item>
      </plurals>
      <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Απενεργοποιείτε πάντα για %d εφαρμογές</item>
-        <item quantity="one">Απενεργοποιείτε πάντα για 1 εφαρμογή</item>
+        <item quantity="other">Πάντα απενεργοποίηση για %d εφαρμογές</item>
+        <item quantity="one">Πάντα απενεργοποίηση για 1 εφαρμογή</item>
      </plurals>
      <plurals name="auto_startup_count">
         <item quantity="other">%d εφαρμογές επιτρέπεται να πραγματοποιούν αυτόματη εκκίνηση</item>
