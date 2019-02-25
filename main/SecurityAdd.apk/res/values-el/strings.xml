@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="app_name">Υπηρεσία ασφαλείας Προσθέτων</string>
      <string name="cancel_button">Ματαίωση</string>
@@ -35,4 +35,5 @@
      <string name="title_share_link">Κοινόχρηστη διεύθυνση URL</string>
      <string name="usage_sorted_loading_text">Μισό λεπτό…</string>
      <string name="xunyou_pay_webview">Υπηρεσίες Xunyou</string>
+     <string name="gamebox_no_network_btn">Επαναφόρτωση</string>
 </resources>

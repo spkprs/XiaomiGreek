@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="accessibility_enabled">Η δυνατότητα πρόσβασης είναι ενεργοποιημένη.</string>
      <string name="agree">Συμφωνώ</string>
@@ -120,4 +120,6 @@
      <string name="welcome">Καλωσορίσατε!</string>
      <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
      <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
+	  <string name="congratulation_label_night">Δείτε την ολοκαίνουργια Σκοτεινή λειτουργία μας!</string>
+	  <string name="start_up_slogan_night">Δείτε την ολοκαίνουργια Σκοτεινή λειτουργία μας!</string>
 </resources>
