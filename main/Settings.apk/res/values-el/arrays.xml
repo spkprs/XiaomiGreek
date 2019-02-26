@@ -2513,7 +2513,7 @@
         <item>Κλίμακα κίνησης 5.0x</item>
         <item>Κλίμακα κίνησης 10x</item>
      </string-array>
-    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+	 <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
         <item>Λειτουργία Υψηλής Ποιότητας (Προεπιλογή)</item>
         <item>Λειτουργία Χαμηλής Αδράνειας</item>
     </string-array>
@@ -2521,4 +2521,100 @@
         <item>Λειτουργία Υψηλής Ποιότητας (Προεπιλογή)</item>
         <item>Λειτουργία Χαμηλής Αδράνειας</item>
     </string-array>
+
+<!-- FROM HERE THE ENTRIES NOT EXIST IN ANDROID 9 POCOPHONE -->
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Προεπιλογή)</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>16 bit/δείγμα</item>
+    <item>24 bit/δείγμα</item>
+    <item>32 bit/δείγμα</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>16 bit/δείγμα</item>
+    <item>24 bit/δείγμα</item>
+    <item>32 bit/δείγμα</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Μονοφωνικό</item>
+    <item>Στερεοφωνικό</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Μονοφωνικό</item>
+    <item>Στερεοφωνικό</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Βελτιστοποιημένο για ποιότητα ήχου</item>
+    <item>Ισορροπημένος ήχος και ποιότητα σύνδεσης</item>
+    <item>Βελτιστοποιημένο για ποιότητα σύνδεσης</item>
+    <item>Βέλτιστη προσπάθεια (ρυθμός δεδομένων με δυνατότητα προσαρμογής)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Βελτιστοποιημένο για ποιότητα ήχου (990kbps/909kbps)</item>
+    <item>Ισορροπημένος ήχος και ποιότητα σύνδεσης (660kbps/606kbps)</item>
+    <item>Βελτιστοποιημένο για ποιότητα σύνδεσης (330kbps/303kbps)</item>
+    <item>Βέλτιστη προσπάθεια (ρυθμός δεδομένων με δυνατότητα προσαρμογής)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>44,1 kHz</item>
+    <item>48,0 kHz</item>
+    <item>88,2 kHz</item>
+    <item>96,0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>44,1 kHz</item>
+    <item>48,0 kHz</item>
+    <item>88,2 kHz</item>
+    <item>96,0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ audio</item>
+    <item>Qualcomm® aptX™ HD audio</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX™ Adaptive audio</item>
+    <item>Ενεργοποίηση προαιρετικών κωδικοποιητών</item>
+    <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ audio</item>
+    <item>Qualcomm® aptX™ HD audio</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX™ Adaptive audio</item>
+    <item>Ενεργοποίηση προαιρετικών κωδικοποιητών</item>
+    <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Προεπιλογή)</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item>2 λεπτά</item>
+    <item>5 λεπτά</item>
+    <item>1 ώρα</item>
+    <item>Χωρίς χρονικό όριο</item>
+  </string-array>
+  <string-array name="bluetooth_max_connected_audio_devices">
+    <item>Χρήση προεπιλογής συστήματος: %1$d</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+  </string-array>
 </resources>
