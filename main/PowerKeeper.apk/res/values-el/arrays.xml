@@ -8,7 +8,7 @@
      </string-array>
      <string-array name="hmode_app_classify1">
         <item>Προσαρμογή</item>
-        <item>Εξοικονόμηση ενέργειας</item>
+        <item>MIUI Εξοικον. ενέργειας</item>
      </string-array>
      <string-array name="hmode_app_classify2">
         <item>Ενεργές Εφαρμογές</item>
@@ -53,6 +53,6 @@
      <string-array name="thermal_summaries">
         <item>Προτεραιότητα ελέγχου θερμοκρ.</item>
         <item>Προτεραιότητα απόδοσης</item>
-        <item>Ρύθμιση ανενεργή σε λειτ. Ακραίας απόδοσης</item>
+        <item>Δεν υποστηρ. σε λειτ. Μέγιστης εξοικονόμισης</item>
      </string-array>
 </resources>

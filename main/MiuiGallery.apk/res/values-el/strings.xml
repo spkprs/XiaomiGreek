@@ -1781,4 +1781,13 @@
 	  <string name="permission_storage_name">Αποθηκ. χώρος</string>
 	  <string name="permission_use_desc">Δικαιώματα</string>
 	  <string name="select_all">Επιλογή όλων</string>
+	  <string name="generate_story_summary">Το MIUI θα αναλύσει τις φωτογραφίες σας και θα δημιουργήσει άλμπουμ ιστορίας. Απενεργοποιήστε αυτή τη λειτουργία για να σταματήσετε τη δημιουργία άλμπουμ ιστορίας.</string>
+	  <string name="generate_story_title">Άλμπουμ ιστορίας</string>
+	  <string name="image_selection_summary">Το MIUI θα αναλύσει παρόμοιες φωτογραφίες και θα σηματοδοτήσει τις καλύτερες λήψεις για εσάς. Απενεργοποιήστε αυτήν τη δυνατότητα για να καταργήσετε τις ενδείξεις αυτές.</string>
+	  <string name="image_selection_title">Επιλέξτε την καλύτερη φωτογραφία</string>
+	  <string name="operation_set_video_wallpaper">Ορισμός βίντεο ταπετσαρίας</string>
+	  <string name="recommend_category_title">"Οι επιλογές της Συλλογής"</string>
+	  <string name="set_as_video_wallpaper_description">Κάντε λήψη αυτού του στοιχείου και χρησιμοποιήστε το ως βίντεο ταπετσαρία;</string>
+	  <string name="set_as_video_wallpaper_title">Ορισμός βίντεο ταπετσαρίας</string>
+	  <string name="set_video_wallpaper_failed">"Αδύνατη η χρήση αυτού του στοιχείου ως βίντεο ταπετσαρία"</string>
 </resources>

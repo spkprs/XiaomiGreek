@@ -2521,8 +2521,6 @@
         <item>Λειτουργία Υψηλής Ποιότητας (Προεπιλογή)</item>
         <item>Λειτουργία Χαμηλής Αδράνειας</item>
     </string-array>
-
-<!-- FROM HERE THE ENTRIES NOT EXIST IN ANDROID 9 POCOPHONE -->
   <string-array name="bluetooth_avrcp_versions">
     <item>AVRCP 1.4 (Προεπιλογή)</item>
     <item>AVRCP 1.5</item>

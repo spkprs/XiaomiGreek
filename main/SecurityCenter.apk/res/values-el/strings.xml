@@ -9,7 +9,7 @@
      <string name="Settings_title_anti_virus">Ρυθμίσεις Antivirus</string>
      <string name="Settings_title_garbage_cleanup">Παράμετροι Καθαρισμού</string>
      <string name="Settings_title_network_assistants">Παράμετροι βοηθού δικτύου</string>
-     <string name="Settings_title_power_center">Παράμετροι ενέργειας</string>
+     <string name="Settings_title_power_center">Ρύθμιση βελτιστοποίησης μπαταρίας</string>
      <string name="about_autostart">Σχετικά με την Αυτόματη Έναρξη</string>
      <string name="ac_enter_applock">Εισάγετε το Κλείδωμα Εφαρμογής</string>
      <string name="ac_firstUseApplock_subTitle">Ενεργοποιήστε τον για επιπλέον προστασία</string>
@@ -48,7 +48,7 @@
      <string name="activity_title_other_permission_manager">Άλλα δικαιώματα</string>
      <string name="activity_title_permission_manager">Δικαιώματα</string>
      <string name="activity_title_permissions_manager">Δικαιώματα</string>
-     <string name="activity_title_power_manager">Διαχείριση μπαταρίας</string>
+     <string name="activity_title_power_manager">Βελτιστοποίηση μπαταρίας</string>
      <string name="activity_title_root_acquired">Αποδοχή της πρόσβασης root</string>
      <string name="activity_title_root_manager">Πρόσβαση Root</string>
      <string name="activity_title_root_note">Σχετικά με την πρόσβαση root</string>
@@ -1141,7 +1141,7 @@
      <string name="keywords_networkassistant_2">Δεδομένα;Ρύθμιση</string>
      <string name="keywords_networkassistant_4">Σύνδεση;Internet;Δοκιμή</string>
      <string name="keywords_powercenter">Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;απενεργοποίηση;Μπαταρία;Κατανάλωση</string>
-     <string name="keywords_powercenter_powerrank">Χρήση μπαταρίας</string>
+     <string name="keywords_powercenter_powerrank">Χρήση ενέργειας</string>
      <string name="keywords_securitycenter">Ασφάλεια;Έλεγχος;Σάρωση</string>
      <string name="keywords_securitycenter_settings">Χρήση μπαταρίας;Δικαιώματα;Λίστα αποκλεισμών;Χρήση δεδομένων;Ρύθμιση προγράμματος δεδομένων;Δοκιμή δικτύου;Κλείδωμα εφαρμογών;Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;Απενεργοποίηση;Μπαταρία;Κατανάλωση;Αυτόματη έναρξη;ROOT;Τοποθεσία;Πρόσβαση στις επαφές;Αποκλεισμός;Λίστα αποκλεισμών;Έξυπνη λίστα αποκλεισμών;Απάτη;Πωλήσεις;Τηλεπωλητής;Αντιπρ. πωλήσεων;Δεδομένα;Κίνηση;Ρύθμιση;Σύνδεση;Internet;Δοκιμή;Κωδικός;Ιδιωτικότητα;Πρόσβαση;Προστασία</string>
      <string name="keywords_usb_install">Εγκατάσταση USB, εγκατάσταση από υπολογιστή, εγκατάσταση ADB</string>
@@ -1332,7 +1332,7 @@
      <string name="menu_item_notification_antispam_text_avail">Spam</string>
      <string name="menu_item_notification_antispam_text_normal">Spam</string>
      <string name="menu_item_notification_garbage_text">%s</string>
-     <string name="menu_item_notification_power_text">Ενέργεια</string>
+     <string name="menu_item_notification_power_text">Βελτιστοποίηση μπαταρίας</string>
      <string name="menu_item_notification_title">Εμφάνιση εικονιδίων στον πίνακα ειδοποιήσεων</string>
      <string name="menu_item_shortcut_summary">Τοποθετήστε συντομεύσεις συχνών λειτουργιών στην Αρχική Οθόνη</string>
      <string name="menu_item_shortcut_title">Διαχείριση συντομεύσεων</string>
@@ -1380,7 +1380,7 @@
      <string name="menu_text_networkassistants_unit_kb">KB</string>
      <string name="menu_text_networkassistants_unit_mb">MB</string>
      <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
-     <string name="menu_text_power_manager">Διαχείριση της ενέργειας</string>
+     <string name="menu_text_power_manager">Βελτιστοποίηση μπαταρίας</string>
      <string name="menu_text_power_percent">Μπαταρία | %s</string>
      <string name="menu_text_power_percent_title">" %s"</string>
      <string name="menu_wh_remove">Αφαίρεση από τις εξαιρέσεις</string>
@@ -1618,7 +1618,7 @@
      <string name="path_networkassistant_1">Εφαρμογές συστήματος/Ασφάλεια/Χρήση δεδομένων</string>
      <string name="path_networkassistant_2">Εφαρμογές συστήματος/Ασφάλεια/Χρήση δεδομένων</string>
      <string name="path_networkassistant_4">Εφαρμογές συστήματος/Ασφάλεια/Χρήση δεδομένων/Δοκιμή δικτύου</string>
-     <string name="path_powercenter">Εφαρμογές συστήματος/Ασφάλεια/Χρήση μπαταρίας</string>
+     <string name="path_powercenter">Εφαρμογές συστήματος/Ασφάλεια/Βελτιστοποίηση μπαταρίας</string>
      <string name="path_powercenter_powerrank">Μπαταρία/Χρήση μπαταρίας</string>
      <string name="path_securitycenter">Εφαρμογές συστήματος/Ασφάλεια</string>
      <string name="path_securitycenter_settings">Εφαρμογές συστήματος/Ασφάλεια</string>
@@ -1627,7 +1627,7 @@
      <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_install_manager">Εγκατάσταση μέσω USB</string>
      <string name="pc_main_activity_back">Πίσω</string>
-     <string name="pc_settings_title">Ρυθμίσεις χρήσης μπαταρίας</string>
+     <string name="pc_settings_title">Ρυθμίσεις βελτιστοποίησης μπαταρίας</string>
      <string name="pc_to_phone_install">Αποκλείσθηκε η εγκατάσταση του %s μέσω USB</string>
      <string name="per_month_pkg_traffic_settings">Ορισμός ορίου δεδομένων</string>
      <string name="percent_formatted_text">%s%%</string>
@@ -1699,12 +1699,12 @@
      <string name="power_center_stop_scan_title">Διακοπή σάρωσης</string>
      <string name="power_center_time_to_boot">Ώρα ενεργοποίησης</string>
      <string name="power_center_time_to_shutdown">Ώρα απενεργοποίησης</string>
-     <string name="power_center_title">Μπαταρία</string>
+     <string name="power_center_title">Βελτιστοποίηση μπαταρίας</string>
      <string name="power_consume_hardware_total_format">Υλικό: %s</string>
      <string name="power_consume_other">Άλλο</string>
      <string name="power_consume_rank_hardware">Υλικό</string>
      <string name="power_consume_rank_software">Εφαρμογές</string>
-     <string name="power_consume_rank_title">Χρήση μπαταρίας</string>
+     <string name="power_consume_rank_title">Χρήση ενέργειας</string>
      <string name="power_consume_software_total_format">Εφαρμογές: %s</string>
      <string name="power_customize_giveup_change">Ακύρωση των αλλαγών;</string>
      <string name="power_dialog_cancel">Ακύρωση</string>
@@ -1924,7 +1924,7 @@
      <string name="resource_networkassistant_1">Χρήση δεδομένων</string>
      <string name="resource_networkassistant_2">Ρύθμιση προγράμματος δεδομένων</string>
      <string name="resource_networkassistant_4">Δοκιμή δικτύου</string>
-     <string name="resource_powercenter">Εξοικονόμηση μπαταρίας</string>
+     <string name="resource_powercenter">Βελτιστοποίηση μπαταρίας</string>
      <string name="resource_powercenter_powerrank">Μπαταρία</string>
      <string name="resource_securitycenter">Ασφάλεια</string>
      <string name="resource_securitycenter_settings">Ασφάλεια</string>
@@ -2396,7 +2396,7 @@
      <string name="title_cloud_space_almost_full">Ο χώρος αποθήκευσης Cloud είναι σχεδόν πλήρης. Τα στοιχεία μπορεί να μην συγχρονιστούν</string>
      <string name="title_cloud_space_full">Ο χώρος αποθήκευσης Cloud είναι γεμάτος. Αδυναμία συγχρονισμού φωτογραφιών</string>
      <string name="title_cmcc_app_check">Η επαλήθευση δεν έχει ολοκληρωθεί</string>
-     <string name="title_consume_power_rank">Χρήση μπαταρίας</string>
+     <string name="title_consume_power_rank">Χρήση εφαρμ. ενέργειας</string>
      <string name="title_data_flow">Ορίστε μια προειδοποίηση χρήσης δεδομένων</string>
      <string name="title_data_flow_monitor">Η παρακολούθηση χρήσης δεδομένων είναι ενεργοποιημένη</string>
      <string name="title_dev_model_off">Οι επιλογές προγραμματιστή είναι απενεργοποιημένες</string>

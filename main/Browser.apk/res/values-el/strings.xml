@@ -1599,4 +1599,10 @@
   <string name="weather_location_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει τη χρήση.</string>
   <string name="webpage_title">Αγαπημένα και ιστορικό</string>
   <string name="window_manager_hybrid_application_list_title_text">Πρόσφατη Χρήση</string>
+  <string name="ad_app_download_notification_content">Μετά την ολοκλήρωση της εγκατάστασης, ανοίξτε το demo τώρα~</string>
+  <string name="ad_app_download_site_new">ΝΕΟ</string>
+  <string name="ad_exit_dialog_exit_btn_name">Κλείσιμο</string>
+  <string name="ad_exit_dialog_message">Η εγκατάσταση ολοκληρώθηκε! Θέλετε να την ανοίξετε τώρα;</string>
+  <string name="ad_exit_dialog_open_btn_name">Άνοιγμα</string>
+  <string name="ad_exit_dialog_title_name">Νέα εφαρμ. άνοιγμα επιβεβαίωσης</string>
 </resources>
