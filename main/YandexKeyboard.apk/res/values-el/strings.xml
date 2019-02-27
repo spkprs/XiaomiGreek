@@ -384,7 +384,7 @@
   <string name="show_language_switch_key">Πλήκτρο αλλαγής γλώσσας</string>
   <string name="show_language_switch_key_summary">Εμφάνιση όταν πολλές γλώσσες εισόδου είναι ενεργές</string>
   <string name="show_setup_wizard_icon">Εμφάνιση εικονιδίου εφαρμογής</string>
-  <string name="show_setup_wizard_icon_summary">Εμφάνιση εικονιδίου εφαρμογής στην launcher</string>
+  <string name="show_setup_wizard_icon_summary">Εμφάνιση εικονιδίου εφαρμογής στον Εκκινητή</string>
   <string name="siggestion_uri_news">Ειδήσεις</string>
   <string name="sliding_key_input_preview">Εμφάνιση δείκτης σάρωσης</string>
   <string name="sliding_key_input_preview_summary">Εμφάνιση οπτική ένδειξη σύροντας από τα πλήκτρα Shift ή σύμβολα</string>

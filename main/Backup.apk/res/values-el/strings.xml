@@ -292,7 +292,7 @@
   <string name="restore_failed">Η επαναφορά απέτυχε!</string>
   <string name="restore_finished">Η επαναφορά ολοκληρώθηκε</string>
   <string name="restore_is_running">Επαναφορά συσκευής</string>
-  <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων launcher</string>
+  <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων Εκκινητή</string>
   <string name="restore_progress">Επαναφορά…</string>
   <string name="restore_report">Αναφορά επαναφοράς</string>
   <string name="restore_telephony_hit">Η επαναφορά θα κάνει επανεκκίνηση της εφαρμογής Τηλέφωνο.</string>

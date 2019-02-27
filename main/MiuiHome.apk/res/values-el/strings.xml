@@ -66,7 +66,7 @@
      <string name="aqi_quality_index_light_pollution">Ελαφριά μόλυνση</string>
      <string name="aqi_quality_index_moderate">Μέτριος</string>
      <string name="aqi_quality_index_unhealthy">Ανθυγιεινός</string>
-     <string name="backup_fail">Αδυναμία δημιουργίας αντίγραφου ασφαλείας launcher</string>
+     <string name="backup_fail">Αδυναμία δημιουργίας αντίγραφου ασφαλείας Εκκινητή</string>
      <string name="bad_wallpaper_source_prompt">Δεν είναι δυνατή η φόρτωση της ταπετσαρίας</string>
      <string name="buffering">Φόρτωση…</string>
      <string name="cancel_action">Άκυρο</string>
@@ -90,7 +90,7 @@
      <string name="current_preview">Προεπισκόπηση</string>
      <string name="current_wallpaper">Τρέχουσα ταπετσαρία</string>
      <string name="custom_wallpaper_picker">Αναζήτηση</string>
-     <string name="defalut_launcher_title">Προεπιλεγμένος Launcher</string>
+     <string name="defalut_launcher_title">Προεπιλεγμένος Εκκινητής</string>
      <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Παιχνίδια</string>
      <string name="default_folder_title_microsoft">Microsoft</string>
@@ -220,7 +220,7 @@
      <string name="menu_edit">Επεξεργασία widgets</string>
      <string name="menu_exit_scene">Έξοδος από το MiSpace</string>
      <string name="menu_item_add_item">Προσθήκη στην αρχική οθόνη</string>
-     <string name="menu_launcher_setting">Ρυθμίσεις Launcher</string>
+     <string name="menu_launcher_setting">Ρυθμίσεις Εκκινητή</string>
      <string name="menu_lock">Κλείδωμα διάταξης Αρχικής οθόνης</string>
      <string name="menu_more">Περισσότερα</string>
      <string name="menu_picktheme">Επιλογή θέματος</string>
@@ -267,7 +267,7 @@
      <string name="pref_enable_drawing_cache_title">Cache γραφικών</string>
      <string name="pref_icon_shadow_summary">Ενεργοποίηση σκιάς εφαρμογών και εφέ αντανάκλασης συρταριού Αγαπημένων</string>
      <string name="pref_icon_shadow_title">Σκιά εικονιδίου</string>
-     <string name="pref_keep_in_memory_summary">Κρατήστε τον launcher ενεργό όταν η μνήμη είναι χαμηλή.</string>
+     <string name="pref_keep_in_memory_summary">Κρατήστε τον Εκκινητή ενεργό όταν η μνήμη είναι χαμηλή.</string>
      <string name="pref_keep_in_memory_title">Κράτημα στη μνήμη</string>
      <string name="pref_keep_layout_summary">Η αλλαγή των εικονιδίων μπορεί να διαταράξει την διάταξη της επιφάνειας εργασίας σας.</string>
      <string name="pref_keep_layout_title">Χρήση τρέχουσας διάταξης</string>
@@ -276,7 +276,7 @@
      <string name="pref_screen_transformation_type_title">Εφέ</string>
      <string name="pref_wallpaper_scroll_type_title">Τύποι κύλισης ταπετσαρίας</string>
      <string name="preferences_general_title">Γενικές ρυθμίσεις</string>
-     <string name="preferences_title">Ρυθμίσεις Launcher</string>
+     <string name="preferences_title">Ρυθμίσεις Εκκινητή</string>
      <string name="preferred_app_settings_not_selected">Χωρίς επιλογή</string>
      <string name="process" />
      <string name="quick_app">Άμεσες εφαρμογές</string>
@@ -314,7 +314,7 @@
      <string name="sort_by_abc">Ταξινόμηση ανά όνομα</string>
      <string name="sort_by_frequency">Ταξινόμηση ανά χρήση</string>
      <string name="sort_by_not_defined">Ταξινόμηση από προεπιλογή</string>
-     <string name="start_activity_failed">Αδυναμία εκκίνησης launcher</string>
+     <string name="start_activity_failed">Αδυναμία έναρξης Εκκινητή</string>
      <string name="starting_preset_app">Εκκίνηση</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_downloaded">Έχει ληφθεί</string>
