@@ -2596,17 +2596,6 @@
     <item>Ενεργοποίηση προαιρετικών κωδικοποιητών</item>
     <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
   </string-array>
-  <string-array name="bluetooth_avrcp_versions">
-    <item>AVRCP 1.4 (Προεπιλογή)</item>
-    <item>AVRCP 1.5</item>
-    <item>AVRCP 1.6</item>
-  </string-array>
-  <string-array name="bluetooth_visibility_timeout_entries">
-    <item>2 λεπτά</item>
-    <item>5 λεπτά</item>
-    <item>1 ώρα</item>
-    <item>Χωρίς χρονικό όριο</item>
-  </string-array>
   <string-array name="bluetooth_max_connected_audio_devices">
     <item>Χρήση προεπιλογής συστήματος: %1$d</item>
     <item>1</item>
