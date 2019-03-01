@@ -820,6 +820,6 @@
 	  <string name="auto_identify_btn_title">Αυτό το μήνυμα αποστέλλεται από έναν άγνωστο αριθμό.</string>
 	  <string name="auto_identify_confirmation">Ενδέχεται να χρειαστούν αρκετά λεπτά για ενεργοποίηση της λειτουργίας.</string>
 	  <string name="menu_traffic_destination">Προορισμός</string>
-	  <string name="number_recognition_partner">Συνεργάτες αναγνώρισης αριθμών</string>
+	  <string name="number_recognition_partner">Πάροχοι υπηρ. αναγνώρισης ID αποστολέα</string>
 	  <string name="train_edit_destination">Προσθήκη</string>
 </resources>

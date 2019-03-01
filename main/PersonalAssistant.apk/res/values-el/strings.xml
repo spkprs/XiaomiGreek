@@ -1525,7 +1525,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="shopping_setting_remove">After you revoke authorization, App vault will stop collecting the info about your purchases, and the Shopping card will be removed. Revoke anyway?</string>
      <string name="shopping_setting_taobao">Taobao</string>
      <string name="shopping_setting_tmall">Tmall</string>
-     <string name="shopping_source">From</string>
+     <string name="shopping_source">Απο %s</string>
      <string name="shopping_support">Supported apps</string>
      <string name="shortcut">Συντομεύσεις</string>
      <string name="show_more">Δείτε περισσότερα</string>
