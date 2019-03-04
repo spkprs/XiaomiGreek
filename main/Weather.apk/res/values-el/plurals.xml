@@ -29,8 +29,8 @@
         <item quantity="one">%1$s άτομο | </item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;χρώμα γραμματοσειράς='#20a7ff'>%1$s&lt;/γραμματοσειρά> άτομα ψήφισαν"</item>
-        <item quantity="one">"&lt;χρώμα γραμματοσειράς='#20a7ff'>%1$s&lt;/γραμματοσειρά> άτομο ψήφισε"</item>
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομα ψήφισαν"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομο ψήφισε"</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Αίθριος</item>

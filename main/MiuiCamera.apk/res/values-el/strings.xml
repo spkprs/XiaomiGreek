@@ -738,5 +738,7 @@
 	  <string name="autozoom_hint">Παρακολούθηση κινούμενου αντικειμένου</string>  
 	  <string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
       <string name="hint_ae_lock">Η Αυτόματη Έκθεση έχει κλειδωθεί</string>
-     <string name="live_sticker_fragment_tab_name">TikTok Μαγικά Sticker</string>
+      <string name="live_sticker_fragment_tab_name">TikTok Μαγικά Sticker</string>
+	  <string name="config_name_ratio">Αναλογία</string>
+	  <string name="module_name_pixel_48M">48M</string>
 </resources>

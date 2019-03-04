@@ -57,8 +57,8 @@
   <string name="status_bar_screen_button_keys">Υποστήριξη πλοήγησης Χειρονομιών</string>
   <string name="switch_mobile_title">Τύπος δικτύου κατά την κλήση</string>
   <string name="system_update_settings_list_item_title">SuperSU</string>
-  <string name="toast_appname_summary">Εμφάνιση ονόματος εφαρμ. για προειδοποιήσεις</string>
-  <string name="toast_appname_title">Όνομα εφαρμ. για προειδοποίηση</string>
+  <string name="toast_appname_summary">Εμφάνιση ονόματος εφαρμ. στις ειδοποιήσεις</string>
+  <string name="toast_appname_title">Όνομα εφαρμ. σε αναδυόμενα παράθυρα</string>
   <string name="toggle_count_title">Εικονίδια σε ελαχιστοποιημένο πίνακα</string>
   <string name="toggles_columns_summary">Εμφάνιση: %s σε μια γραμμή/σελίδα</string>
   <string name="toggles_columns_title">Αριθμός διακοπτών</string>

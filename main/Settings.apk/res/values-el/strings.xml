@@ -1431,11 +1431,13 @@
      <string name="device_screen_resolution">Ανάλυση οθόνης</string>
      <string name="device_screen_size">Μέγεθος οθόνης</string>
      <string name="device_sd_memory">Κάρτα SD</string>
-     <string name="device_share_loading">Δημιουργία εικόνας…</string>
+     <string name="device_share_loading">Δημιουργία εικόνας</string>
      <string name="device_status">Κατάσταση</string>
      <string name="device_status_activity_title">Κατάσταση</string>
+     <string name="device_theme">Θέμα συσκευής</string>
      <string name="device_status_summary">Αριθμός Τηλεφώνου, Σήμα, Μπαταρία, IMEI κλπ</string>
      <string name="device_total_memory">Συνολικός χώρος αποθήκευσης</string>
+     <string name="device_usage_list_summary">Χρήση της συσκευής από την πλήρη φόρτιση</string>
      <string name="dial_application_title">Κλήση</string>
      <string name="dial_pad_tones_title">Ήχοι Πληκτρολογίου</string>
      <string name="dialog_chose_item">Επιλέξτε ένα στοιχείο για εμφάνιση</string>
@@ -4777,8 +4779,8 @@
      <string name="title_layout_v2">Μέγεθος κειμένου και κλιμάκωση</string>
      <string name="title_local_resource">Τοπικοί πόροι</string>
      <string name="title_system_resource">Πόροι συστήματος</string>
-     <string name="toast_appname_summary">Εμφάνιση ονόματος εφαρμ. στις προειδοποιήσεις</string>
-     <string name="toast_appname_title">Όνομα εφαρμ. για προειδοποίηση</string>
+     <string name="toast_appname_summary">Εμφάνιση ονόματος εφαρμ. στις ειδοποιήσεις</string>
+     <string name="toast_appname_title">Όνομα εφαρμ. σε αναδυόμενα παράθυρα</string>
      <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>
      <string name="toast_need_login">Σύνδεση στο λογαριασμό Mi</string>
      <string name="toggle_count_title">Εικονίδια σε ελαχιστοποιημένο πίνακα</string>
