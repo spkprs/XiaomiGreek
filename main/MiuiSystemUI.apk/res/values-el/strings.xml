@@ -1873,4 +1873,8 @@
      <string name="zen_silence_introduction">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπνήσεων, της μουσικής, των βίντεο και των παιχνιδιών.</string>
      <string name="zen_silence_introduction_voice">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπμήσεων, της μουσικής, των βίντεο και των παιχνιδιών. Θα εξακολουθείτε να πραγματοποιείτε τηλεφωνικές κλήσεις.</string>
      <string name="face_unlock_not_roi">Κρατήστε το πρόσωπό σας εντός πλαισίου</string>
+	 <string name="face_unlock_fail">"Αδύνατη η επαλήθευση προσώπου"</string>
+	 <string name="face_unlock_fail_retry">"Αδύνατη η επαλήθευση του προσώπου σας. Αγγίξτε το εικονίδιο και προσπαθήστε ξανά."</string>
+	 <string name="face_unlock_success_stay_screen_msg">Παραμονή στην Οθόνη Κλειδώματος αφού επαληθευτεί το πρόσωπό σας. Σαρώστε προς τα πάνω για άνοιγμα της Αρχικής οθόνης.</string>
+	 <string name="face_unlock_success_stay_screen_title">Παραμονή στην Οθόνη Κλειδώματος μετά το ξεκλείδωμα</string>
 </resources>

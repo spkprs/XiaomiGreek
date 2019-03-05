@@ -105,8 +105,6 @@
   <string name="input_wallet_information">Εισαγωγή αριθμού κινητού τηλεφώνου</string>
   <string name="instant_bank_transfer">Άμεση τραπεζική μεταφορά</string>
   <string name="insurance_button">Ασφάλιση</string>
-  <string name="insurance_description">Η ασφάλιση σας παρέχει πρόσθετη κάλυψη επισκευής</string>
-  <string name="insurance_entrance">Mi Protect για νεα συσκευή</string>
   <string name="item_name_battery">Μπαταρία</string>
   <string name="item_name_frontcamera">Εμπρός κάμερα</string>
   <string name="item_name_rearcamera">Πίσω κάμερα</string>
@@ -147,7 +145,6 @@
 Σημειώστε ότι οι τιμές των συσκευών υπόκεινται σε αλλαγές. Πουλήστε τώρα το τηλέφωνό σας για να επωφεληθείτε από την καλύτερη προσφορά."</string>
   <string name="recycle_button">Ανακύκλωση</string>
   <string name="recycle_description">Πάρτε τιμή ανακυκλώνοντας το παλιό σας τηλέφωνο</string>
-  <string name="recycle_entrance">Cashify Ανακύκλωσης</string>
   <string name="reschedule">Επαναπρογραμματισμός</string>
   <string name="result_no_fail">Τα πάντα είναι καλά</string>
   <string name="search_menu_title">Αναζήτηση</string>
@@ -200,4 +197,8 @@
   <string name="title_quote_page">Συνολική δοκιμή</string>
   <string name="toast_not_support">Δεν υποστηρίζεται στην τρέχουσα περιοχή.</string>
   <string name="touch_calibration_sub_title">Πατήστε και σύρετε για να διαγράψετε</string>
+  <string name="main_entrance">Πουλήστε το τηλέφωνό σας</string>
+  <string name="insurance_description">Η ασφάλεια OneAssist σας παρέχει πρόσθετη κάλυψη επισκευής</string>
+  <string name="insurance_entrance">Προστατέψτε το νέο σας τηλέφωνο</string>
+  <string name="recycle_entrance">Cashify - Πουλήστε το τηλέφωνό σας</string>
 </resources>
