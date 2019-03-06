@@ -1687,7 +1687,7 @@
      <string name="video_editor_loading_plugin">Φόρτωση…</string>
      <string name="video_editor_loading_warning_msg">Λόγω σφάλματος κωδικοποίησης, ορισμένες λειτουργίες και προεπισκοπήσεις ενδέχεται να μην είναι διαθέσιμες κατά τη διαδικασία επεξεργασίας. Ωστόσο, αυτό δεν θα επηρεάσει το τελικό αρχείο βίντεο.</string>
      <string name="video_editor_loading_warning_title">Σφάλμα κωδικοποίησης</string>
-     <string name="video_editor_more">Για προχωρημένους</string>
+     <string name="video_editor_more">Περισσότερα</string>
      <string name="video_editor_not_support_tips">Αυτά τα αρχεία βίντεο δεν υποστηρίζονται</string>
      <string name="video_editor_ok">OK</string>
      <string name="video_editor_regulator">Προσαρμογή</string>
@@ -1728,7 +1728,7 @@
      <string name="video_editor_text_edit_start">Τίτλος</string>
      <string name="video_editor_text_input_empty_tips">Φαίνεται ότι δεν έχετε εισάγει κείμενο ακόμα</string>
      <string name="video_editor_text_preview_text">Aa</string>
-     <string name="video_editor_trim">Τακτοποίηση</string>
+     <string name="video_editor_trim">Περικοπή</string>
      <string name="video_editor_unsupport_audio_file">Δεν υποστηρίζεται το αρχείο ήχου</string>
      <string name="video_editor_unzip_file_fail">Δεν ήταν δυνατή η αποσυσκευασία του βίντεο.</string>
      <string name="video_editor_video_is_short">Δεν είναι δυνατή η επεξεργασία αυτού του βίντεο.</string>

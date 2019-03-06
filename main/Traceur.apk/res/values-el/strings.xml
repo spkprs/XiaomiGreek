@@ -204,7 +204,7 @@
   <string name="development_settings_not_available">Οι επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
   <string name="development_settings_summary">Ορισμός επιλογών για ανάπτυξη εφαρμογής</string>
   <string name="development_settings_title">Επιλογές για προγραμματιστές</string>
-  <string name="direct_boot_unaware_dialog_message">Σημείωση: Μετά από μια επανεκκίνηση, δεν είναι δυνατή η έναρξη αυτής της συσκευής προτού ξεκλειδώσετε το τηλέφωνό σας</string>
+  <string name="direct_boot_unaware_dialog_message">"Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας."</string>
   <string name="disable_overlays">Απενεργ. επικαλύψεων HW</string>
   <string name="disable_overlays_summary">Να γίνεται πάντα χρήση του GPU για σύνθεση οθόνης</string>
   <string name="disabled">Απενεργοποιημένο</string>

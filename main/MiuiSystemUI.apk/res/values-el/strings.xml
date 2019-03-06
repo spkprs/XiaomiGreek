@@ -712,7 +712,6 @@
      <string name="gxzw_try_again">Προσπάθησε ξανά</string>
      <string name="gxzw_try_more_again">Δοκιμάστε ξανά</string>
      <string name="gxzw_use_password">Χρησιμοποιείστε τον κωδικό σας για ξεκλείδωμα</string>
-	<string name="gxzw_long_press_tip"/>
      <string name="hdcp_checking_dialog_title">Ρύθμιση συμπεριφοράς ελέγχου HDCP</string>
      <string name="hdcp_checking_title">Έλεγχος HDCP</string>
      <string name="headset">Ακουστικά</string>
@@ -1877,4 +1876,11 @@
 	 <string name="face_unlock_fail_retry">"Αδύνατη η επαλήθευση του προσώπου σας. Αγγίξτε το εικονίδιο και προσπαθήστε ξανά."</string>
 	 <string name="face_unlock_success_stay_screen_msg">Παραμονή στην Οθόνη Κλειδώματος αφού επαληθευτεί το πρόσωπό σας. Σαρώστε προς τα πάνω για άνοιγμα της Αρχικής οθόνης.</string>
 	 <string name="face_unlock_success_stay_screen_title">Παραμονή στην Οθόνη Κλειδώματος μετά το ξεκλείδωμα</string>
+     <string name="gxzw_long_press_tip">"Μην αφαιρέσετε το δάκτυλό σας αφού ξεκλειδώσετε τη συσκευή για να δείτε τις διαθέσιμες συντομεύσεις"</string>
+     <string name="usb_port_short_circuit_dialog_content">Η φόρτιση της συσκευής σας έχει διακοπεί. Αποσυνδέστε το φορτιστή και σκουπίστε τη θύρα αφαιρώντας την υγρασία για να συνεχιστεί η φόρτιση.</string>
+     <string name="usb_port_short_circuit_notification_content">Αποσυνδέστε το φορτιστή και σκουπίστε τη θύρα αφαιρώντας την υγρασία.</string>	 
+     <string name="usb_port_short_circuit_recovered_content">Μπορείτε να το χρησιμοποιήσετε για φόρτιση ή σύνδεση με άλλες συσκευές.</string>
+     <string name="usb_port_short_circuit_recovered_title">Η θύρα φόρτισης λειτουργεί τώρα κανονικά</string>
+     <string name="usb_port_short_circuit_title">"Υπάρχει υγρασία στη θύρα φόρτισης"</string>	 
+     <string name="direct_boot_unaware_dialog_message">"Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας."</string>
 </resources>
