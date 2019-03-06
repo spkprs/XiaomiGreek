@@ -181,7 +181,7 @@
      <string name="face_beauty_intelligent_level_3">Υψηλή</string>
      <string name="face_beauty_smart">Έξυπνη</string>
      <string name="face_score_info">Βαθμολογία: %.1f</string>
-     <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει το τελευταίο τέταρτο της εγγραφής</string>
+     <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει στο τελευταίο τέταρτο της εγγραφής</string>
      <string name="front_camera_hint_text_place">"Η λήψη selfies θα είναι ευκολότερη
 αν περιστρέψετε το τηλέφωνό σας"</string>
      <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>
@@ -292,7 +292,7 @@
      <string name="pref_camera_autoexposure_entry_centerweighted">Σταθμισμένο Κέντρο</string>
      <string name="pref_camera_autoexposure_entry_frameaverage">Μέσος όρος πλαισίου</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Σημειακή μέτρηση</string>
-     <string name="pref_camera_autoexposure_title">Ρυθμίσεις αυτόματης έκθεσης</string>
+     <string name="pref_camera_autoexposure_title">Ρυθμίσεις έκθεσης</string>
      <string name="pref_camera_beautify_entry_0">0</string>
      <string name="pref_camera_beautify_entry_1">1</string>
      <string name="pref_camera_beautify_entry_10">10</string>

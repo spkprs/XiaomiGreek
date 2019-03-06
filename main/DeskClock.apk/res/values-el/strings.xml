@@ -211,11 +211,11 @@
      <string name="timer_end_time_format_today">HH:mm</string>
      <string name="timer_got_it">OK</string>
      <string name="timer_is_paused">Το χρονόμετρο σε παύση</string>
-     <string name="timer_item_duration_display">%1$dΛ. %2$dΔ</string>
+     <string name="timer_item_duration_display">%1$dλ %2$dδ</string>
      <string name="timer_item_label_hint">Όνομα χρονομέτρου</string>
-     <string name="timer_item_picker_hour">Ω</string>
-     <string name="timer_item_picker_minute">Λ</string>
-     <string name="timer_item_picker_second">Δ</string>
+     <string name="timer_item_picker_hour">ω</string>
+     <string name="timer_item_picker_minute">λ</string>
+     <string name="timer_item_picker_second">δ</string>
      <string name="timer_new_item">Προσθήκη χρονομέτρου</string>
      <string name="timer_notify_text">Αναβολή ή απόρριψη χρονομέτρου.</string>
      <string name="timer_pause_timer">Παύση Χρονομέτρου</string>
