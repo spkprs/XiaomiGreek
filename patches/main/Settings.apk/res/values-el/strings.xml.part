@@ -64,7 +64,7 @@
   <string name="toggles_columns_title">Αριθμός διακοπτών</string>
   <string name="toggles_count_title">Εικονίδια σε μεγιστοποιημένο πίνακα</string>
   <string name="translation_contributors_title">Συντελεστές</string>
-  <string name="vol_silent_sounds_title">Ενεργός ήχος λειτουργιών</string>
+  <string name="vol_silent_sounds_title">Ενεργ. ήχου λειτουργιών</string>
   <string name="volbtn_timeout_summary">Κάθε: %s ms</string>
   <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
   <string name="volbtn_title">Μουσική</string>
@@ -79,4 +79,10 @@
   <string name="vol_sounds_title">Ενεργοποίηση ήχου επαναφοράς από την Αθόρυβη λειτουργία</string>
   <string name="date_time_24hour_auto_summary">Χρήση τοπικής προεπιλογής</string>
   <string name="decryption_settings_summary">Το τηλέφωνο δεν είναι κρυπτογραφημένο</string>
+  <string name="ota_disable_automatic_update_summary">Εφαρμογή ενημερώσεων κατά την επανεκκίνηση της συσκευής</string>
+  <string name="wifi_coverage_extend_summary">Ενεργοποιήστε την επέκταση της κάλυψης WiFi χρησιμοποιώντας το Hotspot</string>
+  <string name="wifi_coverage_extend">Ενεργοποιήστε τη δυνατότητα επέκτασης κάλυψης WiFi</string>
+  <string name="meid_multi_sim">Αριθμός MEID (υποδοχή sim %1$d)</string>
+  <string name="model_summary">Μοντέλο: %1$s</string>
+  <string name="imei_multi_sim">Αριθμός IMEI (υποδοχή κάρτας %1$d)</string>
 </resources>
