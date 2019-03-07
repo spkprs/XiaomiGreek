@@ -414,7 +414,9 @@
   <string name="trans_detail_category_wechat_qq">Δεδομένα WeChat και QQ (συμπεριλαμβάνεται και το ιστορικό συνομιλιών)</string>
   <string name="trans_detail_item_app_data_selected_tip">Επιλεγμένες αντίστοιχες εφαρμογές επίσης.</string>
   <string name="trans_detail_item_app_data_too_large_tip">Φαίνεται ότι το στοιχείο είναι πολύ μεγάλο για να μεταφερθεί.</string>
-  <string name="trans_detail_list_footer">Σημείωση: Μπορείτε να επιλέξετε να μεταφέρετε τις εφαρμογές χωριστά. Ωστόσο, αν επιλέξετε δεδομένα εφαρμογής, θα μεταφερθούν και οι αντίστοιχες εφαρμογές.</string>
+  <string name="trans_detail_list_footer">"1. Μπορείτε να επιλέξετε μεμονωμένες εφαρμογές που θέλετε να μεταφέρετε.
+2. Αν επιλέξετε δεδομένα εφαρμογής, θα επιλεγούν και οι αντίστοιχες εφαρμογές.
+3. Τα δεδομένα εφαρμογών WeChat και QQ ενδέχεται να μην μεταφερθούν εξαιτίας ζητημάτων συμβατότητας. Μπορείτε να δοκιμάσετε τις δυνατότητες μεταφοράς εντός εφαρμογής"</string>
   <string name="trans_detail_page_tip">Όσο περισσότερα στοιχεία επιλέγετε, τόσο μεγαλύτερη είναι η διάρκεια της μεταφοράς.</string>
   <string name="trans_detail_qq_data">Στοιχεία QQ (συμπεριλαμβάνεται και το ιστορικό συνομιλιών)</string>
   <string name="trans_detail_sys_data_list_title">Εφαρμογές συστήματος</string>
@@ -521,7 +523,9 @@
   <string name="trans_security_tips_title">Mi Mover συμβατό</string>
   <string name="trans_select_data">Επιλέξτε στοιχεία για αποστολή</string>
   <string name="trans_select_data_no_space">Δεν υπάρχει αρκετός χώρος αποθήκευσης στην νέα συσκευή (%s διαθέσιμα). \u000d\nΑπελευθερώστε χώρο ή μεταφέρετε μόνο σημαντικά αντικείμενα.</string>
-  <string name="trans_select_data_tips">Επιλέξτε στοιχεία προς μεταφορά \u000d\nΠαρόμοια αρχεία στη νέα συσκευή θα αντικατασταθούν</string>
+  <string name="trans_select_data_tips">"Επιλογή στοιχείων προς μεταφορά.
+Παρόμοια στοιχεία στη νέα συσκευή θα αντικατασταθούν.
+(Το μέγεθος των μεταφερθέντων στοιχείων που βλέπετε τώρα είναι μια πρόχειρη εκτίμηση.)"</string>
   <string name="trans_select_data_too_large">Tα δεδομένα είναι πολύ μεγάλα, η αντικατάσταση\u000d\u000d\nθα είναι χρονοβόρα, συνιστάται να μεταφέρετε μόνο τα δεδομένα που είναι σημαντικά για εσάς</string>
   <string name="trans_select_device_receive">Επιλέξτε μια συσκευή για λήψη δεδομένων.</string>
   <string name="trans_select_device_send">Επιλέξτε μια συσκευή για μεταφορά δεδομένων.</string>
@@ -578,4 +582,24 @@
   <string name="xiaomi_update_dialog_message">Σας παρουσιάζουμε την έκδοση %1$s \u000d\nΜέγεθος: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Σας παρουσιάζουμε την έκδοση %1$s \u000d\nΜέγεθος ενημέρωσης Delta: %2$s</string>
   <string name="xiaomi_update_dialog_title">Μια νέα έκδοση είναι διαθέσιμη!</string>
+  <string name="click_soft_ap_to_link">Επιλέξτε ένα hotspot για σύνδεση</string>
+  <string name="confirm_exit_link">Αποχώρηση</string>
+  <string name="confirm_exit_link_cancel">"Μην αποχωρείτε"</string>
+  <string name="confirm_exit_link_msg">"Η έξοδος από την εφαρμογή θα διακόψει την τρέχουσα μεταφορά. Θα χρειαστεί να συνδέσετε ξανά τις δύο συσκευές. Αποχωρείτε;"</string>
+  <string name="confirm_exit_link_title">Διακοπή της μεταφοράς</string>
+  <string name="connect_soft_ap_label">Σύνδεση σε νέα συσκευή…</string>
+  <string name="old_soft_name">Σύνδεση μέσω κώδικα QR</string>
+  <string name="old_way">Μπορείτε επίσης να συνδεθείτε χρησιμοποιώντας έναν κωδικό QR. Πατήστε για να δημιουργήσετε τον κωδικό.</string>
+  <string name="recreate_soft_ap_tips">Αγγίξτε το παρακάτω κουμπί για να δοκιμάσετε ξανά.</string>
+  <string name="scan_soft_ap">Αναζήτηση για νέα συσκευή…</string>
+  <string name="scan_soft_ap_label">Σύνδεση στην παλιά συσκευή</string>
+  <string name="soft_ap_create_failed">"Αδύνατη η δημιουργία hotspot"</string>
+  <string name="soft_ap_creating">Δημιουργία hotspot…</string>
+  <string name="trans_intro_desc_10">Πατήστε \"Σύνδεση μέσω QR κώδικα\" στη νέα συσκευή και σαρώστε τον κωδικό QR για να γίνει σύνδεση.</string>
+  <string name="trans_intro_desc_gms">"Λόγω μεγάλης πιθανότητας ανεπιτυχών μεταφορών που προκαλούνται από θέματα συμβατότητας, το Mi Mover δεν υποστηρίζει τη μεταφορά δεδομένων που δημιουργούνται από εφαρμογές Google."</string>
+  <string name="trans_intro_question_10">"%d. Αδύνατη η εύρεση του hotspot στην παλιά συσκευή;"</string>
+  <string name="trans_intro_title_gms">Δεδομένα που δημιουργήθηκαν από εφαρμογές Google:</string>
+  <string name="wait_link">"Συνδέστε την παλιά συσκευή σας σε αυτό το hotspot.
+Μην αφήνετε αυτήν τη σελίδα μέχρι να δημιουργηθεί η σύνδεση."</string>
+  <string name="waiting">Μισό λεπτό…</string>
 </resources>
