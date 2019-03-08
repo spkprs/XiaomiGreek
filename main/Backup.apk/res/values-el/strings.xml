@@ -186,12 +186,12 @@
   <string name="icloud_how_to_backup_tip_summary">Για να εισαγάγετε δεδομένα από το iOS, πρέπει να δημιουργήσετε ένα αντίγραφο ασφαλείας iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Συμβουλές:</string>
   <string name="icloud_login_title">Συνδεθείτε στο iCloud</string>
-  <string name="icloud_need_sync">Για την εισαγωγή δεδομένων από το iOS,\u000d\nθα πρέπει να δημιουργήσετε ένα iCloud backup πρώτα.</string>
+  <string name="icloud_need_sync">Για την εισαγωγή δεδομένων από το iOS,\u000d\nθα πρέπει να δημιουργήσετε ένα iCloud αντίγραφο πρώτα.</string>
   <string name="icloud_need_wifi_message">Δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi τώρα. Για να εισαγάγετε δεδομένα από το iCloud, συνδεθείτε στο Wi-Fi.</string>
   <string name="icloud_need_wifi_title">Σύνδεση σε Wi-Fi</string>
   <string name="import_again">Εισαγωγή και πάλι</string>
   <string name="import_data_from_icloud">Εισαγωγή δεδομένων από το iCloud</string>
-  <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να κάνετε backup των επαφών σας σε όλες τις συσκευές</string>
+  <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να κάνετε αντίγραφο των επαφών σας σε όλες τις συσκευές</string>
   <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\u000d\n2. http://www.miliao.com\u000d\n\u000d\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Mi</string>
   <string name="import_from_xiaomi_account_hint2">Σημείωση Μεταβείτε στο επόμενο βήμα εάν υπάρχει ήδη αντίγραφο</string>
   <string name="import_tip_summary">Λόγω προβλημάτων συμβατότητας, μπορείτε να μεταφέρετε μόνο μερικά δεδομένα από συσκευές iOS. Βεβαιωθείτε ότι έχετε δημιουργήσει ένα αντίγραφο ασφαλείας iCloud πριν ξεκινήσετε τη μεταφορά.</string>

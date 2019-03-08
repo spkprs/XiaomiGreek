@@ -745,7 +745,7 @@
   <string name="local_backup_password_summary_none">Τα πλήρη αντίγραφα ασφαλείας της επιφάνειας εργασίας δεν προστατεύονται αυτήν τη στιγμή</string>
   <string name="local_backup_password_title">Κωδικός πρόσβασης αντιγράφων ασφαλείας για υπολογιστή</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Ο νέος κωδικός πρόσβασης και η επιβεβαίωση δεν ταιριάζουν</string>
-  <string name="local_backup_password_toast_success">Νέος κωδικός πρόσβασης αντιγράφων ασφαλείας</string>
+  <string name="local_backup_password_toast_success">Ορίστηκε νέος κωδικός ασφαλείας αντιγράφου</string>
   <string name="local_backup_password_toast_validation_failure">Αποτυχία ορισμού κωδικού αντιγράφων ασφαλείας</string>
   <string name="local_disable">Τοπικές ειδήσεις απενεργοποιημένες</string>
   <string name="local_enable">Τοπικές ειδήσεις ενεργοποιημένες</string>
@@ -1576,9 +1576,9 @@
   <string name="wait_for_debugger">Περιμένετε για τον εντοπισμό σφαλμάτων</string>
   <string name="wait_for_debugger_summary">Η εφαρμογή εντοπισμού σφαλμάτων περιμένει για την επισύναψη του εντοπισμού σφάλματος πριν από την εκτέλεση</string>
   <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων?</string>
-  <string name="wfcmode_mobile_preferred">Κινητής προτίμηση</string>
+  <string name="wfcmode_mobile_preferred">Προτίμηση Δεδ. Κινητής</string>
   <string name="wfcmode_wifi_only">WLAN μόνο</string>
-  <string name="wfcmode_wifi_preferred">Προτιμήστε WLAN</string>
+  <string name="wfcmode_wifi_preferred">Προτίμηση Wi-Fi</string>
   <string name="wifi_aggressive_handover">Επιθετικό WLAN έως Cellular handover</string>
   <string name="wifi_aggressive_handover_summary">Όταν είναι ενεργοποιημένη, το WLAN θα είναι πιο επιθετικό στην παράδοση της σύνδεσης δεδομένων στο Cellular, όταν το σήμα WLAN είναι χαμηλό</string>
   <string name="wifi_allow_scan_with_traffic">Να επιτρέπεται πάντα η σάρωση WLAN Roam</string>
@@ -1637,5 +1637,5 @@
 Οι κλήσεις έκτακτης ανάγκης είναι δυνατές μόνο σε περιοχές με κυψελοειδή κάλυψη."</string>
   <string name="vowifi_emergency_warning_title">Επείγουσες κλήσεις μέσω WiFi</string>
   <string name="wifi_call_setting_vodafone_de">WiFi κλήσεις</string>
-  <string name="wifi_call_setting_vodafone_uk">WiFi καλεί</string>
+  <string name="wifi_call_setting_vodafone_uk">WiFi κλήσεις</string>
 </resources>

@@ -2297,7 +2297,7 @@
      <string name="local_backup_password_summary_none">Τα πλήρη αντίγραφα ασφαλείας του Desktop δεν προστατεύονται τώρα</string>
      <string name="local_backup_password_title">Εφεδρικός κωδικός πρόσβασης στο Desktop</string>
      <string name="local_backup_password_toast_confirmation_mismatch">Νέος κωδικός πρόσβασης και η επιβεβαίωση δεν ταιριάζουν</string>
-     <string name="local_backup_password_toast_success">Ορίστηκε νέος κωδικός ασφαλείας backup</string>
+     <string name="local_backup_password_toast_success">Ορίστηκε νέος κωδικός ασφαλείας αντιγράφου</string>
      <string name="local_backup_password_toast_validation_failure">Αποτυχία ρύθμισης κωδικού αντιγράφου</string>
      <string name="local_backup_section_summary">Αντίγραφα ρυθμίσεων συστήματος, λογαριασμών και εφαρμογών</string>
      <string name="local_backup_section_title">Τοπικά αντίγραφα</string>
