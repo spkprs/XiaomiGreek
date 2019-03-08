@@ -162,7 +162,7 @@
      <string name="backup_no_wifi_btn_text">Χρήση δεδομένων</string>
      <string name="backup_no_wifi_desc">Μπορείτε επίσης να δημιουργήσετε αντίγραφα για στοιχεία που χρησιμοποιούν κινητά δεδομένα</string>
      <string name="backup_no_wifi_title">Πατήστε για να συνδεθείτε στο Wi-Fi</string>
-     <string name="backup_only_in_wifi">Χρήση μόνο μέσω Wi‑Fi για αντίγραφο φωτογραφιών και βίντεο</string>
+     <string name="backup_only_in_wifi">Χρήση μόνο μέσω Wi‑Fi για αντίγραφα</string>
      <string name="backup_only_in_wifi_summary">Να μην γίνεται ποτέ χρήση δεδομένων για αντίγραφο φωτογραφιών και βίντεο</string>
      <string name="backup_only_wifi_dialog_message">Χρήση δεδομένων για αντίγραφα Φωτό και Βίντεο?</string>
      <string name="backup_pause">Παύση αντιγράφων</string>
@@ -1502,9 +1502,9 @@
      <string name="show_hidden_album_title">Εμφάνιση κρυφών άλμπουμ</string>
      <string name="show_in_other_albums_disable_toast_long_press_menu">Μεταφέρθηκε με επιτυχία, πηγαίνετε σε άλλο Άλμπουμ για προβολή</string>
      <string name="show_in_other_albums_enable_toast_long_press_menu">Μεταφέρθηκε με επιτυχία, πηγαίνετε στο Άλμπουμ για προβολή</string>
-     <string name="slideshow_interval_dialog_title">Διάστημα πάνω απο 0 δευτ.</string>
+     <string name="slideshow_interval_dialog_title">Διάρκεια πάνω απο 0 δευτ.</string>
      <string name="slideshow_interval_invalid">Το χρονικό διάστημα είναι λανθασμένο, πρέπει να είναι 1 ~ 3600 δευτ. Θα επαναφερθεί η προεπιλεγμένη τιμή</string>
-     <string name="slideshow_interval_title">Εμφάνιση κάθε διαφάνειας για</string>
+     <string name="slideshow_interval_title">Διάρκεια προβολής διαφανειών</string>
      <string name="slideshow_interval_value">%1$d δευτ.</string>
      <string name="slim_complete">Ολοκληρώθηκε</string>
      <string name="slim_complete_action_title">Βελτιστοποιήθηκε με επιτυχία</string>

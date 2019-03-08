@@ -740,4 +740,13 @@
   <string name="app_permission_use_group_storage_desc">Για εύρεση και αναπαραγωγή τραγουδιών αποθηκευμένων στη συσκευή</string>
   <string name="data_use_desc">Νομικά έγγραφα</string>
   <string name="privacy_desc">Πολιτική απορρήτου (υποχρεωτική)</string>
+  <string name="all_albums">Όλα τα άλμπουμ</string>
+  <string name="all_artists">Όλοι οι καλλιτέχνες</string>
+  <string name="all_playlists">Όλες οι λίστες</string>
+  <string name="all_songs">Ολα τα τραγούδια</string>
+  <string name="all_videos">Όλα τα βίντεο</string>
+  <string name="search_hint_local">Αναζήτηση τραγουδιών στη συσκευή</string>
+  <string name="search_hint_online">Αναζητήστε καλλιτέχνες, άλμπουμ, τραγούδια, λίστες και βίντεο στο διαδίκτυο</string>
+  <string name="tab_playlist">Λίστες</string>
+  <string name="tab_video">Βίντεο</string>
 </resources>
