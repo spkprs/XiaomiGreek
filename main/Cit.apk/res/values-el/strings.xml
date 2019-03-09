@@ -357,7 +357,7 @@
   <string name="cit_tool_rf_ant">Εργαλεία RF/Antenna</string>
   <string name="cit_tool_switch_autosms">Ενεργοποίηση/απενεργοποίηση του AutoSMSReg</string>
   <string name="cit_tool_tpdump">αγγίξτε λειτουργία εντοπισμού σφαλμάτων</string>
-  <string name="cit_tool_wifi">Εργαλείο δοκιμής WLAN</string>
+  <string name="cit_tool_wifi">Εργαλείο δοκιμής Wi-Fi</string>
   <string name="cit_tool_wifi_exit">Έξοδος</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Κανάλι</string>
   <string name="cit_tool_wifi_rx_count_error">Η τιμή εξόδου δεν είναι ένας αριθμός</string>
@@ -367,7 +367,7 @@
   <string name="cit_tool_wifi_rxbg_test_channel">κανάλι:</string>
   <string name="cit_tool_wifi_rxn_test_bw">εύρος ζώνης:</string>
   <string name="cit_tool_wifi_rxn_test_channel">κανάλι:</string>
-  <string name="cit_tool_wifi_sniffer">WLAN εργαλείο Sniffer</string>
+  <string name="cit_tool_wifi_sniffer">Wi-Fi εργαλείο Sniffer</string>
   <string name="cit_tool_wifi_sniffer_settings">Sniffer Ρυθμίσεις</string>
   <string name="cit_tool_wifi_tx_bg_chan">κανάλι:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
@@ -406,11 +406,11 @@
   <string name="cit_vibrator_play_touch_pattern">Δόνηση</string>
   <string name="cit_vibrator_short">Σύντομη δόνηση</string>
   <string name="cit_vibrator_show_advanced">Δείξτε τις προηγμένες επιλογές</string>
-  <string name="cit_wifi_address_check_summary">Παρακάτω είναι η διεύθυνση του δικτύου WLAN ότι το τηλέφωνο είναι συνδεδεμένο με. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται στην πράσινη είναι σωστή.</string>
-  <string name="cit_wifi_address_check_title">WLAN Διεύθυνση</string>
-  <string name="cit_wifi_address_error">Δεν ήταν δυνατή η λήψη της διεύθυνσης WLAN. Βεβαιωθείτε ότι είναι ενεργοποιημένο το WLAN.</string>
-  <string name="cit_wifi_ap_scan_check_summary">Παρακάτω είναι το WLAN AP πληροφορίες από τις συσκευές στην περιοχή που εντοπίστηκαν. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται στην πράσινη είναι σωστή.</string>
-  <string name="cit_wifi_ap_scan_check_title">WLAN AP Scan</string>
+  <string name="cit_wifi_address_check_summary">Παρακάτω είναι η διεύθυνση του δικτύου Wi-Fi ότι το τηλέφωνο είναι συνδεδεμένο με. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται στην πράσινη είναι σωστή.</string>
+  <string name="cit_wifi_address_check_title">Wi-Fi Διεύθυνση</string>
+  <string name="cit_wifi_address_error">Δεν ήταν δυνατή η λήψη της διεύθυνσης Wi-Fi. Βεβαιωθείτε ότι είναι ενεργοποιημένο το Wi-Fi.</string>
+  <string name="cit_wifi_ap_scan_check_summary">Παρακάτω είναι το Wi-Fi AP πληροφορίες από τις συσκευές στην περιοχή που εντοπίστηκαν. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται στην πράσινη είναι σωστή.</string>
+  <string name="cit_wifi_ap_scan_check_title">Αναζήτηση Wi-Fi AP</string>
   <string name="cit_wifi_ap_scan_retry">Σάρωση ξανά…</string>
   <string name="cit_wifi_ap_scanning">Σάρωση…</string>
   <string name="cit_wifi_fail_to_scan">Δεν ήταν δυνατή η σάρωση για δίκτυα</string>

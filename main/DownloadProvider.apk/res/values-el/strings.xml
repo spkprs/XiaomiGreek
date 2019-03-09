@@ -15,7 +15,7 @@
   <string name="dialog_button_ok">OK</string>
   <string name="dialog_content_limit_max">Απεριόριστα</string>
   <string name="dialog_content_limit0">Περιορισμός λήψεων</string>
-  <string name="dialog_data_limit_button1">Αναμονή για WLAN</string>
+  <string name="dialog_data_limit_button1">Αναμονή για Wi-Fi</string>
   <string name="dialog_data_limit_button2">Κατεβάστε τώρα</string>
   <string name="dialog_data_limit_msg1">%s δεδομένων κινητής θα χρησιμοποιηθεί για τη λήψη αυτού του αρχείου. Λήψη τώρα;</string>
   <string name="dialog_data_limit_msg3">Αλλαγή ορίου</string>
