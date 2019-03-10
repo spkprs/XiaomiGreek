@@ -429,7 +429,7 @@
 	  <string name="micloud_manaul_sync_success_title">Επιτυχής συγχρονισμός</string>
 	  <string name="micloud_manual_activating">Ενεργοποίηση...</string>
 	  <string name="micloud_manual_all_sync_off_button_text">Ενεργοποίηση</string>
-	  <string name="micloud_manual_all_sync_off_summary">Επαναφορά συγχρονισμένων δεδομ. σε νέες συσκευές χρησιμοπ. το Mi cloud</string>
+	  <string name="micloud_manual_all_sync_off_summary">Επαναφορά συγχρον. δεδομ. σε νέες συσκευές χρησιμοποιώντας το Mi cloud</string>
 	  <string name="micloud_manual_all_sync_off_title">Ο συγχρονισμός με το Mi cloud είναι ανενεργός</string>
 	  <string name="micloud_manual_buy_vip">Αναβάθμιση σχεδίου Mi Cloud</string>
 	  <string name="micloud_manual_cloud_storage_full_button_text">Αναβάθμιση</string>
@@ -471,7 +471,7 @@
 	  <string name="micloud_sync_result_sim_activated_error">Σφάλμα ενεργοποίησης κάρτας SIM</string>
 	  <string name="micloud_sync_result_wifi_only">Συγχρονισμός μέσω WiFi μόνο</string>
 	  <string name="sync_detail_summary_off">Ανενεργό</string>
-	  <string name="sync_detail_text">Λεπτομέριες συγχρονισμού</string>
+	  <string name="sync_detail_text">Λεπτομέρειες συγχρονισμού</string>
 	  <string name="user_storage_info_available_text_prefix">%s διαθέσιμα</string>
 	  <string name="warning_bar_action_add_short_cut">Προσθήκη</string>
 	  <string name="warning_bar_action_close">Κλείστε</string>

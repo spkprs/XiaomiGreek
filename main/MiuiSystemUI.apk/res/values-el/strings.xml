@@ -394,6 +394,7 @@
      <string name="bluetooth_profile_sap">Πρόσβαση SIM</string>
      <string name="bluetooth_sap_profile_summary_connected">Συνδεδεμένο με SAP</string>
      <string name="bluetooth_sap_profile_summary_use_for">Χρήση για πρόσβαση SIM</string>
+     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Επιλογή κωδικοποιητή ήχου Bluetooth</string>
      <string name="bluetooth_tethered">Το Bluetooth είναι προσδεμένο</string>
      <string name="branded_monitoring_description_app_personal">Έχετε συνδεθεί σε %1$s, που μπορεί να παρακολουθεί τη δραστηριότητα του προσωπικού σας δικτύου, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ιστότοπων.</string>
      <string name="branded_vpn_footer">Το δίκτυο μπορεί να παρακολουθείται</string>
@@ -679,7 +680,7 @@
      <string name="forced_resizable_secondary_display">Η εφαρμογή ενδέχεται να μην λειτουργεί σε δευτερεύουσα οθόνη.</string>
      <string name="forget_password_string">Ξέχασα τον κωδικό</string>
      <string name="fs_gesture_back_home_summary">Σύρετε γρήγορα από κάτω</string>
-     <string name="fs_gesture_back_ready_title">Πηγαίνετε πίσω</string>
+     <string name="fs_gesture_back_ready_title">Μετάβαση Πίσω</string>
      <string name="fs_gesture_final_over">Τελείωσα</string>
      <string name="fs_gesture_final_restart">Αλλη μιά φορά</string>
      <string name="fs_gesture_final_summary">Μπορείτε να επιστρέψετε με χρήση πλήκτρων στις Ρυθμίσεις &gt; Εμφάνιση Πλήρους οθόνης</string>
@@ -728,7 +729,7 @@
      <string name="home">Ρυθμίσεις αρχικής οθόνης</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="how_to_back_home">Μετάβαση στην Αρχική οθόνη</string>
-     <string name="how_to_switch_recents">Άνοιγμα πρόσφατων</string>
+     <string name="how_to_switch_recents">Άνοιγμα Πρόσφατων</string>
      <string name="how_to_use_drawer">Πώς να ανοίξετε το μενού παρουσίασης</string>
      <string name="how_to_use_drawer_summary">Σύρετε δεξιά στο επάνω μέρος της οθόνης</string>
      <string name="how_to_use_fsg">Μπορείτε να εκτελέσετε αυτές τις ενέργειες με χειρονομίες:</string>

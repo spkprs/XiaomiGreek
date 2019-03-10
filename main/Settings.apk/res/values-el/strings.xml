@@ -6017,6 +6017,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	  <string name="display_cutout_emulation_none">Καμία</string>
 	  <string name="bluetooth_select_avrcp_version_string">Έκδοση AVRCP Bluetooth</string>
 	  <string name="bluetooth_select_avrcp_version_dialog_title">Επιλογή έκδοσης AVRCP Bluetooth</string>
+      <string name="bluetooth_select_a2dp_codec_type_dialog_title">Επιλογή κωδικοποιητή ήχου Bluetooth</string>
 	  <string name="bluetooth_select_a2dp_codec_type">Κωδικοποιητής ήχου Bluetooth</string>
 	  <string name="bluetooth_select_a2dp_codec_sample_rate">Ρυθμός δειγματοληψίας ήχου Bluetooth</string>
 	  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Επιλογή κωδικοποιητή ήχου Bluetooth:\nΠοσοστό δείγματος</string>
