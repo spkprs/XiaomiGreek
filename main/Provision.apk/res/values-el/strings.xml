@@ -122,4 +122,5 @@
      <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
 	  <string name="congratulation_label_night">Δείτε την ολοκαίνουργια Σκοτεινή λειτουργία μας!</string>
 	  <string name="start_up_slogan_night">Δείτε την ολοκαίνουργια Σκοτεινή λειτουργία μας!</string>
+      <string name="locale_picker_other_locale_title">Περισσότερες περιοχές</string>
 </resources>

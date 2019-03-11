@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <plurals name="Ndays">
         <item quantity="other">%d ημέρες πριν</item>

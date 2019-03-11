@@ -682,4 +682,13 @@
     <string name="transparent_wallpaper_white_wallpaper_tip">Η διαφανής ταπετσαρία φαίνεται καλύτερα σε λευκό φόντο</string>
     <string name="video_wallpaper_import">Πατήστε για προσθήκη στοιχείων</string>
     <string name="wallpaper_set_as_float_wallpaper">Διαφανής ταπετσαρία (Beta)</string>
+	  <string name="ad_begin_to_download_tip">Ξεκινά η λήψη…</string>
+	  <string name="ad_closed_tip">"Θα δείτε λιγότερες διαφημίσεις αυτού του τύπου"</string>
+	  <string name="ad_download_download">Λήψη</string>
+	  <string name="ad_download_install">Εγκατάσταση</string>
+	  <string name="ad_download_open">Άνοιγμα</string>
+	  <string name="ad_download_pause">Παύση</string>
+	  <string name="ad_download_pending">Εκκρεμής</string>
+	  <string name="ad_download_resume">Συνέχεια</string>
+	  <string name="ad_downloading_tip">Γίνεται λήψη αυτού του στοιχείου. Μπορείτε να δείτε την πρόοδο στον πίνακα ειδοποιήσεων.</string>
 </resources>
