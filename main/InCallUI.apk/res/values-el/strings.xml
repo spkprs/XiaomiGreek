@@ -210,4 +210,5 @@
 "</string>
      <string name="waiting_close_airplane_mode">Μισό λεπτό…</string>
      <string name="call_not_support_high_frequency_click">"Μην αγγίζετε αυτό το κουμπί τόσο συχνά"</string>
+     <string name="volte_call">Κλήσεις VoLTE</string>
 </resources>

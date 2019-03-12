@@ -19,14 +19,14 @@
      </plurals>
      <plurals name="duration_hours">
         <item quantity="other">%d ώρες</item>
-        <item quantity="one">1 ώρα</item>
+        <item quantity="one">%d ώρα</item>
      </plurals>
      <plurals name="duration_minutes">
         <item quantity="other">%d λεπτά</item>
-        <item quantity="one">1 λεπτό</item>
+        <item quantity="one">%d λεπτό</item>
      </plurals>
      <plurals name="duration_seconds">
         <item quantity="other">%d δευτ.</item>
-        <item quantity="one">1 δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
      </plurals>
 </resources>

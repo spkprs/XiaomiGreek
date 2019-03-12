@@ -18,14 +18,11 @@
         <item>clarity_of_instructions</item>
      </string-array>
      <string-array name="trans_cancel_survey_title">
-        <item>Η μεταφορά διαρκεί πολύ</item>
-        <item>Η σύνδεση διακόπτεται</item>
-        <item>Επιλέξα λάθος στοιχεία για μεταφορά</item>
-        <item>Πάρα πολλά βήματα</item>
-        <item>"Η μπαταρία του τηλεφώνου μου είναι χαμηλή"</item>
-        <item>Τα μεταφερόμενα στοιχεία είναι κατεστραμμένα</item>
-        <item>Ξεκίνησα τη μεταφορά κατά λάθος.</item>
-        <item>Άλλο</item>
+        <item>Συνολική εμπειρία</item>
+        <item>Διάρκεια μεταφοράς</item>
+        <item>Απλότητα της διαδικασίας</item>
+        <item>Σαφήνεια οδηγιών</item>
+        <item>Αυτή η λειτουργία είναι χρήσιμη</item>
      </string-array>
      <string-array name="trans_succeed_rating_hint">
         <item>Πολύ δυσαρεστημένος</item>

@@ -6049,4 +6049,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
       <string name="other_settings_sync_settings">Συγχρονισμός</string>
       <string name="unlogin_account_summary">Όλες οι υπηρεσίες Mi. Ένας Λογαριασμός Mi</string>
       <string name="unlogin_account_title">Συνδεθείτε στο Λογαριασμό Mi</string>
+	  <string name="cutout_mode_always">Εμφάνιση πάντα εγκοπής</string>
+	  <string name="cutout_mode_default">Αυτόματα</string>
+	  <string name="cutout_mode_settings_title">Ορισμένες εφαρμογές ενδέχεται να εμφανίζονται λανθασμένα εάν προσαρμόσετε τον τρόπο εμφάνισης της εγκοπής.</string>
+	  <string name="cutout_mode_title">Εγκοπή σε μεμονωμένες εφαρμογές</string>
 </resources>
