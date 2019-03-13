@@ -68,7 +68,7 @@
     <string name="app_category_shopping">Ψώνια</string>
     <string name="app_category_tools">Εργαλεία</string>
     <string name="app_info_drop_target_label">Πληροφορίες εφαρμογής</string>
-    <string name="application_name">POCO Launcher</string>
+    <string name="application_name">Εκκινητής POCO</string>
     <string name="apply">Ορισμός</string>
     <string name="apply_action">Ορισμός</string>
     <string name="apply_as_lock_screen">Ορισμός ως Οθόνη κλειδώματος</string>
@@ -135,10 +135,10 @@
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="dialog_dm_guide_content">Η οθόνη κλειδώματος πρέπει να ενεργοποιήσει τον διαχειριστή της συσκευής για τον Περιηγητή POCO. Αυτό μπορεί να εμποδίσει την απεγκατάσταση του περιηγητή POCO. Αν αντιμετωπίσετε προβλήματα κατά την απεγκατάσταση του Περιηγητή POCO, απενεργοποιήστε αυτή τη λειτουργία και δοκιμάστε ξανά. Συνέχεια;</string>
     <string name="dialog_dm_guide_title">Ενεργοποίησης διαχειριστή συσκευής</string>
-    <string name="dialog_msg_score_midrop">Ποια είναι η γνώμη σας για το POCO Launcher;</string>
+    <string name="dialog_msg_score_midrop">Ποια είναι η γνώμη σας για τον Εκκινητή POCO;</string>
     <string name="dialog_msg_score_not_good">Μπορείτε να μας αφήσετε επίσης τα σχόλιά σας;</string>
-    <string name="dialog_msg_score_perfect">Τέλεια! Αξιολόγηση του POCO Launcher και στο Play Store;</string>
-    <string name="dialog_title_score">Αξιολογήστε το POCO Launcher</string>
+    <string name="dialog_msg_score_perfect">Τέλεια! Αξιολόγηση του Εκκινητή POCO και στο Play Store;</string>
+    <string name="dialog_title_score">Αξιολογήστε τον Εκκινητή POCO</string>
     <string name="disable_wallpaper_scroll">Απενεργοποίηση πλάγιου ξεφυλλίσματος</string>
     <string name="disabled_app_label">Έγινε απενεργοποίηση %1$s</string>
     <string name="download_action">Λήψη</string>
@@ -192,7 +192,7 @@
     <string name="free_style_edit_bar_select_app">Επιλογή εφαρμογής</string>
     <string name="free_style_edit_bottom_empty_tip">Αγγίξτε το ορθογώνιο για επεξεργασία</string>
     <string name="free_style_edit_drawer">Ζωγραφική</string>
-    <string name="free_style_edit_move_tip">Πατήστε &amp; πατήστε παρατεταμένα για μετακίνηση ενός αντικειμένου</string>
+    <string name="free_style_edit_move_tip">Πατήστε παρατεταμένα για μετακίνηση ενός αντικειμένου</string>
     <string name="free_style_edit_tab_free_component">Αντικείμενα</string>
     <string name="free_style_edit_tab_shortcut">Συντομεύσεις</string>
     <string name="free_style_edit_tab_widget">Widgets</string>
@@ -246,17 +246,17 @@
     <string name="guide_install_app_msg">Η εφαρμογή δεν έχει εγκατασταθεί στην συσκευή σας. Αναζήτηση και εγκατάσταση της εφαρμογής τώρα;</string>
     <string name="guide_install_app_title">Αναζήτηση και εγκατάσταση εφαρμογής;</string>
     <string name="guide_permission_msg_notification">Επιτρέψτε στον Εκκινητή POCO να έχει πρόσβαση στις ειδοποιήσεις ούτως ώστε να εμφανίζει σήματα ειδοποίησης.</string>
-    <string name="guide_permission_msg_storage">Να επιτραπεί στο Πρόγραμμα Εκκίνησης POCO η πρόσβαση στον χώρο αποθήκευσης και η δυνατότητα να προσαρμόζει την Αρχική οθόνη.</string>
+    <string name="guide_permission_msg_storage">Να επιτραπεί στον Εκκινητή POCO η πρόσβαση στον χώρο αποθήκευσης και η δυνατότητα να προσαρμόζει την Αρχική οθόνη.</string>
     <string name="guide_permission_title">Απαιτούνται άδειες</string>
     <string name="guide_permission_title_notification">Άδειες ειδοποιήσεων</string>
     <string name="guide_permission_title_storage">Άδειες αποθηκευτικού χώρου</string>
-    <string name="guide_privacy_agreement">Έχω διαβάσει και συμφωνώ με την <a href="http://url1"><font color="#B3000000"> Πολιτική απορρήτου </font></a> και την <a href="http://url2"><font color="#B3000000">Συμφωνία χρήστη</font></a>.</string>
+    <string name="guide_privacy_agreement">"Έχω διαβάσει και συμφωνώ με την "<a href="http://url1"><font color="#B3000000"> Πολιτική απορρήτου </font></a> και την <a href="http://url2"><font color="#B3000000">Συμφωνία χρήστη</font></a>.</string>
     <string name="guide_privacy_dialog_msg">Διαβάστε και αποδεχτείτε την Πολιτική Απορρήτου και τη Συμφωνία Χρήστη του POCO πριν χρησιμοποιήσετε αυτό το Πρόγραμμα Εκκίνησης.</string>
     <string name="guide_privacy_dialog_title">Όροι Υπηρεσίας</string>
     <string name="guide_privacy_start">Έναρξη</string>
-    <string name="guide_tips_editing_mode">Πατήστε &amp; πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
+    <string name="guide_tips_editing_mode">Πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
     <string name="guide_title_launcher" />
-    <string name="guide_title_poco">ΠΡΟΓΡΑΜΜΑ ΕΚΚΙΝΗΣΗΣ POCO</string>
+    <string name="guide_title_poco">ΕΚΚΙΝΗΤΗΣ POCO</string>
     <string name="guide_wallpaper_current">Τρέχουσα ταπετσαρία</string>
     <string name="guide_wallpaper_poco">Ταπετσαρία POCO</string>
     <string name="guide_wallpaper_title">Ορισμός ως ταπετσαρία Αρχικής οθόνης</string>
@@ -320,7 +320,7 @@
     <string name="lockscreen_access_pattern_cell_added">Προστέθηκε κελί</string>
     <string name="lockscreen_access_pattern_cleared">Έγινε εκκαθάριση μοτίβου</string>
     <string name="lockscreen_access_pattern_start">Έγινε έναρξη μοτίβου</string>
-    <string name="long_press_widget_to_add">Πατήστε &amp; πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
+    <string name="long_press_widget_to_add">Πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
     <string name="manager_group_settings">Διαχειριστείτε τις ομάδες εφαρμογών</string>
     <string name="memory_clear_nothing_result">Δεν υπάρχει τίποτα προς διαγραφή στην προσωρινή μνήμη</string>
     <string name="memory_clear_result">Έγινε εκκαθάριση %1$sB</string>
@@ -551,7 +551,7 @@
     <string name="pa_hold_down_adjustment_order">Παρατεταμένο άγγιγμα ενός εικονιδίου κάτω, και απόθεση επάνω</string>
     <string name="pa_holiday_empty_desc">Πατήστε εδώ για να διαβάσετε περισσότερα</string>
     <string name="pa_home">Σπίτι</string>
-    <string name="pa_home_and_company">Σπίτι &amp; δουλειά</string>
+    <string name="pa_home_and_company">Σπίτι &amp; εργασία</string>
     <string name="pa_hour12_format_en">hh:mm</string>
     <string name="pa_hour24_format_en">HH:mm</string>
     <string name="pa_instagram_main">Φωτογραφίες</string>
@@ -804,7 +804,7 @@
     <string name="preferences_title">Ρυθμίσεις εκκινητή</string>
     <string name="preferred_app_settings_not_selected">Δεν επιλέχθηκε</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
-    <string name="rate_poco_launcher">Αξιολογήστε το POCO Launcher</string>
+    <string name="rate_poco_launcher">Αξιολογήστε τον Εκκινητή POCO</string>
     <string name="recents_config_title">Πρόσφατα</string>
     <string name="recommend_apps_default_title">Κενό</string>
     <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
@@ -823,10 +823,10 @@
     <string name="select_frame">Πλαίσιο</string>
     <string name="select_photo">Φωτογραφία</string>
     <string name="service_agreement">Σύμβαση παροχής υπηρεσιών</string>
-    <string name="set_notification_access_failed">Αδυναμία ρύθμισης. Το POCO Launcher δεν έχει πρόσβαση στις ειδοποιήσεις.</string>
+    <string name="set_notification_access_failed">Αδυναμία ρύθμισης. Ο Εκκινητής POCO δεν έχει πρόσβαση στις ειδοποιήσεις.</string>
     <string name="set_notification_access_successfully">Επιτυχής ορισμός</string>
     <string name="setting_default_confirm">ΟΚ</string>
-    <string name="setting_default_description">Ορίστε το POCO ως προεπιλεγμένο πρόγραμμα εκκίνησης για να ανακαλύψετε περισσότερες δυνατότητες και τις εξατομικευμένες υπηρεσίες.</string>
+    <string name="setting_default_description">Ορίστε το POCO ως προεπιλεγμένο πρόγραμμα εκκίνησης για να ανακαλύψετε περισσότερες δυνατότητες και εξατομικευμένες υπηρεσίες.</string>
     <string name="setting_default_title">Ορίστε το POCO ως το προεπιλεγμένο σας πρόγραμμα εκκίνησης</string>
     <string name="setting_wallpaper_tip">Τσιμπήστε ή σαρώστε για διόρθωση</string>
     <string name="settings">Ρυθμίσεις</string>

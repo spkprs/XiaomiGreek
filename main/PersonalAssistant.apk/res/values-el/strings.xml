@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-     <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
+     <string name="access_change_text" formatted="false">Το επιλεγμένο στοιχείο είναι %d και αλλάζει με το %d..</string>
      <string name="access_select">Επιλεγμένο %s</string>
      <string name="access_unselect">Δεν έχει επιλεγεί %s</string>
      <string name="accessibility_title">Προσωπικός βοηθός</string>
@@ -1693,4 +1693,14 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
 	  <string name="notification_channel_payment_description">Ειδοποιήσεις σχετικά με  Πληρωμές</string>
 	  <string name="notification_channel_shopping_description">Ειδοποιήσεις για τα προϊόντα που προστέθηκαν στα αγαπημένα ή το καλάθι αγορών σας</string>
       <string name="card_expand_note_add_checkbox">Προσθήκη πλαισίου ελέγχου</string>
+	  <string name="clock_alarm">Αφύπνιση</string>
+	  <string name="clock_parent">Ρολόι</string>
+	  <string name="google_assistant">Βοηθός</string>
+	  <string name="google_parent">Google</string>
+	  <string name="midrop_parent">Mi Drop</string>
+	  <string name="midrop_send">Αποστολή</string>
+	  <string name="whatsapp_parent">WhatsApp</string>
+	  <string name="whatsapp_photos">Φωτογραφίες</string>
+	  <string name="disclaimer_content">Αυτή η λειτουργία παρέχεται από την %1$s. Η %1$s φέρει κάθε ευθύνη σχετικά με τις υπηρεσίες που παρέχει. Επικοινωνήσετε με την %1$s αν έχετε ερωτήσεις.</string>
+	  <string name="disclaimer_title">Αποποίηση ευθυνών</string>
 </resources>

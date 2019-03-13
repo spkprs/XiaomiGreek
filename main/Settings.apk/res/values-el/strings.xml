@@ -6053,4 +6053,14 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	  <string name="cutout_mode_default">Αυτόματα</string>
 	  <string name="cutout_mode_settings_title">Ορισμένες εφαρμογές ενδέχεται να εμφανίζονται λανθασμένα εάν προσαρμόσετε τον τρόπο εμφάνισης της εγκοπής.</string>
 	  <string name="cutout_mode_title">Εγκοπή σε μεμονωμένες εφαρμογές</string>
+      <string name="bt_aac_dialog_summary">"Η συσκευή υποστηρίζει κωδικοποιητή AAC. Εντούτοις, το AAC ενδέχεται να μην αναπαράγει ήχο λόγω ασυμβατότητας. Ενεργοποίησε αυτόματα τον κωδικοποιητή SBC.
+Μπορείτε να το αλλάξετε στις Ρυθμίσεις."</string>
+      <string name="bt_aac_dialog_title">Σύνδεση Bluetooth</string>
+      <string name="bt_aac_open_dialog_summary">"Ο AAC ενδέχεται να μην αναπαράγει ήχο λόγω ασυμβατότητας.
+Μπορείτε να απενεργοποιήσετε αυτή τη λειτουργία στις Ρυθμίσεις > Bluetooth > Συνδεδεμένες συσκευές."</string>
+      <string name="bt_aac_open_dialog_title">Μετάβαση σε κωδικοποιητή AAC</string>
+      <string name="bt_aac_pre_title">AAC</string>
+      <string name="bt_dialog_remember_choice">Ενθύμηση επιλογής</string>
+      <string name="bt_dialog_settings">Ρυθμίσεις</string>
+      <string name="bt_pre_summary">Παρέχει μια υψηλής ποιότητας εμπειρία ήχου</string>
 </resources>
