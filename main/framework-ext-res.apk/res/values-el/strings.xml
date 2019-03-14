@@ -84,9 +84,9 @@
      <string name="memory_clear_result">Εκκαθάριση %1$s | Διαθέσιμα %2$s</string>
      <string name="miui">miui</string>
      <string name="miui_forbid_poweroff_when_device_locked">Αδύνατηη απενεργοποίηση, η συσκευή είναι κλειδωμένη.</string>
-     <string name="miui_screen_ratio_hint">Αναλογία θεμάτων οθόνης</string>
+     <string name="miui_screen_ratio_hint">Θέμα αναλογίας οθόνης</string>
      <string name="miui_screen_ratio_hint_dont_show_again">Να μην εμφανιστεί ξανά</string>
-     <string name="miui_screen_ratio_hint_go_to_settings">Μεταβείτε στις Ρυθμίσεις</string>
+     <string name="miui_screen_ratio_hint_go_to_settings">Ρυθμίσεις</string>
      <string name="miui_screen_ratio_hint_message">Αυτή η εφαρμογή επιτρέπεται να εκτελείται σε κατάσταση πλήρους οθόνης, γεγονός που μπορεί να προκαλέσει την εσφαλμένη εμφάνιση της. Μπορείτε να το αλλάξετε απο τις Ρυθμίσεις&gt; Πλήρης Οθόνη.</string>
      <string name="miui_screen_ratio_hint_ok">Εντάξει</string>
      <string name="miui_upgrading_notification_title">Φόρτωση του συστήματος, ορισμένες δυνατότητες ενδέχεται να μην είναι διαθέσιμες.</string>

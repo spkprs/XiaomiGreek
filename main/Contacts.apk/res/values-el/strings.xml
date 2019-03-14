@@ -1254,5 +1254,7 @@
      <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
      <string name="open_wifi_connect_and_use_data_summary">Χρήση δεδομένων. Πατήστε για μετάβαση σε Wi-Fi.</string>
      <string name="contacts_default_notification_channel">Ειδοποιήσεις</string>
+     <string name="confirm_call_log_dial_summary">Ζητήστε επιβεβαίωση πριν την κλήση από τα αρχεία καταγραφής κλήσεων για την αποφυγή τυχαίων κλήσεων.</string>
+     <string name="confirm_call_log_dial_title">Επιβεβαίωση κλήσης από τα αρχεία καταγραφής κλήσεων</string>
 </resources>
 

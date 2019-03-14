@@ -865,7 +865,7 @@
      <string name="ext_sdcard_guide_text">"Η Συλλογή χρειάζεται την άδειά σας για πρόσβαση στην κάρτα SD. Εδώ είναι τι μπορείτε να κάνετε:"</string>
      <string name="ext_sdcard_operation_failed_text">Η Συλλογή χρειάζεται άδεια για πρόσβαση στην κάρτα SD.</string>
      <string name="ext_sdcard_operation_failed_title">"Αδυναμία ολοκλήρωσης αυτής της ενέργειας"</string>
-     <string name="ext_sdcard_permission_request_button_text">Κατανοητό</string>
+     <string name="ext_sdcard_permission_request_button_text">Παραχώρηση</string>
      <string name="ext_sdcard_permission_request_reason">Η Συλλογή χρειάζεται την άδειά σας για πρόσβαση στην κάρτα SD. Θα μπορείτε να διαγράψετε και να επεξεργαστείτε φωτογραφίες και βίντεο που είναι αποθηκευμένα στην κάρτα SD σας.</string>
      <string name="ext_sdcard_permission_request_title">Παραχώρηση πρόσβασης</string>
      <string name="ext_sdcard_request_failed_button_text">OK</string>
