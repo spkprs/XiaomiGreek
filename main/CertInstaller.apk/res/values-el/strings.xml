@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="app_name">Πρόγρ. εγκατάστασης Πιστοποιητικών</string>
      <string name="cert_is_added">%s είναι εγκατεστημένα.</string>
      <string name="cert_missing_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν ήταν δυνατό να εντοπιστεί.</string>
+     <string name="certificate_capabilities_warning">Σημείωση: ο εκδότης αυτού του πιστοποιητικού μπορεί να επιθεωρήσει όλη την κίνηση από και προς τη συσκευή.</string>
      <string name="cert_not_saved">Το πιστοποιητικό δεν είναι εγκατεστημένο.</string>
      <string name="cert_read_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν μπορεί να διαβάσει.</string>
      <string name="cert_too_large_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το μέγεθος του πιστοποιητικού είναι πολύ μεγάλο.</string>
@@ -37,7 +38,7 @@
      <string name="wifi_cancel_label">Ακύρωση</string>
      <string name="wifi_config_text">"Όνομα: %1$s
 FQDN: %2$s
-Roaming Consortiums: %3$s
+Κοινοπραξίες περιαγωγής: %3$s
 Realm: %4$s
 Μέθοδος πιστοποίησης: EAP-%5$s
 "</string>

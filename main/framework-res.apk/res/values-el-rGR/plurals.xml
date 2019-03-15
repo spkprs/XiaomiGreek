@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <plurals name="bugreport_countdown">
         <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ.</item>
@@ -144,5 +144,13 @@
      <plurals name="zen_mode_duration_minutes_summary_short">
         <item quantity="other">Για %1$d λεπτά (έως %2$s)</item>
         <item quantity="one">Για 1 λεπτό (έως %2$s)</item>
+     </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s προτάσεις αυτόματης συμπλήρωσης</item>
+        <item quantity="one">Μία πρόταση αυτόματης συμπλήρωσης</item>
+    </plurals>
+     <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Ξαναπροσπαθήστε σε %d δευτ.</item>
+        <item quantity="one">Ξαναπροσπαθήστε σε 1 δευτ.</item>
      </plurals>
 </resources>

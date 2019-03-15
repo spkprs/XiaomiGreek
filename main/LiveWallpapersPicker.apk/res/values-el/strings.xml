@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="application_name">Επιλογέας Ζωντανής Ταπετσαρίας</string>
+    <string name="application_name">Ζωντανή Ταπετσαρία</string>
     <string name="live_wallpaper_picker_title">Επιλέξτε Ζωντανή Ταπετσαρία</string>
     <string name="live_wallpaper_picker_label">Ζωντανή</string>
     <string name="live_wallpaper_preview_title">Προεπισκόπηση</string>
@@ -11,4 +11,6 @@
     <string name="wallpaper_title_and_author">%1$s απο %2$s</string>
     <string name="live_wallpaper_loading">Φόρτωση…</string>
     <string name="wallpaper_cancel">Ακύρωση</string>
+    <string name="which_wallpaper_option_home_screen">Αρχική Οθόνη</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen">Αρχική Οθόνη και Οθόνη Κλειδώματος</string>
 </resources>

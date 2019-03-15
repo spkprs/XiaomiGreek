@@ -93,4 +93,6 @@
   <string name="xl_speedup_experience_notify_title">Προνόμια μελών Xunlei</string>
   <string name="xl_speedup_notify_button_experience">Δωρεάν δοκιμή</string>
   <string name="xl_speedup_notify_button_member">Γίνετε μέλος</string>
+ <string name="download_filesize_unknown">Άγνωστο</string>
+ <string name="notification_dld_msg">Διαχείριση εφαρμογών που έχουν ληφθεί</string>
 </resources>

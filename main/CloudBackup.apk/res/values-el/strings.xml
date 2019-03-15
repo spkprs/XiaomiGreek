@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="about_to_recover">Μισό λεπτό…</string>
      <string name="app_is_running">Εκτελείται…</string>
@@ -191,4 +191,8 @@
      <string name="try_continue">Αγγίξτε για συνέχεια</string>
      <string name="unsupported_home">Ενημερώστε στην τελευταία έκδοση το MIUI.</string>
      <string name="wait_icon_download">Λήψη εικονιδίων εφαρμογών…</string>
+	<string name="restore_finish_description">Η Επαναφορά ολοκληρώθηκε</string>
+	<string name="restore_init_description">Έναρξη Επαναφοράς</string>
+	<string name="restoring_file_title_no_progress">Επαναφορά αρχείων…</string>
+	<string name="restoring_settings">Επαναφορά ρυθμίσεων…</string>
 </resources>

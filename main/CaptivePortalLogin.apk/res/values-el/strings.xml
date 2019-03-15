@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_bar_label">Σύνδεση στο δίκτυο</string>
+     <string name="action_bar_title">Σύνδεση με %1$s</string>
      <string name="action_do_not_use_network">Να μη γίνει χρήση αυτού του δικτύου</string>
      <string name="action_use_network">Χρήση αυτού του δικτύου όπως είναι</string>
      <string name="app_name">CaptivePortalLogin</string>

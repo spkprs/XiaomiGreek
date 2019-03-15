@@ -145,4 +145,12 @@
         <item quantity="other">Για %1$d λεπτά (έως %2$s)</item>
         <item quantity="one">Για 1 λεπτό (έως %2$s)</item>
      </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s προτάσεις αυτόματης συμπλήρωσης</item>
+        <item quantity="one">Μία πρόταση αυτόματης συμπλήρωσης</item>
+    </plurals>
+     <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Ξαναπροσπαθήστε σε %d δευτ.</item>
+        <item quantity="one">Ξαναπροσπαθήστε σε 1 δευτ.</item>
+     </plurals>
 </resources>

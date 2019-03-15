@@ -12,4 +12,12 @@
         <item quantity="other">"Αδύνατη η λήψη %1$d στοιχείων"</item>
         <item quantity="one">"Αδύνατη η λήψη %1$d στοιχείου"</item>
     </plurals>
+     <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Λήψη %1$d αρχείων</item>
+        <item quantity="one">Λήψη %1$d αρχείου</item>
+     </plurals>
+     <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d ελήφθησαν</item>
+        <item quantity="one">%1$d ελήφθει</item>
+     </plurals>
 </resources>

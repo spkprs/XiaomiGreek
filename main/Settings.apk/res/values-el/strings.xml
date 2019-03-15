@@ -6064,4 +6064,10 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
       <string name="bt_dialog_settings">Ρυθμίσεις</string>
       <string name="bt_pre_summary">Παρέχει μια υψηλής ποιότητας εμπειρία ήχου</string>
       <string name="external_source_switch_title">Να επιτρέπεται από αυτήν την πηγή</string>
+	  <string name="notification_channel_title">Κατηγορία ειδοποιήσεων</string>
+      <string name="notification_channels">Κατηγορίες ειδοποιήσεων</string>
+	  <string name="notification_channels_other">Άλλα</string>
+	  <string name="no_channels">Αυτή η εφαρμογή δεν έχει δημοσιεύσει ειδοποιήσεις</string>
+	  <string name="notification_content_block_summary">Να μην εμφανίζονται ποτέ ειδοποιήσεις στο πίνακα ειδοποιήσεων ή σε περιφερειακές συσκευές</string>
+	  <string name="notification_content_block_title">Εμφάνιση ειδοποιήσεων</string>
 </resources>

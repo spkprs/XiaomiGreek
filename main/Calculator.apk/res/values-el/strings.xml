@@ -94,7 +94,7 @@
      <string name="equalDesc">ίσον</string>
      <string name="error">Σφάλμα</string>
      <string name="error_fomrat">Λάθος μορφή</string>
-     <string name="exit">Exit</string>
+     <string name="exit">Έξοδος</string>
      <string name="factorial">!</string>
      <string name="factorialDesc">παραγοντικό</string>
      <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
@@ -672,4 +672,18 @@
      <string name="year" />
      <string name="younger_brother">弟弟</string>
      <string name="younger_sister">妹妹</string>
+     <string name="children_education">Παιδική εκπαίδευση</string>
+	<string name="extra_deduction_instruction">Λεπτομέρειες έκπτωσης</string>
+	<string name="extra_deduction_tips">Αγγίξτε το κουμπί στην επάνω γωνία της οθόνης για να δείτε τις λεπτομέρειες έκπτωσης.</string>
+	<string name="extra_deduction_title">Πρόσθετες μειώσεις</string>
+	<string name="help_content_desc">Βοήθεια</string>
+	<string name="home_loan">Στεγαστικό ενδιαφέρον</string>
+	<string name="house_rent">Ενοίκιο</string>
+	<string name="license_host_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
+	<string name="loading">Μισό λεπτό…</string>
+	<string name="medical_treatment">Ιατρική περίθαλψη</string>
+	<string name="mt_max">Το ποσό που εισάγετε είναι πολύ μεγάλο</string>
+	<string name="none">Κανένα</string>
+	<string name="support_elder">Υποστήριξη για τους ηλικιωμένους</string>
+	<string name="updating">Ενημέρωση αριθμομηχανής…</string>
 </resources>
