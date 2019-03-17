@@ -331,7 +331,7 @@
      <string name="pref_summary_sync_display_photo_on_wifi_only">Συγχρονισμός φωτογραφιών επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi</string>
      <string name="pref_title_sync_contacts_title">Συγχρονισμός επαφών</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Χρήση μόνο Wi‑Fi για να συγχρονίσετε φωτογραφίες</string>
-     <string name="privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+     <string name="privacy_policy">Πολιτική Απορρήτου</string>
      <string name="reading_status">Φόρτωση κατάστασης…</string>
      <string name="reading_status_failure">"Αδύνατη η φόρτωση κατάστασης."</string>
      <string name="recommend_open_all_sync">Συγχρονίστε όλα τα στοιχεία</string>

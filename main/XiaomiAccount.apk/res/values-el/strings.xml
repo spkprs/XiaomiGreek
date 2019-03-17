@@ -310,7 +310,7 @@ ID:%s
      <string name="passport_phone_num_hint_text">Αριθμός τηλεφώνου</string>
      <string name="passport_phone_ticket_login">Συνδεθείτε με SMS</string>
      <string name="passport_prev">Πίσω</string>
-     <string name="passport_privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+     <string name="passport_privacy_policy">Πολιτική Απορρήτου</string>
      <string name="passport_pwd_generate_failure">Αδυναμία παραγωγής κωδικού</string>
      <string name="passport_pwd_generating">Παραγωγή…</string>
      <string name="passport_querying_phone_info">Αίτηση πληροφοριών λογαριασμού…</string>
@@ -397,7 +397,7 @@ ID:%s
      <string name="passport_user_agreement_p1">Με την είσοδο, συμφωνείτε με τους </string>
      <string name="passport_user_agreement_p2">Όρους χρήσης</string>
      <string name="passport_user_agreement_p3">και</string>
-     <string name="passport_user_agreement_p4">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+     <string name="passport_user_agreement_p4">Πολιτική Απορρήτου</string>
      <string name="passport_user_id_notice">Το αναγνωριστικό λογαριασμού Mi είναι %s.</string>
      <string name="passport_user_reg_region">Χώρα/Περιοχή</string>
      <string name="passport_user_reg_region_warning">Δεν θα μπορείτε να αλλάξετε τη χώρα/περιοχή σας μόλις δημιουργηθεί ο λογαριασμός.</string>

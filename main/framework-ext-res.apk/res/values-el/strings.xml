@@ -181,7 +181,7 @@
      <string name="talk_back_water_mark_string1">TalkBack είναι ενεργό</string>
      <string name="talk_back_water_mark_string2">Κρατήστε πατημένο \"Volume+\" και \"Volume-\" για 3 δευτ για απενεργοποίηση</string>
      <string name="total">Μην Ενοχλείτε</string>
-     <string name="total_description">Η σίγαση ήχων και απενεργοποίηση δόνησης όλων εκτός της Αφύπνισης</string>
+     <string name="total_description">Σίγαση ήχων και απενεργοποίηση δόνησης όλων εκτός της Αφύπνισης</string>
      <string name="total_title">Μην Ενοχλείτε</string>
      <string name="translation_more">Περισσότερα</string>
      <string name="translation_query_error">Δεν βρέθηκαν αποτελέσματα</string>
@@ -193,7 +193,7 @@
      <string name="voice_begin">Τι ψάχνετε?</string>
      <string name="voice_button_action_down">Απελευθέρωση για αναζήτηση</string>
      <string name="voice_button_action_up">Πατήστε για να μιλήσετε</string>
-     <string name="voice_input_error_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά."</string>
+     <string name="voice_input_error_network">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά."</string>
      <string name="voice_input_error_other">Παρουσιάστηκε σφάλμα. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
      <string name="wifi_assistant_wifi_no_internet">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο Ίντερνετ</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Αγγίξτε για προβολή λεπτομερειών</string>
@@ -202,7 +202,7 @@
 	  <string name="resolver_checkbox_always">Πάντα</string>
 	  <string name="resolver_checkbox_once">Μια φορά</string>
 	  <string name="resolver_mi_browser">Mi Πλοηγός</string>
-	  <string name="resolver_offical_recommend">Επίσημη</string>
+	  <string name="resolver_offical_recommend">Προτείνεται</string>
 	  <string name="resolver_other_method">Άλλες επιλογές</string>
 	  <string name="resolver_recommend_options_tag">Προτεινόμενες επιλογές</string>
 </resources>
