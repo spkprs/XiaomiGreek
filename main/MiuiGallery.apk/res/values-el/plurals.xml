@@ -81,20 +81,20 @@
         <item quantity="one">%d στοιχείο επιλέχθηκε</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Διαγραφή %d στοιχείου από όλες τις συσκευές και από το Mi Cloud;</item>
-        <item quantity="one">Διαγραφή %d στοιχείων από όλες τις συσκευές και από το Mi Cloud;</item>
+        <item quantity="other">Διαγραφή %d στοιχείου από τις συσκευές και στο Mi Cloud;</item>
+        <item quantity="one">Διαγραφή %d στοιχείων από τις συσκευές και στο Mi Cloud;</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">Διαγραφή %d στοιχείων;</item>
         <item quantity="one">Διαγραφή %d στοιχείου;</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Διαγραφή %d στοιχείων από αυτό το άλμπουμ και από το Mi Cloud;</item>
-        <item quantity="one">Διαγραφή %d στοιχείου από αυτό το άλμπουμ και από το Mi Cloud;</item>
+        <item quantity="other">Διαγραφή %d στοιχείων από το άλμπουμ και στο Mi Cloud;</item>
+        <item quantity="one">Διαγραφή %d στοιχείου από το άλμπουμ και στο Mi Cloud;</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Διαγραφή %d φωτογραφιών από όλες τις συσκευές και από το Mi Cloud;</item>
-        <item quantity="one">Διαγραφή αυτής της φωτογραφίας από όλες τις συσκευές και από το Mi Cloud;</item>
+        <item quantity="other">Διαγραφή %d φωτογραφιών από τις συσκευές και στο Mi Cloud;</item>
+        <item quantity="one">Διαγραφή αυτής της φωτογραφίας από τις συσκευές και στο Mi Cloud;</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Διαγραφή %d φωτογραφίες;</item>

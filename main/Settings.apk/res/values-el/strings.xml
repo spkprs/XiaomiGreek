@@ -6070,4 +6070,23 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	  <string name="no_channels">Αυτή η εφαρμογή δεν έχει δημοσιεύσει ειδοποιήσεις</string>
 	  <string name="notification_content_block_summary">Να μην εμφανίζονται ποτέ ειδοποιήσεις στο πίνακα ειδοποιήσεων ή σε περιφερειακές συσκευές</string>
 	  <string name="notification_content_block_title">Εμφάνιση ειδοποιήσεων</string>
+	  <string name="auto_dual_clock_summary">Εμφάνιση διπλού ρολογιού όταν η τρέχουσα ώρα είναι διαφορετική από εκείνη του δεύτερου ρολογιού</string>
+	  <string name="auto_dual_clock_title">Διπλό Ρολόι</string>
+	  <string name="cutout_type_desc">Ενεργοποίηση για εξομάλυνση καμπύλων εγκοπής</string>
+	  <string name="cutout_type_title">Ρύθμιση σχήματος εγκοπής</string>
+	  <string name="dual_clock">Διπλό Ρολόι</string>
+	  <string name="dual_clock_aod_hint">Το "\"Διπλό Ρολόι\" βασίζεται στα ακόλουθα χαρακτηριστικά: 1. Για την απενεργοποιημένη οθόνη, επιτρέπετε την εμφάνιση στοιχείων στις Ρυθμίσεις &gt; Οθόνη; 2. Για την Οθόνη Κλειδώματος, βεβαιωθείτε ότι χρησιμοποιείτε το προεπιλεγμένο ή το κλασικό θέμα στις Ρυθμίσεις &gt; Θέματα; 3. Για την Αρχική οθόνη, βεβαιωθείτε ότι χρησιμοποιείτε το προεπιλεγμένο συστήματος widget Ρολογιού."</string>
+	  <string name="dual_clock_hint">Το "\"Διπλό Ρολόι\" βασίζεται στα ακόλουθα χαρακτηριστικά: 1. Για την Οθόνη Κλειδώματος, βεβαιωθείτε ότι χρησιμοποιείτε το προεπιλεγμένο ή το κλασικό θέμα στις Ρυθμίσεις &gt; Θέματα; 2. Για την Αρχική οθόνη, βεβαιωθείτε ότι χρησιμοποιείτε το προεπιλεγμένο συστήματος widget Ρολογιού."</string>
+	  <string name="dual_clock_ok">Τέλος</string>
+	  <string name="dual_clock_open_message">Το Διπλό Ρολόι θα εμφανιστεί στην οθόνη Κλειδώματος, στην Αρχική οθόνη και θα απενεργοποιηθεί η οθόνη.</string>
+	  <string name="more_installed_services_title">Περισ. υπηρεσίες που ελήφθησαν</string>
+	  <string name="otg_button">OTG</string>
+	  <string name="otg_closed">Off</string>
+	  <string name="otg_opened">On</string>
+	  <string name="otg_settings">OTG</string>
+	  <string name="otg_tip">"Το USB on-the-Go επιτρέπει σε μονάδες USB και φορητά πληκ/για να συνδεθούν με την συσκευή σας για ανταλλαγή δεδομένων.
+
+Το OTG απενεργοποιείται αυτόματα μετά από 10 λεπτά αδράνειας."</string>
+	  <string name="resident_timezone_summary">Δεύτερο ρολόι</string>
+	  <string name="toast_sta_ap_works_wifi_display_disable">"Αδύνατη η μετάδοση όταν υπάρχει ενεργή σύνδεση σε WiFi και ενεργό Hotspot."</string>
 </resources>

@@ -442,9 +442,9 @@
   <string name="dialog_cannot_resume">Η λήψη διακόπηκε</string>
   <string name="dialog_clipboard_tabs_action">Κάντε κλικ για άνοιγμα</string>
   <string name="dialog_clipboard_tabs_tip">Βρείτε ήδη αντιγραμμένες συνδέσεις</string>
-  <string name="dialog_confirm_delete_checkbox_message">Διαγραφή αρχείου στον εσωτερικό χώρο αποθήκευσης</string>
-  <string name="dialog_confirm_delete_downloads_message">Διαγραφή %s εργασιών;</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτής της εργασίας;</string>
+  <string name="dialog_confirm_delete_checkbox_message">Διαγραφή και των τοπικών αρχείων</string>
+  <string name="dialog_confirm_delete_downloads_message">Διαγραφή %s στοιχείων;</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτού του στοιχείου;</string>
   <string name="dialog_failed_body">Δοκιμάστε ξανά αργότερα ή καταργήστε αυτό το αρχείο από την αναμονή Λήψης;</string>
   <string name="dialog_file_already_exists">Έχετε ήδη κατεβάσει αυτό το αρχείο</string>
   <string name="dialog_file_missing_body">Αδυναμία εύρεσης αρχείου. Μήπως το μετακινήσατε ή το διαγράψατε;</string>

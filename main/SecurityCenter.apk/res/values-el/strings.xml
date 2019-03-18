@@ -2672,4 +2672,8 @@
     <string name="notify_diving_mode_exception_open_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας Immersive."</string>
     <string name="notify_diving_mode_exception_close_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η απενεργοποίηση της λειτουργίας Immersive."</string>
     <string name="gamebox_recent_task_expand_fail">"Οι εφαρμογές που λειτουργούν με συντομεύσεις δεν έχουν εγκατασταθεί"</string>
+	<string name="security_center_slogan">Ασφαλεία. Πάντα σε επιφυλακή.</string>
+	<string name="third_desktop_dialog_content">Όπως οι εφαρμογή Εκκινητή τρίτων, ενδέχεται να υπάρχει διαρροή δεδομένων, άδειασμα μπαταρίας, καθυστέρηση, κλπ. Μόνο οι επαληθευμένες εφαρμ. από το MIUI μπορούν να οριστούν ως προεπιλεγμένες εφαρμ. Εκκινητή.</string>
+	<string name="third_desktop_dialog_ok">Κατάλαβα</string>
+	<string name="third_desktop_dialog_title">Σφάλμα</string>
 </resources>

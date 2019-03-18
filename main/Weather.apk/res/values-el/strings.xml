@@ -28,7 +28,7 @@
      <string name="activity_main_update_time">Έγινε ενημέρωση %1$s</string>
      <string name="activity_main_update_time_expire">Τα δεδομένα έληξαν</string>
      <string name="activity_main_update_time_right_now">μόλις τώρα</string>
-     <string name="activity_minute_rain_location_fail_msg">Αδυναμία εντοπισμού τοποθεσίας. Εμφάνιση Πεκίνου από προεπιλογή.</string>
+     <string name="activity_minute_rain_location_fail_msg">"Αδυναμία λήψης ακριβών πληροφοριών τοποθεσίας. Μετάβαση στην τρέχουσα πόλη."</string>
      <string name="add_city">Προσθήκη</string>
      <string name="alert_detail_title">Λεπτομέρειες προειδοποίησης</string>
      <string name="alert_warning">Ειδοποιήσεις καιρού</string>
@@ -217,7 +217,7 @@
      <string name="real_time_sunrise">Ανατολή ηλίου %1$s</string>
      <string name="real_time_sunset">Δύση ηλίου %1$s</string>
      <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
-     <string name="realtime_humidity_title">Σχετική υγρασία</string>
+     <string name="realtime_humidity_title">Υγρασία</string>
      <string name="realtime_temperature_no_data">N/A</string>
      <string name="realtime_wind_default_title">Άνεμος</string>
      <string name="receive_net_mock_success">Net mock receive success</string>
@@ -298,4 +298,6 @@
 	  <string name="permission_user_protocol">User Agreement (mandatory)</string>
 	  <string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
 	  <string name="weather_permission_agree">Αποδοχή</string>
+      <string name="aqi_settings_summary">AQI προειδοποιησεις</string>
+	  <string name="aqi_settings_title">AQI (Δείκτης Ποιοτ. Αέρα)</string>
 </resources>
