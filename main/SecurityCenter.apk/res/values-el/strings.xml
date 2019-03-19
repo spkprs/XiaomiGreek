@@ -1057,7 +1057,7 @@
      <string name="gs_performance_mode">Λειτουργία απόδοσης</string>
      <string name="gs_performance_mode_detail">Βελτιστοποιήστε την απόδοση του συστήματος για gaming</string>
      <string name="gs_sign_notification">Υπενθυμίστε να κάνετε check in στις 8 μ.μ. καθημερινά</string>
-     <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό για να εμφανιστεί ο πίνακας συντομεύσεων. Γρήγορες απαντήσεις και επιλογές εγγραφής οθόνης είναι διαθέσιμες.</string>
+     <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό ή σύρετε από την επάνω πλευρά της οθόνης για να εμφανιστεί ο πίνακας συντομεύσεων</string>
      <string name="guide_get_operator_error">"&lt;font color=\"\'#33b4ff\'\"&gt;Λάθος φορέας;&lt;/font&gt;"</string>
      <string name="guide_operator_text">Ο τρέχων φορέας σας:</string>
      <string name="guide_quck_open">Ενεργοποιήστε</string>

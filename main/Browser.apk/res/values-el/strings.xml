@@ -1605,4 +1605,7 @@
   <string name="ad_exit_dialog_message">Η εγκατάσταση ολοκληρώθηκε! Θέλετε να την ανοίξετε τώρα;</string>
   <string name="ad_exit_dialog_open_btn_name">Άνοιγμα</string>
   <string name="ad_exit_dialog_title_name">Νέα εφαρμ. άνοιγμα επιβεβαίωσης</string>
+  <string name="data_traffic_download_confirm">Χρήση της σύνδεσης δεδομένων κινητής</string>
+  <string name="data_traffic_download_ok">Εντάξει</string>
+  <string name="load_error_tip">Σφάλμα φόρτωσης, επαναλάβετε</string>	
 </resources>

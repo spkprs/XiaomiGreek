@@ -1884,4 +1884,6 @@
      <string name="usb_port_short_circuit_recovered_title">Η θύρα φόρτισης λειτουργεί τώρα κανονικά</string>
      <string name="usb_port_short_circuit_title">"Υπάρχει υγρασία στη θύρα φόρτισης"</string>	 
      <string name="direct_boot_unaware_dialog_message">"Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας."</string>
+	 <string name="face_unlock_success">Το πρόσωπο επαληθεύτηκε με επιτυχία</string>
+	 <string name="rapid_charge_mode_tip">Γρήγορη φόρτιση</string>
 </resources>
