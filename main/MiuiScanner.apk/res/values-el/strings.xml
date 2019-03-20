@@ -216,7 +216,7 @@
      <string name="miracast_message">Προβολή σε %s?</string>
      <string name="miracast_switch_off">Ανενεργή ασύρματη Οθόνη</string>
      <string name="miracast_switch_tip">Ενεργοποιήστε την ασύρματη οθόνη για χρήση της λειτουργίας</string>
-     <string name="module_title_business_card">Επαγγελματική Κάρτα</string>
+     <string name="module_title_business_card">Επαγγ. Κάρτα</string>
      <string name="module_title_code">Κωδικός QR</string>
      <string name="module_title_document">Έγγραφο</string>
      <string name="module_title_plant">Φυτό</string>

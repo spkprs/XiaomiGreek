@@ -272,4 +272,12 @@
         <item quantity="other">%d στοιχεία είναι πολύ μεγάλα για αντίγραφα</item>
         <item quantity="one">%d στοιχείο είναι πολύ μεγάλο για αντίγραφο</item>
     </plurals>
+	 <plurals name="photo_count_format">
+        <item quantity="other">Σύνολο %1$d στοιχεία</item>
+        <item quantity="one">Σύνολο %1$d στοιχείο</item>
+    </plurals>
+	 <plurals name="video_count_format">
+        <item quantity="other">%1$d αρχεία</item>
+        <item quantity="one">%1$d αρχείο</item>
+    </plurals>
 </resources>

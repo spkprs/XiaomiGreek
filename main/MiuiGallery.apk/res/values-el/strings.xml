@@ -1790,4 +1790,18 @@
 	  <string name="set_as_video_wallpaper_description">Κάντε λήψη αυτού του στοιχείου και χρησιμοποιήστε το ως βίντεο ταπετσαρία;</string>
 	  <string name="set_as_video_wallpaper_title">Ορισμός βίντεο ταπετσαρίας</string>
 	  <string name="set_video_wallpaper_failed">"Αδύνατη η χρήση αυτού του στοιχείου ως βίντεο ταπετσαρία"</string>
+	  <string name="cleaner_similar_action">Διαγραφή τώρα</string>
+	  <string name="cleaner_similar_description">Διαγραφή διπλών φωτογραφιών</string>
+	  <string name="cleaner_similar_title">Διπλές φωτογραφίες</string>
+	  <string name="cleaner_video_action">Διαγραφή τώρα</string>
+	  <string name="cleaner_video_description">Διαγράψτε βίντεο που καταλαμβάνουν χώρο αποθήκευσης</string>
+	  <string name="cleaner_video_pick_delete_selected">Διαγραφή επιλεγμένων βίντεο</string>
+	  <string name="cleaner_video_title">Διαγραφή βίντεο</string>
+	  <string name="print_log">Εκτύπωση αρχείου καταγραφής</string>
+	  <string name="screen_doodle_talkback_size">Πλάτος γραμμής Σκίτσου</string>
+	  <string name="screen_editor_finish">Ολοκληρώθηκε</string>
+	  <string name="screen_save_dialog_btn_cancel">Ακύρωση</string>
+	  <string name="screen_save_dialog_btn_delete">Διαγραφή στιγμιότυπου οθόνης</string>
+	  <string name="screen_save_dialog_btn_save">Αποθήκευση στη Συλλογή</string>
+	  <string name="similar_keep_clear">Κρατήστε τις καλύτερες λήψεις</string>
 </resources>

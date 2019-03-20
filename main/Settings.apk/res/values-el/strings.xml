@@ -6044,7 +6044,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	  <string name="cool_color">Ψυχρό</string>
 	  <string name="warm_color">Θερμό</string>
       <string name="login_account_summary">Διαχειριστείτε λογαριασμούς, υπηρεσίες cloud, πληρωμές και πολλά άλλα</string>
-      <string name="miui_more_special_feature">Εξερευνήστε νέα χαρακτηριστικά</string>
+      <string name="miui_more_special_feature">Εξερευνήστε νέες λειτουργίες</string>
       <string name="miui_special_feature">Ειδικά χαρακτηριστικά</string>
       <string name="other_settings_sync_settings">Συγχρονισμός</string>
       <string name="unlogin_account_summary">Όλες οι υπηρεσίες Mi. Ένας Λογαριασμός Mi</string>

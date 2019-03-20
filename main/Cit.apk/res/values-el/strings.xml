@@ -584,4 +584,6 @@
   <string name="cit_tool_modem_mbn_config_load_and_active">MBN εργαλείο φόρτωσης και ρύθμισης παραμέτρων</string>
   <string name="cit_tool_opt_fail_info_notify">Η επιλογή απέτυχε, επανεκκινήστε και δοκιμάστε ξανά.</string>
   <string name="motor_calibration">Βαθμονόμηση Μοτέρ</string>
+  <string name="cit_splash_check_summary">Βεβαιωθείτε ότι υπάρχει φαινόμενο μαύρης οθόνης περισσότερο από 5 δευτ.</string>
+  <string name="cit_tool_splash_test_title">Δοκιμή Splash</string>
 </resources>

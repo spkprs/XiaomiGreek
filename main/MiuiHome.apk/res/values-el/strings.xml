@@ -100,7 +100,7 @@
      <string name="default_folder_title_telcel">Telcel</string>
      <string name="default_folder_title_tools">Εργαλεία</string>
      <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
-     <string name="default_screen_preview_title">Πατήστε για ορισμό προεπιλεγμένης οθόνης</string>
+     <string name="default_screen_preview_title">Ορισμός προεπιλεγμένης οθόνης</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_screen">Διαγραφή οθόνης</string>
@@ -361,4 +361,7 @@
      <string name="widget_global_search">Παγκόσμια αναζήτηση</string>
      <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
      <string name="dual_app">Διπλές εφαρμογές</string>
+	 <string name="edit_mode_top_menu_finish">Ολοκληρώθηκε</string>
+	 <string name="menu_finish">Ολοκληρώθηκε</string>
+	 <string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
 </resources>
