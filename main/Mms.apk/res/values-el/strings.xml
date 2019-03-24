@@ -764,7 +764,7 @@
      <string name="title_show_photo_word">Εκχώρηση φωτογραφιών στις επαφές</string>
      <string name="title_show_sms_template">Έξυπνα μηνύματα</string>
      <string name="title_show_sms_template_in">Έλεγχος SMS για OTP</string>
-     <string name="title_timed_message_dialog">Ορισμός χρονού μηνύματος</string>
+     <string name="title_timed_message_dialog">Ώρα αποστολής μηνύματος</string>
      <string name="title_use_gsm_alphabet">Μηνύματα 160 χαρακτήρων</string>
      <string name="to_address_label">"Προς: "</string>
      <string name="to_label">"Προς "</string>

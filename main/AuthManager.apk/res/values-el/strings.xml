@@ -40,7 +40,7 @@
   <string name="HIPS_Perm_install_shortcut">Συντομεύσεις Αρχικής Οθόνης</string>
   <string name="HIPS_Perm_install_shortcut_Desc">να προσθέσει συντομεύσεις στην Αρχική Οθόνη</string>
   <string name="HIPS_Perm_Location">Εντοπισμός τοποθεσίας</string>
-  <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή/και μέσω δικτύου)</string>
+  <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή μέσω δικτύου)</string>
   <string name="HIPS_Perm_PhoneID">Ταυτότητα συσκευής</string>
   <string name="HIPS_Perm_PhoneID_Desc">πρόσβαση  στο IMEI και το IMSI της συσκευής</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
