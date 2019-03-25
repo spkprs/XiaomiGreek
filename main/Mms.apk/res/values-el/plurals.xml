@@ -77,4 +77,8 @@
         <item quantity="other">Το μήνυμα ελήφθη απο %1$s και %2$d άλλα άτομα</item>
         <item quantity="one">Το μήνυμα ελήφθη απο %1$s και %2$d άλλο άτομο</item>
     </plurals>
+  <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Λάβατε %d προσκλήσεις σε ομαδική συνομιλία</item>
+        <item quantity="one">Λάβατε %d πρόσκληση σε ομαδική συνομιλία</item>
+  </plurals>
 </resources>

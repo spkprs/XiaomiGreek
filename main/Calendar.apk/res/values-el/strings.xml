@@ -247,7 +247,7 @@
      <string name="event_reminder_value_zero">Πριν από την εκδήλωση</string>
      <string name="event_title">Τίτλος</string>
      <string name="event_view">Προβολή γεγονότος</string>
-     <string name="every_weekday">Κάθε εργάσιμη (Δευ-Παρ)</string>
+     <string name="every_weekday">Δευ έως Παρ</string>
      <string name="feed_actionbar_day">日</string>
      <string name="feed_close_open_feed">开启今日关注</string>
      <string name="feed_dislike_reason">不感兴趣</string>
@@ -640,7 +640,7 @@
      <string name="setting_title_lottery_card_display">彩票开奖服务</string>
      <string name="setting_title_shift_card_desc">位于日历首页的倒班助手卡片,该服务需要联网</string>
      <string name="setting_title_shift_card_display">显示倒班助手</string>
-     <string name="setting_title_weather_card_desc">位于日历首页的天气卡片,该服务需要联网</string>
+     <string name="setting_title_weather_card_desc">Πληροφορίες καιρού στη δεξιά πλευρά της σεληνιακής κάρτας</string>
      <string name="setting_title_weather_card_display">显示天气服务</string>
      <string name="setting_title_yiji_display">显示黄历宜忌</string>
      <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
@@ -843,4 +843,11 @@ You can also add reminders so you don't miss anything important."</string>
 	  <string name="chips_permission_text">Να επιτρέπονται προτάσεις επικοινωνίας</string>
 	  <string name="dropdown_delete_button_desc">Αφαίρεση %s από τους παραλήπτες</string>
 	  <string name="feed_list_load_more">Περισσότερα</string>
+	  <string name="feed_tips_got_it">Εντάξει</string>
+	  <string name="feed_tips_primary_text">Ανανεωμένη έκδοση καναλιού συνδρομής Ημερολογίου</string>
+	  <string name="feed_tips_secondary_text">Πλήρης ενσωμάτωση εμπλουτισμένων πληροφοριών και αποτελεσματικών υπηρεσιών</string>
+	  <string name="feed_tips_see_details">Προβολή λεπτομερειών</string>
+	  <string name="feed_tips_subscribe_more">Εγγραφή σε περισσότερα κανάλια</string>
+	  <string name="weather_huangli_card_no_data_hint">Κάντε κλικ για να λάβετε πληροφορίες καιρού</string>
+	  <string name="yiji_app_download_card_lebal">Πρέπει</string>
 </resources>
