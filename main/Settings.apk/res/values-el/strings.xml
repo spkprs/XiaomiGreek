@@ -6161,4 +6161,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="toggle_collapse_after_clicked_title">Σύμπτυξη μετά την αφή</string>
   <string name="vibrate_title">Δόνηση</string>
   <string name="visibility_override_title">Στην οθόνη Κλειδώματος</string>
+  <string name="notification_style_title">Τύπος προβολής ειδοποίησης</string>
 </resources>
