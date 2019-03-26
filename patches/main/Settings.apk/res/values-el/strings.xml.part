@@ -75,7 +75,7 @@
   <string name="wifi_type_approval_dialog_title">Επικοινωνία</string>
   <string name="wifi_type_approval_title">Επικοινωνία</string>
   <string name="WiFiOn_mobile_title">Όταν είναι ενεργοποιημένο το Wi-Fi</string>
-  <string name="double_tap_lock_keyguard_title">Διπλό άγγιγμα για κλείδωμα</string>
+  <string name="double_tap_lock_keyguard_title">Διπλό άγγιγμα στην οθόνη για κλείδωμα</string>
   <string name="vol_sounds_title">Ενεργοποίηση ήχου επαναφοράς από την Αθόρυβη λειτουργία</string>
   <string name="date_time_24hour_auto_summary">Χρήση τοπικής προεπιλογής</string>
   <string name="decryption_settings_summary">Το τηλέφωνο δεν είναι κρυπτογραφημένο</string>
@@ -87,4 +87,8 @@
   <string name="imei_multi_sim">Αριθμός IMEI (υποδοχή κάρτας %1$d)</string>
   <string name="dark_ui_mode">Νυχτερινή λειτουργία</string>
   <string name="dark_ui_mode_title">Ρύθμιση Νυχτερινής λειτουργίας</string>
+  <string name="night_display_suggestion_title">Ρύθμιση χρονοδιαγράμματος Νυχτερινού φωτισμού</string>
+  <string name="extended_power_menu">Εκτεταμένο μενού Επανεκκίνησης</string>
+  <string name="date_time_select_region">Περιοχή</string>
+  <string name="date_time_select_zone">Ζώνη ώρας</string>
 </resources>

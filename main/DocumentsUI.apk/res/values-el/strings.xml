@@ -88,8 +88,8 @@
      <string name="no_results">Δεν υπάρχουν συμφωνίες για %1$s</string>
      <string name="notification_copy_files_converted_title">Ορισμένα αρχεία μετατράπηκαν</string>
      <string name="notification_touch_for_details">Πατήστε για να δείτε λεπτομέρειες</string>
-     <string name="open_external_dialog_request">Χορήγηση&lt;b&gt;^1&lt;/b&gt; πρόσβαση σε&lt;i&gt;^2&lt;/i&gt; στον κατάλογο&lt;i&gt;^3&lt;/i&gt;?</string>
-     <string name="open_external_dialog_request_primary_volume">Χορήγηση&lt;b&gt;^1&lt;/b&gt; πρόσβαση σε&lt;i&gt;^2&lt;/i&gt; ευρετήριο?</string>
+     <string name="open_external_dialog_request">Χορήγηση σε &lt;b&gt;^1&lt;/b&gt; την πρόσβαση σε &lt;i&gt;^2&lt;/i&gt; στον κατάλογο &lt;i&gt;^3&lt;/i&gt;?</string>
+     <string name="open_external_dialog_request_primary_volume">Χορήγηση σε &lt;b&gt;^1&lt;/b&gt; την πρόσβαση σε &lt;i&gt;^2&lt;/i&gt; στο ευρετήριο?</string>
      <string name="open_external_dialog_root_request">Χορήγηση πρόσβασης της &lt;b&gt;^1&lt;/b&gt; στα δεδομένα σας, συμπεριλαμβανομένων των φωτογραφιών και των βίντεο, στην &lt;i&gt;^2&lt;/i&gt;?</string>
      <string name="query_error">Αποτυχία αναζήτησης εγγράφων</string>
      <string name="rename_error">Αποτυχία μετονομασίας εγγράφου</string>

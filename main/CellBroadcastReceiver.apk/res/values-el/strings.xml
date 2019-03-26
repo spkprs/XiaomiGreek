@@ -133,7 +133,7 @@
   <string name="message_options">Επιλογές μηνυμάτων</string>
   <string name="national_emergency_alert">Εθνική προειδοποίηση έκτακτης ανάγκης</string>
   <string name="national_emergency_alerts">Εθνικές προειδοποιήσεις έκτακτης ανάγκης</string>
-  <string name="no_cell_broadcasts">Δεν υπάρχουν ενεργές ειδοποιήσεις στην περιοχή σας. Μπορείτε να αλλάξετε τις ρυθμίσεις Ειδοποίησης χρησιμοποιώντας την επιλογή μενού Ρυθμίσεις.</string>
+  <string name="no_cell_broadcasts">Δεν υπάρχουν ενεργές ειδοποιήσεις στην περιοχή σας. Μπορείτε να αλλάξετε τις ρυθμίσεις Ειδοποίησης χρησιμοποιώντας παρακάτω, την επιλογή Περισσότερα.</string>
   <string name="notification_multiple">%s μη αναγνωσμένες ειδοποιήσεις.</string>
   <string name="notification_multiple_title">Νέες ειδοποιήσεις</string>
   <string name="pws_other_message_identifiers">Επείγουσα ειδοποίηση</string>
