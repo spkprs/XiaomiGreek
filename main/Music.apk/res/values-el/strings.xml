@@ -749,4 +749,5 @@
   <string name="search_hint_online">Αναζητήστε καλλιτέχνες, άλμπουμ, τραγούδια, λίστες και βίντεο στο διαδίκτυο</string>
   <string name="tab_playlist">Λίστες</string>
   <string name="tab_video">Βίντεο</string>
+  <string name="voice_search_first_hint">Δοκιμάστε Φωνητική αναζήτηση!</string>
 </resources>

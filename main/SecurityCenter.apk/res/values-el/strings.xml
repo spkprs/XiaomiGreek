@@ -2133,8 +2133,7 @@
      <string name="st_confirm_dialog_summary_oversea_call">Ενεργοποίηση αποκλεισμού όλων των εισερχόμενων κλήσεων από άγνωστους αριθμούς τηλεφώνου.</string>
      <string name="st_confirm_dialog_summary_stranger_call">Όλες οι κλήσεις από άγνωστους θα αποκλειστούν.</string>
      <string name="st_filter_keywords_setting_summary1">Μηνύματα από αγνώστους αριθμούς που περιέχουν τις λέξεις αυτής της λίστας, θα μπλοκάρονται.</string>
-     <string name="st_filter_keywords_setting_summary2">"\u000d
-(Χρησιμοποιήστε το κόμμα, για να προσθέσετε ταυτόχρονα πολλαπλούς κανόνες)"</string>
+     <string name="st_filter_keywords_setting_summary2">(Χρήση κόμματος για διαχωρισμό πολλαπλών λέξεων-κλειδιών)</string>
      <string name="st_filter_keywords_setting_summary3">Θα επιτρέπονται μηνύματα από άγνωστους αριθμούς που περιέχουν τις λέξεις αυτής της λίστας.</string>
      <string name="st_group_list_management">Διαχείριση λίστας αποκλεισμών</string>
      <string name="st_hint_add_head_number">Εισάγετε πρόθεμα</string>
@@ -2676,4 +2675,6 @@
 	<string name="third_desktop_dialog_content">Όπως οι εφαρμογή Εκκινητή τρίτων, ενδέχεται να υπάρχει διαρροή δεδομένων, άδειασμα μπαταρίας, καθυστέρηση, κλπ. Μόνο οι επαληθευμένες εφαρμ. από το MIUI μπορούν να οριστούν ως προεπιλεγμένες εφαρμ. Εκκινητή.</string>
 	<string name="third_desktop_dialog_ok">Κατάλαβα</string>
 	<string name="third_desktop_dialog_title">Σφάλμα</string>
+    <string name="gamecenter_install_fail">"Αδύνατη η εγκατάσταση"</string>
+    <string name="gamecenter_install_sucessfull">Εγκαταστάθηκε με επιτυχία</string>
 </resources>
