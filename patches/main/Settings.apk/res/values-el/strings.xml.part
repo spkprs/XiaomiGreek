@@ -85,4 +85,6 @@
   <string name="meid_multi_sim">Αριθμός MEID (υποδοχή sim %1$d)</string>
   <string name="model_summary">Μοντέλο: %1$s</string>
   <string name="imei_multi_sim">Αριθμός IMEI (υποδοχή κάρτας %1$d)</string>
+  <string name="dark_ui_mode">Νυχτερινή λειτουργία</string>
+  <string name="dark_ui_mode_title">Ρύθμιση Νυχτερινής λειτουργίας</string>
 </resources>

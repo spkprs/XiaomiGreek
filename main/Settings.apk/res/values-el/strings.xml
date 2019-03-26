@@ -1570,7 +1570,7 @@
      <string name="done">Ολοκληρώθηκε</string>
      <string name="done_button">Τέλος</string>
      <string name="double_click_power_key">Διπλό πάτημα πλήκτρου Power</string>
-     <string name="double_tap_lock_title">Διπλό άγγιγμα στη Αρχική για κλείδωμα</string>
+     <string name="double_tap_lock_title">Διπλό άγγιγμα για κλείδωμα οθόνης</string>
      <string name="download_current_rom">Λήψη τελευταίας έκδοσης της MIUI</string>
      <string name="downloading_description">Λήψη…</string>
      <string name="doze_summary">Ενεργοποίηση οθόνης όταν τη σηκώνετε ή όταν φτάνει νέα ειδοποίηση</string>
@@ -6162,4 +6162,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="vibrate_title">Δόνηση</string>
   <string name="visibility_override_title">Στην οθόνη Κλειδώματος</string>
   <string name="notification_style_title">Τύπος προβολής ειδοποίησης</string>
+  <string name="dark_ui_mode">Νυχτερινή λειτουργία</string>
+  <string name="dark_ui_mode_title">Ρύθμιση Νυχτερινής λειτουργίας</string>
 </resources>

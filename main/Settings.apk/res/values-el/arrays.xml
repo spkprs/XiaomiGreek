@@ -2610,4 +2610,9 @@
         <item>24-ωρη 13:00</item>
         <item>Αυτόματα (βάσει γλώσσας συστήματος)</item>
     </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Αυτόματη (ανάλογα με την ώρα της ημέρας)</item>
+    <item>Πάντα ενεργή</item>
+    <item>Πάντα ανενεργή</item>
+  </string-array>
 </resources>

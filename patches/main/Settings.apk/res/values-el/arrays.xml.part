@@ -371,4 +371,9 @@
     <item>Παύση</item>
     <item>Χωρίς</item>
   </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Αυτόματη (ανάλογα με την ώρα της ημέρας)</item>
+    <item>Πάντα ενεργή</item>
+    <item>Πάντα ανενεργή</item>
+  </string-array>
 </resources>
