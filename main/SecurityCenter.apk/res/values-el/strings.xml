@@ -2677,4 +2677,5 @@
 	<string name="third_desktop_dialog_title">Σφάλμα</string>
     <string name="gamecenter_install_fail">"Αδύνατη η εγκατάσταση"</string>
     <string name="gamecenter_install_sucessfull">Εγκαταστάθηκε με επιτυχία</string>
+    <string name="gb_shortcut_pref_title">Συντόμευση Αρχικής Οθόνης</string>
 </resources>

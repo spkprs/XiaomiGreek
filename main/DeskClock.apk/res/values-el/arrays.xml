@@ -1006,4 +1006,9 @@
         <item>1</item>
         <item>2</item>
      </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Λευκό</item>
+        <item>Μαύρο</item>
+        <item>Αυτόματο</item>
+    </string-array>
 </resources>

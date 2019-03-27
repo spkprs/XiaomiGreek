@@ -586,4 +586,10 @@
   <string name="motor_calibration">Βαθμονόμηση Μοτέρ</string>
   <string name="cit_splash_check_summary">Βεβαιωθείτε ότι υπάρχει φαινόμενο μαύρης οθόνης περισσότερο από 5 δευτ.</string>
   <string name="cit_tool_splash_test_title">Δοκιμή Splash</string>
+  <string name="cit_tool_dc_backlight_toast_off">DC Οπισθοφωτισμός Off</string>
+  <string name="cit_tool_dc_backlight_toast_on">DC Οπισθοφωτισμός On</string>
+  <string name="dc_backlight_title">DC Οπισθοφωτισμός Λειτουργία χαμηλής έντασης</string>
+  <string name="open_dc_backlight_summary">"Ορισμένες ρυθμίσεις οθόνης δεν είναι συμβατές με τη λειτουργία Οπισθοφωτισμού DC. Ωστόσο, θα αποκατασταθούν μόλις απενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποίηση Οπισθοφωτισμού DC;"</string>
+  <string name="screen_cancel">Ανενεργό</string>
+  <string name="screen_confirm">Ενεργό</string>
 </resources>

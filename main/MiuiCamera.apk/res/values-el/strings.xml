@@ -741,11 +741,11 @@
       <string name="live_sticker_fragment_tab_name">TikTok Μαγικά Sticker</string>
 	  <string name="config_name_ratio">Αναλογία</string>
 	  <string name="module_name_pixel_48M">48M</string>
-	  <string name="pref_camera_long_press_viewfinder_title">Πατήστε και κρατήστε το Σκόπευτρο</string>
+	  <string name="pref_camera_long_press_viewfinder_title">Ρυθμίσεις Σκοπεύτρου</string>
 	  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Φακός Google</string>
       <string name="pref_camera_long_press_viewfinder_default">Φακός Google</string>
-	  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Κλείδωμα AE και AF</string>
-	  <string name="pref_google_lens_summary">Αυτόματη αναγνώριση QR κωδικών, μηνυμάτων, αριθμών και κειμένων</string>
+	  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Κλείδωμα AE/AF</string>
+	  <string name="pref_google_lens_summary">Αυτόματη αναγνώριση QR κωδικών, μηνυμάτων, αριθμών και άλλων</string>
 	  <string name="pref_google_lens_title">Προτάσεις Φακού Google</string>
 	  <string name="wideselfie_press_shoot_key_to_start">Πατήστε το πλήκτρο λήψης</string>
 	  <string name="wideselfie_rotate_slowly">Περιστρέψτε αργά το τηλέφωνο</string>
@@ -779,4 +779,7 @@
 	  <string name="recapture_dialog_message">Επιβεβαιώστε την επανάληψη？</string>
 	  <string name="recapture_dialog_title">Η επανάληψη της λήψης θα διαγράψει την τρέχουσα εικόνα</string>
 	  <string name="wideselfie_result_image_lossless">Η αποθήκευση Panorama απέτυχε</string>
+	  <string name="dialog_google_lens_option_0">Google Lens (Προτείνεται)</string>
+	  <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
+	  <string name="pref_camera_long_press_viewfinder_lock_ae_af">Κλείδωμα AE/AF</string>
 </resources>
