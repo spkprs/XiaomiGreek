@@ -4788,7 +4788,7 @@
      <string name="toggle_count_title">Εικονίδια σε ελαχιστοποιημένο πίνακα</string>
      <string name="toggles_columns_summary">Εμφάνιση: %s σε μια γραμμή σε μία σελίδα</string>
      <string name="toggles_columns_title">Αριθμός διακοπτών</string>
-     <string name="toggles_count_title">Εικονίδια σε μεγιστοποιημένο πίνακα</string>
+     <string name="toggles_count_title">Εικονίδια σε ανεπτυγμένο πίνακα</string>
      <string name="total">Μην Ενοχλείτε</string>
      <string name="total_info">Σίγαση ήχων και απενεργοποίηση Δόνησης εκτός από την Αφύπνιση</string>
      <string name="total_memory">Συνολική Μνήμη</string>
