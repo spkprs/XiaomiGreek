@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="abc_slice_duration_days">
+    <item quantity="other">%d ημέρες πριν</item>
+    <item quantity="one">%d ημέρα πριν</item>
+  </plurals>
+  <plurals name="abc_slice_duration_min">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">%d λεπτά πριν</item>
+  </plurals>
+  <plurals name="abc_slice_duration_years">
+    <item quantity="other">%d έτος πριν</item>
+    <item quantity="one">%d έτος πριν</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="other">Εξαιρετικά μικρή καθυστέρηση (%1$d ms)</item>
+    <item quantity="one">Εξαιρετικά μικρή καθυστέρηση (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="other">Μεγάλη καθυστέρηση (%1$d ms)</item>
+    <item quantity="one">Μεγάλη καθυστέρηση (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="other">Μικρή καθυστέρηση (%1$d ms)</item>
+    <item quantity="one">Μικρή καθυστέρηση (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="other">Πολύ μεγάλη καθυστέρηση (%1$d ms)</item>
+    <item quantity="one">Πολύ μεγάλη καθυστέρηση (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="other">Πολύ μικρή καθυστέρηση (%1$d ms)</item>
+    <item quantity="one">Πολύ μικρή καθυστέρηση (%1$d ms)</item>
+  </plurals>
+  <plurals name="aod_dual_togother_city">
+    <item quantity="other">" %1$sώρες %2$s"</item>
+    <item quantity="one">" %1$sώρα %2$s"</item>
+  </plurals>
+  <plurals name="app_notification_listing_summary_others">
+    <item quantity="other">Off για %d εφαρμογές</item>
+    <item quantity="one">Off για %d app</item>
+  </plurals>
+  <plurals name="auto_disable_screenbuttons_disabled_header_title">
+    <item quantity="other">Χωρίς απενεργοποίηση για %d εφαρμογές</item>
+    <item quantity="one">Χωρίς απενεργοποίηση για 1 εφαρμογή</item>
+  </plurals>
+  <plurals name="auto_disable_screenbuttons_enabled_header_title">
+    <item quantity="other">Πάντα απενεργοποίηση για %d εφαρμογές</item>
+    <item quantity="one">Πάντα απενεργοποίηση για 1 εφαρμογή</item>
+  </plurals>
+  <plurals name="auto_startup_count">
+    <item quantity="other">%d εφαρμογές επιτρέπεται να πραγματοποιούν αυτόματη εκκίνηση</item>
+    <item quantity="one">%d εφαρμογή επιτρέπεται να πραγματοποιεί αυτόματη εκκίνηση</item>
+  </plurals>
+  <plurals name="battery_manager_app_restricted">
+    <item quantity="other">%1$d περιορισμένες εφαρμογές</item>
+    <item quantity="one">%1$d περιορισμένη εφαρμογή</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_app_dialog_title">
+    <item quantity="other">Περιορίσετε %1$d εφαρμογές?</item>
+    <item quantity="one">Περιορίστε την εφαρμογή;</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_handled_summary">
+    <item quantity="other">Αυτές οι εφαρμογές δεν μπορούν να εκτελεστούν στο παρασκήνιο</item>
+    <item quantity="one">Αυτή η εφαρμογή δεν μπορεί να εκτελεστεί στο παρασκήνιο</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_handled_title">
+    <item quantity="other">%2$d εφαρμογές που περιορίστηκαν πρόσφατα</item>
+    <item quantity="one">%1$s πρόσφατα περιορισμένη</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_summary">
+    <item quantity="other">%2$d οι εφαρμογές έχουν υψηλή χρήση της μπαταρίας στο παρασκήνιο</item>
+    <item quantity="one">%1$s έχει υψηλή χρήση μπαταρίας στο παρασκήνιο</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_title">
+    <item quantity="other">Περιορίσετε %1$d εφαρμογές</item>
+    <item quantity="one">Περιορίσετε %1$d app</item>
+  </plurals>
+  <plurals name="bg_network_allow_count">
+    <item quantity="other">%d εφαρμογές μπορούν να συνδεθούν στο δίκτυο</item>
+    <item quantity="one">%d εφαρμογή μπορεί να συνδεθεί στο δίκτυο</item>
+  </plurals>
+  <plurals name="bg_network_restrict_count">
+    <item quantity="other">%d εφαρμογές δεν μπορούν να συνδεθούν στο δίκτυο</item>
+    <item quantity="one">%d εφαρμογή δεν μπορεί να συνδεθεί στο δίκτυο</item>
+  </plurals>
+  <plurals name="billing_cycle_days_left">
+    <item quantity="other">%d days left</item>
+    <item quantity="one">%d day left</item>
+  </plurals>
+  <plurals name="connected_devices_number">
+    <item quantity="other">%d συσκευές</item>
+    <item quantity="one">%d συσκευή</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="other">%1$d εφαρμογές επιτρέπεται να χρησιμοποιούν απεριόριστα δεδομένα όταν η λειτουργία Εξοικονόμηση δεδομένων είναι ενεργοποιημένη</item>
+    <item quantity="one">1 εφαρμογή επιτρέπεται να χρησιμοποιεί απεριόριστα δεδομένα όταν είναι ενεργοποιημένη η Εξοικονόμηση δεδομένων</item>
+  </plurals>
+  <plurals name="default_camera_app_title">
+    <item quantity="other">Camera apps</item>
+    <item quantity="one">Camera app</item>
+  </plurals>
+  <plurals name="default_email_app_title">
+    <item quantity="other">Email client apps</item>
+    <item quantity="one">Email client app</item>
+  </plurals>
+  <plurals name="default_phone_app_title">
+    <item quantity="other">Phone apps</item>
+    <item quantity="one">Phone app</item>
+  </plurals>
+  <plurals name="deleted_channels">
+    <item quantity="other">%d categories deleted</item>
+    <item quantity="one">%d category deleted</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="other">Να καταργηθούν επιλεγμένες γλώσσες;</item>
+    <item quantity="one">Κατάργηση επιλεγμένης γλώσσας;</item>
+  </plurals>
+  <plurals name="domain_urls_apps_summary_on">
+    <item quantity="other">%d apps opening supported links</item>
+    <item quantity="one">One app opening supported links</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_ca_certs">
+    <item quantity="other">Minimum %d CA certificates</item>
+    <item quantity="one">Minimum %d CA certificate</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_failed_password_wipe">
+    <item quantity="other">%d attempts</item>
+    <item quantity="one">%d attempt</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_packages">
+    <item quantity="other">%d apps</item>
+    <item quantity="one">%d app</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_packages_lower_bound">
+    <item quantity="other">Minimum %d apps</item>
+    <item quantity="one">Minimum %d app</item>
+  </plurals>
+  <plurals name="firewall_item_summary">
+    <item quantity="other">Περιορισμένη σύνδεση για %s εφαρμογές</item>
+    <item quantity="one">Περιορισμένη σύνδεση για %s εφαρμογή</item>
+  </plurals>
+  <plurals name="free_wifi_connected_count">
+    <item quantity="other">%1$d συνδεδεμένα άτομα</item>
+    <item quantity="one">%1$d συνδεδεμένο άτομα</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="other">%s hours</item>
+    <item quantity="one">1 hour</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
+    <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d πεζά γράμματα.</item>
+    <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 πεζό γράμμα.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d σύμβολα</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 1 σύμβολο.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d αριθμητικά ψηφία.</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα αριθμητικό ψηφίο.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d ειδικά σύμβολα.</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα ειδικό σύμβολο.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα.</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα κεφαλαίο γράμμα.</item>
+  </plurals>
+  <plurals name="lockpassword_pin_fixed_length">
+    <item quantity="other">Το PIN πρέπει να είναι %d ψηφία</item>
+    <item quantity="one">Το PIN πρέπει να είναι %d ψηφίο</item>
+  </plurals>
+  <plurals name="lockpassword_pin_too_long">
+    <item quantity="other">Το PIN μπορεί να περιέχει έως και %d ψηφία</item>
+    <item quantity="one">Το PIN μπορεί να περιέχει έως και %d ψηφίο</item>
+  </plurals>
+  <plurals name="lockpassword_pin_too_short">
+    <item quantity="other">Το PIN πρέπει να είναι %d ψήφια</item>
+    <item quantity="one">Το PIN πρέπει να είναι %d ψήφιο</item>
+  </plurals>
+  <plurals name="lockpattern_recording_incorrect_too_short">
+    <item quantity="other">Συνδέστε τουλάχιστον %d τελείες. Προσπαθήστε ξανά.</item>
+    <item quantity="one">Συνδέστε τουλάχιστον %d τελεία. Προσπαθήστε ξανά.</item>
+  </plurals>
+  <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+    <item quantity="other">Πολλές αποτυχημένες προσπάθειες. Δοκιμάστε ξανά σε %d δευτ.</item>
+    <item quantity="one">Πολλές αποτυχημένες προσπάθειες. Δοκιμάστε ξανά σε %d δεύτ.</item>
+  </plurals>
+  <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+    <item quantity="other">Περιμένετε για %d και προσπαθήστε ξανά.</item>
+    <item quantity="one">Περιμένετε για %d και δοκιμάστε ξανά.</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="other">%d εφαρμ. με πρόσβαση</item>
+    <item quantity="one">%d εφαρμ. με πρόσβαση</item>
+  </plurals>
+  <plurals name="manage_trust_agents_summary_on">
+    <item quantity="other">%d ενεργοί έμπιστοι παράγοντες</item>
+    <item quantity="one">1 ενεργός έμπιστος παράγοντας</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="other">%1$d εφαρμογές χρησιμοποίησαν τη μνήμη τα τελευταία %2$s</item>
+    <item quantity="one">1 εφαρμογή χρησιμοποίησε μνήμη το τελευταίο %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="other">%s minutes</item>
+    <item quantity="one">1 minute</item>
+  </plurals>
+  <plurals name="miui_sos_emergency_contacts_quantity">
+    <item quantity="other">Επαφές %d</item>
+  </plurals>
+  <plurals name="network_restrictions_summary">
+    <item quantity="other">%1$d restrictions</item>
+    <item quantity="one">1 restriction</item>
+  </plurals>
+  <plurals name="notification_group_summary">
+    <item quantity="other">%d categories</item>
+    <item quantity="one">%d category</item>
+  </plurals>
+  <plurals name="notification_summary">
+    <item quantity="other">%d εφαρμογές έχουν αποκλειστεί από την αποστολή</item>
+    <item quantity="one">%d η εφαρμογή έχει αποκλειστεί από την αποστολή</item>
+  </plurals>
+  <plurals name="notifications_categories_off">
+    <item quantity="other">%d categories turned off</item>
+    <item quantity="one">%d category turned off</item>
+  </plurals>
+  <plurals name="number_of_device_admins">
+    <item quantity="other">%d active apps</item>
+    <item quantity="one">%d active app</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="other">%d άδειες</item>
+    <item quantity="one">%d άδεια</item>
+  </plurals>
+  <plurals name="power_high_usage_summary">
+    <item quantity="other">%2$d apps behaving abnormally</item>
+    <item quantity="one">%1$s behaving abnormally</item>
+  </plurals>
+  <plurals name="power_high_usage_title">
+    <item quantity="other">Apps draining battery</item>
+    <item quantity="one">%1$s draining battery</item>
+  </plurals>
+  <plurals name="print_jobs_summary">
+    <item quantity="other">%1$d print jobs</item>
+    <item quantity="one">1 print job</item>
+  </plurals>
+  <plurals name="print_settings_summary">
+    <item quantity="other">%1$d print services on</item>
+    <item quantity="one">1 print service on</item>
+  </plurals>
+  <plurals name="restricted_app_summary">
+    <item quantity="other">Limiting battery usage for %1$d apps</item>
+    <item quantity="one">Limiting battery usage for %1$d app</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="other">%d πρόσθετες άδειες</item>
+    <item quantity="one">%d πρόσθετη άδεια</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="other">%1$d άδειες του %2$d χορηγήθηκαν</item>
+    <item quantity="one">%1$d άδεια του %2$d χορηγήθηκε</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%s seconds</item>
+    <item quantity="one">1 second</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="other">%1$d δακτυλικά αποτυπώματα ρυθμίστηκαν</item>
+    <item quantity="one">%1$d δακτυλικό αποτύπωμα ρυθμίστηκε</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="other">Show %d hidden items</item>
+    <item quantity="one">Show %d hidden item</item>
+  </plurals>
+  <plurals name="settings_toggle_position_divider_page">
+    <item quantity="other">%1$d εναλλαγές διακοπτών θα εμφανιστούν στον πίνακα ειδοποίησης</item>
+    <item quantity="one">%1$d εναλλαγή διακοπτών θα εμφανιστεί στον πίνακα ειδοποίησης</item>
+  </plurals>
+  <plurals name="show_cit_countdown">
+    <item quantity="other">Είσται %1$d βήματα μακριά από την είσοδο CIT.</item>
+    <item quantity="one">Είσται %1$d βήμα μακριά από την είσοδο CIT.</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="other">Απομένουν %1$d βήματα να γίνετε προγραμματιστής.</item>
+    <item quantity="one">Απομένει %1$d βήμα να γίνετε προγραμματιστής.</item>
+  </plurals>
+  <plurals name="show_number_hearingaid_count">
+    <item quantity="other">%1$d saved hearing aids</item>
+    <item quantity="one">%1$d saved hearing aid</item>
+  </plurals>
+  <plurals name="show_pho_countdown">
+    <item quantity="other">Απομένουν %1$d βήματα για είσοδο στις πληροφορίες τηλεφώνου.</item>
+    <item quantity="one">Απομένει %1$d βήμα για είσοδο στις πληροφορίες τηλεφώνου.</item>
+  </plurals>
+  <plurals name="show_rep_countdown">
+    <item quantity="other">Είσαι %1$d βήματα μακριά από την αναφορά σφαλμάτων.</item>
+    <item quantity="one">Είσαι %1$d βήμα μακριά από την αναφορά σφαλμάτων.</item>
+  </plurals>
+  <plurals name="special_access_summary">
+    <item quantity="other">%d apps can use unrestricted data</item>
+    <item quantity="one">1 app can use unrestricted data</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="other">Εμπιστευθείτε ή καταργήστε τα πιστοποιητικά</item>
+    <item quantity="one">Εμπιστευθείτε ή καταργήστε το πιστοποιητικό</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="other">%s έχει εγκαταστήσει έκδοση πιστοποιητικών για το προφίλ εργασίας σας, γεγονός που μπορεί να τους επιτρέψει να παρακολουθούν τη δραστηριότητα του δικτύου εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστότοπων.\n\nΓια περισσότερες πληροφορίες σχετικά με αυτά τα πιστοποιητικά, επικοινωνήστε με το διαχειριστή σας.</item>
+    <item quantity="one">%s έχει εγκαταστήσει έκδοσης πιστοποιητικών για το προφίλ εργασίας σας, η οποία μπορεί να τους επιτρέψει να παρακολουθεί τη δραστηριότητα του δικτύου εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστότοπων.\n\nΓια περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με το διαχειριστή σας.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="other">%s έχει εγκαταστήσει έκδοση πιστοποιητικών στη συσκευή σας, η οποία μπορεί να τους επιτρέπει να παρακολουθούν δραστηριότητα δικτύου της συσκευής σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, εφαρμογές και ασφαλείς τοποθεσίες web.\n\nΓια περισσότερες πληροφορίες σχετικά με τα πιστοποιητικά αυτά, επικοινωνήστε με το διαχειριστή.</item>
+    <item quantity="one">%s έχει εγκαταστήσει έκδοση πιστοποιητικών στη συσκευή σας, η οποία μπορεί να τους επιτρέπει να παρακολουθούν δραστηριότητα δικτύου της συσκευής σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, εφαρμογές και ασφαλείς τοποθεσίες web.\n\nΓια περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με το διαχειριστή.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="other">Ελέγξτε τα πιστοποιητικά</item>
+    <item quantity="one">Ελέγξτε το πιστοποιητικό</item>
+  </plurals>
+  <plurals name="status_bar_settings_disabled_header_title">
+    <item quantity="other">%d εφαρμογές δεν μπορούν να εμφανίσουν ειδοποιήσεις</item>
+    <item quantity="one">%d εφαρμογή δεν μπορεί να εμφανίσει ειδοποιήσεις</item>
+  </plurals>
+  <plurals name="status_bar_settings_enabled_header_title">
+    <item quantity="other">%d εφαρμογές μπορούν να εμφανίζουν ειδοποιήσεις</item>
+    <item quantity="one">%d εφαρμογή μπορεί να εμφανίζει ειδοποιήσεις</item>
+  </plurals>
+  <plurals name="suggestions_collapsed_summary">
+    <item quantity="other">+%1$d suggestions</item>
+    <item quantity="one">+1 suggestion</item>
+  </plurals>
+  <plurals name="suggestions_collapsed_title">
+    <item quantity="other">%1$d suggestions</item>
+    <item quantity="one">1 suggestion</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="other">%d αντικείμενα</item>
+    <item quantity="one">1 αντικείμενο</item>
+  </plurals>
+  <plurals name="virus_scan_app_find_risk">
+    <item quantity="other">%d κίνδυνοι βρέθηκαν</item>
+    <item quantity="one">%d κίνδυνος βρέθηκε</item>
+  </plurals>
+  <plurals name="wifi_saved_access_points_summary">
+    <item quantity="other">%d networks</item>
+    <item quantity="one">1 network</item>
+  </plurals>
+  <plurals name="wifi_share_count">
+    <item quantity="other">Κοινόχρηστα %d δίκτυα</item>
+    <item quantity="one">Κοινόχρηστο %d δίκτυο</item>
+  </plurals>
+  <plurals name="wifi_tether_connected_summary">
+    <item quantity="other">%1$d devices connected</item>
+    <item quantity="one">%1$d device connected</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="other">Λανθασμένος κωδικός PIN SIM, έχετε %d υπόλοιπες προσπάθειες.</item>
+    <item quantity="one">Λανθασμένος κωδικός PIN SIM, έχετε %d υπόλοιπες προσπάθειες προτού επικοινωνήσετε με τον πάροχό σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+  </plurals>
+  <plurals name="zen_mode_duration_summary_time_hours">
+    <item quantity="other">%d hours (unless turned on automatically)</item>
+    <item quantity="one">1 hour (unless turned on automatically)</item>
+  </plurals>
+  <plurals name="zen_mode_settings_summary_on">
+    <item quantity="other">%d rules</item>
+    <item quantity="one">1 rule</item>
+  </plurals>
+  <plurals name="zen_mode_sound_summary_summary_off_info">
+    <item quantity="other">%d rules can turn on automatically</item>
+    <item quantity="one">1 rule can turn on automatically</item>
+  </plurals>
+  <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+    <item quantity="other">%d others</item>
+    <item quantity="one">1 other</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="other">Αλλαγή αφυπνίσεων για %1$d ώρες έως %2$s</item>
+    <item quantity="one">Αλλαγή αφυπνίσεων για μία ώρα μέχρι %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="other">Αλλαγή αφυπνίσεων για %1$d λεπτά (μέχρι %2$s)</item>
+    <item quantity="one">Αλλαγή αφυπνίσεων για ένα λεπτό μέχρι %2$s</item>
+  </plurals>
+</resources>
