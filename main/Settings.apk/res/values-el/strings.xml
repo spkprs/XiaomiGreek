@@ -2131,7 +2131,7 @@
      <string name="internal_storage_sentence">Εσωτερικός χώρος αποθήκευσης</string>
      <string name="invalid_location">Η τοποθεσία εγκατάστασης δεν είναι έγκυρη</string>
      <string name="invalid_size_value">Δεν ήταν δυνατό να υπολογιστεί το μέγεθος του πακέτου.</string>
-     <string name="ios_toggle_title">Στυλ γραμμής κατάστασης</string>
+     <string name="ios_toggle_title">Στύλ εικονιδίων</string>
      <string name="ipaddr_label">IPaddr:</string>
      <string name="item_system_app">Εφαρμογές συστήματος</string>
      <string name="join_many_items_first">%1$s, %2$s</string>

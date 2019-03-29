@@ -28,7 +28,7 @@
   <string name="icon_app_style_color_title">Στυλ εικονιδίων ειδοποιήσεων</string>
   <string name="increasing_volume">Αύξηση έντασης</string>
   <string name="increasing_volume_summary">Αυξανόμενη ένταση εισερχόμενης κλήσης</string>
-  <string name="ios_toggle_title">Στυλ γραμμής κατάστασης</string>
+  <string name="ios_toggle_title">Στύλ εικονιδίων</string>
   <string name="launch_camera">Εκκίνηση Κάμερας</string>
   <string name="launch_my_app_title">Επιλογή εφαρμογής</string>
   <string name="low_battery_warning_title">Ήχος χαμηλής μπαταρίας</string>
@@ -76,7 +76,7 @@
   <string name="wifi_type_approval_title">Επικοινωνία</string>
   <string name="WiFiOn_mobile_title">Όταν είναι ενεργοποιημένο το Wi-Fi</string>
   <string name="double_tap_lock_keyguard_title">Διπλό άγγιγμα στην οθόνη για κλείδωμα</string>
-  <string name="vol_sounds_title">Ενεργοποίηση ήχου επαναφοράς από την Αθόρυβη λειτουργία</string>
+  <string name="vol_sounds_title">Ενεργοποίηση ήχου κατά την έξοδο από την Αθόρυβη λειτουργία</string>
   <string name="date_time_24hour_auto_summary">Χρήση τοπικής προεπιλογής</string>
   <string name="decryption_settings_summary">Το τηλέφωνο δεν είναι κρυπτογραφημένο</string>
   <string name="ota_disable_automatic_update_summary">Εφαρμογή ενημερώσεων κατά την επανεκκίνηση της συσκευής</string>
