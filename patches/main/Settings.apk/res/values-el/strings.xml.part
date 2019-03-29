@@ -62,7 +62,7 @@
   <string name="toggle_count_title">Εικονίδια σε ελαχιστοποιημένο πίνακα</string>
   <string name="toggles_columns_summary">Εμφάνιση: %s σε μια γραμμή/σελίδα</string>
   <string name="toggles_columns_title">Αριθμός διακοπτών</string>
-  <string name="toggles_count_title">Εικονίδια σε μεγιστοποιημένο πίνακα</string>
+  <string name="toggles_count_title">Εικονίδια σε ανεπτυγμένο πίνακα</string>
   <string name="translation_contributors_title">Συντελεστές</string>
   <string name="vol_silent_sounds_title">Ενεργ. ήχου λειτουργιών</string>
   <string name="volbtn_timeout_summary">Κάθε: %s ms</string>
