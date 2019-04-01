@@ -91,4 +91,5 @@
   <string name="extended_power_menu">Εκτεταμένο μενού Επανεκκίνησης</string>
   <string name="date_time_select_region">Περιοχή</string>
   <string name="date_time_select_zone">Ζώνη ώρας</string>
+  <string name="ext_powermenu_title">Εκτεταμένο μενού Επανεκκίνησης</string>
 </resources>

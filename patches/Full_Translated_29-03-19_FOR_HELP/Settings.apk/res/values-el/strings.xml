@@ -1506,8 +1506,8 @@
   <string name="daltonizer_type">Λειτουργία διόρθωσης</string>
   <string name="daltonizer_type_overridden">Παρακάμφθηκε από %1$s</string>
   <string name="dangerous_option">Επιλογές προγραμματιστή υψηλού κινδύνου</string>
-  <string name="dangerous_option_hint">\"%1$s\" είναι ενεργοποιημένη. Πατήστε για να αλλάξετε τις ρυθμίσεις.</string>
-  <string name="dangerous_option_hint_title">Η δυνατότητα υψηλού κινδύνου ενεργοποιήθηκε</string>
+  <string name="dangerous_option_hint">\"%1$s\" είναι ενεργή. Πατήστε για αλλαγή ρυθμίσεων.</string>
+  <string name="dangerous_option_hint_title">Ενεργή λειτ. Υψηλού Κινδύνου</string>
   <string name="dangerous_option_switch_title">Ειδοποίηση λειτ. Υψηλού Κινδύνου</string>
   <string name="dark_color_mode">Σκοτεινή λειτουργία</string>
   <string name="dark_color_summary">Χρησιμοποιήστε σκούρα παλέτα χρωμάτων για υπόβαθρο συστήματος και συμβατών εφαρμογών</string>
@@ -3191,7 +3191,7 @@
   <string name="miui_allow_music">Πολυμέσα</string>
   <string name="miui_allow_vibrate">Δονήσεις</string>
   <string name="miui_data_usage_menu_metered">Κινητό Σημείο πρόσβασης</string>
-  <string name="miui_experience_optimization">Ενεργοποίηση βελτιστοποίησης του MIUI</string>
+  <string name="miui_experience_optimization">Ενεργ/ση βελτιστοποίησης MIUI</string>
   <string name="miui_input_method_settings">Ρυθμίσεις μεθόδου εισαγωγής</string>
   <string name="miui_lab_ai_cloud_closed">Η AI προφόρτωση δεν είναι ακόμα διαθέσιμη.</string>
   <string name="miui_lab_ai_preload_desc">Η AI προφόρτωση αυξάνει την ταχύτητα εκκίνησης της εφαρμογής</string>
