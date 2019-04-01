@@ -179,7 +179,7 @@
   <string name="item_title_currency">Νόμισμα</string>
   <string name="item_title_dress_size">Μέγεθος ένδυσης</string>
   <string name="item_title_length_conversion">Μήκος</string>
-  <string name="item_title_mortgage">Δάνειο</string>
+  <string name="item_title_mortgage">Στεγαστικό</string>
   <string name="item_title_relationship">Όροι συγγένειας</string>
   <string name="item_title_scientific_calculator">Επιστημονικό</string>
   <string name="item_title_tax">Φόροι</string>
@@ -283,7 +283,7 @@
   <string name="mortgage_interest_rate">Εμπορικό επιτόκιο</string>
   <string name="mortgage_item_repayment">Τρόπος αποπληρωμής</string>
   <string name="mortgage_item_start_time">Ημερομηνία έναρξης</string>
-  <string name="mortgage_item_years">Περίοδος δανείου</string>
+  <string name="mortgage_item_years">Δανειοληψία</string>
   <string name="mortgage_loans_amount">Ποσό δανείου</string>
   <string name="mortgage_provident_found_interest_rate">Επιτόκιο κεφαλαίου</string>
   <string name="mortgage_repayment_amount">Ποσό αποπληρωμής</string>

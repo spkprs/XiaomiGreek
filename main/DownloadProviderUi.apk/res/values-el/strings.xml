@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="DOWNLOAD_UNIT_BIT">B</string>
      <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -517,4 +517,6 @@
      <string name="xunlei_open_info">Χρήση μηχανής Xunlei για άνοιγμα αυτού του είδους συνδέσμου (απαιτείται);</string>
      <string name="xunlei_speed_service">Επιτάχυνση λήψεων Xunlei</string>
      <string name="xunlei_switch">Μηχανή λήψεων Xunlei</string>
+     <string name="close">Κλείστε</string>
+     <string name="close_ad">Κλείστε τις Διαφ/σεις</string>
 </resources>

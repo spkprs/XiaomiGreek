@@ -64,4 +64,12 @@
     <item quantity="other">%d λεπτά πριν</item>
     <item quantity="one">πριν από 1 λεπτό</item>
   </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Λεπτομερής αποπληρωμή (%d ετών)</item>
+        <item quantity="one">Λεπτομερής αποπληρωμή (%d έτους)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Λεπτομερής αποπληρωμή (%d ετών), CNY</item>
+        <item quantity="one">Λεπτομερής αποπληρωμή (%d έτους), CNY</item>
+    </plurals>
 </resources>

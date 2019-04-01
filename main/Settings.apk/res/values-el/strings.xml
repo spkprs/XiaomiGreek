@@ -268,7 +268,8 @@
      <string name="animator_duration_scale_title">Χωρίς κινήσεις οθόνης</string>
      <string name="another_migration_already_in_progress">Μια άλλη αλλαγή είναι ήδη σε εξέλιξη.</string>
      <string name="anti_spam">Λίστα αποκλεισμών</string>
-     <string name="aod_mode_summary">Εμφάνιση ώρας, ημέρας και μηνυμάτων σε ανενεργή οθόνη.</string>
+     <string name="aod_mode_summary">Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας του συστήματος. Θα απενεργοποιηθεί όταν η συσκευή σας παραμείνει σε σκοτάδι για μεγάλο χρονικό διάστημα ή εάν εφαρμοστούν περιορισμοί εξοικονόμησης μπαταρίας.</string>
+     <string name="doze_always_on_summary">Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας του συστήματος. Θα απενεργοποιηθεί όταν η συσκευή σας παραμείνει σε σκοτάδι για μεγάλο χρονικό διάστημα ή εάν εφαρμοστούν περιορισμοί εξοικονόμησης μπαταρίας.</string>
      <string name="aod_mode_title">Πάντα ενεργοποιημένη</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Τύπος ταυτοποίησης</string>
@@ -6083,7 +6084,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 "<ul><li>1. Στην \"Οθόνη Κλειδώματος\" στα προεπιλεγμένα Θέματα</li></ul>"
 "<ul><li>2. Στην \"Αρχική οθόνη\" σε προεπιλεγμένο γραφικό Ρολόι.</li></ul>"</string>
       <string name="dual_clock_ok">Τέλος</string>
-      <string name="dual_clock_open_message">Το Διπλό Ρολόι θα εμφανιστεί στην Οθόνη Κλειδώματος, στην Αρχική οθόνη και σε Ανενεργή οθόνη.</string>
+      <string name="dual_clock_open_message">Το Διπλό Ρολόι θα εμφανιστεί στην Οθόνη Κλειδώματος, και Αρχική οθόνη.</string>
 	  <string name="more_installed_services_title">Περισ. υπηρεσίες που ελήφθησαν</string>
 	  <string name="otg_button">OTG</string>
 	  <string name="otg_closed">Off</string>
@@ -6119,7 +6120,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="importance_default">Προεπιλογή</string>
   <string name="importance_high">Υψηλή</string>
   <string name="importance_low">Χαμηλή</string>
-  <string name="importance_min">Ελάχιστή</string>
+  <string name="importance_min">Ασήμαντη</string>
   <string name="importance_title">Σημαντική</string>
   <string name="lights_title">Αναβοσβήνει το φως</string>
   <string name="loading">Μισό λεπτό…</string>
@@ -6205,4 +6206,14 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="dangerous_option">Επιλογές προγραμματιστή Υψηλού Κινδύνου</string>
   <string name="dangerous_option_hint">\"%1$s\" είναι ενεργή. Πατήστε για αλλαγή ρυθμίσεων.</string>
   <string name="dangerous_option_hint_title">Ενεργή λειτ. Υψηλού Κινδύνου</string> 
+  <string name="page_layout_confirm_message_enlarge">Το κείμενο, οι εικόνες και τα εικονίδια θα μεγαλώσουν. Ορισμένα εικονίδια ενδέχεται να αλλάξουν τις θέσεις τους.</string>
+  <string name="page_layout_confirm_message_narrow">Το κείμενο, οι εικόνες και τα εικονίδια θα μικρύνουν. Ορισμένα εικονίδια ενδέχεται να αλλάξουν τις θέσεις τους.</string>
+  <string name="page_layout_confirm_title_enlarge">Μεγαλύτερα στοιχεία</string>
+  <string name="page_layout_confirm_title_narrow">Μικρότερα στοιχεία</string>
+    <string name="auto_dual_clock_aod_summary">Εμφάνιση διπλού ρολογιού όταν η τρέχουσα ώρα είναι διαφορετική από εκείνη του δεύτερου ρολογιού</string>
+    <string name="dual_clock_aod_open_message">Το διπλό ρολόι θα εμφανιστεί στην οθόνη Κλειδώματος, στην Αρχική και σε Ανενεργή οθόνη.</string>
+    <string name="gxzw_enroll_again">Σηκώστε το δάχτυλό σας και πατήστε ξανά το σαρωτή δακτ. αποτυπωμάτων</string>
+    <string name="layout_exhuge_font_take_effect_tips">XXL Μέγεθος κειμένου λειτουργεί μόνο στο Τηλέφωνο, Μηνύματα και Επαφές</string>
+    <string name="layout_exhuge_font_tips">Περισσότερες επιλογές είναι διαθέσιμες σε %1$s</string>
+    <string name="layout_exhuge_font_tips_reg">Προσβασιμότητα > Μέγεθος οθόνης</string>
 </resources>

@@ -77,4 +77,8 @@
 		<item quantity="other">  %s ώρες πριν</item>
 		<item quantity="one">  %s ώρα πριν</item>
 	  </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s υπηρεσίες θα συγχρ. με το Mi Cloud</item>
+        <item quantity="one">%s υπηρεσία θα συγχρ. με το Mi Cloud</item>
+    </plurals>
 </resources>

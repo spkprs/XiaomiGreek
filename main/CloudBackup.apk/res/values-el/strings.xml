@@ -88,7 +88,7 @@
      <string name="confirm_cancel_restore_positive">Συνέχεια</string>
      <string name="confirm_cancel_restore_title">Ακύρωση επαναφοράς;</string>
      <string name="confirm_restore">Επαναφορά</string>
-     <string name="confirm_restore_summary">Η Αρχική οθόνη θα επανεκκινήσει και οι εφαρμογές θα ληφθούν αυτόματα όταν συνδεθείτε σε Wi‑Fi</string>
+     <string name="confirm_restore_summary">Η Αρχική οθόνη θα επανεκκινήσει και τα αντίγραφα των εφαρμογών θα ληφθούν αυτόματα.</string>
      <string name="confirm_restore_title">Επαναφορά</string>
      <string name="customization"><u>Προσαρμογή</u></string>
      <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -96,7 +96,7 @@
      <string name="desktop_downloading">Λήψη…</string>
      <string name="desktop_failed">Σφάλμα</string>
      <string name="desktop_installing">Εγκατάσταση…</string>
-     <string name="desktop_wait_wifi">Αναμονή</string>
+     <string name="desktop_wait_network">Αναμονή...</string>
      <string name="desktop_waiting">Αναμονή</string>
      <string name="device_delete_prompt">Διαγραφή αντ.ασφαλείας του %s;</string>
      <string name="dialog_btn_cancel_backup">Ακύρωση</string>
@@ -195,4 +195,27 @@
 	<string name="restore_init_description">Έναρξη Επαναφοράς</string>
 	<string name="restoring_file_title_no_progress">Επαναφορά αρχείων…</string>
 	<string name="restoring_settings">Επαναφορά ρυθμίσεων…</string>
+    <string name="doing_calc_backup_data_size">Υπολογισμός μεγέθους…</string>
+    <string name="btn_restore_wait">Αναμονή για Wi-Fi</string>
+    <string name="btn_restore_continue">Επαναφορά</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> των αρχείων θα γίνει λήψη."</string>
+    <string name="msg_restore_with_metered_network_hint">Εάν προχωρήσετε στην επαναφορά αυτών των στοιχείων, τα δεδομένα κινητής  θα χρησιμοποιηθούν για λήψη.</string>
+    <string name="msg_restore_start_with_metered_network">"Η αρχική οθόνη σας θα επανεκκινήθηκε. Οι αντίγραφα ασφαλείας των εφαρμογών θα ληφθούν αυτόματα. &lt;br />&lt;b>&lt;font color='red'>%s των αρχείων θα γίνει λήψη.&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">Χρήση της τρέχουσας σύνδεσης για τη λήψη αρχείων</string>
+    <string name="restore_network_unconnect">%s (Αναμονή για σύνδεση)</string>
+    <string name="restore_network_pause">%s (Αγγίξτε για συνέχεια)</string>
+    <string name="restore_detail_title">Επιλογή στοιχείων για επαναφορά</string>
+    <string name="restore_detail_category_settings">Ρυθμίσεις</string>
+    <string name="restore_detail_category_apps">Διάταξη αρχικής οθόνης και εφαρμ.</string>
+    <string name="restore_detail_more">Περισσότερα</string>
+    <string name="restore_app_order_title">Προτεραιότητα στα στοιχεία επαναφοράς</string>
+    <string name="restore_app_order_search_hint">Αναζήτηση στοιχείων για ορισμό προτεραιότητας</string>
+    <string name="restore_app_order_search_prior">Εφαρμ. υψηλής προτεραιότητας</string>
+    <string name="restore_app_order_search_normal">Εφαρμ. κανονικής προτεραιότητας</string>
+    <string name="restore_app_order_search_installed">Εφαρμ. σε αυτήν τη συσκευή</string>
+    <string name="restore_app_order_retry">Προσπαθήστε ξανά</string>
+    <string name="restore_app_order_retry_desc">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο.
+Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
+    <string name="restore_app_order_loading">Μισό λεπτό...</string>
+    <string name="restore_app_order_finish">Τέλος</string>
 </resources>

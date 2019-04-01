@@ -1638,4 +1638,5 @@
   <string name="vowifi_emergency_warning_title">Επείγουσες κλήσεις μέσω WiFi</string>
   <string name="wifi_call_setting_vodafone_de">WiFi κλήσεις</string>
   <string name="wifi_call_setting_vodafone_uk">WiFi κλήσεις</string>
+  <string name="fiveg_switch_title">Δίκτυο 5G</string>
 </resources>

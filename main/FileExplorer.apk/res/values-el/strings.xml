@@ -874,4 +874,7 @@
      <string name="you_liao_xunlei_str">Xunlei host</string>
      <string name="youliao_master_rank">Κορυφαία του Youliao</string>
       <string name="menu_set_wallpaper">Ορισμός ως ταπετσαρία</string>
+	  <string name="ftp_anonymous_warning_msg">Η ανώνυμη λειτουργία ενδέχεται να ενέχει κινδύνους ασφαλείας. Χρησιμοποιήτε τη λειτουργία ούτως ή άλλως;</string>
+	  <string name="ftp_anonymous_warning_title">Προσοχή</string>
+	  <string name="home_action_up">Πίσω</string>
 </resources>

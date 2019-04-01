@@ -737,7 +737,7 @@
 	  <string name="autozoom_disabled_hint">Σταμάτησε η παρακολούθηση κινούμενου αντικειμένου</string>
 	  <string name="autozoom_hint">Παρακολούθηση κινούμενου αντικειμένου</string>  
 	  <string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
-      <string name="hint_ae_lock">Η Αυτόματη Έκθεση έχει κλειδωθεί</string>
+      <string name="hint_ae_lock">Η Αυτόματη Έκθεση είναι κλειδωμένη</string>
       <string name="live_sticker_fragment_tab_name">TikTok Μαγικά Sticker</string>
 	  <string name="config_name_ratio">Αναλογία</string>
 	  <string name="module_name_pixel_48M">48M</string>
@@ -769,17 +769,19 @@
 	  <string name="mimoji_selected">Επιλογή</string>
 	  <string name="mimoji_tips">Αγγίξτε για φωτογραφία, πατήστε παρατεταμένα για βίντεο</string>
 	  <string name="module_name_fun_ar">Fun AR</string>
-	  <string name="out_line_error_prompt">Παρακαλούμε μην αποκρύψετε τις πληροφορίες του προσώπου</string>
-	  <string name="out_line_face_occlusion">Το πρόσωπο είναι δυσδιάκριτο</string>
-	  <string name="out_line_left_eyes_occlusion">Το Αριστερό μάτι είναι δυσδιάκριτο</string>
-	  <string name="out_line_mouth_occlusion">Το στόμα είναι δυσδιάκριτο</string>
-	  <string name="out_line_no_face">>Δεν ανιχνεύτηκε πρόσωπο</string>
-	  <string name="out_line_nose_occlusion">Η μύτη είναι δυσδιάκριτη</string>
-	  <string name="out_line_right_eyes_occlusion">Το δεξί μάτι είναι δυσδιάκριτο</string>
 	  <string name="recapture_dialog_message">Επιβεβαιώστε την επανάληψη？</string>
 	  <string name="recapture_dialog_title">Η επανάληψη της λήψης θα διαγράψει την τρέχουσα εικόνα</string>
 	  <string name="wideselfie_result_image_lossless">Η αποθήκευση Panorama απέτυχε</string>
 	  <string name="dialog_google_lens_option_0">Google Lens (Προτείνεται)</string>
 	  <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
 	  <string name="pref_camera_long_press_viewfinder_lock_ae_af">Κλείδωμα AE/AF</string>
+		<string name="mimoji_on_create">Δημιουργήστε μια ψεύτικη έκφραση</string>
+		<string name="mimoji_check_normal">Πατήστε το πλήκτρο της Κάμερας</string>
+		<string name="mimoji_check_no_face">Το πρόσωπο δεν αναγνωρίζεται</string>
+		<string name="mimoji_check_low_light">Μετακινηθείτε σε φωτεινό μέρος για αναγνώριση ευκολότερα του προσώπου</string>
+		<string name="mimoji_check_face_occlusion">???? για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
+		<string name="mimoji_check_face_too_far">Το πρόσωπό σας είναι πολύ μικρό, μετακινήστε το τηλέφωνό σας πιο κοντά</string>
+		<string name="mimoji_check_face_too_close">Το πρόσωπό σας είναι πολύ μεγάλο, μετακινήστε το τηλέφωνό σας μακριά</string>
+		<string name="mimoji_check_multi_face">Παρμείνετε στο εικονοσκόπιο</string>
+		<string name="mimoji_check_beyond_20_degrees">Προσεγγίστε την οθόνη για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
 </resources>

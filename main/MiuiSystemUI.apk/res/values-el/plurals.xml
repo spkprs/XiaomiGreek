@@ -30,12 +30,12 @@
         <item quantity="one">Λανθασμένος κωδικός PUK. Απομένει %d προσπάθεια</item>
      </plurals>
      <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">"Δεν χρησιμοποιήσατε κωδικό σας τις τελευταίες %d ώρες. Εισάγετε τον κωδικό σας."</item>
-        <item quantity="one">"Δεν χρησιμοποιήσατε κωδικό σας την τελευταία %d ώρα. Εισάγετε τον κωδικό σας."</item>
+        <item quantity="other">Εισάγετε τον κωδικό σας τουλάχιστον μία φορά κάθε %d ώρες για να τον θυμάστε πάντα</item>
+        <item quantity="one">Εισάγετε τον κωδικό σας τουλάχιστον μία φορά κάθε %d ώρα για να τον θυμάστε πάντα</item>
      </plurals>
      <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">"Δεν χρησιμοποιήσατε μοτίβο σας τις τελευταίες %d ώρες. Σχεδιάστε το μοτίβο σας."</item>
-        <item quantity="one">"Δεν χρησιμοποιήσατε μοτίβο σας τις τελευταίες %d ώρες. Σχεδιάστε το μοτίβο σας."</item>
+        <item quantity="other">Σχεδιάστε το μοτίβο σας τουλάχιστον μία φορά κάθε %d ώρες για να το θυμάστε πάντα</item>
+        <item quantity="one">Σχεδιάστε το μοτίβο σας τουλάχιστον μία φορά κάθε %d ώρα για να το θυμάστε πάντα</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Απομένουν περίπου %d ώρες</item>

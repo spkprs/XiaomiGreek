@@ -485,4 +485,6 @@
 	  <string name="warning_bar_title_network_unconnected">"Αδυναμία σύνδεσης στο δίκτυο"</string>
 	  <string name="warning_bar_title_short_cut">Προσθήκη συντόμευσης του Mi cloud στην αρχική οθόνη?</string>
 	  <string name="warning_bar_title_sync_off">Ο συγχρ. με το Mi cloud είναι ανενεργός</string>
+      <string name="enable_sync_setting_title">Ρύθμιση υπηρεσιών Cloud…</string>
+      <string name="provision_sync_items_loading">Προετοιμασία συγχρονισμού στοιχείων</string>
 </resources>
