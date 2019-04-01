@@ -1217,7 +1217,7 @@
   <string name="carrier_enabled">APN ενεργοποίηση/απενεργοποίηση</string>
   <string name="carrier_enabled_summaryOff">APN απενεργοποιημένο</string>
   <string name="carrier_enabled_summaryOn">APN ενεργοποιημένο</string>
-  <string name="carrier_provisioning">Πληροφορίες παροχής εταιρείας κινητής τηλεφωνίας</string>
+  <string name="carrier_provisioning">Πληροφ. Παρόχου</string>
   <string name="category_key_device">com.android.settings.category.device</string>
   <string name="category_key_personal">com.android.settings.category.personal</string>
   <string name="category_key_system">com.android.settings.category.system</string>
@@ -5557,7 +5557,7 @@
   <string name="transition_animation_scale_title">Μετάβαση κίνησης</string>
   <string name="translation_contributors_title">Συντελεστές</string>
   <string name="trigger_bottom_title">Ύψος περιοχής κλήσης</string>
-  <string name="trigger_carrier_provisioning">Ενεργοποίηση Παρόχου κινητής τηλεφωνίας</string>
+  <string name="trigger_carrier_provisioning">Ενεργ. Παρόχου</string>
   <string name="trigger_category">Ρυθμίσεις ζώνης κλήσης</string>
   <string name="trigger_summary">Τιμή: %s</string>
   <string name="trigger_top_title">Θέση περιοχής κλήσης</string>

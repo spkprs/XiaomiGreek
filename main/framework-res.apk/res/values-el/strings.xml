@@ -56,7 +56,7 @@
      <string name="activity_resolver_work_profiles_support">Το προφίλ εργασίας δεν υποστηρίζεται από %1$s</string>
      <string name="activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
      <string name="activitychooserview_choose_application_error">Δεν ήταν δυνατή η εκκίνηση του %s</string>
-     <string name="adb_active_notification_message">Αγγίξτε για απενεργοποίηση εντοπισμού σφαλμάτων USB.</string>
+     <string name="adb_active_notification_message">Αγγίξτε για απενεργοποίηση εντοπ. σφαλμ. USB.</string>
      <string name="adb_active_notification_title">Συνδέθηκε ο εντοπισμός σφαλμάτων USB</string>
      <string name="addToDictionary">Προσθήκη στο λεξικό</string>
      <string name="add_account_button_label">Προσθήκη λογαριασμού</string>

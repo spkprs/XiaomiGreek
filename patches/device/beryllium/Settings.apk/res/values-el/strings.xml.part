@@ -162,7 +162,7 @@
   <string name="carrier">Εταιρεία κινητής τηλεφωνίας</string>
   <string name="carrier_and_update_now_text">Ενημερώθηκε από ^1 μόλις τώρα</string>
   <string name="carrier_and_update_text">Ενημερώθηκε από ^1 πριν από ^2</string>
-  <string name="carrier_provisioning">Πληροφορίες παροχής εταιρείας κινητής τηλεφωνίας</string>
+  <string name="carrier_provisioning">Πληροφ. Παρόχου</string>
   <string name="cell_data_limit">Όριο ^1 δεδομένων</string>
   <string name="cell_data_warning">Προειδοποίηση ^1 δεδομένων</string>
   <string name="cell_data_warning_and_limit">Προειδοποίηση ^1 δεδομένων/Όριο ^2 δεδομένων</string>
@@ -523,7 +523,7 @@
   <string name="tethering_hardware_offload_summary">Χρήση της σύνδεσης επιτάχυνσης υλικού εάν υπάρχει</string>
   <string name="time_spent_in_app_pref_title">Χρόνος αφιερωμένος στην εφαρμογή</string>
   <string name="time_unit_just_now">Μόλις τώρα</string>
-  <string name="trigger_carrier_provisioning">Ενεργοποίηση Παρόχου κινητής τηλεφωνίας</string>
+  <string name="trigger_carrier_provisioning">Ενεργ. Παρόχου</string>
   <string name="unknown_unavailability_setting_summary">Μη διαθέσιμη ρύθμιση</string>
   <string name="unsupported_setting_summary">Η ρύθμιση δεν υποστηρίζεται σε αυτό το τηλέφωνο</string>
   <string name="usb_control_device">Αυτή η συσκευή</string>

@@ -70,7 +70,7 @@
      <string name="power_checker_wakeup_alarm_title">%1$s ξεκινά συχνά</string>
      <string name="power_checker_wifi_scan_multi_apps_title">%1$s αναζητήσεις για Wi-Fi συχνά</string>
      <string name="power_checker_wifi_scan_title">%1$s αναζητήσεις για Wi-Fi συχνά</string>
-     <string name="power_config_apps">Εφαρμ. Εξοικον. μπαταρίας</string>
+     <string name="power_config_apps">Ρύθμιση Εξοικονόμησης μπαταρίας</string>
      <string name="power_config_event_delete">Διαγραφή</string>
      <string name="power_config_select_apps_title">Εφαρμογές</string>
      <string name="power_consume_abnormal_night">Η μπαταρία αδειάζει κατά τη νύχτα</string>
