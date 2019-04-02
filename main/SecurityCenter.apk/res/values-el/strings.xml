@@ -1577,7 +1577,7 @@
      <string name="optimize_result_summary_system_default_settings">Η χρήση των προεπιλεγμένων εφαρμογών MIUI αυξάνει το επίπεδο σταθερότητας και ασφάλειας του συστήματος.</string>
      <string name="optimize_result_title_sucurity_risk">Βρέθηκαν κίνδυνοι ασφαλείας</string>
      <string name="optimize_result_title_system_default_settings">Οι προεπιλεγμένες ρυθμίσεις έχουν αλλάξει</string>
-     <string name="optimize_result_title_uninstall_apps">Εφαρμογές</string>
+     <string name="optimize_result_title_uninstall_apps">Απεγκατάσταση Εφαρμ.</string>
      <string name="optimize_result_toast_system_default_settings">Έγινε επαναφορά προεπιλεγμένων ρυθμίσεων</string>
      <string name="optimize_result_toast_system_no_item_selected">Δεν έχουν επιλεγεί στοιχεία</string>
      <string name="optmizingbar_optimize_done">Βελτιστοποιήθηκε</string>

@@ -6216,4 +6216,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="layout_exhuge_font_take_effect_tips">XXL Μέγεθος κειμένου λειτουργεί μόνο στο Τηλέφωνο, Μηνύματα και Επαφές</string>
     <string name="layout_exhuge_font_tips">Περισσότερες επιλογές είναι διαθέσιμες σε %1$s</string>
     <string name="layout_exhuge_font_tips_reg">Προσβασιμότητα > Μέγεθος οθόνης</string>
+  <string name="notification_fold_footer_icon_summary">Όλα τα ασήμαντα εικονίδια ειδοποίησης εμφανίζονται στη δεξιά πλευρά της μπάρας αποθήκευσης</string>
+  <string name="notification_fold_footer_icon_title">Εμφάνιση εικονιδίων</string>
 </resources>

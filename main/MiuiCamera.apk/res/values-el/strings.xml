@@ -471,9 +471,7 @@
      <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
      <string name="pref_camera_picture_format_entry_raw">RAW</string>
      <string name="pref_camera_picturesize_entry_16_9">16:9</string>
-     <string name="pref_camera_picturesize_entry_18_9">18:9</string>
      <string name="pref_camera_picturesize_entry_4_3">4:3</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Πλήρους οθόνης 16:9</string>
      <string name="pref_camera_picturesize_entry_standard">Κανονική 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Πλαίσιο Κάμερας</string>
      <string name="pref_camera_portrait_mode_entry_off">Η λειτουργία Πορτρέτου είναι απενεργοποιημένη</string>
@@ -483,6 +481,7 @@
      <string name="pref_camera_proximity_lock_summary">Η αφή κλειδώνει όταν τοποθετηθεί σε μια τσέπη</string>
      <string name="pref_camera_proximity_lock_title">Λειτουργία τσέπης</string>
      <string name="pref_camera_recordlocation_entry_off">Off</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Πλήρης οθόνη</string>
      <string name="pref_camera_recordlocation_entry_on">On</string>
      <string name="pref_camera_recordlocation_title">Αποθήκευση πληροφοριών τοποθεσίας</string>
      <string name="pref_camera_referenceline_title">Εμφάνιση πλέγματος</string>
