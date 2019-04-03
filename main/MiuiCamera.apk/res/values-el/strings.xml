@@ -744,7 +744,7 @@
 	  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Φακός Google</string>
       <string name="pref_camera_long_press_viewfinder_default">Φακός Google</string>
 	  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Κλείδωμα AE/AF</string>
-	  <string name="pref_google_lens_summary">Αυτόματη αναγνώριση QR κωδικών, μηνυμάτων, αριθμών και άλλων</string>
+	  <string name="pref_google_lens_summary">Στρέψτε την κάμερα στις πληροφορίες επαφών, διευθύνσεις URL και κώδικες QR για να δείτε τις διαθέσιμες επιλογές</string>
 	  <string name="pref_google_lens_title">Προτάσεις Φακού Google</string>
 	  <string name="wideselfie_press_shoot_key_to_start">Πατήστε το πλήκτρο λήψης</string>
 	  <string name="wideselfie_rotate_slowly">Περιστρέψτε αργά το τηλέφωνο</string>
@@ -783,4 +783,6 @@
 		<string name="mimoji_check_face_too_close">Το πρόσωπό σας είναι πολύ μεγάλο, μετακινήστε το τηλέφωνό σας μακριά</string>
 		<string name="mimoji_check_multi_face">Παρμείνετε στο εικονοσκόπιο</string>
 		<string name="mimoji_check_beyond_20_degrees">Προσεγγίστε την οθόνη για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
+     <string name="hint_ae_af_lock_extra">Η αυτόματη εστίαση/έκθεση έχουν κλειδωθεί. Μεταβείτε στο φακό Google στις ρυθμίσεις της κάμερας</string>
+     <string name="mimoji_edit_whether_abandon">Είτε πρόκειται να απορρίψετε την επεξεργασία</string>
 </resources>

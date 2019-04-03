@@ -149,4 +149,24 @@
     <string name="vp_app_name">Αναπαραγωγή βίντεο</string>
     <string name="vp_device_list">Συσκευές</string>
     <string name="vp_device_list_seaching">Δεν υπάρχει συσκευή για μετάδοση></string>
+	<string name="Subscribe">Εγγραφείτε</string>
+	<string name="diy_channels_tips">Μπορείτε να προσαρμόσετε τη λίστα των καναλιών σας τώρα.</string>
+	<string name="empty_channels">Διαχείριση καναλιών</string>
+	<string name="empty_subscribe">"Δεν έχετε εγγραφεί σε τίποτα ακόμα."</string>
+	<string name="hidden_channels">"Τα παρακάτω κανάλια δεν θα εμφανίζονται στην Αρχική σελίδα."</string>
+	<string name="init_channels">Επαναφορά προεπιλογών</string>
+	<string name="isSubscribed">Εγγραφήκατε</string>
+	<string name="my_favorite_channels">Τα κανάλια μου</string>
+	<string name="ovp_navigation_subscribe">Εγγραφείτε</string>
+	<string name="ovp_player_plugin_dlg_neg_btn">Κλείστε</string>
+	<string name="ovp_player_plugin_dlg_no_content">Δεν έχουν εγκατασταθεί προσθήκες βίντεο.</string>
+	<string name="ovp_player_plugin_dlg_title">Προσθήκες βίντεο</string>  
+	<string name="permission_phone">Τηλέφωνο</string>
+	<string name="permission_phone_desc">Για πρόσβαση στην κατάσταση της συσκευής και παύση της αναπαραγωγής κατά τη διάρκεια κλήσεων</string>
+	<string name="permission_storage">Αποθήκευση</string>
+	<string name="permission_storage_desc">Για πρόσβαση σε στοιχεία, αποθήκευση αρχείων, εμφάνιση και αναπαραγωγή τοπικών βίντεο</string>
+	<string name="pw_channels">Κανάλια</string>
+	<string name="recommend_channels">Προτεινώμενα κανάλια</string>
+	<string name="title_publisher">Δημιουργοί</string>
+	<string name="title_subscribe">Συνδρομές</string>
 </resources>
