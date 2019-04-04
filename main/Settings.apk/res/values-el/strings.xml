@@ -3608,11 +3608,11 @@
      <string name="reset_network_complete_toast">Έγινε επαναφορά ρυθμίσεων δικτύου</string>
      <string name="reset_network_confirm_title">Επαναφορά;</string>
      <string name="reset_network_data">Δεδομένα κινητής τηλεφωνίας</string>
-     <string name="reset_network_desc">"\"Αυτό θα επαναφέρει όλες τις ρυθμίσεις του δικτύου, συμπεριλαμβανομένων των:
+     <string name="reset_network_desc">"Αυτό θα επαναφέρει όλες τις ρυθμίσεις του δικτύου, συμπεριλαμβανομένων των:
 
-\"Wi-Fi\"
-\"Δεδομένων κινητής\"
-\"Bluetooth\""</string>
+"&lt;li&gt;Wi-Fi&lt;/li&gt;"
+"&lt;li&gt;Δεδομένων κινητής&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
      <string name="reset_network_final_button_text">Επαναφορά ρυθμίσεων</string>
      <string name="reset_network_final_desc">Επαναφορά ρυθμίσεων όλων των δικτύων; Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια!</string>
      <string name="reset_network_title">Επαναφορά ρυθμίσεων δικτύου</string>

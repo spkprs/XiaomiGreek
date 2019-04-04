@@ -20,4 +20,12 @@
         <item quantity="other">%1$s έργα</item>
         <item quantity="one">%1$s έργο</item>
     </plurals>
+    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Αναζήτηση μεταξύ %1$d εφαρμ.</item>
+        <item quantity="one">Αναζήτηση μεταξύ %1$d εφαρμ.</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">Βρέθηκαν %1$d εφαρμ.</item>
+        <item quantity="one">Βρέθηκε %1$d εφαρμ.</item>
+    </plurals>
 </resources>
