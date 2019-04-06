@@ -11,7 +11,7 @@
      <string name="Settings_title_network_assistants">Παράμετροι βοηθού δικτύου</string>
      <string name="Settings_title_power_center">Ρύθμιση βελτιστοποίησης μπαταρίας</string>
      <string name="about_autostart">Σχετικά με την Αυτόματη Έναρξη</string>
-     <string name="ac_enter_applock">Εισάγετε το Κλείδωμα Εφαρμογής</string>
+     <string name="ac_enter_applock">Είσοδος σε Κλείδωμα εφαρμογής</string>
      <string name="ac_firstUseApplock_subTitle">Ενεργοποιήστε τον για επιπλέον προστασία</string>
      <string name="ac_firstUseApplock_title">Ορίστε κωδικό για τις επιλεγμένες εφαρμογές</string>
      <string name="ac_mask_all_apps">Απόκρυψη για όλες τις εφαρμογές</string>
@@ -75,7 +75,7 @@
      <string name="add_whitelist">Προσθήκη στις εξαιρέσεις</string>
      <string name="address">Διεύθυνση</string>
      <string name="address_choose_hint">%1$s, %2$s και %3$d άλλες τοποθεσίες</string>
-     <string name="adjust_sms_cmd">&lt;u&gt;Προσαρμογή βαθμονόμησης πρότυπου SMS &lt;/u&gt;</string>
+     <string name="adjust_sms_cmd"><u>Προσαρμογή βαθμονόμησης πρότυπου SMS</u></string>
      <string name="adjust_traffic_carrier_summary_more_onemonth_before">Ενημερώθηκε περισσότερο από 1 μήνα</string>
      <string name="adjust_traffic_carrier_summary_more_oneweek_before">Ενημερώθηκε περισσότερο από 1 εβδομάδα</string>
      <string name="adjust_traffic_carrier_summary_oneweek_before">Ενημερώθηκε πριν 1 εβδομάδα</string>
@@ -225,14 +225,14 @@
      <string name="app_manager_pref_ads">Συστάσεις</string>
      <string name="app_manager_reset_app_preferences">Επαναφορά προτιμήσεων εφαρμ.</string>
      <string name="app_manager_reset_app_preferences_button">Επαναφορά εφαρμογών</string>
-     <string name="app_manager_reset_app_preferences_desc">"Θα επαναφέρει όλες τις προτιμήσεις για:\u000d
-\u000d
- \"Απενεργοποιημένες εφαρμογές\"\u000d
- \"Απενεργ. ειδοπ. εφαρμ\"\u000d
- \"Προεπιλ. εφαρμ. για ενέργειες\"\u000d
- \"Περιορισμό εφαρμ. δεδ. παρασκ.\"\u000d
-\u000d
- Δεν θα χάσετε δεδομένα εφαρμογών."</string>
+     <string name="app_manager_reset_app_preferences_desc">"Αυτό θα επαναφέρει όλες τις προτιμήσεις για:
+
+"<li>Απενεργ. ειδοπ. εφαρμ.</li>"
+"<li>Ειδοπ. απενεργ. εφαρμ.</li>"
+"<li>Προεπιλεγμένες εφαρμ.</li>"
+"<li>Περιορισμοί εφαρμ. δεδ. παρασκ.</li>"
+
+Δεν θα χάσετε δεδομένα εφαρμογής."</string>
      <string name="app_manager_reset_app_preferences_title">Επαναφορά προτιμήσεων εφαρμ;</string>
      <string name="app_manager_search_prompt">Αδύνατη η εύρεση αποτελεσμάτων; Δοκιμάστε την εμφάνιση αποτελεσμάτων από όλες τις εφαρμογές.</string>
      <string name="app_manager_show_all_apps">Εμφάνιση όλων των εφαρμογών</string>
@@ -451,8 +451,8 @@
      <string name="bl_no_block_call">Χωρίς αποκλεισμένες Κλήσεις</string>
      <string name="bl_no_block_sms">Χωρίς αποκλεισμένα SMS</string>
      <string name="blacklist_prefix_add_hint">Αποκλεισμός όλων των αριθμών με αυτό το πρόθεμα</string>
-     <string name="block_message_number">Μηνύματα: %d</string>
-     <string name="block_phone_number">Κλήσεις: %d</string>
+     <string name="block_message_number">Μηνύματα: &lt;font color=#5fab1b>%d&lt;/font></string>
+     <string name="block_phone_number">Κλήσεις: &lt;font color=#5fab1b>%d&lt;/font></string>
      <string name="boost_done">Επιτυχής ενίσχυση</string>
      <string name="boost_stop">Απενεργοποιήστε την ενίσχυση της ταχύτητας</string>
      <string name="booster_immediately">Ενίσχυση</string>
@@ -1058,7 +1058,7 @@
      <string name="gs_performance_mode_detail">Βελτιστοποιήστε την απόδοση του συστήματος για gaming</string>
      <string name="gs_sign_notification">Υπενθυμίστε να κάνετε check in στις 8 μ.μ. καθημερινά</string>
      <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό ή σύρετε από την επάνω πλευρά της οθόνης για να εμφανιστεί ο πίνακας συντομεύσεων</string>
-     <string name="guide_get_operator_error">"&lt;font color=\"\'#33b4ff\'\"&gt;Λάθος φορέας;&lt;/font&gt;"</string>
+     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Εσφαλμένος πάροχος;&lt;/U>&lt;/font>"</string>
      <string name="guide_operator_text">Ο τρέχων φορέας σας:</string>
      <string name="guide_quck_open">Ενεργοποιήστε</string>
      <string name="guide_second_text">Αφού ορίσετε τον φορέα σας, το MIUI θα παρακολουθεί καθημερινά τη χρήση δεδομένων κινητής τηλεφωνίας καθημερινά στέλνοντας δωρεάν SMS. Όταν το MIUI εντοπίσει ότι έχετε υπερβεί το όριο δεδομένων σας, θα αποσυνδεθεί από το δίκτυο και θα σας ειδοποιήσει.</string>
@@ -1978,7 +1978,7 @@
      <string name="scan_status_safe">Ασφαλές</string>
      <string name="scanning_bar_number">%d%%</string>
      <string name="screenrecord_not_find">Εγκαταστήστε την πιο πρόσφατη έκδοση του Screen Recorder και δοκιμάστε ξανά.</string>
-     <string name="search_input_txt_na">"&lt;font color=\"\'#ff0000\'\"&gt;%s&lt;/font&gt;"</string>
+     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
      <string name="search_result_text">Δεν ήταν δυνατή η εύρεση εφαρμογών</string>
      <string name="secondart_setting_title">红包提醒设置</string>
      <string name="section_clear_acc_item_title">Ελευθερώθηκαν %s. Εάν δεν υπάρχει ακόμα αρκετός χώρος αποθήκευσης, δοκιμάστε να χρησιμοποιήσετε το Cleaner.</string>
@@ -2203,9 +2203,9 @@
      <string name="status_bar_network_flow_content_not_setting">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπόλοιπο: %2$s</string>
      <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
      <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-     <string name="status_bar_network_flow_phone_balance">Υπόλοιπο τηλεφώνου:%1$s</string>
-     <string name="status_bar_network_flow_purchase">Αγορά&gt;</string>
-     <string name="status_bar_network_flow_setup_data_plan">Ορισμός πακέτου δεδομένων&gt;</string>
+     <string name="status_bar_network_flow_phone_balance">"   Υπόλοιπο τηλεφώνου:%1$s "</string>
+     <string name="status_bar_network_flow_purchase">"   Αγορά>"</string>
+     <string name="status_bar_network_flow_setup_data_plan">"   Ορισμός πακέτου δεδομένων >"</string>
      <string name="still_retain_btn">Διατήρηση</string>
      <string name="suggest_app_tolock">Προτάσεις</string>
      <string name="suggest_app_tolock_masked">Κρυμμένα</string>
@@ -2275,10 +2275,10 @@
      <string name="tc_diagnostic_all_error_notification_title">Αδυναμία ολοκλήρωσης διαγνωστικών</string>
      <string name="tc_diagnostic_brand_error_notification_summary">Πατήστε για να ρυθμίσετε τον τύπο δικτύου</string>
      <string name="tc_diagnostic_brand_error_notification_title">Λάθος τύπος δικτύου</string>
-     <string name="tc_diagnostic_brand_result">"&lt;font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"\'#CC0000\'\"&gt;&lt;&lt;font color=\"\'#CC0000\'\"&gt;\"font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\'#CC0000\'&gt;Αποτέλεσμα: Λανθασμένη ονομασία φορέα&lt;br/&gt;&lt;br/&gt;Ορισμός ονόματος:&lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Πρ\"&lt;/font&gt;αγματική μάρκα:&lt;xliff:g\"&lt;/font&gt;&lt;/font&gt; id=location example=UN\"&lt;/font&gt;ICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Αποτέλεσμα: Εσφαλμένη εταιρεία παρόχου&lt;br/>&lt;br/>Ορισμός εταιρείας: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Πραγματική εταιρεία: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
      <string name="tc_diagnostic_complete">Ολοκληρώθηκε</string>
-     <string name="tc_diagnostic_fragment_default">"Σχετικά με τη διάγνωση\u000d
-1. Η συσκευή θα συνδεθεί στο δίκτυο του φορέα, θα στείλει ένα δωρεάν μήνυμα και θα περιμένει την απάντηση του φορέα. Αυτό μπορεί να διαρκέσει έως και 5 λεπτά.\u000d
+     <string name="tc_diagnostic_fragment_default">"Σχετικά με τη διάγνωση
+1. Η συσκευή θα συνδεθεί στο δίκτυο του φορέα, θα στείλει ένα δωρεάν μήνυμα και θα περιμένει την απάντηση του φορέα. Αυτό μπορεί να διαρκέσει έως και 5 λεπτά.
 2. Μπορείτε να αφήσετε αυτήν τη σελίδα κατά τη διάρκεια των διαγνωστικών, θα πραγματοποιηθεί στο παρασκήνιο."</string>
      <string name="tc_diagnostic_location_error_notification_summary">Πατήστε για να ρυθμίσετε την τοποθεσία σας</string>
      <string name="tc_diagnostic_location_error_notification_title">Λάθος τοποθεσία</string>
@@ -2288,24 +2288,24 @@
      <string name="tc_diagnostic_onekey_repair_botton">Επιδιόρθωση</string>
      <string name="tc_diagnostic_operator_error_notification_summary">Πατήστε για να αλλάξετε τις ρυθμίσεις φορέα</string>
      <string name="tc_diagnostic_operator_error_notification_title">Λάθος φορέας</string>
-     <string name="tc_diagnostic_operator_result">"&lt;font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"\'#CC0000\'\"&gt;&lt;&lt;font color=\"\'#CC0000\'\"&gt;\"font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\'#CC0000\'&gt;Αποτέλεσμα: Λανθασμένος φορέας&lt;br/&gt;&lt;br/&gt;Φορέας μεταφοράς:&lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Π\"&lt;/font&gt;ραγματικός φορέας:&lt;xlif\"&lt;/font&gt;&lt;/font&gt;f:g id=location example\"&lt;/font&gt;=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+     <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Αποτέλεσμα: Εσφαλμένος πάροχος&lt;br/>&lt;br/>Ορισμός παρόχου: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Πραγματικός πάροχος: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
      <string name="tc_diagnostic_repair_and_continue">Επιδιόρθωση και συνέχεια</string>
-     <string name="tc_diagnostic_repair_location">"&lt;font color=\"\'#3EC234\'\"&gt;Ολοκλήρωση διαγνωστικών. Διορθώθηκαν τα προβλήματα τοποθεσίας.&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color=\"\'#3EC234\'\"&gt;Ολοκλήρωση διαγνωστικών. Διορθώθηκαν τα προβλήματα τοποθεσίας και φορέα.&lt;/font&gt;"</string>
+     <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Τα διαγνωστικά ολοκληρώθηκαν, επιλύθηκαν προβλήματα τοποθεσίας.&lt;/font>"</string>
+     <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Τα διαγνωστικά ολοκληρώθηκαν, επιλύθηκαν προβλήματα τοποθεσίας και προβλήματα παρόχου.&lt;/font>"</string>
      <string name="tc_diagnostic_repair_success_toast">Επιτυχής αλλαγή</string>
-     <string name="tc_diagnostic_result">"&lt;font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"\'#CC0000\'\"&gt;&lt;&lt;font color=\"#CC0000\"&gt;\"font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"#CC0000\"&gt;Αποτέλεσμα: Αδυναμία ολοκλήρωσης διαγνωστικών&lt;br/&gt;&lt;br/&gt;Αναφέρετε αυτό το πρ\"&lt;/font&gt;όβλημα για να βοηθήσετε\"&lt;/font&gt;&lt;/font&gt; τη MIUI να βελτιώσει τ\"&lt;/font&gt;α διαγνωστικά εργαλεία&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_sim_location_result">"&lt;font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"\'#CC0000\'\"&gt;&lt;&lt;font color=\"\'#CC0000\'\"&gt;\"font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\'#CC0000\'&gt;Αποτέλεσμα: Λάθος τοποθεσία&lt;br/&gt;&lt;br/&gt;Ορισμός τοποθεσίας: &lt;xliff:g id=παράδειγμα τοποθεσίας=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Πραγματική \"&lt;/font&gt;τοποθεσία: &lt;xliff:g id=\"&lt;/font&gt;&lt;/font&gt;παράδειγμα τοποθεσίας=S\"&lt;/font&gt;hangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+     <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Αποτέλεσμα: Αδυναμία ολοκλήρωσης διαγνωστικών&lt;br/>&lt;br/>Αναφέρετε αυτό το πρόβλημα για να βοηθήσετε το MIUI στην βελτίωση εργαλείων διαγνωστικών&lt;/font>"</string>
+     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Αποτέλεσμα: Εσφαλμένη τοποθεσία&lt;br/>&lt;br/>Ορισμός τοποθεσίας: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Πραγματική τοποθεσία: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
      <string name="tc_diagnostic_status_error_brand">Δεν βρέθηκε ο φορέας δικτύου</string>
-     <string name="tc_diagnostic_status_failure">"&lt;font color=\"\'#CC0000\'\"&gt;Σφάλμα&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_status_no_network">"&lt;font color=\"\'#ED9523\'\"&gt;Δεν υπάρχει σύνδεση δικτύου&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_status_not_get">"&lt;font color=\"\'#ED9523\'\"&gt;Αδυναμία λήψης πληροφοριών&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_status_success">"&lt;font color=\"\'#3EC234\'\"&gt;Σωστό&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_status_success_brand">"&lt;font color=\"\'#3EC234\'\"&gt;Απαντήσεις φορέα δικτύου&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_status_timeout">"&lt;font color=\"\'#CC0000\'\"&gt;Τέλος χρόνου&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_status_updating">Έλεγχος…</string>
-     <string name="tc_diagnostic_success_notification_summary">Αναφέρετε αυτό το πρόβλημα για να βοηθήσετε τη MIUI να βελτιώσει τα διαγνωστικά εργαλεία</string>
-     <string name="tc_diagnostic_success_notification_title">Το δίκτυο και όνομα του φορέα είναι σωστά</string>
-     <string name="tc_diagnostic_success_result">"&lt;font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"\'#CC0000\'\"&gt;&lt;&lt;font color=\"#CC0000\"&gt;\"font color=\"\'#CC0000\'\"&gt;\"&lt;font color=\"#CC0000\"&gt;Αποτέλεσμα: Όνομα και Δίκτυο παρόχου διορθώθηκαν&lt;br/&gt;&lt;br/&gt;Αδύνατη η ολοκλήρωση ρύθμισηςC:&lt;br/&gt;1. Τα στατιστικά στοιχεία του φορέα ενδέχεται να μην είναι αξιόπιστα στην αρχή ή στο τέλος του μήνα. &lt;br/&gt; 2. Οι λειτουργίες εφαρμογής ασφαλείας δεν ενημερώθηκαν.&lt;br/&gt;&lt;br/&gt;Αναφέρετε αυτό τ\"&lt;/font&gt;ο ζήτημα για να βοηθήσε\"&lt;/font&gt;&lt;/font&gt;τε το MIUI να βελτιώσει\"&lt;/font&gt; τα εργαλεία διάγνωσης&lt;/font&gt;"</string>
+     <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Σφάλμα&lt;/font>"</string>
+     <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Δεν υπάρχει σύνδεση δικτύου&lt;/font>"</string>
+	 <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Αδυναμία λήψης πληροφοριών&lt;/font>"</string>
+	 <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Σωστό&lt;/font>"</string>
+	 <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>To δίκτυο παρόχου ανταποκρίνεται&lt;/font>"</string>
+	 <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Τέλος χρόνου&lt;/font>"</string>
+	 <string name="tc_diagnostic_status_updating">Έλεγχος…</string>
+	 <string name="tc_diagnostic_success_notification_summary">Αναφέρετε αυτό το πρόβλημα για να βοηθήσετε τη MIUI να βελτιώσει τα διαγνωστικά εργαλεία</string>
+	 <string name="tc_diagnostic_success_notification_title">Το δίκτυο και όνομα του φορέα είναι σωστά</string>
+	 <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Αποτέλεσμα: Όνομα και Δίκτυο παρόχου διορθώθηκαν&lt;br/>&lt;br/>Αδύνατη η ολοκλήρωση ρύθμισης&lt;br/>1. Τα στατιστικά στοιχεία του φορέα ενδέχεται να μην είναι αξιόπιστα στην αρχή ή στο τέλος του μήνα. &lt;br/> 2. Οι λειτουργίες εφαρμογής ασφαλείας δεν ενημερώθηκαν.&lt;br/>&lt;br/>Αναφέρετε αυτό το ζήτημα για να βοηθήσετε το MIUI να βελτιώσει τα εργαλεία διάγνωσης&lt;/font>"</string>
      <string name="tc_diagnostic_title">Διαγνωστικά φορέα</string>
      <string name="tc_diagnostic_upload_button">Αναφορά</string>
      <string name="tc_diagnostic_upload_no_network">Ευχαριστούμε για τα σχόλιά σας! Η αναφορά σας θα υποβληθεί όταν συνδεθείτε στο δίκτυο.</string>
@@ -2476,20 +2476,20 @@
      <string name="traffic_alert_auto_modify_notification_titile">Ενημερώθηκε το πρόγραμμα δεδομένων</string>
      <string name="traffic_alert_auto_modify_package_summary">Αυτόματη προσαρμογή πακέτου δεδομένων, σύμφωνα με τις πληροφορίες του φορέα</string>
      <string name="traffic_config_alert_auto_modify">Αυτόματη προσαρμογή προγράμματος δεδομένων</string>
-     <string name="traffic_config_alert_body">"Ο λογαριασμός του φορέα σας δείχνει :%s.\u000d
-\u000d
-Θα το πάρετε αυτό;"</string>
-     <string name="traffic_config_alert_body_extra">"\u000d
+     <string name="traffic_config_alert_body">"Το πλάνο παρόχου σας δείχνει αυτό: %s.
+
+Το αποδέχεστε;"</string>
+      <string name="traffic_config_alert_body_extra">"
 Αγοράσατε %1$s επιπλέον δεδομένα αυτό το μήνα. Αυτό είναι διαφορετικό από τα %2$s που προσθέσατε χειροκίνητα."</string>
-     <string name="traffic_config_alert_body_extra_notset">"\u000d
+      <string name="traffic_config_alert_body_extra_notset">"
 Αγοράσατε %s επιπλέον δεδομένα αυτό το μήνα. Αυτό είναι διαφορετικό στο μηνιαίο όριο χρήσης που ορίσατε χειροκίνητα."</string>
-     <string name="traffic_config_alert_body_leisure">"\u000d
+      <string name="traffic_config_alert_body_leisure">"
 Το δωρεάν όριο χρήσης δεδομένων του μηνιαίου σας προγράμματος είναι %1$s. Αυτό είναι διαφορετικό από το όριο %2$s που ορίσατε χειροκίνητα."</string>
-     <string name="traffic_config_alert_body_leisure_notset">"\u000d
+      <string name="traffic_config_alert_body_leisure_notset">"
 Το δωρεάν όριο χρήσης δεδομένων του μηνιαίου σας προγράμματος είναι %1$s. Δεν έχετε ορίσει δωρεάν όριο χρήσης δεδομένων."</string>
-     <string name="traffic_config_alert_body_normal">"\u000d
+      <string name="traffic_config_alert_body_normal">"
 Το μηνιαίο όριο χρήσης δεδομένων του προγράμματος είναι %1$s. Αυτό είναι διαφορετικό από το όριο %2$s που ορίσατε χειροκίνητα."</string>
-     <string name="traffic_config_alert_package">"\u000d
+      <string name="traffic_config_alert_package">"
 Μεταφορά επιπλέον δεδομένων"</string>
      <string name="traffic_config_alert_setted">Εφαρμογή ρυθμίσεων</string>
      <string name="traffic_config_alert_title">%s Διόρθωση</string>
@@ -2499,12 +2499,12 @@
      <string name="traffic_correction_success">Η χρήση δεδομένων ενημερώθηκε</string>
      <string name="traffic_correction_success_notify_message">Πατήστε για λεπτομέρειες.</string>
      <string name="traffic_limit_error_alert_body">Το υπόλοιπο δεδομένων για αυτό το μήνα (%1$s) είναι μεγαλύτερο από το μηνιαίο σας πρόγραμμα (%2$s). Να σημειωθούν τα επιπλέον δεδομένα ως πακέτο ανανέωσης;</string>
-     <string name="traffic_limit_error_alert_package">"\u000d
-\u000d
+     <string name="traffic_limit_error_alert_package">"
+
 Το υπόλοιπο δεδομένων περιλαμβάνει δεδομένα που έχουν μεταφερθεί από τον προηγούμενο μήνα."</string>
      <string name="traffic_limit_error_alert_title">Υπενθύμιση ορίου δεδομένων %s</string>
      <string name="traffic_none">Χωρίς</string>
-     <string name="traffic_over_purchase_link">"Έχετε φτάσει το όριο χρήσης δεδομένων κινητής του προγράμματός σας.&lt;br/&gt;Αν ξεπεράσετε το όριο χρήσης δεδομένων του προγράμματός σας, ο φορέας σας μπορεί να σας χρεώσει πρόσθετα τέλη.&lt;br/&gt;&lt;br/&gt;&lt;font color=\'#ccffffff\'&gt;&lt;U&gt;Πατήστε για ανανέωση του υπολοίπου σας.&lt;/U&gt;&lt;/font&gt;"</string>
+     <string name="traffic_over_purchase_link">" Έχετε φτάσει το όριο χρήσης δεδομένων κινητής του προγράμματός σας.&lt;br/>Αν ξεπεράσετε το όριο χρήσης δεδομένων του προγράμματός σας, ο φορέας σας μπορεί να σας χρεώσει πρόσθετα τέλη.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Πατήστε για ανανέωση του υπολοίπου σας.&lt;/U>&lt;/font>"</string>
      <string name="traffic_purchase_body">Πατήστε για ανανέωση του υπολοίπου σας.</string>
      <string name="traffic_setting_fragment_area">Τοπικά</string>
      <string name="traffic_setting_fragment_brand">Τύπος</string>
@@ -2653,23 +2653,23 @@
     <string name="gamebox_hangup_tips_title">Απενεργοποιήστε την οθόνη</string>
     <string name="gamebox_hangup_tips_content">Αυτή η λειτουργία σας επιτρέπει να απενεργοποιήσετε την οθόνη, αλλά να διατηρήσετε το παιχνίδι σε λειτουργία στο παρασκήνιο. Απενεργοποιείται αυτόματα μόλις ξεκλειδώσετε τη συσκευή σας.</string>
     <string name="gamebox_immersion_tips_title">Προσοχή</string>
-    <string name="gamebox_immersion_tips_content">Η λειτουργία Immersive περιορίζει όλες τις λειτουργίες της κάρτας SIM εκτός από τη σύνδεση δεδομένων κινητής τηλεφωνίας. Δεν θα διακοπεί ούτε από κλήσεις ούτε θα λάβετε ειδοποιήσεις για αναπάντητες κλήσεις. Όλες οι λειτουργίες της κάρτας SIM θα αποκατασταθούν όταν η λειτουργία Immersive είναι απενεργοποιημένη. Ενεργοποιήστε τη λειτουργία Immersive;</string>
+    <string name="gamebox_immersion_tips_content">Η λειτουργία Καθήλωσης περιορίζει όλες τις λειτουργίες της κάρτας SIM εκτός από τη σύνδεση δεδομένων κινητής τηλεφωνίας. Δεν θα διακοπεί ούτε από κλήσεις ούτε θα λάβετε ειδοποιήσεις για αναπάντητες κλήσεις. Όλες οι λειτουργίες της κάρτας SIM θα αποκατασταθούν όταν η λειτουργία Καθήλωσης είναι απενεργοποιημένη. Ενεργοποιήστε τη λειτουργία Καθήλωσης;</string>
     <string name="gamebox_func_antimsg_open">Οι αναδυόμενες ειδοποιήσεις είναι πλέον περιορισμένες</string>
     <string name="gamebox_func_antimsg_close">Οι αναδυόμενες ειδοποιήσεις είναι πλέον διαθέσιμες</string>
     <string name="gamebox_func_wlan_open">Wi-Fi είναι ανοιχτό</string>
     <string name="gamebox_func_wlan_close">Wi-Fi είναι κλειστό</string>
     <string name="gamebox_func_switch_simcard">Μετάβαση στην κάρτα SIM %1$d για δεδομένα</string>
-    <string name="gamebox_func_switch_simcard_immersion">"Δεν είναι δυνατή η εναλλαγή των καρτών SIM σε λειτουργία Immersive"</string>
-    <string name="gamebox_func_immersion_open">Η λειτ. Immersive είναι ενεργή</string>
-    <string name="gamebox_func_immersion_close">Η λειτ. Immersive είναι ανενεργή</string>
-    <string name="noti_back_diving_mode_title">Ενεργή λειτ. Immersive. Αγγίξτε για κλείσιμο.</string>
-    <string name="alert_back_diving_mode_title">Λειτουργία Immersive</string>
-    <string name="alert_back_diving_mode_summary">Κλείνετε την λειτ. Immersive τώρα?</string>
-    <string name="gamebox_immerson_open">"Ενεργοποιείται η λειτ. Immersive  μην αλλάξετε δίκτυο…"</string>
+    <string name="gamebox_func_switch_simcard_immersion">"Δεν είναι δυνατή η εναλλαγή των καρτών SIM σε λειτουργία Καθήλωσης"</string>
+    <string name="gamebox_func_immersion_open">Η λειτ. Καθήλωσης είναι ενεργή</string>
+    <string name="gamebox_func_immersion_close">Η λειτ. Καθήλωσης είναι ανενεργή</string>
+    <string name="noti_back_diving_mode_title">Ενεργή λειτ. Καθήλωσης. Αγγίξτε για κλείσιμο.</string>
+    <string name="alert_back_diving_mode_title">Λειτουργία Καθήλωσης</string>
+    <string name="alert_back_diving_mode_summary">Κλείνετε την λειτ. Καθήλωσης τώρα?</string>
+    <string name="gamebox_immerson_open">"Ενεργοποιείται η λειτ. Καθήλωσης  μην αλλάξετε δίκτυο…"</string>
     <string name="create_gamebooster_destop">Δημιουργήθηκε με επιτυχία η συντόμευση στην Αρχική οθόνη</string>
-    <string name="notify_diving_mode_exception_close">Απενεργοποιήθηκε επιτυχώς τη λειτουργία Immersive</string>
-    <string name="notify_diving_mode_exception_open_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας Immersive."</string>
-    <string name="notify_diving_mode_exception_close_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η απενεργοποίηση της λειτουργίας Immersive."</string>
+    <string name="notify_diving_mode_exception_close">Απενεργοποιήθηκε επιτυχώς τη λειτουργία Καθήλωσης</string>
+    <string name="notify_diving_mode_exception_open_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας Καθήλωσης."</string>
+    <string name="notify_diving_mode_exception_close_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η απενεργοποίηση της λειτουργίας Καθήλωσης."</string>
     <string name="gamebox_recent_task_expand_fail">"Οι εφαρμογές που λειτουργούν με συντομεύσεις δεν έχουν εγκατασταθεί"</string>
 	<string name="security_center_slogan">Ασφάλεια. Πάντα σε επιφυλακή.</string>
 	<string name="third_desktop_dialog_content">Όπως οι εφαρμογή Εκκινητή τρίτων, ενδέχεται να υπάρχει διαρροή δεδομένων, άδειασμα μπαταρίας, καθυστέρηση, κλπ. Μόνο οι επαληθευμένες εφαρμ. από το MIUI μπορούν να οριστούν ως προεπιλεγμένες εφαρμ. Εκκινητή.</string>

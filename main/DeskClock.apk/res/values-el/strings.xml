@@ -228,7 +228,7 @@
      <string name="tomorrow">Αύριο</string>
      <string name="turn_off_a_repeat_alarm">Απενεργοποίηση αφύπνισης</string>
      <string name="turn_off_this_repeat_alarm">Επαναλαμβανόμενης αφύπνισης</string>
-     <string name="upcoming_alarm">%s Επόμενη Αφύπνιση</string>
+     <string name="upcoming_alarm">Επόμενη Αφύπνιση %s</string>
      <string name="upcoming_alarm_hint">Διακοπή αφύπνισης αν επιθυμείτε</string>
      <string name="vibrate_pref_summary">Δόνηση κατά την Αφύπνιση</string>
      <string name="vibrate_when_ringing">Ενεργή δόνηση</string>
