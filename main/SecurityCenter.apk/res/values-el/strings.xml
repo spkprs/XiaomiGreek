@@ -1019,7 +1019,7 @@
      <string name="gb_xunyou_gift_type_one">Xunyou 1-day boost</string>
      <string name="gb_xunyou_gift_type_three">Xunyou 3-day boost</string>
      <string name="gb_xunyou_gift_type_two">Xunyou 2-day boost</string>
-     <string name="gdpr_msg"><Data>"Για να χρησιμοποιήσετε τα χαρακτηριστικά της Ασφάλειας, πρέπει να συμφωνείσετε ότι η Xiaomi θα συλλέγει, επεξεργαστεί και θα χρησιμοποιήσει τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων πληροφοριών για τους τρόπους χρήσης της Ασφάλειας (π.χ. στατιστικά δεδομένων, πληροφορίες για κακόβουλα προγράμματα, σχετικά με τη συσκευή σας) και άλλες πληροφορίες που καθορίζονται στην &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a>."</Data></string>
+     <string name="gdpr_msg">&lt;Data&gt;"Για να χρησιμοποιήσετε τα χαρακτηριστικά της Ασφάλειας, πρέπει να συμφωνείσετε ότι η Xiaomi θα συλλέγει, επεξεργαστεί και θα χρησιμοποιήσει τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων πληροφοριών για τους τρόπους χρήσης της Ασφάλειας (π.χ. στατιστικά δεδομένων, πληροφορίες για κακόβουλα προγράμματα, σχετικά με τη συσκευή σας) και άλλες πληροφορίες που καθορίζονται στην &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
      <string name="ge">个</string>
      <string name="get_sys_info">Λήψη πληροφοριών…</string>
      <string name="gigabyteShort">GB</string>
@@ -2202,7 +2202,7 @@
      <string name="status_bar_network_flow_content">Δεδομένα Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπόλοιπο: %2$s</string>
      <string name="status_bar_network_flow_content_not_setting">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Υπόλοιπο: %2$s</string>
      <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
-     <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+     <string name="status_bar_network_flow_exceed_content">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Υπέρβαση πλάνου: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
      <string name="status_bar_network_flow_phone_balance">"   Υπόλοιπο τηλεφώνου:%1$s "</string>
      <string name="status_bar_network_flow_purchase">"   Αγορά>"</string>
      <string name="status_bar_network_flow_setup_data_plan">"   Ορισμός πακέτου δεδομένων >"</string>
