@@ -487,4 +487,6 @@
 	  <string name="warning_bar_title_sync_off">Ο συγχρ. με το Mi cloud είναι ανενεργός</string>
       <string name="enable_sync_setting_title">Ρύθμιση υπηρεσιών Cloud…</string>
       <string name="provision_sync_items_loading">Προετοιμασία συγχρονισμού στοιχείων</string>
+	  <string name="user_detail_agreement">Συμφωνία χρήστη</string>
+	  <string name="user_detail_privacy_policy">Πολιτική απορρήτου</string>
 </resources>

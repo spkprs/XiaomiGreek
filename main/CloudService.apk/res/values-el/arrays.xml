@@ -126,4 +126,8 @@
     <item>Ενεργοποιήστε το συγχρονισμό</item>
     <item>WLAN;WiFi;WLAN;Cloud;Συγχρονισμού;Υπηρεσίες cloud;mi</item>
   </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>Προβολή συγχ/μένων στοιχείων</item>
+        <item>Λεπτομέριες Αποθήκευσης</item>
+    </string-array>
 </resources>

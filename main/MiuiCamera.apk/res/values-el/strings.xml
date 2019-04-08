@@ -785,4 +785,6 @@
 		<string name="mimoji_check_beyond_20_degrees">Προσεγγίστε την οθόνη για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
      <string name="hint_ae_af_lock_extra">Η αυτόματη εστίαση/έκθεση έχουν κλειδωθεί. Μεταβείτε στο φακό Google στις ρυθμίσεις της κάμερας</string>
      <string name="mimoji_edit_whether_abandon">Είτε πρόκειται να απορρίψετε την επεξεργασία</string>
+     <string name="ultra_wide_mode_use_hint_text_sat">"Ενεργοποιήστε την υπέρ ευρεία γωνία 0.6Χ για να καταγράψετε μια ευρύτερη προβολή για εσάς
+Εξερευνήστε συναρπαστικά αριστουργήματα"</string>
 </resources>

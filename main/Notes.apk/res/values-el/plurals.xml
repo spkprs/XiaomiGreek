@@ -21,4 +21,24 @@
         <item quantity="other">%d  χαρακτήρες</item>
         <item quantity="one">%d χαρακτήρας</item>
      </plurals>
+   <plurals name="alert_message_delete">
+        <item quantity="other">Διαγραφή %1$s στοιχείων?</item>
+        <item quantity="one">Διαγραφή %1$s στοιχείο?</item>
+    </plurals>
+	<plurals name="format_move_notes_out_folder">
+        <item quantity="other">Αφαιρέθηκαν %1$s σημειώσεις απο τον φάκελο</item>
+        <item quantity="one">Αφαιρέθηκε %1$s σημείωση απο τον φάκελο</item>
+    </plurals>
+	 <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Μετακινήθηκαν %1$s σημειώσεις σε %2$s</item>
+        <item quantity="one">Μετακινήθηκε %1$s σημείωση σε %2$s</item>
+    </plurals>
+	<plurals name="toast_notes_hidden_count">
+        <item quantity="other">Απόκρυψη επιτυχώς %1$s σημειώσεις</item>
+        <item quantity="one">Απόκρυψη επιτυχώς %1$s σημείωση</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Επανεμφάνιση επιτυχώς %1$s σημειώσεις</item>
+        <item quantity="one">Επανεμφάνιση επιτυχώς %1$s σημείωση</item>
+    </plurals>
 </resources>

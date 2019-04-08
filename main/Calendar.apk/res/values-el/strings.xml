@@ -850,4 +850,7 @@ You can also add reminders so you don't miss anything important."</string>
 	  <string name="feed_tips_subscribe_more">Εγγραφή σε περισσότερα κανάλια</string>
 	  <string name="weather_huangli_card_no_data_hint">Κάντε κλικ για να λάβετε πληροφορίες καιρού</string>
 	  <string name="yiji_app_download_card_lebal">Πρέπει</string>
+      <string name="no_visiable_calendar_message_only_for_xiaomi_account">Πρέπει να προσθέσετε έναν λογαριασμό ημερολογίου. Πατήστε \"Προσθήκη\" για να συνεχίσετε.</string>
+      <string name="share_not_install_wechat">Παρακαλώ εγκαταστήστε το wechat.</string>
+      <string name="share_not_install_weibo">Παρακαλώ εγκαταστήστε το weibo.</string>
 </resources>

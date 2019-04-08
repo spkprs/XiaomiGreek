@@ -40,4 +40,12 @@
         <item quantity="other"> | %1$s άτομα</item>
         <item quantity="one"> | %1$s άτομο</item>
     </plurals>
+	 <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Μπορείτε να υποβάλετε ξανά τα σχόλιά σας σε %1$s λεπ.</item>
+        <item quantity="one">Μπορείτε να υποβάλετε ξανά τα σχόλιά σας σε %1$s λεπ.</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Μπορείτε να υποβάλετε ξανά τα σχόλιά σας σε %1$s δευτ.</item>
+        <item quantity="one">Μπορείτε να υποβάλετε ξανά τα σχόλιά σας σε %1$s δευτ.</item>
+    </plurals>
 </resources>

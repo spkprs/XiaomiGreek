@@ -592,4 +592,15 @@
   <string name="open_dc_backlight_summary">"Ορισμένες ρυθμίσεις οθόνης δεν είναι συμβατές με τη λειτουργία Οπισθοφωτισμού DC. Ωστόσο, θα αποκατασταθούν μόλις απενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποίηση Οπισθοφωτισμού DC;"</string>
   <string name="screen_cancel">Ανενεργό</string>
   <string name="screen_confirm">Ενεργό</string>
+  <string name="cit_f2_cali">Βαθμονόμηση</string>
+  <string name="cit_f2_cali_done">Τέλος Βαθμονόμησης!</string>
+  <string name="cit_f2_cali_failed">Η βαθμονόμηση απέτυχε, επαναλάβετε!</string>
+  <string name="cit_f2_cali_title">Βαθμονόμηση Κάμερας</string>
+  <string name="cit_f2_calibrating">Η βαθμονόμηση συνεχίζεται...</string>
+  <string name="cit_f2_camera_check_summary">"Οδηγίες δοκιμής:
+
+1.Πατήστε το κουμπί βαθμονόμησης.
+2.Θα υπάρχει μια ετικέτα εισόδου βαθμονόμησης για να υποδείξει ότι η Κάμερα έχει βαθμονομηθεί."</string>
+  <string name="cit_f2_capture_fail">Η καταγραφή απέτυχε, επαναλάβετε!</string>
+  <string name="cit_f2_capture_success">Πατήστε το Κουμπί βαθμ/σης!</string>
 </resources>
