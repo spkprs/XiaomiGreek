@@ -218,4 +218,6 @@
 Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
     <string name="restore_app_order_loading">Μισό λεπτό...</string>
     <string name="restore_app_order_finish">Τέλος</string>
+    <string name="provision_background_restore_more_data">Επαναφορά περισσότερων στοιχείων στο παρασκήνιο</string>
+    <string name="provision_restore_data">Επαναφορά στοιχείων</string>
 </resources>
