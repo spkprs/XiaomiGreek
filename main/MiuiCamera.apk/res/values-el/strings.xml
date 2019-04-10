@@ -787,4 +787,6 @@
      <string name="mimoji_edit_whether_abandon">Είτε πρόκειται να απορρίψετε την επεξεργασία</string>
      <string name="ultra_wide_mode_use_hint_text_sat">"Ενεργοποιήστε την υπέρ ευρεία γωνία 0.6Χ για να καταγράψετε μια ευρύτερη προβολή για εσάς
 Εξερευνήστε συναρπαστικά αριστουργήματα"</string>
+  <string name="accessibility_video_btn_play">Αναπ. Βίντεο</string>
+  <string name="beauty_body_whole">Σώμα</string>
 </resources>

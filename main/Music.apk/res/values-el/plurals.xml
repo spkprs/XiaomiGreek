@@ -112,4 +112,12 @@
     <item quantity="other">%1$s προβολές</item>
     <item quantity="one">%1$s προβολή</item>
   </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">απομένουν %d δωρεάν λήψη</item>
+        <item quantity="one">απομένει %d δωρεάν λήψη</item>
+    </plurals>
+	<plurals name="vip_remain_days_hint">
+        <item quantity="other">απομένουν %d ημέρες</item>
+        <item quantity="one">απομένουν %d ημέρα</item>
+    </plurals>
 </resources>

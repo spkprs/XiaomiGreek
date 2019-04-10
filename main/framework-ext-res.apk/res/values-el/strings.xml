@@ -205,4 +205,18 @@
 	  <string name="resolver_offical_recommend">Προτείνεται</string>
 	  <string name="resolver_other_method">Άλλες επιλογές</string>
 	  <string name="resolver_recommend_options_tag">Προτεινόμενες επιλογές</string>
+	<string name="popup_camera_calibrate_failed">"Αδύνατη η βαθμονόμιση. Πλησιάστε τη συσκευή σας κοντά στο Mi Home σας για να διαγνώσετε το πρόβλημα."</string>
+	<string name="popup_camera_calibrate_now">Βαθμονόμηση</string>
+	<string name="popup_camera_calibrate_success">Επιτυχής βαθμονόμηση. Μπορείτε να ανοίξετε τώρα την εμπρός Κάμερα.</string>
+	<string name="popup_camera_front_failed">"Αδύνατη η εκκίνηση της εμπρός Κάμερας. Επαναλάβετε."</string>
+	<string name="popup_camera_front_falied_times">"Αδύνατη η πολλαπλή εκκίνηση της εμπρός Κάμερας. Πλησιάστε τη συσκευή σας κοντά στο Mi Home σας για να διαγνώσετε το πρόβλημα."</string>
+	<string name="popup_camera_front_when_use">Η εμπρός κάμερα είναι απασχολημένη τώρα. Άνοιγμα ούτως ή άλλως;</string>
+	<string name="popup_camera_popup_falied_times_calibrate">"Αδύνατη η πολλαπλή εκκίνηση της εμπρός Κάμερας. Προσπάθεια βαθμονόμησης της."</string>
+	<string name="popup_camera_sure">Κατάλαβα</string>
+	<string name="popup_camera_sure_wait">Κατάλαβα (%ds)</string>
+	<string name="popup_camera_takeback_falied_times_calibrate">"Αδύνατον το πολλαπλό κλείσιμο της εμπρός Κάμερας. Προσπάθεια βαθμονόμησης της."</string>
+	<string name="popup_camera_tip">Προσοχή</string>
+	<string name="popup_camera_using_camera_background">%s χρησιμοποιεί τη εμπρός κάμερα</string>
+	<string name="stop_operate_camera_frequently">"Φαίνεται ότι αλλάζετε πολύ συχνά τις κάμερες."</string>
+	<string name="takeback_camera_front_failed">"Αδύνατον το κλείσιμο της εμπρός Κάμερας. Προσπάθησε ξανά."</string>
 </resources>

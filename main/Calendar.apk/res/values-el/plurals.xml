@@ -120,4 +120,8 @@
         <item quantity="other">%d εργάσιμες μέρες</item>
         <item quantity="one">%d εργάσιμη μέρα</item>
      </plurals>
+	 <plurals name="reminder_later_toast">
+        <item quantity="other">Επόμενη υπενθύμιση σε %1$d λεπτά</item>
+        <item quantity="one">Επόμενη υπενθύμιση σε %1$d λεπτό</item>
+    </plurals>
 </resources>

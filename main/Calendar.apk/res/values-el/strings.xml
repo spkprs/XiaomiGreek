@@ -61,7 +61,7 @@
      <string name="agenda_month_empty_hint">No events for today</string>
      <string name="agenda_tomorrow">ΑΥΡΙΟ, %1$s</string>
      <string name="agenda_view">Ατζέντα</string>
-     <string name="alarm_label">OK</string>
+     <string name="alarm_label">Κατάλαβα</string>
      <string name="alert_reminder_divider">|</string>
      <string name="alert_reminder_expired">Έληξε</string>
      <string name="alert_title">Ειδοποιήσεις ημερολογίου</string>
@@ -853,4 +853,8 @@ You can also add reminders so you don't miss anything important."</string>
       <string name="no_visiable_calendar_message_only_for_xiaomi_account">Πρέπει να προσθέσετε έναν λογαριασμό ημερολογίου. Πατήστε \"Προσθήκη\" για να συνεχίσετε.</string>
       <string name="share_not_install_wechat">Παρακαλώ εγκαταστήστε το wechat.</string>
       <string name="share_not_install_weibo">Παρακαλώ εγκαταστήστε το weibo.</string>
+	<string name="cancel_reminder_later">Ακύρωση υπενθύμισης</string>
+	<string name="default_reminder_later_time">Προεπιλογή χρόνου για  \"Υπενθύμιση αργότερα\"</string>
+	<string name="next_alarm_time">Επόμενη υπενθύμιση σε  %1$s</string>
+	<string name="reminder_later">Υπενθύμιση αργότερα</string>
 </resources>

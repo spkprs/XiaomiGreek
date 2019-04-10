@@ -512,4 +512,10 @@
         <item>Διαφανές</item>
         <item>Άσπρο φόντο</item>
      </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+    </string-array>
 </resources>
