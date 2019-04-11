@@ -778,10 +778,10 @@
 		<string name="mimoji_check_normal">Πατήστε το πλήκτρο της Κάμερας</string>
 		<string name="mimoji_check_no_face">Το πρόσωπο δεν αναγνωρίζεται</string>
 		<string name="mimoji_check_low_light">Μετακινηθείτε σε φωτεινό μέρος για αναγνώριση ευκολότερα του προσώπου</string>
-		<string name="mimoji_check_face_occlusion">???? για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
+		<string name="mimoji_check_face_occlusion"> για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
 		<string name="mimoji_check_face_too_far">Το πρόσωπό σας είναι πολύ μικρό, μετακινήστε το τηλέφωνό σας πιο κοντά</string>
 		<string name="mimoji_check_face_too_close">Το πρόσωπό σας είναι πολύ μεγάλο, μετακινήστε το τηλέφωνό σας μακριά</string>
-		<string name="mimoji_check_multi_face">Παρμείνετε στο εικονοσκόπιο</string>
+		<string name="mimoji_check_multi_face">Παραμείνετε στο εικονοσκόπιο</string>
 		<string name="mimoji_check_beyond_20_degrees">Προσεγγίστε την οθόνη για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
      <string name="hint_ae_af_lock_extra">Η αυτόματη εστίαση/έκθεση έχουν κλειδωθεί. Μεταβείτε στο φακό Google στις ρυθμίσεις της κάμερας</string>
      <string name="mimoji_edit_whether_abandon">Είτε πρόκειται να απορρίψετε την επεξεργασία</string>
