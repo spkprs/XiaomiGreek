@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gbg_add_game_notification_title">
+        <item quantity="other">Προστέθηκαν %d παιχνίδια</item>
+        <item quantity="one">Προστέθηκε %d παιχνίδι</item>
+    </plurals>
+    <plurals name="gbg_game_list_manage_title_selected">
+        <item quantity="other">Έγινε επιλογή %s στοιχείων</item>
+        <item quantity="one">Έγινε επιλογή %s στοιχείου</item>
+    </plurals>
+</resources>
