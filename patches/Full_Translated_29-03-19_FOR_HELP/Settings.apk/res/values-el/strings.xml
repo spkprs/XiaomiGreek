@@ -114,7 +114,7 @@
   <string name="accessibility_no_wifi">Το Wi-Fi αποσυνδέθηκε.</string>
   <string name="accessibility_notification_vibration_title">Δόνηση κλήσης και ειδοποιήσεων</string>
   <string name="accessibility_personal_account_title">Προσωπικός λογαριασμός - %s</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Το κουμπί Λειτ. τερμ την Κλήση</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Τερματ κλήσης με πληκτ [POWER]</string>
   <string name="accessibility_preference_magnification_summary">Μεγέθυνση στην οθόνη</string>
   <string name="accessibility_screen_magnification_enable">Χειρονομίες μεγέθυνσης</string>
   <string name="accessibility_screen_magnification_gestures_title">Μεγέθυνση με τριπλό πάτημα</string>

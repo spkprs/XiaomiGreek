@@ -114,7 +114,7 @@
      <string name="module_download_msg">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Οι έξυπνες αφυπνίσεις περιέχουν περιέχουν ήχους ειδικά για τρέχουσες πληροφορίες καιρού. Λήψη τώρα?</string>
      <string name="module_download_msg_golbal">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Αποδοχή?</string>
      <string name="module_download_no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
-     <string name="module_download_ok">Αποδοχή</string>
+     <string name="module_download_ok">Συμφωνώ</string>
      <string name="module_download_success">Έγινε λήψη του πρόσθετου ήχου με επιτυχία</string>
      <string name="module_download_title">Απαιτείται επιπλέον ήχος</string>
      <string name="module_downloading">Λήψη πρόσθετου ήχου…</string>

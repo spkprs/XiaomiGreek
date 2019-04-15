@@ -97,7 +97,7 @@
      <string name="accessibility_no_services_installed">Δεν υπάρχουν εγκατεστημένες υπηρεσίες</string>
      <string name="accessibility_no_wifi">Το Wi-Fi αποσυνδέθηκε.</string>
      <string name="accessibility_personal_account_title">Προσωπικός λογαριασμός - %s</string>
-     <string name="accessibility_power_button_ends_call_prerefence_title">Το κουμπί Λειτ. τερμ την Κλήση</string>
+     <string name="accessibility_power_button_ends_call_prerefence_title">Τερματ κλήσης με πληκτ [POWER]</string>
   <string name="accessibility_preference_magnification_summary">Μεγέθυνση στην οθόνη</string>
      <string name="accessibility_screen_magnification_enable">Χειρονομίες μεγέθυνσης</string>
   <string name="accessibility_screen_magnification_gestures_title">Μεγέθυνση με τριπλό πάτημα</string>
@@ -2276,7 +2276,8 @@
      <string name="led_frequence_summary">Ορίστε το χρόνο χρήσης του LED</string>
      <string name="led_pulse_summary">Χρήση του LED για νέες ειδοποιήσεις</string>
      <string name="led_settings">LED ειδοποίησης</string>
-     <string name="legacy_dhcp_client_summary">Χρησιμοποιήστε το πρόγραμμα-πελάτη DHCP από το Lollipop αντί για το νέο πρόγραμμα-πελάτη Android DHCP.</string>
+     <string name="legacy_dhcp_client">Χρήση προγράμματος DHCP</string>
+     <string name="legacy_dhcp_client_summary">Χρήση του DHCP client από την Lollipop αντί για το νέο Android DHCP client.</string>
      <string name="legal_information">Νομικές πληροφορίες</string>
      <string name="legal_workday">Εργάσιμες ημέρες</string>
      <string name="legal_workday_invalidate">Δευ-Παρ (πληρ. αργιών έληξαν)</string>

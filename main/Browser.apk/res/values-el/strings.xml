@@ -391,7 +391,7 @@
   <string name="common_use_phrase_bottom_bar_text_previous">Προηγούμενο</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="context_menu_add_to_desk_id">Προσθήκη στην αρχική οθόνη</string>
-  <string name="context_menu_orientation_portrait_swap_id">Κ/Ο οθόνη</string>
+  <string name="context_menu_orientation_portrait_swap_id">Κάθετη/Οριζόντια οθόνη</string>
   <string name="contextmenu_add_contact">Προσθήκη επαφής</string>
   <string name="contextmenu_copy">Αντιγραφή</string>
   <string name="contextmenu_copylink">Αντιγραφή συνδέσμου URL</string>

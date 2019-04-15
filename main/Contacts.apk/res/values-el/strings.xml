@@ -572,7 +572,7 @@
      <string name="insertGroupDescription">Δημιουργία ομάδας</string>
      <string name="invalidContactMessage">Η επαφή δεν υπάρχει</string>
      <string name="keep_local">Διατήρηση τοπικού</string>
-     <string name="keep_local_btn">Χρησιμοποιήστε την εσωτερική μνήμη του τηλεφώνου</string>
+     <string name="keep_local_btn">Χρήση εσωτ. μνήμης τηλεφώνου</string>
      <string name="label_custom_type">Προσαρμογή</string>
      <string name="label_no_duplicate_contacts">Δεν βρέθηκαν διπλές επαφές</string>
      <string name="label_notes">Σημειώσεις</string>

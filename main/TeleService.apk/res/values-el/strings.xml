@@ -777,11 +777,11 @@
   <string name="mismatchPin">Τα PIN δεν ταιριάζουν. Δοκιμάστε ξανά.</string>
   <string name="mismatchPin2">Τα PIN2 δεν ταιριάζουν. Δοκιμάστε ξανά.</string>
   <string name="missed_call_notify_five_times">5 φορές</string>
-  <string name="missed_call_notify_none">Χωρίς υπενθύμιση</string>
+  <string name="missed_call_notify_none">Χωρίς</string>
   <string name="missed_call_notify_once">1 φορά</string>
   <string name="missed_call_notify_ten_times">10 φορές</string>
   <string name="missed_call_notify_thrice">3 φορές</string>
-  <string name="missed_call_notify_times_summary">Υπενθυμίση για τις χαμένες κλήσεις (επιλογή ανα 5 λεπτά)</string>
+  <string name="missed_call_notify_times_summary">Ειδοποίηση χαμένων κλήσεων (ανα 5 λεπτά)</string>
   <string name="missed_call_notify_times_title">Υπενθύμιση χαμένων κλήσεων</string>
   <string name="missed_call_notify_twice">2 φορές</string>
   <string name="miui_network_selection_reset_text">Επαναφορά</string>

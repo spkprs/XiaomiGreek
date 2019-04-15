@@ -364,5 +364,5 @@
 	 <string name="edit_mode_top_menu_finish">Ολοκληρώθηκε</string>
 	 <string name="menu_finish">Ολοκληρώθηκε</string>
 	 <string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
-     <string name="launcher_sliding_up_gesture">Σαρώστε προς τα πάνω στην Αρχική οθόνη για να ανοίξετε την Αναζήτηση</string>
+     <string name="launcher_sliding_up_gesture">Σάρωση επάνω στην Αρχική οθόνη για εκκίνηση Αναζήτησης</string>
 </resources>

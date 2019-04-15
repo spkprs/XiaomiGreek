@@ -228,7 +228,7 @@
      <string name="keep_screen_on_summary">Η οθόνη δεν θα κοιμηθεί ποτέ κατά τη φόρτιση</string>
      <string name="launch_defaults_none">Δεν έχουν οριστεί προεπιλογές</string>
      <string name="launch_defaults_some">Ορισμένες προεπιλεγμένες ρυθμίσεις</string>
-     <string name="legacy_dhcp_client_summary">Χρησιμοποιήστε το πρόγραμμα-πελάτη DHCP από το Lollipop αντί για το νέο πρόγραμμα-πελάτη Android DHCP.</string>
+     <string name="legacy_dhcp_client_summary">Χρήση του DHCP client από την Lollipop αντί για το νέο Android DHCP client.</string>
      <string name="local_backup_password_summary_change">Αγγίξτε για να αλλάξετε ή να καταργήσετε τον κωδικό πρόσβασης για πλήρη αντίγραφα ασφαλείας της επιφάνειας εργασίας</string>
      <string name="local_backup_password_summary_none">Τα πλήρη αντίγραφα ασφαλείας της επιφάνειας εργασίας δεν προστατεύονται αυτήν τη στιγμή</string>
      <string name="local_backup_password_title">Κωδικός πρόσβασης αντιγράφων ασφαλείας για υπολογιστή</string>
