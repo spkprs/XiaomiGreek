@@ -602,4 +602,6 @@
   <string name="wait_link">"Συνδέστε την παλιά συσκευή σας σε αυτό το hotspot.
 Μην αφήνετε αυτήν τη σελίδα μέχρι να δημιουργηθεί η σύνδεση."</string>
   <string name="waiting">Μισό λεπτό…</string>
+  <string name="err_no_gms">Μη συμβατή έκδοση. Εγκαταστήστε αυτήν την εφαρμογή ξεχωριστά</string>
+  <string name="trans_detail_item_app_data_skip_data">"Αδύνατη η μεταφορά δεδομένων της εφαρμογής"</string>
 </resources>

@@ -45,7 +45,7 @@
      <string name="account_user_birthday">Γενέθλια</string>
      <string name="account_user_details">Πληροφορίες χρήστη</string>
      <string name="account_user_education">Εκπαίδευση</string>
-     <string name="account_user_email">Email</string>
+     <string name="account_user_email">Επαναφορά Email</string>
      <string name="account_user_gender">Φύλο</string>
      <string name="account_user_id">ID Mi Λογαριασμού </string>
      <string name="account_user_income">Εισόδημα</string>
@@ -54,7 +54,7 @@
      <string name="account_user_name">Όνομα</string>
      <string name="account_user_name_dialog_title">Πληκτρολογήστε το όνομα χρήστη</string>
      <string name="account_user_other_info">Περισσότερες πληροφορίες</string>
-     <string name="account_user_phone">Τηλέφωνο</string>
+     <string name="account_user_phone">Επαναφορά Τηλεφώνου</string>
      <string name="account_user_recovery_phone">Τηλέφωνο ανάκτησης</string>
      <string name="account_user_region">Περιοχή</string>
      <string name="account_user_using_facebook_avatar">Χρήση εικόνας προφίλ από Facebook</string>
@@ -514,4 +514,7 @@ ID:%s
 	  <string name="permission_group_sms">SMS</string>
 	  <string name="permission_group_storage">Αποθήκευση</string>
 	  <string name="select_all">Επιλογή όλων</string>
+	  <string name="agreement_and_privacy">Συμφωνία χρήστη και πολιτική απορρήτου</string>
+	  <string name="passport_first_login_prompt">Ο λογαριασμός Mi θα δημιουργηθεί αυτόματα όταν εισέρχεστε για πρώτη φορά.</string>
+	  <string name="scan_barcode">Σάρωση κωδικού QR</string>
 </resources>

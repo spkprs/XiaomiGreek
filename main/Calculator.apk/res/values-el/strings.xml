@@ -819,4 +819,12 @@
   <string name="yesterday">Χθες</string>
   <string name="younger_brother">νεώτερος αδελφός</string>
   <string name="younger_sister">νεώτερη αδελφή</string>
+  <string name="app_notification_info">Η Αριθμομηχανή λειτουργεί στο παρασκήνιο</string>
+  <string name="btn_float_window_alpha">Προσαρμογή αδιαφάνειας</string>
+  <string name="btn_float_window_back_to_app">Μεγιστοποίηση</string>
+  <string name="btn_float_window_close">Κλείσιμο Ελαχιστοποίησης</string>
+  <string name="btn_float_window_resize">Αλλαγή μεγέθους Ελαχιστοποίησης</string>
+  <string name="float_window_guide_text">Πατήστε εδώ για ελαχιστοποίησης Αριθμομηχανής</string>
+  <string name="hint_floatwindow_alpha_guide_text">Πατήστε για προσαρμογή αδιαφάνειας</string>
+  <string name="view_float_window_move">Μετακίνηση ελαχιστοποιημένης Αριθμομηχανής</string>
 </resources>

@@ -603,4 +603,6 @@
 2.Θα υπάρχει μια ετικέτα εισόδου βαθμονόμησης για να υποδείξει ότι η Κάμερα έχει βαθμονομηθεί."</string>
   <string name="cit_f2_capture_fail">Η καταγραφή απέτυχε, επαναλάβετε!</string>
   <string name="cit_f2_capture_success">Πατήστε το Κουμπί βαθμ/σης!</string>
+  <string name="allow_gpu_maxfreq_summary">Η πειραματική λειτουργία GPU overfreq θα μπορούσε να δημιουργήσει προβλήματα ενέργειας ή ακόμα σοβαρότερα. Ωστόσο, θα επανέλθουν μόλις απενεργοποιήσετε αυτήν τη λειτουργία. Ενεργοποίηση λειτουργίας maxfreq GPU;</string>
+  <string name="gpu_maxfreq_title">GPU πειραματική λειτουργία Overfreq</string>
 </resources>
