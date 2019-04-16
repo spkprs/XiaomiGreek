@@ -747,11 +747,11 @@
 	  <string name="pref_google_lens_summary">Στρέψτε την κάμερα στις πληροφορίες επαφών, διευθύνσεις URL και κώδικες QR για να δείτε τις διαθέσιμες επιλογές</string>
 	  <string name="pref_google_lens_title">Προτάσεις Φακού Google</string>
 	  <string name="wideselfie_press_shoot_key_to_start">Πατήστε το πλήκτρο λήψης</string>
-	  <string name="wideselfie_rotate_slowly">Περιστρέψτε αργά το τηλέφωνο</string>
+	  <string name="wideselfie_rotate_slowly">Περιστρέψτε το τηλέφωνο</string>
 	  <string name="wideselfie_rotate_to_back">Κλίση της συσκευής προς τα πίσω</string>
 	  <string name="wideselfie_rotate_to_front">Κλίση της συσκευής προς τα εμπρός</string>
-	  <string name="wideselfie_rotate_to_left_slowly">Περιστρέψτε αργά προς τα αριστερά</string>
-	  <string name="wideselfie_rotate_to_right_slowly">Περιστρέψτε αργά προς τα δεξιά</string>
+	  <string name="wideselfie_rotate_to_left_slowly">Περιστρέψτε προς τα αριστερά</string>
+	  <string name="wideselfie_rotate_to_right_slowly">Περιστρέψτε προς τα δεξιά</string>
 	  <string name="macro_mode">Λειτουργία Macro</string>
 	  <string name="macro_mode_tip">"Η απόσταση μεταξύ φακού και αντικειμένου δεν πρέπει να υπερβαίνει τα 10εκ"</string>
 	  <string name="mimoji_back">Πίσω</string>
@@ -770,7 +770,7 @@
 	  <string name="module_name_fun_ar">Fun AR</string>
 	  <string name="recapture_dialog_message">Επιβεβαιώστε την επανάληψη？</string>
 	  <string name="recapture_dialog_title">Η επανάληψη της λήψης θα διαγράψει την τρέχουσα εικόνα</string>
-	  <string name="wideselfie_result_image_lossless">Η αποθήκευση Panorama απέτυχε</string>
+	  <string name="wideselfie_result_image_lossless">Η λήψη Panorama απέτυχε</string>
 	  <string name="dialog_google_lens_option_0">Google Lens (Προτείνεται)</string>
 	  <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
 	  <string name="pref_camera_long_press_viewfinder_lock_ae_af">Κλείδωμα AE/AF</string>

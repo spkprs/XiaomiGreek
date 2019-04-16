@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="display_blacklist">
+    <item>com.android.systemui</item>
+    <item>com.miui.notification</item>
+  </string-array>
+  <string-array name="display_whitelist">
+    <item>com.miui.hybrid</item>
+    <item>com.miui.android.fashiongallery</item>
+    <item>com.mfashiongallery.emag</item>
+  </string-array>
+  <string-array name="drop_down_menu">
+    <item>Κατά ώρα ανάρτησης</item>
+    <item>Κατά συχν/τα ανάρτησης</item>
+    <item>Εμφάνιση μόνο ενεργών</item>
+    <item>Εμφάνιση μόνο ανενεργών</item>
+  </string-array>
+  <string-array name="lock_screen_display_rules_no_password">
+    <item>Εμφάνιση περιεχ. ειδοπ. στην οθόνη κλειδώματος</item>
+    <item>Απενεργ/ση όλων των ειδοπ. οθόνης κλειδώματος</item>
+  </string-array>
+  <string-array name="lock_screen_display_rules_with_password">
+    <item>Εμφάνιση περιεχομένου ειδοποιήσεων στην οθόνη κλειδώματος</item>
+    <item>Εμφάνιση ειδοπ. αλλά απόκρυψη περιεχ. στην οθόνη κλειδώματος</item>
+    <item>Απενεργοποίηση όλες τις ειδοπ. οθόνης κλειδώματος</item>
+  </string-array>
+</resources>
