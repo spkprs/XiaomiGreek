@@ -783,10 +783,31 @@
 		<string name="mimoji_check_face_too_close">Το πρόσωπό σας είναι πολύ μεγάλο, μετακινήστε το τηλέφωνό σας μακριά</string>
 		<string name="mimoji_check_multi_face">Παραμείνετε στο εικονοσκόπιο</string>
 		<string name="mimoji_check_beyond_20_degrees">Προσεγγίστε την οθόνη για να εντοπιστούν τα χαρακτηριστικά του προσώπου</string>
-		<string name="hint_ae_af_lock_extra">Η αυτόματη εστίαση/έκθεση έχουν κλειδωθεί. Μεταβείτε στο φακό Google στις ρυθμίσεις της κάμερας</string>
 		<string name="mimoji_edit_whether_abandon">Είτε πρόκειται να απορρίψετε την επεξεργασία</string>
+		<string name="mimoji_hairstyle">Χτένισμα</string>
+		<string name="mimoji_featured_face">Τύπος προσώπου</string>
+		<string name="mimoji_eye">Μάτια</string>
+		<string name="mimoji_eyebrow">Φρύδια</string>
+		<string name="mimoji_nose_lisps">Μύτη και Χείλη</string>
+		<string name="mimoji_mustache">Γενειάδα</string>
+		<string name="mimoji_mole_freckle">Ελιές και Φακίδες</string>
+		<string name="mimoji_mole">Ελιές</string>
+		<string name="mimoji_freckle">Φακίδες</string>
+		<string name="mimoji_eyeglass">Γυαλιά</string>
+		<string name="mimoji_ornament">Αξεσουάρ</string>
+		<string name="mimoji_headwear">Σκούφος</string>
+		<string name="mimoji_ear">Αυτιά</string>
+		<string name="mimoji_eye_shape">Σχήμα ματιού</string>
+		<string name="mimoji_eyelash">Βλεφαρίδες</string>
+		<string name="mimoji_eyebrow_shape">Φρύδια</string>
+		<string name="mimoji_mouth_type">Τύπος στόματος</string>
+		<string name="mimoji_nose">Μύτη</string>
+		<string name="mimoji_earring">Σκουλαρίκια</string>
+		<string name="hint_ae_af_lock_extra">Η αυτόματη εστίαση/έκθεση έχουν κλειδωθεί. Μεταβείτε στο φακό Google στις ρυθμίσεις της κάμερας</string>
 		<string name="ultra_wide_mode_use_hint_text_sat">"Δοκιμάστε την υπέρ ευρεία γωνία 0.6Χ για να καταγράψετε ένα ευρύτερο πεδίο της φωτογραφίας σας.
 Η λειτουργία αυτή σας βοηθάει όταν δεν μπορείτε να μετακινηθείτε μακρύτερα."</string>
 		<string name="accessibility_video_btn_play">Αναπ. Βίντεο</string>
 		<string name="beauty_body_whole">Σώμα</string>
+        <string name="ultra_wide_open_tip_sat">0.6X Υπέρ ευρεία γωνία</string>
+        <string name="video_beauty_tip">Ωραιοποίηση για Βίντεο</string>
 </resources>
