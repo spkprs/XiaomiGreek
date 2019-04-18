@@ -533,4 +533,6 @@
 	  <string name="kr_authorization_storage_desc">Για πρόσβαση στον Αποθ. Χώρο για αποθήκευση στοιχείων, όπως αρχεία καταγραφής, εικόνες και βίντεο</string>
 	  <string name="kr_authorization_summary">Νομικά έγγραφα</string>
 	  <string name="kr_authorization_user_protocol">Συμφωνία χρήστη (υποχρεωτικό)</string>
+	  <string name="feedback_description_hint_suggestion">"Πείτε μας πώς θέλετε να βελτιώσουμε το MIUI."</string>
+	  <string name="feedback_jira_key_place_holder">Δημιουργείται ενα Jira…</string>
 </resources>
