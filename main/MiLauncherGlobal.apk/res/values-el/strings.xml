@@ -53,7 +53,7 @@
     <string name="apply_action">Ορισμός</string>
     <string name="apply_as_lock_screen">Ορισμός ως Οθόνη κλειδώματος</string>
     <string name="apply_as_wallpaper">Ορισμός ως Αρχική Οθόνη</string>
-    <string name="apply_both">Ορισμός και για τα δύο</string>
+    <string name="apply_both">Ορισμός και στις δύο</string>
     <string name="apply_for_notification_access_permission">Επιτρέψτε στον Εκκινητή POCO να έχει πρόσβαση στις ειδοποιήσεις για να μπορείτε να βλέπετε τις σημάνσεις ειδοποιήσεων.</string>
     <string name="apply_for_permission">Απαιτούνται άδειες</string>
     <string name="apply_text">ΕΦΑΡΜΟΓΗ</string>
@@ -119,7 +119,7 @@
     <string name="current_wallpaper">Τρέχουσα</string>
     <string name="custom_wallpaper_picker">Αναζήτηση</string>
     <string name="customize_layout">Προσαρμογή διάταξης</string>
-    <string name="defalut_launcher_title">Προεπιλεγμένος launcher</string>
+    <string name="defalut_launcher_title">Προεπιλεγμένος Εκκινητής</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Παιχνίδια</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
@@ -198,7 +198,7 @@
     <string name="free_style_edit_bar_select_app">Επιλογή εφαρμογής</string>
     <string name="free_style_edit_bottom_empty_tip">Αγγίξτε το ορθογώνιο για επεξεργασία</string>
     <string name="free_style_edit_drawer">Ζωγραφική</string>
-    <string name="free_style_edit_move_tip">Πατήστε &amp; πατήστε παρατεταμένα για μετακίνηση ενός αντικειμένου</string>
+    <string name="free_style_edit_move_tip">Πατήστε παρατεταμένα για μετακίνηση ενός αντικειμένου</string>
     <string name="free_style_edit_tab_free_component">Αντικείμενα</string>
     <string name="free_style_edit_tab_shortcut">Συντομεύσεις</string>
     <string name="free_style_edit_tab_widget">Widgets</string>
@@ -260,11 +260,11 @@
     <string name="guide_privacy_dialog_msg">Διαβάστε και αποδεχτείτε την Πολιτική Απορρήτου και τη Συμφωνία Χρήστη του POCO πριν χρησιμοποιήσετε αυτό το Πρόγραμμα Εκκίνησης.</string>
     <string name="guide_privacy_dialog_title">Όροι Υπηρεσίας</string>
     <string name="guide_privacy_start">Έναρξη</string>
-    <string name="guide_tips_editing_mode">Πατήστε &amp; πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
+    <string name="guide_tips_editing_mode">Πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
     <string name="guide_title_launcher" />
     <string name="guide_title_poco">ΠΡΟΓΡΑΜΜΑ ΕΚΚΙΝΗΣΗΣ POCO</string>
-    <string name="guide_wallpaper_current">Τρέχοντα</string>
-    <string name="guide_wallpaper_poco">Προτεινόμενα</string>
+    <string name="guide_wallpaper_current">Τρέχουσα</string>
+    <string name="guide_wallpaper_poco">Προτεινόμενη</string>
     <string name="guide_wallpaper_title">Επιλογή ταπετσαρίας</string>
     <string name="hide_apps_close">Απενεργοποίηση αυτής της λειτουργίας</string>
     <string name="hide_apps_close_hide_apps_icon_title">Επανεμφάνιση εικονιδίων εφαρμογών</string>
@@ -339,7 +339,7 @@
     <string name="lockscreen_access_pattern_cell_added">Προστέθηκε κελί</string>
     <string name="lockscreen_access_pattern_cleared">Έγινε εκκαθάριση μοτίβου</string>
     <string name="lockscreen_access_pattern_start">Έγινε έναρξη μοτίβου</string>
-    <string name="long_press_widget_to_add">Πατήστε &amp; πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
+    <string name="long_press_widget_to_add">Πατήστε παρατεταμένα για να μετακινήσετε ένα widget</string>
     <string name="manager_group_settings">Διαχειριστείτε τις ομάδες εφαρμογών</string>
     <string name="memory_clear_nothing_result">Δεν υπάρχει τίποτα προς διαγραφή στην προσωρινή μνήμη</string>
     <string name="memory_clear_result">Έγινε εκκαθάριση %1$sB</string>
