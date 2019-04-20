@@ -135,7 +135,7 @@
     <string name="delete_screen">Διαγραφή οθόνης</string>
     <string name="delete_wallpaper_message">Διαγραφή %1$d ταπετσαρίας;</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
-    <string name="dialog_dm_guide_content">Η οθόνη κλειδώματος πρέπει να ενεργοποιήσει την διαχείριση της συσκευής στον Εκκινητή POCO. Αυτό μπορεί να εμποδίσει την απεγκατάσταση του Εκκινητή POCO. Αν αντιμετωπίσετε προβλήματα κατά την απεγκατάσταση του Εκκινητή POCO, απενεργοποιήστε αυτή τη λειτουργία και δοκιμάστε ξανά. Συνέχεια;</string>
+    <string name="dialog_dm_guide_content">Η οθόνη κλειδώματος πρέπει να ενεργοποιήσει διαχειριστή της συσκευής τον Εκκινητή POCO. Αυτό μπορεί να εμποδίσει την απεγκατάσταση του Εκκινητή POCO. Αν αντιμετωπίσετε προβλήματα κατά την απεγκατάσταση του Εκκινητή POCO, απενεργοποιήστε αυτή τη λειτουργία και δοκιμάστε ξανά. Συνέχεια;</string>
     <string name="dialog_dm_guide_title">Ενεργοποίησης διαχειριστή συσκευής</string>
     <string name="dialog_msg_score_midrop">Ποια είναι η γνώμη σας για το Εκκινητή POCO;</string>
     <string name="dialog_msg_score_not_good">Μπορείτε να μας αφήσετε επίσης τα σχόλιά σας;</string>
@@ -655,10 +655,10 @@
     <string name="select_frame">Πλαίσιο</string>
     <string name="select_photo">Φωτογραφία</string>
     <string name="service_agreement">Σύμβαση παροχής υπηρεσιών</string>
-    <string name="set_notification_access_failed">Αδυναμία ρύθμισης. Ο Εκκινητής  POCO δεν έχει πρόσβαση στις ειδοποιήσεις.</string>
+    <string name="set_notification_access_failed">Αδυναμία ρύθμισης. Ο Εκκινητής POCO δεν έχει πρόσβαση στις ειδοποιήσεις.</string>
     <string name="set_notification_access_successfully">Επιτυχής ορισμός</string>
     <string name="setting_default_confirm">ΟΚ</string>
-    <string name="setting_default_description">Ορίστε το POCO ως προεπιλεγμένο πρόγραμμα εκκίνησης για να ανακαλύψετε περισσότερες δυνατότητες και τις εξατομικευμένες υπηρεσίες.</string>
+    <string name="setting_default_description">Ορίστε το POCO ως προεπιλεγμένο πρόγραμμα εκκίνησης για να ανακαλύψετε περισσότερες δυνατότητες και εξατομικευμένες υπηρεσίες.</string>
     <string name="setting_default_enter_home_screen">%1$s Ανοίξτε τη σελίδα στην οποία μπορείτε να ορίσετε προεπιλεγμένο πρόγραμμα εκκίνησης</string>
     <string name="setting_default_find_launcher">%1$s Εντοπίστε το Πρόγραμμα Εκκινητή POCO</string>
     <string name="setting_default_remember_choice">%1$s Απομνημονεύστε την επιλογή σας</string>
