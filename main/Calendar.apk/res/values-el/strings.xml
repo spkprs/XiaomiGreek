@@ -304,7 +304,7 @@
      <string name="fortune_name_hint">请输入</string>
      <string name="fortune_no_name">请填写称呼</string>
      <string name="fortune_setting_tips">设置您的生辰后,可获取您的专属运势。每日黄历运势、财位、桃花、正冲等信息全掌握</string>
-     <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
+     <string name="free_day_default_banner_title">Απόλαυσε τις διακοπές σου！</string>
      <string name="from_google_group_calendar">Ημερολόγιο Google</string>
      <string name="gadget_no_events">Χωρίς προσεχή ημερολογιακά γεγονότα</string>
      <string name="gadget_title">Ημερολόγιο</string>
@@ -493,7 +493,7 @@
      <string name="month_view">Μήνας</string>
      <string name="monthly">Μηνιαία</string>
      <string name="monthly_on_day">Μηνιαίως (την ίδια ημέρα κάθε μήνα)</string>
-     <string name="monthly_on_day_count">Μηνιαίως (%1$s %2$s του μήνα)</string>
+     <string name="monthly_on_day_count">Μηνιαίως (%1$s κάθε μήνα)</string>
      <string name="more_match">更多赛事</string>
      <string name="more_string">+%1$s</string>
      <string name="movie_event_delete_successfully">Διαγράφηκε επιτυχώς το εισιτήριο ταινίας</string>
@@ -818,7 +818,7 @@ You can also add reminders so you don't miss anything important."</string>
      <string name="widget_select_style">Επιλέξτε στυλ</string>
      <string name="winter_begins">立冬</string>
      <string name="winter_solstice">冬至</string>
-     <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
+     <string name="work_day_default_banner_title">Να έχετε μια παραγωγική μέρα στη δουλειά!</string>
      <string name="work_day_indication">: (</string>
      <string name="wuxing">πέντε</string>
      <string name="xiaomi_calendar_display_name">Ημερολόγιο</string>

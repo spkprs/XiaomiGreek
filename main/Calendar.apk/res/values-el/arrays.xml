@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <integer-array name="allday_reminder_minutes_values">
         <item>0</item>
@@ -517,5 +517,42 @@
         <item>10 λεπτά</item>
         <item>15 λεπτά</item>
         <item>30 λεπτά</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>πρώτη Δευτέρα</item>
+        <item>πρώτη Τρίτη</item>
+        <item>πρώτη Τετάρτη</item>
+        <item>πρώτη Πέμπτη</item>
+        <item>πρώτη Παρασκευή</item>
+        <item>πρώτο Σαββάτο</item>
+        <item>πρώτη Κυριακή</item>
+        <item>δεύτερη Δευτέρα</item>
+        <item>δεύτερη Τρίτη</item>
+        <item>δεύτερη Τετάρτη</item>
+        <item>δεύτερη Πέμπτη</item>
+        <item>δεύτερη Παρασκευή</item>
+        <item>δεύτερο Σαββάτο</item>
+        <item>δεύτερη Κυριακή</item>
+        <item>τρίτη Δευτέρα</item>
+        <item>τρίτη Τρίτη</item>
+        <item>τρίτη Τετάρτη</item>
+        <item>τρίτη Πέμπτη</item>
+        <item>τρίτη Παρασκευή</item>
+        <item>τρίτο Σαββάτο</item>
+        <item>τρίτη Κυριακή</item>
+        <item>τέταρτη Δευτέρα</item>
+        <item>τέταρτη Τρίτη</item>
+        <item>τέταρτη Τετάρτη</item>
+        <item>τέταρτη Πέμπτη</item>
+        <item>τέταρτη Παρασκευή</item>
+        <item>τέταρτο Σαββάτο</item>
+        <item>τέταρτη Κυριακή</item>
+        <item>τελευταία Δευτέρα</item>
+        <item>τελευταία Τρίτη</item>
+        <item>τελευταία Τετάρτη</item>
+        <item>τελευταία Πέμπτη</item>
+        <item>τελευταία Παρασκευή</item>
+        <item>τελευταίο Σαββάτο</item>
+        <item>τελευταία Κυριακή</item>
     </string-array>
 </resources>

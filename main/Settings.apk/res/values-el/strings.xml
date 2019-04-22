@@ -3615,7 +3615,7 @@
 "&lt;li&gt;Δεδομένων κινητής&lt;/li&gt;"
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
      <string name="reset_network_final_button_text">Επαναφορά ρυθμίσεων</string>
-     <string name="reset_network_final_desc">Επαναφορά ρυθμίσεων όλων των δικτύων; Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια!</string>
+     <string name="reset_network_final_desc">"Επαναφορά ρυθμίσεων όλων των δικτύων; Αυτό μπορεί να διαρκέσει αρκετά δευτ/πτα. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια!"</string>
      <string name="reset_network_title">Επαναφορά ρυθμίσεων δικτύου</string>
      <string name="reset_network_wifi">Wi-Fi</string>
      <string name="reset_second_space_passwd">Επαναφορά κωδικού Δεύτερου προφίλ</string>
@@ -6280,6 +6280,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="usagestats_device_timeout_positive">Κατάλαβα</string>
   <string name="usagestats_device_timeout_title">Ειδοποίηση χρόνου οθόνης</string>
   <string name="wifi_protection_on">Ενεργό</string>
-  <string name="wifi_protection_settings_title">WIFI έλεγχος προστασίας</string>
-  <string name="wifi_protection_tip">Το MIUI ενεργοποιεί αυτόματα τη λειτουργία προστασίας WIFI. Όταν το κινητό τηλέφωνο σαρώνει WIFI, θα απευθυνθεί τυχαία διεύθυνση MAC για να αποτρέψει σε WIFI την κλοπή της ιδιωτικής ζωής του χρήστη και την προστασία του κινητού τηλεφώνου.</string>
+  <string name="wifi_protection_settings_title">Προστασία από αιτήματα ανιχνευτών Wi-Fi</string>
+  <string name="wifi_protection_tip">Το MIUI θα προστατεύσει τα προσωπικά σας δεδομένα από αιτήματα ανίχνευσης Wi-Fi που προέρχονται από τυχαίες διευθύνσεις MAC και ανιχνευτές Wi-Fi όταν η συσκευή σας αναζητά δίκτυα Wi-Fi.</string>
 </resources>
