@@ -37,4 +37,6 @@
      <string name="xunyou_pay_webview">Υπηρεσίες Xunyou</string>
      <string name="gamebox_no_network_btn">Επαναφόρτωση</string>
      <string name="ad_downloading">Λήψη…</string>
+     <string name="dual_animation">Έναρξη κινήσεων</string> 
+     <string name="dual_animation_description">Εμφάνιση κινήσεων κατά την έναρξη Διπλών εφαρμογών</string>
 </resources>

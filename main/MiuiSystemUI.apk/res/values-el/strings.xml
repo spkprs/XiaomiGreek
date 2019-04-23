@@ -1899,4 +1899,6 @@
 	  <string name="power_save_ps_close_setting">Απενεργοποίηση υπηρεσιών παρασκηνίου (Συγχρονισμός, GPS) για εξοικονόμηση μπαταρίας</string>
 	  <string name="power_save_ps_freeze">Πάγωμα εφαρμογών παρασκηνίου</string>
 	  <string name="power_save_ps_limit">Περιορισμός δραστηριότητας των εφαρμογών συστήματος</string>
+      <string name="notification_channel_dnd">Μην Ενοχλείτε</string>
+      <string name="dnd_notification_warnings_title">Κλήσεις και Ειδοπ/σεις θα σιγήσουν μέχρι την απενεργοποίηση του Μην Ενοχλείτε</string>
 </resources>
