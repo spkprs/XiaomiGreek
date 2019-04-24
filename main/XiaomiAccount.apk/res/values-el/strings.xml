@@ -285,7 +285,7 @@ ID:%s
      <string name="passport_input_vcode_hint">Εισάγετε κωδικό επαλήθευσης</string>
      <string name="passport_input_voice_captcha_hint">Εισαγάγετε τον κωδικό επιβεβαίωσης φωνής</string>
      <string name="passport_input_voice_hint">Εισαγωγή φωνητικού κωδικού</string>
-     <string name="passport_international_register_by_email">Δημιουργήστε έναν λογαριασμό με χρήση e-mail</string>
+     <string name="passport_international_register_by_email">Νέο μέσω e-mail</string>
      <string name="passport_license_host_unreachable">Αδυναμία σύνδεσης με το δίκτυο. Για να δείτε αυτές τις πληροφορίες, μεταβείτε στο %s.</string>
      <string name="passport_license_info_collapse">Σύμπτυξη</string>
      <string name="passport_license_info_open">Λεπτομέρειες</string>
@@ -305,7 +305,7 @@ ID:%s
      <string name="passport_next">Επόμενο</string>
      <string name="passport_no">Οχι</string>
      <string name="passport_notification_title">Σφάλμα σύνδεσης για %1$s</string>
-     <string name="passport_password_phone_login">Συνδεθείτε χρησιμοποιώντας το Λογαριασμό Mi</string>
+     <string name="passport_password_phone_login">Λογαριασμός Mi</string>
      <string name="passport_password_req_notice">Κωδικός από 8 έως 16 χαρακτήρες με αριθμούς και γράμματα (γίνεται διάκριση πεζών).</string>
      <string name="passport_phone_num_hint_text">Αριθμός τηλεφώνου</string>
      <string name="passport_phone_ticket_login">Συνδεθείτε με SMS</string>
@@ -514,7 +514,7 @@ ID:%s
 	  <string name="permission_group_sms">SMS</string>
 	  <string name="permission_group_storage">Αποθήκευση</string>
 	  <string name="select_all">Επιλογή όλων</string>
-	  <string name="agreement_and_privacy">Πολιτική Απορρήτου και Συμφωνία Χρήστη</string>
-	  <string name="passport_first_login_prompt">Ο λογαριασμός Mi θα δημιουργηθεί αυτόματα όταν εισέρχεστε για πρώτη φορά.</string>
+	  <string name="agreement_and_privacy">Απόρρητο-Συμφωνία Χρήστη</string>
+	  <string name="passport_first_login_prompt">Ο λογαριασμός Mi θα δημιουργηθεί αυτόματα κατά την είσοδο την πρώτη φορά.</string>
 	  <string name="scan_barcode">Σάρωση κωδικού QR για είσοδο</string>
 </resources>
