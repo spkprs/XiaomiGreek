@@ -253,8 +253,8 @@
   <string name="offline_pause">Παύση όλων των λήψεων</string>
   <string name="offline_setting_mobile_net_limit_summary">Περιορίστε τη χρήση των δεδομένων όταν το μέγεθος των ληφθέντων βίντεο φτάσει σε ένα καθορισμένο όριο</string>
   <string name="offline_setting_mobile_net_limit_title">Περιορισμός χρήσης δεδομένων</string>
-  <string name="offline_setting_mobile_net_limit_unlimited_title">Περιορισμός χρήσης δεδομένων κινητής (&lt;Data&gt;&lt;font color=#FF0000&gt;Απεριόριστα&lt;/font&gt;&lt;/Data&gt;)</string>
-  <string name="offline_setting_mobile_net_unlimited">&lt;Data&gt;&lt;font color=#FF0000&gt;Απεριόριστα&lt;/font&gt;&lt;/Data&gt;</string>
+  <string name="offline_setting_mobile_net_limit_unlimited_title">Περιορισμός χρήσης δεδομένων κινητής (Απεριόριστα)</string>
+  <string name="offline_setting_mobile_net_unlimited">Απεριόριστα</string>
   <string name="offline_success">Λήψη με επιτυχία</string>
   <string name="offline_video_delete">Αυτό το βίντεο διαγράφηκε.</string>
   <string name="online_live_account_bind">Προστέθηκε</string>
@@ -915,4 +915,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Αυτός ο τύπος αρχείου δεν υποστηρίζεται.</string>
   <string name="vp_VideoView_error_text_unknown">Συνέβη ένα άγνωστο σφάλμα.</string>
   <string name="vp_VideoView_error_title">Σφάλμα αναπαραγωγής βίντεο!</string>
+  <string name="notification_offline_to_online_setting">Πίνακας ειδοποιήσεων</string>
+  <string name="notification_offline_to_online_summary">Προβολή πληροφοριών καιρού και χρήση των συντομεύσεων Mi Video</string>
+  <string name="notification_offline_to_online_title">Εμφάνιση συντομεύσεων στον Πίνακα ειδοποιήσεων</string>
 </resources>

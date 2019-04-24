@@ -1328,6 +1328,9 @@
      <string name="date_time_set_timezone_title">Ζώνη ώρας</string>
      <string name="date_time_settings">Ημερομηνία και Ώρα</string>
      <string name="day_of_week">Ημέρα της εβδομάδας</string>
+     <string name="dc_light_title">Λειτουργία Anti-flicker</string>
+     <string name="dc_light_summary">Εφαρμογή μείωσης DC για λιγότερη καταπόνηση των ματιών</string>
+     <string name="dc_light_dialog_summary">Η ποιότητα της εικόνας ίσως να επηρεαστεί όταν είναι ενεργή η λειτουργία Anti-flicker (Σταθεροποίησης). Ενεργοποίηση;</string>
      <string name="debug_app">Επιλέξτε εφαρμογή debug</string>
      <string name="debug_app_not_set">Καμία εφαρμογή debug δεν έχει οριστεί</string>
      <string name="debug_app_set">Εφαρμογή εντοπισμού σφαλμάτων: %1$s</string>
