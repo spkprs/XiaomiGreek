@@ -98,4 +98,6 @@
   <string name="Su_Package_Forbidden2">δεν έχει πρόσβαση root.</string>
   <string name="HIPS_Perm_UDevice_ID">Μοιραστείτε μέρη πληροφοριών της συσκευής με τους προγραμματιστές παιχνιδιών για να βελτιώσουν την εμπειρία παιχνιδιού σας. Συμφωνείτε?</string>
   <string name="HIPS_Perm_UDevice_ID_DESC">μοιραστείτε μέρη πληροφοριών της συσκευής με τους προγραμματιστές παιχνιδιών για να βελτιώσουν την εμπειρία παιχνιδιού σας. Συμφωνείτε?</string>
+    <string name="HIPS_Perm_deamon_notification">Μόνιμη ειδοποίηση</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">Εμφάνιση μόνιμων ειδοποιήσεων</string>
 </resources>

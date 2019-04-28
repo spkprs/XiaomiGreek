@@ -418,7 +418,7 @@
     <string name="ms_finish">Ολοκλήρωση</string>
     <string name="ms_focus_stocks">Οι εταιρείες μου</string>
     <string name="ms_google_assistant">Βοηθός</string>
-    <string name="ms_hold_down_adjustment_order">Πατήστε παρατεταμένα το εικονίδιο στα δεξιά για να σύρετε αντικείμενα</string>
+    <string name="ms_hold_down_adjustment_order">Πατήστε παρατεταμένα ενα εικονίδιο επάνω για αλλαγή θέσης, ή προσθήκη νέου απο κάτω.</string>
     <string name="ms_holiday_empty_desc">Πατήστε εδώ για να διαβάσετε περισσότερα</string>
     <string name="ms_home">Σπίτι</string>
     <string name="ms_home_and_company">Σπίτι &amp; δουλειά</string>

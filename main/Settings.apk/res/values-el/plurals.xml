@@ -230,20 +230,20 @@
         <item quantity="one">" %1$sώρα %2$s"</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Ξεκλειδώθηκε %d φορές σήμερα</item>
-        <item quantity="one">Ξεκλειδώθηκε %d φορά σήμερα</item>
+        <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
+        <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Ξεκλειδώθηκε %d φορές τις τελευταίες 7 ημέρες</item>
-        <item quantity="one">Ξεκλειδώθηκε %d φορά τις τελευταίες 7 ημέρες</item>
+        <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
+        <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Ελήφθησαν %d ειδοποιήσεις σήμερα</item>
-        <item quantity="one">Ελήφθη %d ειδοποίηση σήμερα</item>
+        <item quantity="other">Ελήφθησαν %d ειδοποιήσεις</item>
+        <item quantity="one">Ελήφθη %d ειδοποίηση</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Ελήφθησαν %d ειδοποιήσεις τις τελευταίες 7 ημέρες</item>
-        <item quantity="one">Ελήφθη %d ειδοποίηση τις τελευταίες 7 ημέρες</item>
+        <item quantity="other">Ελήφθησαν %d ειδοποιήσεις</item>
+        <item quantity="one">Ελήφθη %d ειδοποίηση</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ώρες</item>

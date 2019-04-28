@@ -496,7 +496,7 @@ ID:%s
 	  <string name="mi_finance_info">Μπόνους για νέους χρήστες</string>
 	  <string name="same_new_and_old_pwd">"Δεν μπορεί να είναι το ίδιο με τον τρέχοντα κωδικό"</string>
 	  <string name="sim_card">Κάρτα SIM</string>
-	  <string name="used_cloud_storage_info">Χρησιμοποιείται %s αποθηκ. χώρος</string>
+	  <string name="used_cloud_storage_info">%s σε χρήση</string>
 	  <string name="exit">Έξοδος</string>
 	  <string name="i_agree">OK</string>
 	  <string name="i_agree_continue">Συμφωνώ</string>
