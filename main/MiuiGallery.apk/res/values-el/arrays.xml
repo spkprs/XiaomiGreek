@@ -177,4 +177,8 @@
         <item>Προχωρώντας μπροστά</item>
         <item>Γεμάτος ενέργεια</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Αντίγραφα φωτογραφιών</item>
+        <item>Συγχρονισμός φωτογραφιών στο Mi Cloud</item>
+    </string-array>
 </resources>

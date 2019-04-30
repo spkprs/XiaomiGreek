@@ -244,7 +244,7 @@
      <string name="event_info_where">"Που: "</string>
      <string name="event_lunar_month">μήνας</string>
      <string name="event_reminder_allday_day_zero">Την ημέρα εκείνη στο %2$s</string>
-     <string name="event_reminder_value_zero">Πριν από την εκδήλωση</string>
+     <string name="event_reminder_value_zero">Στην εκκίνηση της εκδήλωσης</string>
      <string name="event_title">Τίτλος</string>
      <string name="event_view">Προβολή γεγονότος</string>
      <string name="every_weekday">Δευ έως Παρ</string>
@@ -857,4 +857,7 @@ You can also add reminders so you don't miss anything important."</string>
 	<string name="default_reminder_later_time">Προεπιλογή χρόνου για  \"Υπενθύμιση αργότερα\"</string>
 	<string name="next_alarm_time">Επόμενη υπενθύμιση σε  %1$s</string>
 	<string name="reminder_later">Υπενθύμιση αργότερα</string>
+    <string name="edit_event_custom_reminder_time_dup">Προσαρμοσμένη υπενθύμιση: %1$s</string>
+    <string name="edit_event_custom_reminder_title">Ορισμός Προσαρμοσμένης υπενθύμισης</string>
+    <string name="event_reminder_custom">Προσαρμοσμένη</string>
 </resources>

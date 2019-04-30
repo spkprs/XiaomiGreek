@@ -1639,4 +1639,6 @@
   <string name="wifi_call_setting_vodafone_de">WiFi κλήσεις</string>
   <string name="wifi_call_setting_vodafone_uk">WiFi κλήσεις</string>
   <string name="fiveg_switch_title">Δίκτυο 5G</string>
+  <string name="jump_to_mobile_network_setting">Ρυθμίσεις Δικτύου Κινητής</string>
+  <string name="select_dds_dialog_title">Επιλογή προεπιλεγμένης SIM δεδομένων κινητής</string>
 </resources>

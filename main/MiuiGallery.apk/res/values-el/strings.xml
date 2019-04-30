@@ -1806,4 +1806,20 @@
 	  <string name="similar_keep_clear">Κρατήστε τις καλύτερες λήψεις</string>
       <string name="photo_editor_compare_tip">Πατήστε παρατεταμένα για προβολή αρχικής εικόνας</string>
       <string name="photo_editor_remove_watermark">Αφαίρεση υδατογραφήματος</string>
+	  <string name="ai_album_setting_key_word">Αναζήτηση φωτογραφιών</string>
+	  <string name="base_btn_cancel">Ακύρωση</string>
+	  <string name="base_btn_download">Λήψη</string>
+	  <string name="filter_category_sky">Ουρανός</string>
+	  <string name="filter_sky_cloudy">Σύννεφα</string>
+	  <string name="filter_sky_detect_forbidden_tips">"Αδυναμία ανίχνευσης του ουρανού"</string>
+	  <string name="filter_sky_download_failed">"Αδυναμία λήψης προσθήκης. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
+	  <string name="filter_sky_download_finish">Επιτυχής λήψη προσθήκης</string>
+	  <string name="filter_sky_download_sdk_without_wifi_msg">"Εάν δεν είστε συνδεδεμένοι στο Wi-Fi, μπορείτε να χρησιμοποιήσετε δεδομένα κινητής για να κάνετε λήψη της προσθήκης (%1$dMB) που θα σας επιτρέψει να αντικαταστήσετε τον ουρανό στις φωτογραφίες σας."</string>
+	  <string name="filter_sky_download_sdk_without_wifi_title">Λήψη προσθήκης</string>
+	  <string name="filter_sky_dusk">Σούρουπο</string>
+	  <string name="filter_sky_glow">Λάμψη</string>
+	  <string name="filter_sky_rainbow">Ουράνιο τόξο</string>
+	  <string name="filter_sky_sunny">Ηλιόλουστος</string>
+	  <string name="filter_sky_sunset">Ηλιοβασίλεμα</string>
+	  <string name="trash_bin_key_word">Διαγραμμένες φωτογραφίες</string>
 </resources>

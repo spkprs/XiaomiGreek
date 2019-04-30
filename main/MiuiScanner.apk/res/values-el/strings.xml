@@ -316,4 +316,5 @@
      <string name="error_empty_result">Δεν βρέθηκαν αποτελέσματα</string>
      <string name="no_support_to_translate_type">"Αυτή η γλώσσα δεν υποστηρίζεται"</string>
      <string name="translate_parallel_2_lines">Βεβαιωθείτε ότι το κείμενο είναι παράλληλο με τις γραμμές στην οθόνη</string>
+     <string name="business_card_with_qr_code">Τοποθετήστε την κάρτα ή τον κωδικό QR μέσα στο πλαίσιο</string>
 </resources>

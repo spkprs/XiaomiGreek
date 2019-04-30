@@ -838,4 +838,6 @@
 	  <string name="rcs_auto_resend_as_sms_remind_title">Μετατροπή σε SMS</string>
 	  <string name="rcs_hello_from_pc">Συνδεθείτε στο Fetion στον υπολογιστή σας για να μεταφέρετε αρχεία.</string>
 	  <string name="rcs_offline">Δεν είστε συνδεδεμένοι στο UC. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
+      <string name="dialog_sim_locked_confirm">OK</string>
+      <string name="dialog_sim_locked_message">"Η κάρτα SIM δεν λειτουργεί πλήρως με αυτό το τηλέφωνο επειδή δεν συμμορφώνεται με τους όρους και τις προϋποθέσεις της συνδρομής σας. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περισσότερες πληροφορίες σχετικά με αυτό το ζήτημα, παρακαλούμε επικοινωνήστε με τα κέντρα εξυπηρέτησης της Xiaomi ή το κατάστημα προϊόντων."</string>
 </resources>
