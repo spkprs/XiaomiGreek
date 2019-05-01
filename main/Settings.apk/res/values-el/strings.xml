@@ -6292,6 +6292,17 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	<string name="miui_lab_gesture_title">Χειρονομίες πλήρους οθόνης</string>
 	<string name="miui_lab_gesture_desc">Απενεργοποιήστε τα φυσικά πλήκτρα και απολαύστε χειρονομίες πλήρους οθόνης</string>
 	<string name="search_ambient_display_screen_title">Οθόνη περιβάλλοντος</string>
-	<string name="search_doze_always_on_title">Πάντα σΕνεργή</string>
+	<string name="search_doze_always_on_title">Πάντα Ενεργή</string>
 	<string name="usage_state_date">d MMM</string>
+    <string name="popup_title">Εφέ εμπρός Κάμερας</string>
+    <string name="popup_led_title">Οπτικά εφέ</string>
+    <string name="popup_led_summary">Εμφάνιση κινούμενης εικόνας κατά την είσοδο ή έξοδο της εμπρός Κάμερας</string>
+    <string name="popup_voice_title">Ηχητικά εφέ</string>
+    <string name="popup_voice_summary">Ήχος κατά την είσοδο ή έξοδο της εμπρός Κάμερας</string>
+    <string name="popup_title_chilun">Gearwheel</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_muqin">Xylophone</string>
+    <string name="popup_title_cangmen">Cabin door</string>
+    <string name="popup_title_mofa">Magic</string>
+    <string name="popup_title_jijia">Mecha</string>
 </resources>
