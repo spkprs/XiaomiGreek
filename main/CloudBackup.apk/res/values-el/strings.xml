@@ -221,4 +221,6 @@
     <string name="provision_background_restore_more_data">Επαναφορά περισσότερων στοιχείων στο παρασκήνιο</string>
     <string name="provision_restore_data">Επαναφορά στοιχείων</string>
     <string name="hint_restore_cross_space">Η διάταξη της αρχικής οθόνης ενδέχεται να μην εμφανίζεται σωστά εάν μεταφέρετε στοιχεία μεταξύ διαστημάτων.</string>
+    <string name="selected">Επιλεγμένα</string>
+    <string name="unselected">Μη Επιλεγμένα</string>
 </resources>
