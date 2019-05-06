@@ -6305,4 +6305,17 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="popup_title_cangmen">Cabin door</string>
     <string name="popup_title_mofa">Magic</string>
     <string name="popup_title_jijia">Mecha</string>
+    <string name="backup_set_clear_success">Επιτυχής απενεργοποίηση του κωδικού Αντιγράφου</string>
+    <string name="backup_set_clear_title">Απενεργοποίηση κωδικού Αντιγράφου</string>
+    <string name="backup_set_confirm">OK</string>
+    <string name="backup_set_confirm_clear">Απενεργοποίηση</string>
+    <string name="backup_set_enter_new_pw">Εισαγωγή νέου κωδικού</string>
+    <string name="backup_set_enter_new_pw_again">Επιβεβαίωση νέου κωδικού</string>
+    <string name="backup_set_enter_old_pw">Εισαγωγή παλιού κωδικού</string>
+    <string name="backup_set_enter_pw_title">Εισαγωγή κωδικού Αντιγράφου</string>
+    <string name="backup_set_error_pw">Ο κωδικός που καταχωρίσατε είναι εσφαλμένος</string>
+    <string name="backup_set_modify_title">Αλλαγή κωδικού Αντιγράφου</string>
+    <string name="backup_set_new_pw_title">Εισαγωγή νέου κωδικού</string>
+    <string name="backup_set_null_pw">Εισαγωγή κωδικού πρώτα</string>
+    <string name="backup_set_pw_confirm_title">Επιβεβαίωση νέου κωδικού</string>
 </resources>
