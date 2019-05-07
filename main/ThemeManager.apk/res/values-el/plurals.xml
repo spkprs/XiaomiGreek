@@ -28,4 +28,20 @@
         <item quantity="other">Βρέθηκαν %1$d εφαρμ.</item>
         <item quantity="one">Βρέθηκε %1$d εφαρμ.</item>
     </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f πόντοι</item>
+        <item quantity="one">%1$.1f πόντος</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s ήχοι κλήσης</item>
+        <item quantity="one">%1$s ήχος κλήσης</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">"Θα μπορείτε να δοκιμάσετε \"%2$s\" δωρεάν σε %1$d ώρες"</item>
+        <item quantity="one">"Θα μπορείτε να δοκιμάσετε \"%2$s\" δωρεάν σε %1$d ώρα"</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχεία απομένουν για σήμερα)</item>
+        <item quantity="one">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχείο απομένει για σήμερα)</item>
+    </plurals>
 </resources>

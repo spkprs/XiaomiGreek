@@ -1131,7 +1131,7 @@
      <string name="notification_low_battery_action_btn">Ενεργοποίηση</string>
      <string name="notification_low_battery_need_charge">Χαμηλή μπαταρία. Φορτίστε τη συσκευή σας.</string>
      <string name="notification_low_battery_open_save_mode">Ενεργοποίηση Εξοικ.μπαταρίας</string>
-     <string name="notification_low_battery_title">Χαμηλή μπαταρία: %d%%</string>
+     <string name="notification_low_battery_title">Λιγότερο απο %d%% μπαταρίας απομένου</string>
      <string name="notification_manager">Διαχείριση ειδοποιήσεων</string>
      <string name="notification_manager_des">Φιλτράρισμα και διαχείριση ειδοποιήσεων</string>
      <string name="notification_menu_accessibility">%1$s %2$s</string>

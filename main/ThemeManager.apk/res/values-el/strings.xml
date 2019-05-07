@@ -288,7 +288,6 @@
      <string name="resource_alarm_default">Ειδοποιήσεις</string>
      <string name="resource_app_name">Πλοηγός Πόρων</string>
      <string name="resource_apply">Εφαρμογή</string>
-     <string name="resource_apply_trial">Δοκιμάστε τώρα</string>
      <string name="resource_back">Πίσω</string>
      <string name="resource_buy">Αγορά</string>
      <string name="resource_can_not_selected">%1$s δεν μπορεί να επιλεγεί</string>
@@ -361,7 +360,6 @@
      <string name="resource_download">Λήψη</string>
      <string name="resource_download_notification_title_many">Επιτυχής λήψη %1$s θεμάτων</string>
      <string name="resource_download_notification_title_one">Επιτυχής λήψη θέματος</string>
-     <string name="resource_download_trial">Δωρεάν δοκιμή</string>
      <string name="resource_downloaded_title">Αρχεία που ελήφθησαν</string>
      <string name="resource_downloading">Λήψη</string>
      <string name="resource_exchange">Εξαργύρωση</string>
@@ -644,7 +642,6 @@
      <string name="xiaoai_speech_not_installed_title">Ο βοηθός φωνής Mi AI δεν έχει εγκατασταθεί.</string>
 	 <string name="float_wallpaper_is_here">Διαφανής ταπετσαρία</string>
 	 <string name="lab">Θεματικό εργαστήριο</string>
-	 <string name="theme_to_comment">Καθόλου άσχημα!</string>
      <string name="mix_global_option_des">Περιοχή ειδοποιήσεων, Τηλέφωνο, Μηνύματα και στοιχεία Συστήματος. Αφαιρέστε την επιλογή αυτή, για χρήση προεπιλεγμένων ρυθμίσεων.</string>
      <string name="mix_home_option_des">Ταπετσαρία και ρολόι. Αφαιρέστε την επιλογή αυτή, για χρήση προεπιλεγμένων ρυθμίσεων.</string>
      <string name="mix_icons_option_des">Εικονίδια αρχικής οθόνης. Αφαιρέστε την επιλογή αυτή, για χρήση προεπιλεγμένων ρυθμίσεων.</string>
@@ -668,8 +665,6 @@
     <string name="resource_trial_end_checkbox_hint">Λάβετε πρώτα τις πιστώσεις Mi</string>
     <string name="resource_trial_end_get_mibi">Λήψη πιστώσεων Mi</string>
     <string name="resource_trial_end_jump_hint">Ανακατεύθυνση…</string>
-    <string name="theme_comment_dialog_message">Αξιολογήστε αυτήν την εφαρμογή και πείτε μας τι πιστεύετε.</string>
-    <string name="theme_comment_dialog_ok">Αξιολόγηση</string>
     <string name="theme_staggered_item_text">Λήψη πιστώσεων Mi</string>
     <string name="transparent_wallpaper">Διάφανη ταπετσαρία</string>
     <string name="transparent_wallpaper_apply_success">Ορίστηκε με επιτυχία.  Μετάβαση σε Θέματα &gt; Προφίλ &gt; Θεματικό εργαστήριο για περισσότερες λειτουργίες.</string>
@@ -732,4 +727,20 @@
 	<string name="wallpaper_loop_title">Παρουσίαση ταπετσαριών</string>
 	<string name="wallpaper_loop_title_desk_wallpaper">Παρουσίαση στην Αρχική οθόνη</string>
 	<string name="wallpaper_loop_title_lock_walpaper">Παρουσίαση στην Οθόνη Κλειδώματος</string>
+	<string name="audition_ringtone">Αναπαραγωγή</string>
+	<string name="count_down_tip">%ds υπόλοιπο</string>
+	<string name="like_list">Είδη που μου άρεσαν</string>
+	<string name="playing_ringtone">Αναπαράγεται</string>
+	<string name="trial_count_empty">Δεν παρέμειναν άλλα δωρεάν στοιχεία για σήμερα. Επιστρέψτε πάλι αύριο!</string>
+	<string name="trial_count_tip">Η δοκιμαστική περίοδος λήγει σε %1$s:%2$s:%3$s</string>
+	<string name="trial_for_free">Δωρεάν δοκιμή</string>
+	<string name="trial_get_failed_tip">Τελειώστε την παρακολούθηση του βίντεο για να λάβετε το θέμα.</string>
+	<string name="trial_get_success_tip">"Συγχαρητήρια! Έχετε μια δωρεάν δοκιμή 3 ημερών."</string>
+	<string name="trial_now">Δοκιμάστε τώρα</string>
+	<string name="try_5_min">Δοκιμάστε 5 λεπτά</string>
+	<string name="video_ad_click">Δοκιμάστε τώρα</string>
+	<string name="video_ad_try_for_free">Δωρεάν δοκιμή</string>
+	<string name="video_ad_uncomplete_tip">Τελειώστε την παρακολούθηση του βίντεο για να λάβετε το θέμα.</string>
+	<string name="video_ad_uncomplete_tip_cancel">Ακύρωση</string>
+	<string name="video_ad_uncomplete_tip_continue">Συνεχίστε την παρακολούθηση</string>
 </resources>
