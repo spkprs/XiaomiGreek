@@ -6119,7 +6119,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="fold_title">Κανόνες για ομαδ/μένες ειδοποιήσεις</string>
   <string name="function_description">Σχετικά με αυτή τη λειτουργία</string>
   <string name="game_booster">Παιχνίδι;Παιχνίδια;Turbo;Παιχνίδια;Τρόπος Gaming</string>
-  <string name="gxzw_aod_show_summary">Το εικονίδιο δακτυλικών αποτυπωμάτων θα εμφανιστεί όταν η οθόνη είναι απενεργοποιημένη. Αυτή η λειτουργία αυξάνει την κατανάλωση ισχύος του συστήματος.</string>
+  <string name="gxzw_aod_show_summary">Σηκώστε τη συσκευή ή πατήστε την οθόνη για να εμφανιστεί το εικονίδιο δακτυλικών αποτυπωμάτων. Αυτή η δυνατότητα αυξάνει την κατανάλωση ενέργειας του συστήματος.</string>
   <string name="gxzw_aod_show_tittle">Εμφάνιση του εικονιδίου δακτυλικών αποτυπωμάτων όταν η οθόνη είναι απενεργοποιημένη</string>
   <string name="importance_default">Προεπιλογή</string>
   <string name="importance_high">Υψηλή</string>
