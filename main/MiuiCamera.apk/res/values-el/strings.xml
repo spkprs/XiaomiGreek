@@ -46,7 +46,7 @@
   <string name="accessibility_shutter_button">Κουμπί κλείστρου</string>
   <string name="accessibility_stereo_button">Ρύθμιση Εστίασης</string>
   <string name="accessibility_zoom_button">Λειτουργία Ζούμ</string>
-  <string name="ai_scene_mode_use_hint_text">Η κάμερα AI ανιχνεύει αυτόματα σκηνές\nκαι βελτιστοποιεί τις φωτογραφίες σας με βάση αυτές τις πληροφορίες</string>
+  <string name="ai_scene_mode_use_hint_text">Η κάμερα AI ανιχνεύει αυτόματα σκηνές\nκαι βελτιστοποιεί τις φωτογραφίες σας σύμφωνα με αυτές τις πληροφορίες</string>
   <string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>
   <string name="back_bokeh_use_hint">Κρατήστε το θέμα σας εντός 1,5 μέτρου για καλύτερο αποτέλεσμα</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Αισθητική</string>
@@ -213,7 +213,7 @@
   <string name="portait_effect_entry_romance">Romantic</string>
   <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
   <string name="portrait_mode_lowlight_hint">Τώρα είναι πολύ σκοτεινή</string>
-  <string name="portrait_mode_too_close_hint">Μεταφερθήκατε μακριά από το θέμα</string>
+  <string name="portrait_mode_too_close_hint">Απομακρυνθείτε λίγο από το θέμα</string>
   <string name="portrait_mode_too_far_hint">Τοποθετήστε το αντικείμενο έως 2 μέτρα</string>
   <string name="portrait_mode_use_hint">Η λειτουργία Πορτρέτου θολώνει το φόντο \nκαι εστιάζει στο θέμα.</string>
   <string name="portrait_with_facebeauty_hint">Η Αισθητική είναι πλέον διαθέσιμη σε λειτουργία Πορτρέτου</string>
