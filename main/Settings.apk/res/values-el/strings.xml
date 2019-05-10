@@ -6290,7 +6290,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	<string name="choose_unlock_face_msg">Ορισμός κλειδώματος οθόνης πριν την καταγραφή δεδομένων προσώπου.</string>
 	<string name="choose_unlock_fingerprint_msg">Ορισμός κλειδώματος οθόνης πριν από την προσθήκη Δακτ. αποτυπώματος.</string>
 	<string name="miui_lab_gesture_title">Χειρονομίες πλήρους οθόνης</string>
-	<string name="miui_lab_gesture_desc">Απενεργοποιήστε τα φυσικά πλήκτρα και απολαύστε χειρονομίες πλήρους οθόνης</string>
+	<string name="miui_lab_gesture_desc">Χρήση Χειρονομιών αντί Πλήκτρων πλοήγησης</string>
 	<string name="search_ambient_display_screen_title">Οθόνη περιβάλλοντος</string>
 	<string name="search_doze_always_on_title">Πάντα Ενεργή</string>
 	<string name="usage_state_date">d MMM</string>
@@ -6318,4 +6318,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="backup_set_new_pw_title">Εισαγωγή νέου κωδικού</string>
     <string name="backup_set_null_pw">Εισαγωγή κωδικού πρώτα</string>
     <string name="backup_set_pw_confirm_title">Επιβεβαίωση νέου κωδικού</string>
+    <string name="search_add_facerecoginition_text">Ξεκλείδωμα προσώπου;Αναγνώριση προσώπου</string>
+    <string name="search_manage_facerecoginition_text">Ξεκλείδωμα προσώπου;Αναγνώριση προσώπου</string>
 </resources>

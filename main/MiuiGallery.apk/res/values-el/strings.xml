@@ -16,7 +16,7 @@
      <string name="add_to_album_success">Προστέθηκε στο άλμπουμ</string>
      <string name="add_to_album_tip">Φωτογραφίες Cloud</string>
      <string name="add_to_favorites_failed">Αδύνατη η προσθήκη στα Aγαπημένα</string>
-     <string name="add_to_secret_exist">Η φωτογραφία υπάρχει ήδη στο κρυφό άλμπουμ</string>
+     <string name="add_to_secret_exist">Αυτό το στοιχείο υπάρχει ήδη στο κρυφό άλμπουμ</string>
      <string name="add_to_secret_fail">Αδυναμία προσθήκης στο κρυφό άλμπουμ</string>
      <string name="add_to_secret_failed_with_reason">Αδυναμία προσθήκης στο κρυφό άλμπουμ. %1$s.</string>
      <string name="add_to_secret_successful">Προστέθηκε στο κρυφό άλμπουμ</string>
@@ -976,7 +976,7 @@
      <string name="grant_permission_title">Αποδοχή πρόσβασης</string>
      <string name="grant_permission_unlock_and_set">Ξεκλειδώστε και ρυθμίστε</string>
      <string name="has_invalid_recipient">Μη έγκυρος παραλήπτης (ες): %1$s</string>
-     <string name="have_known">Το κατάλαβα</string>
+     <string name="have_known">Κατανοητό</string>
      <string name="hidden_album_display_name">Κρυφό άλμπουμ</string>
      <string name="home_menu_cleaner">Ελευθερώστε χώρο</string>
      <string name="home_menu_collage">Κολάζ</string>
@@ -1776,10 +1776,10 @@
 	  <string name="permission_optional_category">Προαιρετικά δικαιώματα</string>
 	  <string name="permission_phone_desc">Για αιτήσεις δικτύου που βασίζονται στο ID συσκευής</string>
 	  <string name="permission_phone_name">Τηλέφωνο</string>
-	  <string name="permission_require_category">Υποχρεωτικά δικαιώματα</string>
+	  <string name="permission_require_category">Υποχρεωτικές Άδειες</string>
 	  <string name="permission_storage_desc">Για εμφάνιση, επεξεργασία και αποθήκευση φωτογραφιών</string>
 	  <string name="permission_storage_name">Αποθηκ. χώρος</string>
-	  <string name="permission_use_desc">Δικαιώματα</string>
+	  <string name="permission_use_desc">Άδειες</string>
 	  <string name="select_all">Επιλογή όλων</string>
 	  <string name="generate_story_summary">Το MIUI θα αναλύσει τις φωτογραφίες σας και θα δημιουργήσει άλμπουμ ιστορίας. Απενεργοποιήστε αυτή τη λειτουργία για να σταματήσετε τη δημιουργία άλμπουμ ιστορίας.</string>
 	  <string name="generate_story_title">Άλμπουμ ιστορίας</string>

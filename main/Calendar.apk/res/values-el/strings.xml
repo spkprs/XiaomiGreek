@@ -243,7 +243,7 @@
      <string name="event_info_when">"Πότε: "</string>
      <string name="event_info_where">"Που: "</string>
      <string name="event_lunar_month">μήνας</string>
-     <string name="event_reminder_allday_day_zero">Την ημέρα εκείνη στο %2$s</string>
+     <string name="event_reminder_allday_day_zero">Την ημέρα εκείνη στις %2$s</string>
      <string name="event_reminder_value_zero">Στην εκκίνηση της εκδήλωσης</string>
      <string name="event_title">Τίτλος</string>
      <string name="event_view">Προβολή γεγονότος</string>

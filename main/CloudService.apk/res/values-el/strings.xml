@@ -423,8 +423,8 @@
 	  <string name="member_entrance_title_ultra_low_case_a">Ανανέωση</string>
 	  <string name="member_entrance_title_ultra_low_case_b">Ανανέωση</string>
 	  <string name="micloud_main_manual_sync">Συγχρονισμός χειροκίνητα</string>
-	  <string name="micloud_main_sync_mode_summary">Συγχρονίστε περισσότερα στοιχεία όταν συνδέεται ο φορτιστής και η οθόνη είναι σβηστή</string>
-	  <string name="micloud_main_sync_mode_title">Εξοικον. ενέργειας-συγχρονισμού</string>
+	  <string name="micloud_main_sync_mode_summary">"Τα παραπάνω στοιχεία θα συγχρονίζονται σε πραγματικό χρόνο, όταν αυτή η λειτουργία είναι ενεργοποιημένη, γεγονός που μπορεί να αυξήσει την κατανάλωση ενέργειας της συσκευής σας".</string>
+	  <string name="micloud_main_sync_mode_title">Συγχρονισμός σε πραγματικό χρόνο</string>
 	  <string name="micloud_manaul_sync_success_button_text">Προβολή λεπτομεριών</string>
 	  <string name="micloud_manaul_sync_success_title">Επιτυχής συγχρονισμός</string>
 	  <string name="micloud_manual_activating">Ενεργοποίηση...</string>
