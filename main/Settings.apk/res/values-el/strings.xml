@@ -857,7 +857,7 @@
      <string name="bootloader_status_privacy_dialog_url_text">Πολιτική Απορρήτου</string>
      <string name="bootloader_status_privacy_dialog_yes">Συμφωνώ</string>
      <string name="bootloader_status_summary">Έλεγχος εάν η συσκευή είναι κλειδωμένη</string>
-     <string name="bootloader_status_unlocked">Ξεκλείδωτο</string>
+     <string name="bootloader_status_unlocked">Ξεκλειδώθηκε</string>
      <string name="bootloader_status_unlocked_info">Αυτή η συσκευή είναι ξεκλείδωτη</string>
      <string name="bootloader_summary">Ενημέρωση λογισμικού μέσω USB</string>
      <string name="bootloader_tips">Αφού προσθέσετε το λογαριασμό Mi, μην αποσυνδεθείτε, εκτελέστε επαναφορά εργοστασιακών ρυθμίσεων ή καταργήστε τα δεδομένα των εφαρμογών συστήματος. Αν κάνετε οποιοδήποτε από τα παραπάνω, προσθέστε ξανά το λογαριασμό σας ή διαφορετικά δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας.</string>
@@ -6226,15 +6226,15 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="usage_state_app_usage_detail_title">Λεπτομέριες χρήσης εφαρμογής</string>
   <string name="usage_state_app_usage_list_title">"Χρόνος οθόνης εφαρμογών"</string>
   <string name="usage_state_app_usage_list_week_title">"Χρόνος οθόνης εφαρμογών"</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Χρόνος οθόνης μεταξύ %d:00 και %d:00</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Χρόνος οθόνης μεταξύ %d:00 έως %d:00</string>
   <string name="usage_state_app_use_time">Χρόνος οθόνης εφαρμογής</string>
   <string name="usage_state_channel_mouth">Τελευταίες 30 ημέρες</string>
   <string name="usage_state_channel_week">Τελευταίες 7 ημέρες</string>
-  <string name="usage_state_device_noti_today_tip_title" formatted="false">Ειδοποιήσεις μεταξύ %d:00 και %d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Ξεκλείδωτη συσκευή μεταξύ %d:00 και %d:00</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">Ειδοποιήσεις μεταξύ %d:00 έως %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Ξεκλειδώθηκε μεταξύ %d:00 έως %d:00</string>
   <string name="usage_state_friday">Παρ</string>
   <string name="usage_state_go_more">Περισσότερες εφαρμογές</string>
-  <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
+  <string name="usage_state_hour_minute" formatted="false">%d Ωρ. %d Λεπ.</string>
   <string name="usage_state_less_one_minute">Λιγότερο από 1 λεπτό</string>
   <string name="usage_state_monday">Δευτ</string>
   <string name="usage_state_mourth_day">"Χρόνος ενεργής οθόνης %s"</string>
@@ -6251,7 +6251,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="usage_state_today">Σήμερα</string>
   <string name="usage_state_today_total_text">Χρόνος οθόνης σήμερα</string>
   <string name="usage_state_tuesday">Τρι</string>
-  <string name="usage_state_unlock_mourth_day">"'Ξεκλείδωτο %s"</string>
+  <string name="usage_state_unlock_mourth_day">"Ξεκλειδώθηκε %s"</string>
   <string name="usage_state_usage_time">Χρόνος οθόνης</string>
   <string name="usage_state_usage_time_remind">Ειδοποίηση χρόνου οθόνης</string>
   <string name="usage_state_use_time_remind_title">Ειδοποίηση χρόνου οθόνης</string>
@@ -6320,4 +6320,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="backup_set_pw_confirm_title">Επιβεβαίωση νέου κωδικού</string>
     <string name="search_add_facerecoginition_text">Ξεκλείδωμα προσώπου;Αναγνώριση προσώπου</string>
     <string name="search_manage_facerecoginition_text">Ξεκλείδωμα προσώπου;Αναγνώριση προσώπου</string>
+	<string name="dc_light_summary_new">Η ρύθμιση του DC μειώνει την καταπόνηση των ματιών σε συνθήκες χαμηλού φωτισμού. Ωστόσο, η ποιότητα της εικόνας μπορεί να επηρεαστεί με ενεργή την λειτουργία Anti-flicker (Σταθεροποίησης).</string>	
 </resources>

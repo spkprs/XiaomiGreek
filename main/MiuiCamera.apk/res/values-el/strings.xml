@@ -65,7 +65,7 @@
   <string name="camera_error_title">Σφάλμα κάμερας</string>
   <string name="camera_facedetection_sub_option_hint">Πειραματική λειτουργία</string>
   <string name="camera_label">Κάμερα</string>
-  <string name="camera_mode_options">Επιλογές</string>
+  <string name="camera_mode_options">Λειτουργίες</string>
   <string name="camera_setting">Κάμερα</string>
   <string name="camera_settings_label">Κάμερα</string>
   <string name="camera_snap_mode_title">Λειτουργία γρήγορης λήψης</string>
@@ -445,7 +445,7 @@
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ΥΠΕΡ ΕΥΡΕΙΑ</string>
   <string name="pref_camera_zoom_mode_entry_wide">Ευρεία</string>
-  <string name="pref_camera_zoom_mode_title">Φακός</string>
+  <string name="pref_camera_zoom_mode_title">LENS</string>
   <string name="pref_camera_zoom_value_title">ZOOM</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
   <string name="pref_camera_zoom_ratio_wide">100</string>
