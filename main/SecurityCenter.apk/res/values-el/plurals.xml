@@ -398,4 +398,8 @@
         <item quantity="other">%d κίνδυνοι  εντοπίστηκαν, διορθώστε τώρα</item>
         <item quantity="one">%d κίνδυνος εντοπίστηκε, διορθώστε τώρα</item>
       </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d λειτουργίες</item>
+        <item quantity="one">%d λειτουργία</item>
+    </plurals>
 </resources>

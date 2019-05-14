@@ -2688,4 +2688,14 @@
 	<string name="power_save_ps_close_setting">Απενεργοποίηση υπηρεσιών παρασκηνίου (Συγχρονισμός, GPS) για εξοικονόμηση μπαταρίας</string>
 	<string name="power_save_ps_freeze">Πάγωμα εφαρμογών παρασκηνίου</string>
 	<string name="power_save_ps_limit">Περιορισμός δραστηριότητας των εφαρμογών συστήματος</string>
+    <string name="function_shield_summary">Περιορίστε τις επιλεγμένες λειτουργίες του συστήματος κατά την αναπαραγωγή παιχνιδιών</string>
+    <string name="function_shield_settings_title">Περιορίστε τις παρακάτω λειτουργίες κατά την αναπαραγωγή παιχνιδιών</string>
+    <string name="function_shield_auto_bright">Απενεργοποίηση αυτόματης φωτεινότητας</string>
+    <string name="function_shield_eye_shield">Απενεργοποίηση λειτουργίας ανάγνωσης</string>
+    <string name="function_shield_three_finger">Περιορισμός χειρονομιών οθόνης</string>
+    <string name="function_shield_pull_notification_bar">"Μην ανοίγει ο πίνακας ειδοποίησης"</string>
+    <string name="choose_gs_show_way">Επιλογή προσανατολισμού Αρχικής σελίδας</string>
+    <string name="gs_show_way">Προσανατολισμός Αρχικής σελίδας</string>
+    <string name="gs_show_way_horizontal">Οριζόντια</string>
+    <string name="gs_show_way_vertical">Κάθετα</string>
 </resources>
