@@ -1320,6 +1320,7 @@
      <string name="date_time_auto">Αυτόματα</string>
      <string name="date_time_auto_summaryOff">Χρήση ώρας δικτύου</string>
      <string name="date_time_auto_summaryOn">Χρήση ώρας απο το δίκτυο</string>
+     <string name="date_time_select_fixed_offset_time_zones">Επιλογή μετατόπισης UTC</string>
      <string name="date_time_set_date">Ορισμός ημερομηνίας</string>
      <string name="date_time_set_date_title">Ημερομηνία</string>
      <string name="date_time_set_time">Ορισμός ώρας</string>
@@ -5086,6 +5087,7 @@
      <string name="user_confirm_remove_self_message">Θα χάσετε το χώρο και τα δεδομένα σας σε αυτό το τηλέφωνο. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</string>
      <string name="user_confirm_remove_self_title">Διαγραφή του εαυτού σας;</string>
      <string name="user_confirm_remove_title">Κατάργηση χρήστη;</string>
+     <string name="user_credential_none_installed">Δεν έχουν εγκατασταθεί διαπιστευτήρια χρήστη</string>
      <string name="user_credential_title">Λεπτομέρειες διαπιστευτηρίων</string>
      <string name="user_credentials">Διαπιστευτήρια χρήστη</string>
      <string name="user_credentials_summary">Προβολή και τροποποίηση αποθηκευμένων διαπιστευτηρίων</string>

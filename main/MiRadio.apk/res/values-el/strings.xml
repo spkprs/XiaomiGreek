@@ -68,4 +68,7 @@
   <string name="using_recorder_dialog_message">Το Mi Ράδιοφωνο πρέπει να χρησιμοποιήσει τις υπηρεσίες εγγραφής της συσκευής σας για να λειτουργήσει κανονικά.</string>
   <string name="using_recorder_dialog_title">Άδεια πρόσβασης</string>
   <string name="view_stations_list">Προβολή λίστας σταθμών</string>
+  <string name="noheadset_dialog_info">Το σήμα FM είναι ανεπαρκή, προτείνεται διαδικτυακό περιεχόμενο</string>
+  <string name="noheadset_dialog_insert">Εισάγετε τα ακουστικά</string>
+  <string name="noheadset_dialog_more">Ακούστε περισσότερο ραδιόφωνο</string>
 </resources>

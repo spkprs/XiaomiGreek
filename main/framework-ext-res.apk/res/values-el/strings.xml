@@ -219,4 +219,6 @@
 	<string name="popup_camera_using_camera_background">%s χρησιμοποιεί τη εμπρός κάμερα</string>
 	<string name="stop_operate_camera_frequently">"Ανοίγετε την μπροστινή κάμερα πολύ συχνά."</string>
 	<string name="takeback_camera_front_failed">"Αδύνατον το κλείσιμο της εμπρός Κάμερας. Προσπάθησε ξανά."</string>
+    <string name="sim_lock_non_ais_msg">"Η κάρτα SIM δεν λειτουργεί πλήρως με αυτό το τηλέφωνο επειδή δεν συμμορφώνεται με τους όρους και τις προϋποθέσεις της συνδρομής σας. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περισσότερες πληροφορίες σχετικά με αυτό το ζήτημα, παρακαλούμε επικοινωνήστε με τα κέντρα εξυπηρέτησης της Xiaomi ή το κατάστημα που σας πώλησε το προϊόν."</string>
+    <string name="sim_lock_now_ais_title">SIM %1$d</string>
 </resources>

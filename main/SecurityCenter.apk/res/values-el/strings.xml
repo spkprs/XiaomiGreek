@@ -1854,8 +1854,7 @@
      <string name="privacy_apps_manage_dialog_title">Σχετικά με τις κρυφές εφαρμογές</string>
      <string name="privacy_apps_manager_dialog_message">Τα εικονίδια των εφαρμογών δεν θα εμφανίζονται στην Αρχική οθόνη μετά την απόκρυψη τους.Απόκρυψη αυτής της εφαρμογής?</string>
      <string name="privacy_apps_tutorial">Οδηγίες</string>
-     <string name="privacy_apps_tutorial_prompt_pageone">"Όταν κρύβετε μια εφαρμογή, μεταφέρεται σε ένα κρυφό φάκελο. Η συντόμευση της στην αρχική οθόνη είναι κρυμμένη επίσης.
-Αυτή η δυνατότητα δεν υποστηρίζεται για εφαρμογές συστήματος."</string>
+     <string name="privacy_apps_tutorial_prompt_pageone">"Αυτή η λειτουργία σάς επιτρέπει να αποκρύψετε εικονίδια εφαρμογών, ώστε να μην εμφανίζονται πλέον στην Αρχική οθόνη σας."</string>
      <string name="privacy_apps_tutorial_prompt_pagethree">Αφού εισάγετε τον κωδικό σας, θα εμφανιστεί ο φάκελος με τις κρυφές εφαρμογές.</string>
      <string name="privacy_apps_tutorial_prompt_pagetwo">Ανοίξτε δύο δάχτυλα στην οθόνη. Θα δείτε ένα μήνυμα που σας ζητάει να εισαγάγετε τον κωδικό κλειδώματος εφαρμογής.</string>
      <string name="privacy_declare_dialog_title">Όροι Χρήσης</string>

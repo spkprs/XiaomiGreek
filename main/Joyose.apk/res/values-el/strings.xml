@@ -21,4 +21,11 @@
     <string name="foreground_title">Υπηρεσία προσκηνίου</string>
     <string name="foreground_text">Προώθηση προτεραιότητας με την υπηρεσία προσκηνίου</string>
     <string name="switch_international">Μετάβαση σε διακομιστή εξωτερικού</string>
+	<string name="booster_config_version">Τρέχουσα έκδοση CC:</string>
+	<string name="cc_version">Διαμόρφωση τρέχουσας έκδοσης Cloud:</string>
+	<string name="connect_wifi">Δεν υπάρχει διαθέσιμη σύνδεση WiFi</string>
+	<string name="open_cta">Εκκινήστε την εφαρμογή \"Ασφαλεία\" και επιλέξτε \"Να επιτρέπεται η σύνδεση στο διαδίκτυο\" στις Ρυθμίσεις</string>
+	<string name="stop_sync">Χωρίς αυτο-συγχρονισμό</string>
+	<string name="unknown_error">Αγνωστο σφάλμα</string>
+	<string name="update_success">Ολοκλήρωση Ενημέρωσης</string>
 </resources>

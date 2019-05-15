@@ -148,7 +148,7 @@
      <string name="callrecordview_menu_show_missed">Αναπάντητες κλήσεις</string>
      <string name="callrecordview_menu_show_new">Νέες επαφές</string>
      <string name="callrecordview_menu_show_sim">%s κλήσεις</string>
-     <string name="callrecordview_menu_show_stranger">Κλήσεις από άγνωστους αριθμούς</string>
+     <string name="callrecordview_menu_show_stranger">Άγνωστοι αριθμοί</string>
      <string name="callrecordview_menu_show_title">Προβολή μητρώου κλήσεων</string>
      <string name="cancel_confirmation_dialog_message">Απόρριψη των αλλαγών σας;</string>
      <string name="cancel_confirmation_dialog_title">Ακύρωση</string>

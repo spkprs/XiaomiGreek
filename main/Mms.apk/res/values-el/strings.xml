@@ -493,7 +493,7 @@
      <string name="pref_title_miui_card">Αποστολή μέσω κάρτας</string>
      <string name="pref_title_mms_auto_retrieval">Αυτόματη ανάκτηση MMS</string>
      <string name="pref_title_mms_delete">Όριο μηνυμάτων πολυμέσων</string>
-     <string name="pref_title_mms_read_reports">Ανάγνωση αναφορών</string>
+     <string name="pref_title_mms_read_reports">Αναφορά ανάγνωσης</string>
      <string name="pref_title_mms_retrieval_during_international_roaming">Λήψη περιεχομένου MMS κατά τη διεθνή περιαγωγή</string>
      <string name="pref_title_mms_retrieval_during_national_roaming">Λήψη περιεχομένου MMS κατά την εθνική περιαγωγή</string>
      <string name="pref_title_mms_retrieval_during_roaming">Αυτόμ. ανάκτηση σε περιαγωγή</string>

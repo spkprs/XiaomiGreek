@@ -816,5 +816,6 @@
     <string name="video_beauty_tip">Ωραιοποίηση για Βίντεο</string>
 	<string name="beauty_clear">Εκκαθάριση</string>
 	<string name="beauty_clear_toast">Ολοκληρώθηκε η εκκαθάριση Ωραιοποίησης</string>
-	<string name="edit_hairline">Hairline</string>
+	<string name="edit_hairline">Χτένισμα</string>
+    <string name="portrait_effect_entry_riddle">Καραμέλα</string>
 </resources>

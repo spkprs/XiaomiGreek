@@ -1294,7 +1294,7 @@
   <string name="set_primary_title">Ορισμός ως κύριος λογαριασμός</string>
   <string name="set_smsc_address_error">Αποτυχία ορισμού αριθμού</string>
   <string name="set_smsc_address_timeout">Λήξη χρονικού ορίου σύνδεσης</string>
-  <string name="set_smsc_address_title">Προκαθορισμένος αριθμός κέντρου SMS</string>
+  <string name="set_smsc_address_title">Προεπιλ. αριθμός κέντρου SMS</string>
   <string name="set_time_period">Ορισμός χρονικού διαστήματος</string>
   <string name="settings_label">Ρυθμίσεις δικτύου</string>
   <string name="settings_package">com.android.settings</string>
