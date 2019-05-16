@@ -2697,4 +2697,13 @@
     <string name="gs_show_way">Προσανατολισμός Αρχικής σελίδας</string>
     <string name="gs_show_way_horizontal">Οριζόντια</string>
     <string name="gs_show_way_vertical">Κάθετα</string>
+    <string name="notification_battery_scan_consume_abnormal_title_set">%s αδειάζει μπαταρία</string>
+    <string name="notification_battery_scan_consume_abnormal_summary">Πατήστε για να διορθώσετε το πρόβλημα</string>
+    <string name="pc_abnormal_scan_reason_prevent_standby">Αποτρέπει το Σύστημα σε κατάσταση αναμονής</string>
+    <string name="pc_abnormal_scan_reason_scan_wifi">Αναζητά πολύ συχνά για Wi-Fi</string>
+    <string name="pc_abnormal_scan_reason_use_GPS">Χρησιμοποιεί πολύ συχνά τις υπηρ. Τοποθεσίας</string>
+    <string name="pc_abnormal_scan_reason_runtime_exception">Λειτουργεί ασυνήθιστα</string>
+    <string name="pc_abnormal_scan_reason_wake_system">Ξυπνά το Σύστημα πολύ συχνά</string>
+    <string name="pc_abnormal_scan_reason_reconnect">Προσπαθεί να συνδεθεί πολύ συχνά στο Δίκτυο</string>
+    <string name="pc_abnormal_scan_button_text">Κλείσιμο εφαρμογών</string>
 </resources>

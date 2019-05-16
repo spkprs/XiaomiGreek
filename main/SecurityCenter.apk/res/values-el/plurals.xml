@@ -402,4 +402,12 @@
         <item quantity="other">%d λειτουργίες</item>
         <item quantity="one">%d λειτουργία</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d εφαρμ, περιέχονται %1$s, που αδειάζουν μπαταρία</item>
+        <item quantity="one">%2$d εφαρμ, περιέχεται %1$s, που αδειάζει μπαταρία</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d εφαρμ. που αδειάζουν μπαταρία</item>
+        <item quantity="one">%d εφαρμ που αδειάζει μπαταρία</item>
+    </plurals>
 </resources>

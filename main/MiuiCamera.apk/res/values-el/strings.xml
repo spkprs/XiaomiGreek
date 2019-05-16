@@ -838,4 +838,5 @@
 	<string name="beauty_clear_toast">Ολοκληρώθηκε η εκκαθάριση Ωραιοποίησης</string>
 	<string name="edit_hairline">Χτένισμα</string>
     <string name="portrait_effect_entry_riddle">Καραμέλα</string>
+    <string name="ultra_wide_recommend_tip_hint_sat">Δοκιμάστε την Υπέρ Ευρεία γωνία 0.6Χ</string>
 </resources>
