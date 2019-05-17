@@ -605,7 +605,11 @@
   <string name="err_no_gms">Μη συμβατή έκδοση. Εγκαταστήστε αυτήν την εφαρμογή ξεχωριστά.</string>
   <string name="trans_detail_item_app_data_skip_data">"Αδύνατη η μεταφορά δεδομένων της εφαρμογής"</string>
   <string name="phone_title">Ρυθμίσεις τηλεφώνου</string>
-    <string name="dialog_app_upgrade_message">Νέα έκδοση του Mi Mover είναι διαθέσιμη. Ενημέρωση τώρα?</string>
-    <string name="dialog_app_upgrade_exit">Έξοδος</string>
-    <string name="dialog_app_upgrade_download">Ενημέρωση</string>
+  <string name="dialog_app_upgrade_message">Νέα έκδοση του Mi Mover είναι διαθέσιμη. Ενημέρωση τώρα?</string>
+  <string name="dialog_app_upgrade_exit">Έξοδος</string>
+  <string name="dialog_app_upgrade_download">Ενημέρωση</string>
+  <string name="dialog_backup_password_change_machine_tips">"Δεν θα μπορείτε να μεταφέρετε αντίγραφα που προστατεύονται με κωδικό. Απενεργοποιήστε τον κωδικό πριν χρησιμοποιήσετε το Mi Mover."</string>
+  <string name="dialog_backup_password_backup_tips">"Αδύνατη η δημιουργία αντιγράφων των στοιχείων με ενεργό κωδικό. Απενεργοποιήστε τον κωδικό."</string>
+  <string name="dialog_backup_password_cancel">Ακύρωση</string>
+  <string name="dialog_backup_password_to_settings">Ρυθμίσεις</string>
 </resources>

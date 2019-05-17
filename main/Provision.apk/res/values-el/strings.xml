@@ -129,4 +129,5 @@
 	  <string name="skip_gesture_guide_dialog_negative_btn">Ακύρωση</string>
 	  <string name="skip_gesture_guide_dialog_positive_btn">Εντάξει</string>
 	  <string name="skip_gesture_guide_dialog_title">Χειρονομίες πλήρους οθόνης</string>
+      <string name="terms_of_use_label_updater">, Εφαρμ. Ενημέρωσης</string>
 </resources>

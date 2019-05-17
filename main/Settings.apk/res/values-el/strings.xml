@@ -6323,4 +6323,24 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="search_add_facerecoginition_text">Ξεκλείδωμα προσώπου;Αναγνώριση προσώπου</string>
     <string name="search_manage_facerecoginition_text">Ξεκλείδωμα προσώπου;Αναγνώριση προσώπου</string>
 	<string name="dc_light_summary_new">Η ρύθμιση του DC μειώνει την καταπόνηση των ματιών σε συνθήκες χαμηλού φωτισμού. Ωστόσο, η ποιότητα της εικόνας μπορεί να επηρεαστεί με ενεργή την λειτουργία Anti-flicker (Σταθεροποίησης).</string>	
+	<string name="color_led_applications_title">Επιλέξτε εφαρμογές</string>
+	<string name="color_led_applications_title_summary">Μπορείτε να περιορίσετε τη χρήση LED σε μεμονωμένες εφαρμογές</string>
+	<string name="color_led_battery_title">Ένδειξη κατά τη φόρτιση</string>
+	<string name="color_led_end_time">Ώρα λήξης</string>
+	<string name="color_led_game_mode_title">Game Turbo</string>
+	<string name="color_led_hint">Επιλέξτε τα σχέδια χρήσης του LED. Το LED ανάβει με οθόνη στραμμένη προς τα κάτω και ανενεργή λειτουργία DND.</string>
+	<string name="color_led_incall_pulse_title">Φλας για εισερχόμενες κλήσεις</string>
+	<string name="color_led_lucky_dialog_title">Ενεργοποιήστε τον βοηθό Red envelope</string>
+	<string name="color_led_lucky_dialog_message">Αυτή η δυνατότητα απαιτεί τη χρήση του βοηθού Red envelope. Ενεργοποίηση;</string>
+	<string name="color_led_music_mode_title">Μουσική</string>
+	<string name="color_led_music_mode_summary">Προβολή ρυθμικών εφέ φωτισμού κατά την αναπαραγωγή μουσικής</string>
+	<string name="color_led_notification_pulse_title">Παλμός σε ειδοποιήσεις</string>
+	<string name="color_led_red_more_feature">Ειδικά εφέ</string>
+	<string name="color_led_red_package_title">Red envelopes</string>
+	<string name="color_led_start_time">Ωρα έναρξης</string>
+	<string name="color_led_title">Φωτισμός LED</string>
+    <string name="long_press_power_key">Παρατεταμένο πάτημα του πλήκτρου [POWER]</string>
+    <string name="long_press_power_key_tips"><Data>Παρατεταμένο πάτημα του πλήκτρου [POWER] &lt;font color=#999999>Ταχύτερο και πιο βολικό&lt;/font></Data></string>
+	<string name="toggle_auto_speaker_preference_title">Αυτόματη μετάβαση στο ηχείο</string>
+	<string name="toggle_auto_speaker_preference_summary">Ο ήχος θα μεταβεί στο ηχείο όταν μετακινήσετε τη συσκευή μακριά από το αυτί σας κατά την κλήση. Αυτό λειτουργεί μόνο με ενεργό το TalkBack.</string>
 </resources>
