@@ -1124,10 +1124,10 @@
      <string name="notification_group_overflow_indicator">+%s</string>
      <string name="notification_header_default_channel">Ειδοποιήσεις</string>
      <string name="notification_header_title">Ειδοποιήσεις</string>
-     <string name="notification_hidden_by_policy_text">Περιεχόμενα κρυφά απο την Πολιτική</string>
+     <string name="notification_hidden_by_policy_text">Κρυφά περιεχόμενα Απορρήτου</string>
      <string name="notification_hidden_text">Κρυφό περιεχόμενο</string>
      <string name="notification_info_channel_disabled_text">Δεν θα λάβετε %2$s ειδοποιήσεις από %1$s.</string>
-     <string name="notification_info_channel_enabled_text">Θα λάβετε %2$s ειδοποιήσεις από %1$s.</string>
+     <string name="notification_info_channel_enabled_text">Θα λάβετε ειδοποιήσεις της εφαρμ. %2$s από το %1$s.</string>
      <string name="notification_low_battery_action_btn">Ενεργοποίηση</string>
      <string name="notification_low_battery_need_charge">Χαμηλή μπαταρία. Φορτίστε τη συσκευή σας.</string>
      <string name="notification_low_battery_open_save_mode">Ενεργοποίηση Εξοικ.μπαταρίας</string>
