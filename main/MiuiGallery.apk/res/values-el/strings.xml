@@ -1822,4 +1822,7 @@
 	  <string name="filter_sky_sunny">Ηλιόλουστος</string>
 	  <string name="filter_sky_sunset">Ηλιοβασίλεμα</string>
 	  <string name="trash_bin_key_word">Διαγραμμένες φωτογραφίες</string>
+	  <string name="clear_dup_medias">Εκκαθάριση διπλότυπων φωτογραφιών</string>
+      <string name="clear_dup_success">Επιτυχής εκκαθάριση</string>
+      <string name="clear_dup_tip">Εκκαθάριση διπλών φωτογραφιών</string>
 </resources>

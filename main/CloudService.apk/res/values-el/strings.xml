@@ -41,7 +41,6 @@
      <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
      <string name="find_device_error_network">Ελέγξτε τη σύνδεση δεδομένων σας και δοκιμάστε ξανά.</string>
      <string name="find_device_error_server">Κάτι πήγε στραβά με τους διακομιστές μας.</string>
-     <string name="find_device_gdpr_prompt">Ενεργοποιώντας τη λειτουργία Εύρεση συσκευής, συμφωνείτε με την Πολιτική Απορρήτου μας. Εάν θέλετε να ακυρώσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία..</string>
      <string name="find_device_gdpr_prompt_policy_doc_name">Privacy Policy</string>
      <string name="find_device_operation_failure_rpc">Δεν μπορούσε να εκτελέσει τη λειτουργία που οφείλεται σε σφάλμα RPC.</string>
      <string name="find_device_send_sms_alert">Εάν αλλάξετε κάρτα SIM, ένα άλλο SMS θα σταλεί αυτόματα για να ενεργοποιήσετε ξανά αυτήν την υπηρεσία.</string>
@@ -489,4 +488,5 @@
       <string name="provision_sync_items_loading">Προετοιμασία συγχρονισμού στοιχείων</string>
 	  <string name="user_detail_agreement">Συμφωνία χρήστη</string>
 	  <string name="user_detail_privacy_policy">Πολιτική απορρήτου</string>
+      <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την<u><a href="app://com.miui.cloudservice.gdpr.license">Πολιτική Απορρήτου</a></u> μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
 </resources>

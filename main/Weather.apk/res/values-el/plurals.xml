@@ -48,4 +48,20 @@
         <item quantity="other">Μπορείτε να υποβάλετε ξανά τα σχόλιά σας σε %1$s δευτ.</item>
         <item quantity="one">Μπορείτε να υποβάλετε ξανά τα σχόλιά σας σε %1$s δευτ.</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Υψηλή θερμοκρασία: %1$s βαθμοί Celsius</item>
+        <item quantity="one">Υψηλή θερμοκρασία: %1$s βαθμοί Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Υψηλή θερμοκρασία: %1$s βαθμοί Fahrenheit</item>
+        <item quantity="one">Υψηλή θερμοκρασία: %1$s βαθμοί Fahrenheit</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Χαμηλή θερμοκρασία: %1$s βαθμοί Celsius</item>
+        <item quantity="one">Χαμηλή θερμοκρασία: %1$s βαθμοί Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Χαμηλή θερμοκρασία: %1$s βαθμοί Fahrenheit</item>
+        <item quantity="one">Χαμηλή θερμοκρασία: %1$s βαθμοί Fahrenheit</item>
+    </plurals>
 </resources>
