@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-     <string-array name="ai_scene_names">
+    <string-array name="ai_scene_names">
         <item>Δεν υπάρχει</item>
         <item>Έγγραφα</item>
         <item>Λουλούδια</item>
@@ -37,40 +36,10 @@
         <item>Παραλία</item>
         <item>Υποβρύχιο</item>
         <item>Αγαλμα</item>
-     </string-array>
-     <string-array name="pref_camera_antibanding_entryvalues">
-        <item>off</item>
-        <item>50hz</item>
-        <item>60hz</item>
-        <item>auto</item>
-     </string-array>
-     <string-array name="pref_camera_flashmode_entryvalues">
-        <item>off</item>
-        <item>auto</item>
-        <item>on</item>
-        <item>torch</item>
-     </string-array>
-     <string-array name="pref_camera_focusmode_default_array">
-        <item>continuous-picture</item>
-     </string-array>
-     <string-array name="pref_camera_focusmode_entryvalues">
-        <item>continuous-picture</item>
-        <item>macro</item>
-        <item>manual</item>
-     </string-array>
-     <string-array name="pref_camera_scenemode_entryvalues">
-        <item>off</item>
-        <item>auto</item>
-        <item>portrait</item>
-        <item>landscape</item>
-        <item>sports</item>
-        <item>night</item>
-        <item>night-portrait</item>
-        <item>beach</item>
-        <item>snow</item>
-        <item>sunset</item>
-        <item>fireworks</item>
-        <item>backlight</item>
-        <item>flowers</item>
-     </string-array>
+    </string-array>
+    <string-array name="denoise_entries">
+        <item>Προεπιλογή</item>
+        <item>Ενεργό</item>
+        <item>Ανενεργό</item>
+    </string-array>
 </resources>

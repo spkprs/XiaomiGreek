@@ -280,4 +280,8 @@
         <item quantity="other">%1$d αρχεία</item>
         <item quantity="one">%1$d αρχείο</item>
     </plurals>
+   <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Τα κολάζ μπορούν να περιέχουν 1-%d φωτό</item>
+        <item quantity="one">Το κολάζ μπορεί να περιέχει 1-%d φωτό</item>
+    </plurals>
 </resources>
