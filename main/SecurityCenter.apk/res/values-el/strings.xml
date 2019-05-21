@@ -149,7 +149,7 @@
      <string name="app_manager_app_update">Ενημερώσεις</string>
      <string name="app_manager_app_version_name">Έκδοση:</string>
      <string name="app_manager_appupdate_remind">Ειδοπ. σχετικά με ενημερώσεις</string>
-     <string name="app_manager_as_dlg_msg">Εάν επιτρέπετε σε εφαρμογές τηναυτόματη εκκίνηση, ενδέχεται να απαιτούνται πρόσθετες λειτουργίες μνήμης RAM και μπαταρίας. Επιτρέπετε;</string>
+     <string name="app_manager_as_dlg_msg">Αν επιτρέψετε την αυτόματη εκκίνηση, ενδέχεται να καταναλώνει επιπλέον μνήμη RAM και μπαταρία. Επιτρέπετε;</string>
      <string name="app_manager_as_dlg_title">Προσοχή</string>
      <string name="app_manager_back">Πίσω</string>
      <string name="app_manager_bipartition">Διπλές</string>

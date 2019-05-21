@@ -271,4 +271,5 @@
 	  <string name="module_download_msg_timer">Το ρολόι χρειάζεται να κάνει λήψη αρχείων ήχου για χρονόμετρα θορύβους περιβάλλοντος. Λήψη τώρα?</string>
 	  <string name="personal_recommend">Εξατομικευμένες προτάσεις περιεχομένου</string>
 	  <string name="user_agreement">Συμφωνία χρήστη</string>
+     <string name="update_notification_info">Ενημέρωση δεδομένων στο παρασκήνιο…</string>
 </resources>

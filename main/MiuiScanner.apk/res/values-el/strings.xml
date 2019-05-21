@@ -73,8 +73,8 @@
      <string name="aliusersdk_network_error">亲，您的手机网络不太顺畅喔~</string>
      <string name="aliusersdk_session_error">亲，你的操作已超时，请重试</string>
      <string name="amazon_assistant_shopping_title">Εύρεση σε Amazon</string>
-     <string name="app_description_content">Scanner allows you to scan QR codes, documents, business cards, and more. Make sure you can do without these features before you uninstall the app.</string>
-     <string name="app_description_title">About Scanner</string>
+     <string name="app_description_content">Ο Σαρωτής σας επιτρέπει να σαρώσετε κωδικούς QR, έγγραφα, κάρτες, και άλλα. Βεβαιωθείτε οτι δεν χρειάζεστε αυτές τις λειτουργίες πριν να απεγκαταστήσετε την εφαρμογή.</string>
+     <string name="app_description_title">Σχετικά με Σαρωτή</string>
      <string name="app_details">Εφαρμογή:</string>
      <string name="app_name">Σαρωτής</string>
      <string name="auth_sdk_message_10003_action" />

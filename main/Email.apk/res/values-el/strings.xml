@@ -443,8 +443,8 @@
   <string name="failed">Δεν ήταν δυνατή η φόρτωση της εικόνας</string>
   <string name="failed_parse_eml_file">Αδυναμία ανοίγματος αρχείου EML, προσπαθήστε ξανά.</string>
   <string name="failed_read_phone_state_permission">Επιτρέψτε την πρόσβαση στην κατάσταση της συσκευής</string>
-  <string name="failed_read_write_calendar_permission">Επιτρέψτε την πρόσβαση στο Ημερολόγιο</string>
-  <string name="failed_read_write_contacts_permission">Επιτρέψτε την πρόσβαση στις Επαφές</string>
+  <string name="failed_read_write_calendar_permission">Η πρόσβαση είναι περιορισμένη στο Ημερολόγιο</string>
+  <string name="failed_read_write_contacts_permission">Η πρόσβαση είναι περιορισμένη στις Επαφές</string>
   <string name="feedback">Αποστολή σχολιασμού</string>
   <string name="feedback_body">Πληροφορίες σχολιασμού</string>
   <string name="feedback_sent">Ευχαριστούμε για τα σχόλιά σας. Θα συνεχίσουμε να βελτιωνόμαστε για εσάς</string>

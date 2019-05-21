@@ -483,10 +483,10 @@
 	  <string name="warning_bar_title_master_sync_off">Ο αυτόμ. συγχρ. είναι ανενεργός</string>
 	  <string name="warning_bar_title_network_unconnected">"Αδυναμία σύνδεσης στο δίκτυο"</string>
 	  <string name="warning_bar_title_short_cut">Προσθήκη συντόμευσης του Mi cloud στην αρχική οθόνη?</string>
-	  <string name="warning_bar_title_sync_off">Ο συγχρ. με το Mi cloud είναι ανενεργός</string>
+	  <string name="warning_bar_title_sync_off">Ο συγχρ. με το Mi Cloud είναι ανενεργός</string>
       <string name="enable_sync_setting_title">Ρύθμιση υπηρεσιών Cloud…</string>
       <string name="provision_sync_items_loading">Προετοιμασία συγχρονισμού στοιχείων</string>
 	  <string name="user_detail_agreement">Συμφωνία χρήστη</string>
 	  <string name="user_detail_privacy_policy">Πολιτική απορρήτου</string>
-      <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την<u><a href="app://com.miui.cloudservice.gdpr.license">Πολιτική Απορρήτου</a></u> μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
+      <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Πολιτική Απορρήτου&lt;/a&gt;&lt;/u&gt; μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
 </resources>
