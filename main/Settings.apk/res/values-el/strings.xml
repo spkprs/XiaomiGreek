@@ -1022,7 +1022,7 @@
      <string name="clear_failed_dlg_text">Δεν ήταν δυνατή η διαγραφή δεδομένων για την εφαρμογή</string>
      <string name="clear_failed_dlg_title">Εκκαθάριση δεδομένων</string>
      <string name="clear_uri_btn_text">Καθαρή πρόσβαση</string>
-     <string name="clear_user_data_text">Καθαρισμός δεδομένων</string>
+     <string name="clear_user_data_text">Καθαρισμός δεδομ</string>
      <string name="close_app">Κλείσιμο τρέχουσας εφαρμογής</string>
      <string name="close_demo_mode">Ακύρωση</string>
      <string name="close_gesture">Κλείσιμο με χρήση χειρονομίας</string>

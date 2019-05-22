@@ -159,7 +159,7 @@
      <string name="app_manager_clear_cache">Καθαρισμός Cache</string>
      <string name="app_manager_clear_data_dlg_message">Όλα τα δεδομένα αυτής της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, ρυθμίσεις, λογαριασμούς, βάσεις δεδομένων κλπ.</string>
      <string name="app_manager_clear_data_dlg_title">Διαγραφή δεδομένων εφαρμογής;</string>
-     <string name="app_manager_clear_dlg_title">Καθαρ-δεδομ</string>
+     <string name="app_manager_clear_dlg_title">Καθαρισμός δεδομ</string>
      <string name="app_manager_clear_failed_dlg_message">Αδυναμία καθαρισμού δεδομένων εφαρμογής.</string>
      <string name="app_manager_code_size">Μέγεθος εφαρμογής</string>
      <string name="app_manager_comuting_size">Υπολογισμός…</string>
