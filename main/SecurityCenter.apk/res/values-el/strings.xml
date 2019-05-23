@@ -295,7 +295,7 @@
      <string name="applock_close_dialog_title">Απενεργοποίηση κλειδώματος ;</string>
      <string name="applock_exit_account_info">Ο λογαριασμός θα καταργηθεί αυτόματα όταν αποσυνδεθείτε</string>
      <string name="applock_face_unlock_summary">Ξεκλείδωμα εφαρμ. με χρήση Δεδομ. προσώπου</string>
-     <string name="applock_face_unlock_title">Ξεκλείδωμα προσώπου</string>
+     <string name="applock_face_unlock_title">Μέσω Προσώπου</string>
      <string name="applock_function_base_settings">Κλείδωμα εφαρμογής</string>
      <string name="applock_function_pwd_settings">Κωδικός</string>
      <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
@@ -825,8 +825,8 @@
      <string name="face_unlock_face_auth_failed_title">Αδύνατη η επαλήθευση δεδομένων προσώπου. Μετάβαση σε άλλες μεθόδους ξεκλειδώματος ...</string>
      <string name="face_unlock_face_start_title">Επαλήθευση δεδομένων προσώπου…</string>
      <string name="face_unlock_finger_or_password_switch">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα ή εισάγετε κωδικό για να ξεκλειδώσετε.</string>
-     <string name="face_unlock_guide_confirm">Χρήση Ξεκλείδωμα προσώπου</string>
-     <string name="face_unlock_guide_dialog_summary">Μπορείτε να χρησιμοποιήσετε δεδομένα προσώπου για να ξεκλειδώσετε τη συσκευή σας. Ενεργοποίηση Ξεκλείδωμα προσώπου?</string>
+     <string name="face_unlock_guide_confirm">Συνέχεια</string>
+     <string name="face_unlock_guide_dialog_summary">Χρησιμοποιήστε τα Δεδομένα προσώπου σας για να ξεκλειδώσετε τη συσκευή σας. Ενεργοποίηση?</string>
      <string name="face_unlock_not_found">Δεν μπορώ να σας αναγνωρίσω</string>
      <string name="face_unlock_open_eye">Ανοίξτε τα μάτια σας λίγο πιο πολύ</string>
      <string name="face_unlock_reveal_eye">Δείξτε τα μάτια σας</string>
@@ -847,7 +847,7 @@
      <string name="fingerprint_identify_msg">Σάρωση δακτυλικού αποτυπώματος…</string>
      <string name="fingerprint_not_identified_msg">Για να ξεκλειδώσετε τη συσκευή σας, εισάγετε τον κωδικό σας.</string>
      <string name="fingerprint_not_remind">Να μην ερωτηθώ ξανά</string>
-     <string name="fingerprint_remind_dialog_title">Ξεκλείδωμα μέσω δακτυλικού αποτυπώματος</string>
+     <string name="fingerprint_remind_dialog_title">Μέσω Δακτυλικού αποτυπώματος</string>
      <string name="fingerprint_to_lock">Ξεκλείδωμα με δακτυλικό αποτύπωμα</string>
      <string name="fingerprint_to_lock_summary">Ξεκλειδώστε εφαρμογές χρησιμοποιώντας το αποτύπωμά σας</string>
      <string name="fingerprint_verify_failed">Αδυναμία επαλήθευσης</string>

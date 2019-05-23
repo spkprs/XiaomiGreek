@@ -2100,7 +2100,7 @@
      <string name="information_dialog_button_text">Το κατάλαβα</string>
      <string name="input_hint_prefix">Εισαγωγή %1$s</string>
      <string name="input_method">Μέθοδος εισαγωγής</string>
-     <string name="input_method_selector">Επιλογή μεθόδου εισόδου</string>
+     <string name="input_method_selector">Επιλογή πληκτρολογίου</string>
      <string name="input_method_selector_always_hide_title">Απόκρυψη πάντα</string>
      <string name="input_method_selector_always_show_title">Εμφάνιση πάντα</string>
      <string name="input_method_selector_show_automatically_title">Αυτόματα</string>
@@ -5980,7 +5980,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	  <string name="night_light_color_tip">Οι αλλαγές θα εφαρμοστούν όταν η Λειτουργία ανάγνωσης είναι ανενεργή</string>
 	  <string name="night_light_tip">Οι αλλαγές θα εφαρμοστούν όταν η Λειτουργία ανάγνωσης είναι ενεργή</string>
 	  <string name="ambient_display_title">Πατήστε δύο φορές για να ελέγξετε το τηλέφωνο</string>
-	  <string name="input_assistance">Βοηθός εισόδου</string>
+	  <string name="input_assistance">Βοηθός πληκρολόγησης</string>
 	  <string name="show_password_summary">Σύντομη εμφάνιση χαρακτήρων κατά την πληκτρολόγηση</string>
 	  <string name="encryption_and_credential_settings_title">Κρυπτογράφηση και διαπιστευτήρια</string>
 	  <string name="encryption_and_credential_settings_summary">Το τηλέφωνο είναι κρυπτογραφημένο</string>
@@ -6339,8 +6339,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	<string name="color_led_red_package_title">Red envelopes</string>
 	<string name="color_led_start_time">Ωρα έναρξης</string>
 	<string name="color_led_title">Φωτισμός LED</string>
-    <string name="long_press_power_key">Παρατεταμένο πάτημα του πλήκτρου [POWER]</string>
-    <string name="long_press_power_key_tips"><Data>Παρατεταμένο πάτημα του πλήκτρου [POWER] &lt;font color=#999999>Ταχύτερο και πιο βολικό&lt;/font></Data></string>
 	<string name="toggle_auto_speaker_preference_title">Αυτόματη μετάβαση στο ηχείο</string>
 	<string name="toggle_auto_speaker_preference_summary">Ο ήχος θα μεταβεί στο ηχείο όταν μετακινήσετε τη συσκευή μακριά από το αυτί σας κατά την κλήση. Αυτό λειτουργεί μόνο με ενεργό το TalkBack.</string>
 </resources>

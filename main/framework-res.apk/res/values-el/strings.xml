@@ -1260,7 +1260,7 @@
      <string name="select_character">Εισαγωγή χαρακτήρα</string>
      <string name="select_day">Επιλέξτε μήνα και ημέρα</string>
      <string name="select_hours">Επιλέξτε ώρες</string>
-     <string name="select_input_method">Επιλογή μεθόδου εισόδου</string>
+     <string name="select_input_method">Επιλογή πληκτρολογίου</string>
      <string name="select_keyboard_layout_notification_message">Αγγίξτε για να επιλέξετε γλώσσα και διάταξη.</string>
      <string name="select_keyboard_layout_notification_title">Επιλογή διάταξης πληκτρολογίου</string>
      <string name="select_minutes">Επιλέξτε λεπτά</string>
