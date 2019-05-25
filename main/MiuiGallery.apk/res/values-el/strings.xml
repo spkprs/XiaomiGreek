@@ -624,6 +624,7 @@
      <string name="cleaner_screen_shot_action">Καθαρισμός</string>
      <string name="cleaner_screen_shot_description">Διαγράψτε τα στιγμιότυπα οθόνης που δεν χρειάζεστε πλέον.</string>
      <string name="cleaner_screen_shot_title">Διαγραφή στιγμιοτύπων</string>
+     <string name="cleaner_similar_action">Διαγραφή τώρα</string>
      <string name="cleaner_slim_action">Έναρξη βελτιστοποίησης…</string>
      <string name="cleaner_slim_description">Διατηρήστε τις βελτιστοποιημένες φωτογραφίες στη συσκευή σας. Τα πρωτότυπα αρχεία θα αποθηκευτούν στο Mi Cloud.</string>
      <string name="cleaner_slim_start">Βελτιστοποίηση</string>
@@ -870,7 +871,7 @@
      <string name="ext_sdcard_permission_request_title">Παραχώρηση πρόσβασης</string>
      <string name="ext_sdcard_request_failed_button_text">OK</string>
      <string name="ext_sdcard_request_succeed_toast_text">"Είστε έτοιμοι!"</string>
-     <string name="face_album_empty">"Δεν υπάρχουν αρκετές φωτογραφίες για να αναγνωρίσουν τους ανθρώπους.\u000d
+     <string name="face_album_empty">"Δεν υπάρχουν αρκετές φωτογραφίες για αναγνώριση ατόμων.
 Πάρτε περισσότερες φωτογραφίες από τους φίλους σας!"</string>
      <string name="face_album_empty_syncing">Συγχρονισμός δεδομένων.</string>
      <string name="face_album_empty_syncing_when_connect_wifi">Τα δεδομένα σχετικά με τα πρόσωπα θα συγχρονιστούν όταν συνδεθείτε σε Wi‑Fi</string>
@@ -998,7 +999,7 @@
      <string name="ignore_album">Αγνοήστε</string>
      <string name="ignore_alert_title">Να μην εμφανίζεται αυτό το άλμπουμ;</string>
      <string name="ignore_face">Αγνοήστε αυτό το άτομο</string>
-     <string name="ignore_faces_title">Αγνοήθηκε</string>
+     <string name="ignore_faces_title">Αγνοήθηκαν</string>
      <string name="image_decode_failed">Αδύνατη η αποκωδικοποίηση της εικόνας</string>
      <string name="image_download_item_title">Λήψη φωτογραφίας (%s)</string>
      <string name="image_invalid_path">Μη έγκυρη διαδρομή</string>
@@ -1140,7 +1141,7 @@
      <string name="new_relation_invalid_prefix">Δεν είναι δυνατή η εκκίνηση ονομάτων ομάδων με &amp;quot;.&amp;quot; Ή &amp;quot;_&amp;quot;</string>
      <string name="next">Επόμενο</string>
      <string name="no">Όχι</string>
-     <string name="no_ignore_faces">Δεν υπάρχουν άνθρωποι εδώ</string>
+     <string name="no_ignore_faces">Δεν υπάρχουν άτομα εδώ</string>
      <string name="no_map_app">Δεν υπάρχει εφαρμογή χαρτών</string>
      <string name="no_network_connected">Δεν υπάρχει σύνδεση διαδικτύου</string>
      <string name="not_ask_any_more">Να μην ερωτηθώ ξανά για \"%s\" απαντήσεις</string>

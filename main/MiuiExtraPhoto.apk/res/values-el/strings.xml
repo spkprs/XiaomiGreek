@@ -10,7 +10,7 @@
   <string name="refocus_discard_confirm_message">Αποθήκευση αλλαγών;</string>
   <string name="refocus_discard_negative_btn">Απόρριψη</string>
   <string name="refocus_discard_positive_btn">Αποθήκευση</string>
-  <string name="refocus_photo_not_support">Δεν είναι δυνατή η εφαρμογή θόλωσης σε αυτήν τη φωτογραφία</string>
+  <string name="refocus_photo_not_support">Αδύνατη η εφαρμογή θόλωσης σε αυτήν τη φωτογραφία</string>
   <string name="refocus_relighting_toast">Μετακινήστε τον κύκλο για ρύθμιση γωνίας φωτισμού</string>
   <string name="refocus_save_cancel">Ακύρωση</string>
   <string name="refocus_save_title">Επιλέξτε μορφή</string>
@@ -18,7 +18,7 @@
   <string name="refocus_save_to_video">Αποθήκευση ως βίντεο</string>
   <string name="refocus_saving">Αποθήκευση…</string>
   <string name="refocus_title">Θόλωση</string>
-  <string name="refocus_type_relighting">Στούντιο φωτισμού</string>
+  <string name="refocus_type_relighting">Φωτισμός στούντιο</string>
   <string name="refocus_type_relighting_no_face">Δεν βρέθηκε πρόσωπο</string>
   <string name="refocus_type_relighting_small_face">Ο φωτισμός στούντιο λειτουργεί σε φωτογραφίες όπου τα πρόσωπα χρειάζονται περισσότερο διάστημα από ό, τι εδώ.</string>
   <string name="refocus_type_static">Επίπεδο θολώματος</string>

@@ -649,7 +649,7 @@
      <string name="bluetooth_device_context_pair_connect">Σύζευξη και σύνδεση</string>
      <string name="bluetooth_device_context_unpair">Αποσύζευξη</string>
      <string name="bluetooth_device_details">Ρυθμίσεις συσκευής</string>
-     <string name="bluetooth_device_misc_title">Συσκευές Bluetooth με σπάνια χρήση</string>
+     <string name="bluetooth_device_misc_title">Συσκευές με σπάνια χρήση</string>
      <string name="bluetooth_device_name">Όνομα:</string>
      <string name="bluetooth_device_searchable">Ανιχνεύσιμη</string>
      <string name="bluetooth_devices">Συσκευές Bluetooth</string>
@@ -798,10 +798,11 @@
      <string name="bluetooth_unlock_change_device_confirm_msg">Η παλιά συσκευή θα αντικατασταθεί με τη νέα, είστε σίγουροι ;</string>
      <string name="bluetooth_unlock_change_matched_device">Επιλογή άλλης συσκευής</string>
      <string name="bluetooth_unlock_confirm_device_text">Παρακαλούμε κάντε επιβεβαίωση της συσκευής</string>
-     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Πατήστε το κουμπί στο ρολόι για να ξεκλειδώσετε.</string>
+     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Επιβεβαιώστε στο Ρολόι.</string>
+     <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Επιβεβαιώστε στο Band.</string>
      <string name="bluetooth_unlock_confirm_device_text_for_miband2">Πατήστε το κουμπί στη συσκευή για να ξεκλειδώσετε.</string>
      <string name="bluetooth_unlock_delete_device">Διαγραφή της συσκευής</string>
-     <string name="bluetooth_unlock_delete_device_confirm_msg">Είσαι σίγουρος για τη διαγραφή;</string>
+     <string name="bluetooth_unlock_delete_device_confirm_msg">Είστε σίγουρος για τη διαγραφή;</string>
      <string name="bluetooth_unlock_device_matched_text">Χρήση της συσκευής για ξεκλείδωμα.</string>
      <string name="bluetooth_unlock_no_matched_device_yet">Δεν υπάρχει διαθέσιμη συσκευή</string>
      <string name="bluetooth_unlock_settings_devices_title">Συσκευή</string>
@@ -5980,7 +5981,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	  <string name="night_light_color_tip">Οι αλλαγές θα εφαρμοστούν όταν η Λειτουργία ανάγνωσης είναι ανενεργή</string>
 	  <string name="night_light_tip">Οι αλλαγές θα εφαρμοστούν όταν η Λειτουργία ανάγνωσης είναι ενεργή</string>
 	  <string name="ambient_display_title">Πατήστε δύο φορές για να ελέγξετε το τηλέφωνο</string>
-	  <string name="input_assistance">Βοηθός πληκρολόγησης</string>
+	  <string name="input_assistance">Βοηθός πληκτρολόγησης</string>
 	  <string name="show_password_summary">Σύντομη εμφάνιση χαρακτήρων κατά την πληκτρολόγηση</string>
 	  <string name="encryption_and_credential_settings_title">Κρυπτογράφηση και διαπιστευτήρια</string>
 	  <string name="encryption_and_credential_settings_summary">Το τηλέφωνο είναι κρυπτογραφημένο</string>

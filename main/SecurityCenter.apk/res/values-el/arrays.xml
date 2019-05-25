@@ -67,26 +67,26 @@
         <item>Αυτό το μήνα Wi-Fi</item>
      </string-array>
      <string-array name="date_of_traffic">
-        <item>Χθές</item>
-        <item>Σήμερα</item>
-        <item>Τον προηγούμενο μήνα</item>
-        <item>Αυτό το μήνα</item>
+        <item>"Χθές "</item>
+        <item>"Σήμερα "</item>
+        <item>"Τον προηγούμενο μήνα "</item>
+        <item>"Αυτό το μήνα "</item>
      </string-array>
      <string-array name="date_of_traffic_cmcc">
-        <item>Αυτή την εβδομάδα</item>
-        <item>Σήμερα</item>
-        <item>Αυτό το μήνα</item>
+        <item>"Αυτή την εβδομάδα "</item>
+        <item>"Σήμερα "</item>
+        <item>"Αυτό το μήνα "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix">
-        <item>Χθές:</item>
-        <item>Σήμερα:</item>
-        <item>Τον προηγούμενο μήνα:</item>
-        <item>Αυτό το μήνα:</item>
+        <item>"Χθές: "</item>
+        <item>"Σήμερα: "</item>
+        <item>"Τον προηγούμενο μήνα: "</item>
+        <item>"Αυτό το μήνα: "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
-        <item>Αυτή την εβδομάδα:</item>
-        <item>Σήμερα:</item>
-        <item>Αυτό το μήνα:</item>
+        <item>"Αυτή την εβδομάδα: "</item>
+        <item>"Σήμερα: "</item>
+        <item>"Αυτό το μήνα: "</item>
      </string-array>
      <string-array name="key_app_info">
         <item>install_source</item>
@@ -110,8 +110,8 @@
         <item>红包来了</item>
      </string-array>
      <string-array name="mi_service_traffic_type">
-        <item> Χρήση κινητής... </item>
-        <item> Χρήση Wi‑Fi... </item>
+        <item>"Χρήση κινητής "</item>
+        <item>"Χρήση Wi‑Fi "</item>
      </string-array>
      <integer-array name="om_app_background_restrict">
         <item>0</item>
@@ -269,7 +269,7 @@
         <item>Απεριόριστο πρόγραμμα δεδομένων</item>
      </string-array>
      <string-array name="traffic_type">
-        <item>Χρήση κινητής...</item>
-        <item>Χρήση Wi‑Fi...</item>
+        <item>"Χρήση κινητής  "</item>
+        <item>"Χρήση Wi‑Fi  "</item>
      </string-array>
 </resources>

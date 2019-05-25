@@ -109,12 +109,12 @@
      <string name="menu_item_sort_by_name">Ταξινόμηση κατά όνομα</string>
      <string name="module_download_cancel">Όχι ευχαριστώ</string>
      <string name="module_download_data_msg">"Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Οι έξυπνες αφυπνίσεις περιέχουν περιέχουν ήχους ειδικά για τρέχουσες πληροφορίες καιρού. Για αυτό την λήψη απαιτούνται 20MB δεδομένων κινητής τηλεφωνίας. Λήψη τώρα?"</string>
-     <string name="module_download_data_msg_golbal">"ο ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Περίπου 20MB απαιτούνται. Αποδοχή?"</string>
+     <string name="module_download_data_msg_golbal">"Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Περίπου 20MB απαιτούνται. Αποδοχή?"</string>
      <string name="module_download_fail">"Δεν ήταν δυνατή η λήψη πρόσθετου ήχου"</string>
      <string name="module_download_msg">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Οι έξυπνες αφυπνίσεις περιέχουν περιέχουν ήχους ειδικά για τρέχουσες πληροφορίες καιρού. Λήψη τώρα?</string>
      <string name="module_download_msg_golbal">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Αποδοχή?</string>
      <string name="module_download_no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
-     <string name="module_download_ok">Συμφωνώ</string>
+     <string name="module_download_ok">Λήψη</string>
      <string name="module_download_success">Έγινε λήψη του πρόσθετου ήχου με επιτυχία</string>
      <string name="module_download_title">Απαιτείται επιπλέον ήχος</string>
      <string name="module_downloading">Λήψη πρόσθετου ήχου…</string>
@@ -257,7 +257,7 @@
 	  <string name="clock_bg_button_setting_summary_common">Επιλέξτε χρώμα φόντου για την εφαρμογή Ρολογιού</string>
 	  <string name="clock_bg_button_setting_summary_follow_sys">Το μαύρο χρώμα θα χρησιμοποιηθεί ως χρώμα φόντου κάθε φορά που μεταβαίνετε στη Σκοτεινή λειτουργία</string>
 	  <string name="clock_bg_button_setting_title">Χρώμα φόντου</string>
-	  <string name="dialog_privacy_content">Για να λάβετε και να συγχρονίσετε σχετικές πληροφορίες για τις τοπικές αργίες και εξατομικευμένες υπηρεσίες, το ρολόι πρέπει να συνδεθεί στο Internet. Πριν χρησιμοποιήσετε το ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με %1$s και %2$s. Συμφωνείτε;</string>
+	  <string name="dialog_privacy_content">Για να λάβετε και να συγχρονίσετε πληροφορίες σχετικές με τις τοπικές αργίες και εξατομικευμένες υπηρεσίες, το ρολόι πρέπει να συνδεθεί στο Internet. Πριν χρησιμοποιήσετε το ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με %1$s και %2$s. Συμφωνείτε;</string>
 	  <string name="dialog_privacy_content_global">Για παροχή εξατομικευμένων υπηρεσιών, το ρολόι πρέπει να συνδεθεί στο Internet. Πριν χρησιμοποιήσετε το ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με %1$s και %2$s. Συμφωνείτε;</string>
 	  <string name="dialog_privacy_content_news">Για παροχή εξατομικευμένων υπηρεσιών και πρωινών ειδήσεων, το ρολόι πρέπει να συνδεθεί στο Internet. Πριν χρησιμοποιήσετε το ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με %1$s και %2$s. Συμφωνείτε;</string>
 	  <string name="dialog_privacy_content_timer">Για λήψη αρχείων ήχου, χρονόμετρα θορύβους περιβάλλοντος και παροχής εξατομικευμένων υπηρεσιών, το ρολόι χρειάζεται να συνδεθεί στο διαδίκτυο. Πριν χρησιμοποιήσετε το ρολόι, πρέπει επίσης να διαβάσετε και να συμφωνήσετε με %1$s και %2$s. Συμφωνείτε?</string>
@@ -267,8 +267,8 @@
 	  <string name="holiday_update_loading">Ενημέρωση…</string>
 	  <string name="holiday_update_success">Όλα τα στοιχεία είναι ενημερωμένα</string>
 	  <string name="life_post_setting_open_desc">Απενεργοποιήστε την επανάληψη αφυπνίσεων μεταξύ 04:00 έως 10:00 ΠΜ για να ακούσετε την τρέχουσα αναφορά καιρού</string>
-	  <string name="module_download_data_msg_timer">Το ρολόι χρειάζεται να κάνει λήψη αρχείων ήχου για χρονόμετρα θορύβους περιβάλλοντος. Για την λήψη αυτή απαιτούνται 20MB δεδομένων κινητής τηλεφωνίας. Λήψη τώρα?</string>
-	  <string name="module_download_msg_timer">Το ρολόι χρειάζεται να κάνει λήψη αρχείων ήχου για χρονόμετρα θορύβους περιβάλλοντος. Λήψη τώρα?</string>
+	  <string name="module_download_data_msg_timer">Το ρολόι χρειάζεται να κάνει λήψη αρχείων ήχων περιβάλλοντος για τα χρονόμετρα. Για την λήψη αυτή απαιτούνται 20MB δεδομένων κινητής τηλεφωνίας. Λήψη τώρα?</string>
+	  <string name="module_download_msg_timer">Το ρολόι χρειάζεται να κάνει λήψη αρχείων ήχων περιβάλλοντος για τα χρονόμετρα. Λήψη τώρα?</string>
 	  <string name="personal_recommend">Εξατομικευμένες προτάσεις περιεχομένου</string>
 	  <string name="user_agreement">Συμφωνία χρήστη</string>
      <string name="update_notification_info">Ενημέρωση δεδομένων στο παρασκήνιο…</string>
