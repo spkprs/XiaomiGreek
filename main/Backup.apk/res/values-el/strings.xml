@@ -161,6 +161,7 @@
   <string name="flash_drive_connection_failed">Η μονάδα USB αποσυνδέθηκε</string>
   <string name="flash_drive_restore_btn">Επαναφορά από μονάδα USB</string>
   <string name="flash_drive_search_backup_files">Αναζήτηση για αντίγραφο ασφαλείας USB…\nΜην αλλάζετε ή μετονομάζετε αρχεία αντιγράφων ασφαλείας.</string>
+  <string name="gallery_summary">Ρυθμίσεις Συλλογής (δεν συμπεριλαμβανονται φωτό)</string>
   <string name="guarded_mode_dialog_backup_message">Αδύνατη η λήψη αντιγράφου σε λειτουργία Επισκέπτη.</string>
   <string name="guarded_mode_dialog_title">Είστε σε λειτουργία Επισκέπτη</string>
   <string name="guarded_mode_dialog_transfer_message">Δεν μπορείτε να χρησιμοποιήσετε Mi Mover σε λειτουργία Επισκέπτη.</string>
@@ -564,6 +565,7 @@
   <string name="usb_trans_old_phone_low_space_msg">Απαιτείται πρόσθετος χώρος αποθήκευσης για τα αντίγραφα ασφαλείας. Δεν υπάρχει αρκετός χώρος αποθήκευσης για να συνεχίσετε τη μεταφορά. Μπορείτε να ελευθερώσετε χώρο και να διαγράψετε τα μη απαραίτητα αρχεία στην Ασφάλεια ή να προσπαθήσετε να μεταφέρετε μόνο σημαντικά αντικείμενα.</string>
   <string name="usb_trans_old_phone_low_space_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
   <string name="usb_trans_select_data_no_space">Μόνο %s είναι διαθέσιμη στη μονάδα USB.\nΕλευθερώστε χώρο ή μεταφέρετε μόνο σημαντικά αντικείμενα.</string>
+  <string name="user_feedback">Σχόλια</string>
   <string name="user_name">Apple ID ή ηλεκτρονικό ταχυδρομείο</string>
   <string name="user_name_null">Το όνομα χρήστη δεν μπορεί να είναι κενό</string>
   <string name="user_notice_declaration_ignore">Να μην εμφανιστεί ξανά</string>

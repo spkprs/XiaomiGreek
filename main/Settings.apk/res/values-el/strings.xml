@@ -2768,7 +2768,9 @@
      <string name="miui_sos_settings_category">Ρυθμίσεις SOS</string>
      <string name="miui_sos_statusbar_summary">Πατήστε για απενεργοποίηση</string>
      <string name="miui_sos_statusbar_title">Έκτακτη ανάγκη SOS είναι ενεργή</string>
-     <string name="miui_updater">MIUI 10</string>
+     <string name="miui_touch_filtered_touchassistant_warning">Το παράθυρο διαλόγου δικαιωμάτων καλύπτεται από τον Βοηθό Αφής. Μετακινήστε τον ή απενεργοποιήστε την λειτουργία του.</string>
+     <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή καλύπτει το πλαίσιο διαλόγου αδειών. Σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>
+     <string name="miui_updater">Ενημέρωση Συστήματος</string>
      <string name="miui_updater_summary">Ταχύτερο από το φως</string>
      <string name="miui_userguide">Οδηγός χρήστη</string>
      <string name="mms_breathing_light_color_title">Χρωματισμός LED μηνυμάτων</string>
