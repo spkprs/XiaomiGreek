@@ -88,6 +88,7 @@
     <string name="beauty_body_legged">Μακριά πόδια</string>
     <string name="beauty_body_reset_tip">Το Εφέ έχει εκκαθαριστεί</string>
     <string name="beauty_body_shoulder">Ώμος</string>
+    <string name="beauty_body_slim_count_tip">Το σχήμα εφέ λειτουργεί μόνο για λήψεις ενός ατόμου</string>
     <string name="beauty_body_whole">Σώμα</string>
     <string name="beauty_clear">Εκκαθάριση</string>
     <string name="beauty_clear_toast">Ολοκληρώθηκε η εκκαθάριση Ωραιοποίησης</string>

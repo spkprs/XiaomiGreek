@@ -570,13 +570,13 @@
      <string name="preferences_week_start_day_default">-1</string>
      <string name="preferences_week_start_day_dialog">Η εβδομάδα ξεκινάει την</string>
      <string name="preferences_week_start_day_title">Η εβδομάδα ξεκινάει την</string>
-     <string name="pull_to_refresh_hint">Pull to load events from %1$d</string>
+     <string name="pull_to_refresh_hint">Τραβήξτε για ανανέωση συμβάντων του %1$d</string>
      <string name="receive_net_mock_success">Net mock receive success</string>
      <string name="recommend_card_add">立即订阅</string>
      <string name="recommend_card_adding">订阅中</string>
      <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
      <string name="refresh">Ανανέωση</string>
-     <string name="refreshing_hint">Just a sec…</string>
+     <string name="refreshing_hint">Μισό λεπτό…</string>
      <string name="reminder_overdue">'Εληξε</string>
      <string name="repeat_activity_label">Επανάληψη</string>
      <string name="repeat_custom_activity_label">Προσαρμογή</string>

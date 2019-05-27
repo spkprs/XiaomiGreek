@@ -60,7 +60,7 @@
      <string name="power_checker_background_cpu_title">%1$s λειτουργεί ασυνήθιστα</string>
      <string name="power_checker_background_gps_multi_apps_title">%1$s παίρνει συχνά πληροφορίες σχετικά με την τοποθεσία</string>
      <string name="power_checker_background_gps_title">%1$s παίρνει συχνά πληροφορίες σχετικά με την τοποθεσία</string>
-     <string name="power_checker_mobile_radio_multi_apps_title">%1$s προσεγγίζει συχνά το δίκτυο</string>
+     <string name="power_checker_mobile_radio_multi_apps_title">%1$s συχνή πρόσβαση δικτύου</string>
      <string name="power_checker_mobile_radio_title">%1$s συχνή πρόσβαση δικτύου</string>
      <string name="power_checker_multi_apps_title">Εφαρμογές που καταναλώνουν μπαταρία: %2$s</string>
      <string name="power_checker_notify_summary">Βελτιστοποιήστε τις εφαρμογές που αδειάζουν την μπαταρία</string>

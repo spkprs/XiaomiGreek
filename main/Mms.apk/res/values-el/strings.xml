@@ -91,7 +91,7 @@
      <string name="cm_privacy_dialog_tips">"Οι υπηρεσίες έξυπνων μηνυμάτων παρέχονται από τον φορέα σας. Η υπηρεσία πρέπει να συνδεθεί στο Internet και πρόσβαση στην τοποθεσία σας για να παρέχουν αυτές τις υπηρεσίες. Πρέπει να συμφωνείσετε με τη %1s του φορέα σας πριν ξεκινήσετε. Συμφωνείτε?"</string>
      <string name="cm_privacy_dialog_title">Προσοχή</string>
      <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
-     <string name="cmcc_privacy">Συμφωνία απορρήτου μεταφορέα της China Mobile</string>
+     <string name="cmcc_privacy">Συμφωνία απορρήτου φορέα της China Mobile</string>
      <string name="complain_input_number">Εισάγετε τον αριθμό τηλεφώνου σας</string>
      <string name="complain_jump">Παράβλεψη</string>
      <string name="complain_message_title">Αναφορά</string>
@@ -145,7 +145,7 @@
      <string name="converting_to_picture_message">Μετατροπή σε μήνυμα πολυμέσων…</string>
      <string name="converting_to_text_message">Μετατροπή σε μήνυμα κειμένου…</string>
      <string name="converting_vcard_failed">Δεν ήταν δυνατή η μετατροπή της επαφής</string>
-     <string name="copy_message_text">Αντιγραφή κειμένου</string>
+     <string name="copy_message_text">Αντιγραφή</string>
      <string name="copy_message_text_success">Αντιγράφηκε επιτυχώς</string>
      <string name="copy_to_sdcard">Αποθήκευση συνημμένου</string>
      <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
@@ -288,7 +288,7 @@
      <string name="menu_delete_messages">Διαγραφή μηνυμάτων</string>
      <string name="menu_edit">Επεξεργασία</string>
      <string name="menu_forward">Προώθηση</string>
-     <string name="menu_lock">Αγαπημένο</string>
+     <string name="menu_lock">Προσθήκη στα Αγαπημένα</string>
      <string name="menu_mark">Μαρκάρισμα</string>
      <string name="menu_more">Περισσότερα</string>
      <string name="menu_new_contact">Νέα επαφή</string>
@@ -769,7 +769,7 @@
      <string name="to_address_label">"Προς: "</string>
      <string name="to_label">"Προς "</string>
      <string name="to_send_wrapper">Θα σταλεί στις %s</string>
-     <string name="toast_pending_hangup_msg">Message will be sent after the call ends</string>
+     <string name="toast_pending_hangup_msg">Το μήνυμα θα σταλεί μετά το τέλος της κλήσης</string>
      <string name="today">Σήμερα</string>
      <string name="too_many_attachments">Υπάρχει ένα όριο %1$s συνημμένων. Μόνο τα πρώτα %2$s θα προστεθούν.</string>
      <string name="too_many_recipients">Αυτό το μήνυμα έχει πολλούς παραλήπτες (%1$s). Υπάρχει ένα όριο %2$s παραληπτών.</string>

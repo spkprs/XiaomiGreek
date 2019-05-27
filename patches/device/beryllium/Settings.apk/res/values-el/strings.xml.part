@@ -219,7 +219,7 @@
   <string name="date_time_select_region">Περιοχή</string>
   <string name="date_time_select_zone">Ζώνη ώρας</string>
   <string name="date_time_set_timezone_in_region">Ζώνες ώρας σε %1$s</string>
-  <string name="decryption_settings_summary">Το τηλέφωνο δεν είναι κρυπτογραφημένο</string>
+  <string name="decryption_settings_summary">Μη κρυπτογραφημένη Συσκευή</string>
   <string name="density_pixel_summary">%1$s dp</string>
   <string name="dev_settings_disabled_warning">Ενεργοποιήστε πρώτα τις επιλογές για προγραμματιστές.</string>
   <string name="device_details_title">Λεπτομέρειες συσκευής</string>

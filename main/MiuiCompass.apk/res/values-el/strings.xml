@@ -63,7 +63,7 @@
      <string name="pressure_title">Πίεση</string>
      <string name="pressure_unit">hPa</string>
      <string name="shake_enter_tip">Ανακινήστε για βαθμονόμηση</string>
-     <string name="unit_degree">Βαθμοί</string>
+     <string name="unit_degree">Μοίρες</string>
      <string name="using_camera_confirm_cancel">Έξοδος</string>
      <string name="using_camera_confirm_ok">Συμφωνώ</string>
 </resources>
