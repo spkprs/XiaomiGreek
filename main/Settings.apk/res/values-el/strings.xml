@@ -248,7 +248,7 @@
      <string name="allow_bind_app_widget_activity_allow_bind_title">Δημιουργία widget και επιτρέπετε την πρόσβαση;</string>
      <string name="allow_bind_app_widget_activity_always_allow_bind">Πάντα να επιτρέπεται %1$s η δημιουργία widgets και η πρόσβαση στα δεδομένα τους</string>
      <string name="allow_data_usage_title">Να επιτρέπεται η χρήση δεδομένων κατά την περιαγωγή</string>
-     <string name="allow_device_id_access">Εφαρμογές με πρόσβαση στο ID συσκευής</string>
+     <string name="allow_device_id_access">Επιλέξτε εφαρμ. για χρήση του ID συσκευής</string>
      <string name="allow_mock_location">Να επιτρέπονται οι ψευδείς τοποθεσίες</string>
      <string name="allow_mock_location_summary">Ψευδείς τοποθεσίες</string>
      <string name="allow_overlay_description">Αυτή η άδεια επιτρέπει σε μια εφαρμογή να εμφανίζεται πάνω από άλλες εφαρμογές που χρησιμοποιείτε και μπορεί να παρεμβαίνει στη χρήση της διεπαφής άλλων εφαρμογών ή να αλλάζει ότι περιμένετε ότι θα δείτε στο περιεχόμενο άλλων εφαρμογών.</string>
@@ -1417,7 +1417,7 @@
      <string name="device_display_layout_title">Χαρακτηριστικά</string>
      <string name="device_edit_title">Μετονομασία τηλεφώνου</string>
      <string name="device_feedback">Αποστολή σχολίων για αυτή τη συσκευή</string>
-     <string name="device_id">ID συσκευής</string>
+     <string name="device_id">ID συσκευής για εξατομικευμένες συστάσεις</string>
      <string name="device_info_default">Άγνωστο</string>
      <string name="device_info_label">Πληροφορίες συσκευής</string>
      <string name="device_info_not_available">Μη διαθέσιμο</string>
@@ -3636,10 +3636,10 @@
      <string name="resource_ringtone_volume_mute">Ο ήχος κουδουνισμού σας σιωπά αυτήν τη στιγμή</string>
      <string name="restore_default_apn">Επαναφορά προεπιλεγμένων ρυθμίσεων APN.</string>
      <string name="restore_default_apn_completed">Ολοκλήρωση επαναφοράς προεπιλεγμένων ρυθμίσεων APN.</string>
-     <string name="restore_device_id_content">Επαναφορά εξατομικευμένων συστάσεων</string>
-     <string name="restore_device_id_title">Επαναφορά ID συσκευής</string>
-     <string name="restore_dialog_content">Η επαναφορά του ID συσκευής θα επαναφέρει τις εξατομικευμένες προτάσεις σας.</string>
-     <string name="restore_dialog_positive">Επαναφορά</string>
+     <string name="restore_device_id_content">Οι εξατομικευμένες συστάσεις θα διαγραφούν</string>
+     <string name="restore_device_id_title">Διαγραφή ID συσκευής</string>
+     <string name="restore_dialog_content">Η διαγραφή του τρέχοντος ID συσκευής θα διαγράψει τις εξατομικευμένες προτάσεις. Διαγραφή τώρα;</string>
+     <string name="restore_dialog_positive">Διαγραφή</string>
      <string name="restore_dialog_title">Προσοχή</string>
      <string name="restr_pin_enter_admin_pin">Εισάγετε το PIN του διαχειριστή</string>
      <string name="restrict_background_blacklisted">Τα δεδομένα παρασκηνίου είναι απενεργοποιημένα</string>
@@ -6348,4 +6348,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	<string name="color_led_title">Φωτισμός LED</string>
 	<string name="toggle_auto_speaker_preference_title">Αυτόματη μετάβαση στο ηχείο</string>
 	<string name="toggle_auto_speaker_preference_summary">Ο ήχος θα μεταβεί στο ηχείο όταν μετακινήσετε τη συσκευή μακριά από το αυτί σας κατά την κλήση. Αυτό λειτουργεί μόνο με ενεργό το TalkBack.</string>
+    <string name="allow_oaid_used">Επιτρέπεται η χρήση ID συσκευής</string>
+    <string name="device_oaid">ID συσκευής</string>
+    <string name="restore_oaid_content">Η διαγραφή του τρέχοντος ID συσκευής σας θα δημιουργήσει ένα νέο. Διαγραφή τώρα;</string>
+    <string name="restore_oaid_positive">Διαγραφή</string>
+    <string name="restore_oaid_title">Διαγραφή ID συσκευής</string>
 </resources>

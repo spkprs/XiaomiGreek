@@ -750,4 +750,5 @@
   <string name="tab_playlist">Λίστες</string>
   <string name="tab_video">Βίντεο</string>
   <string name="voice_search_first_hint">Δοκιμάστε Φωνητική αναζήτηση!</string>
+  <string name="password_toggle_content_description">Εναλλαγή προβολής κωδικού</string>
 </resources>
