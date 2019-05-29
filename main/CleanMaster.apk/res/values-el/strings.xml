@@ -441,7 +441,7 @@
      <string name="pref_content_cleanup_white_list_none">Χωρίς</string>
      <string name="pref_summary_auto_clean_and_alert">Προγραμματίστε τον καθαρισμό να εκτελείται αυτόματα</string>
      <string name="pref_summary_auto_update_cleanup_db">Τελευταία ενημέρωση %s</string>
-     <string name="pref_summary_cleanup_white_list">Αποτρέψτε την εκκαθάριση των επιλεγμένων εφαρμογών</string>
+     <string name="pref_summary_cleanup_white_list">Αποτροπή εκκαθάρισης επιλεγμένων αρχείων</string>
      <string name="pref_summary_expand_cache_group">Αυτόματη προβολή λεπτομερειών κρυφής μνήμης</string>
      <string name="pref_summary_garbage_auto_clean_content">Επιλέξτε ποιά στοιχεία θα καθαρίζονται αυτόματα</string>
      <string name="pref_summary_garbage_cleanup_check_size">Αυτόματος καθαρισμός όταν ο κάδος φτάσει σε ένα συγκεκριμένο μέγεθος</string>

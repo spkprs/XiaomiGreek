@@ -840,4 +840,9 @@
 	  <string name="rcs_offline">Δεν είστε συνδεδεμένοι στο UC. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
       <string name="dialog_sim_locked_confirm">OK</string>
       <string name="dialog_sim_locked_message">"Η κάρτα SIM δεν λειτουργεί πλήρως με αυτό το τηλέφωνο επειδή δεν συμμορφώνεται με τους όρους και τις προϋποθέσεις της συνδρομής σας. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περισσότερες πληροφορίες σχετικά με αυτό το ζήτημα, παρακαλούμε επικοινωνήστε με τα κέντρα εξυπηρέτησης της Xiaomi ή το κατάστημα προϊόντων."</string>
+      <string name="heduohao_sub_sim_card">Δεύτερη</string>
+      <string name="recipients_contain_sub_sim_number">"Φαίνεται ότι υπάρχει ένας δεύτερος αριθμός SIM μεταξύ των παραληπτών. Στείλτε αυτό το μήνυμα χρησιμοποιώντας την δεύτερη κάρτα SIM."</string>
+      <string name="sub_sim_card">Δεύτερη</string>
+      <string name="sub_sim_card_indicator">Δεύτερη%d</string>
+      <string name="sub_sim_not_support_mms">"Αδύνατη η αποστολή MMS χρησιμοποιώντας την δεύτερη κάρτα SIM"</string>
 </resources>

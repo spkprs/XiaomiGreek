@@ -295,7 +295,7 @@ ID:%s
      <string name="passport_login_instead_reg">Χρήση αυτού του αριθμού</string>
      <string name="passport_login_instead_reg_with_email">Χρήση αυτού του email</string>
      <string name="passport_login_other_account">Ένας άλλος λογαριασμός</string>
-     <string name="passport_login_prompt">Ένας λογαριασμός Mi. Όλες οι υπηρεσίες Mi.</string>
+     <string name="passport_login_prompt">Όλες οι υπηρεσίες Mi. Ένας λογαριασμός Mi.</string>
      <string name="passport_login_recycle_account_no">Όχι</string>
      <string name="passport_login_recycle_account_yes">Ναί</string>
      <string name="passport_login_title">Σύνδεση στο λογαριασμό Mi</string>

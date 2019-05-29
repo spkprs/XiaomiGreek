@@ -147,7 +147,7 @@
      <string name="app_manager_app_storage">"Αποθ.χώρος: "</string>
      <string name="app_manager_app_traffic">"Χρήση δεδομένων: "</string>
      <string name="app_manager_app_update">Ενημερώσεις</string>
-     <string name="app_manager_app_version_name">Έκδοση:</string>
+     <string name="app_manager_app_version_name">"Έκδοση:  "</string>
      <string name="app_manager_appupdate_remind">Ειδοπ. σχετικά με ενημερώσεις</string>
      <string name="app_manager_as_dlg_msg">Αν επιτρέψετε την αυτόματη εκκίνηση, ενδέχεται να καταναλώνει επιπλέον μνήμη RAM και μπαταρία. Επιτρέπετε;</string>
      <string name="app_manager_as_dlg_title">Προσοχή</string>
@@ -913,7 +913,7 @@
      <string name="first_aid_item4_content">Μπαταρία</string>
      <string name="first_aid_item5_content">Άλλα θέματα</string>
      <string name="first_aid_result_feedback_button">Υποβολή</string>
-     <string name="first_aid_result_feedback_summary">Δεν βρήκα κανένα πρόβλημα. Ωστόσο, εντόπισα κάποιο.</string>
+     <string name="first_aid_result_feedback_summary">Η Ασφάλεια δεν βρήκε κανένα πρόβλημα. Ωστόσο, εντόπισα κάποιο.</string>
      <string name="first_aid_result_feedback_title">Σχόλια</string>
      <string name="first_aid_result_summary_normal">Όλα φαίνονται καλά!</string>
      <string name="first_aid_result_summary_not_finished">Η Σάρωση δεν ολοκληρώθηκε. Ορισμένοι κίνδυνοι ενδέχεται να μην έχουν εντοπιστεί.</string>
@@ -1146,7 +1146,7 @@
      <string name="keywords_securitycenter_settings">Χρήση μπαταρίας;Δικαιώματα;Λίστα αποκλεισμών;Χρήση δεδομένων;Ρύθμιση προγράμματος δεδομένων;Δοκιμή δικτύου;Κλείδωμα εφαρμογών;Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;Απενεργοποίηση;Μπαταρία;Κατανάλωση;Αυτόματη έναρξη;ROOT;Τοποθεσία;Πρόσβαση στις επαφές;Αποκλεισμός;Λίστα αποκλεισμών;Έξυπνη λίστα αποκλεισμών;Απάτη;Πωλήσεις;Τηλεπωλητής;Αντιπρ. πωλήσεων;Δεδομένα;Κίνηση;Ρύθμιση;Σύνδεση;Internet;Δοκιμή;Κωδικός;Ιδιωτικότητα;Πρόσβαση;Προστασία</string>
      <string name="keywords_usb_install">Εγκατάσταση USB, εγκατάσταση από υπολογιστή, εγκατάσταση ADB</string>
      <string name="kilobyteShort">KB</string>
-     <string name="kilobyte_per_second">K/s</string>
+     <string name="kilobyte_per_second">KB/δ</string>
      <string name="label_callwait">Ειδοποίηση αναμονής κλήσης</string>
      <string name="label_mi_stats">Mi analytics</string>
      <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
@@ -1275,7 +1275,7 @@
      <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
      <string name="manual_input_free_traffic">Ρύθμιση δωρεάν χρήσης δεδομένων</string>
      <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
-     <string name="manual_item_white_list_summary">Αποτρέψτε τη βελτιστοποίηση των επιλεγμένων εφαρμογών</string>
+     <string name="manual_item_white_list_summary">Αποτρέψτε τη βελτιστοποίηση των επιλεγμένων στοιχείων</string>
      <string name="manual_item_white_list_title">Εξαιρέσεις</string>
      <string name="mark_agent">Αντιπρ. πωλήσεων</string>
      <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
@@ -1307,7 +1307,7 @@
      <string name="mark_time_text">%d</string>
      <string name="marked_by_user">"Το έχετε επισημάνει ως "</string>
      <string name="megabyteShort">MB</string>
-     <string name="megabyte_per_second">M/s</string>
+     <string name="megabyte_per_second">MB/δ</string>
      <string name="memory_check_content">Ελευθερώθηκαν %s</string>
      <string name="memory_clean_memory_size_tip">Κρυφή Μνήμη/Cache</string>
      <string name="memory_clean_no_need_clean">Όλα φαίνονται καλά</string>
