@@ -591,7 +591,7 @@
   <string name="confirm_exit_link_title">Διακοπή της μεταφοράς</string>
   <string name="connect_soft_ap_label">Σύνδεση σε νέα συσκευή…</string>
   <string name="old_soft_name">Σύνδεση μέσω κώδικα QR</string>
-  <string name="old_way">Μπορείτε επίσης να συνδεθείτε χρησιμοποιώντας έναν κωδικό QR. Πατήστε για να δημιουργήσετε τον κωδικό.</string>
+  <string name="old_way">Μπορείτε επίσης να δημιουργήσετε έναν κώδικα QR στη νέα συσκευή σας και να τον σαρώσετε χρησιμοποιώντας την παλιά.</string>
   <string name="recreate_soft_ap_tips">Αγγίξτε το παρακάτω κουμπί για να δοκιμάσετε ξανά.</string>
   <string name="scan_soft_ap">Αναζήτηση για νέα συσκευή…</string>
   <string name="scan_soft_ap_label">Σύνδεση στην παλιά συσκευή</string>
@@ -601,8 +601,9 @@
   <string name="trans_intro_desc_gms">"Λόγω μεγάλης πιθανότητας ανεπιτυχών μεταφορών που προκαλούνται από θέματα συμβατότητας, το Mi Mover δεν υποστηρίζει τη μεταφορά δεδομένων που δημιουργούνται από εφαρμογές Google."</string>
   <string name="trans_intro_question_10">"%d. Αδύνατη η εύρεση του hotspot στην παλιά συσκευή;"</string>
   <string name="trans_intro_title_gms">Δεδομένα που δημιουργήθηκαν από εφαρμογές Google:</string>
-  <string name="wait_link">"Συνδέστε την παλιά συσκευή σας σε αυτό το hotspot.
-Μην αφήνετε αυτήν τη σελίδα μέχρι να δημιουργηθεί η σύνδεση."</string>
+  <string name="wait_link">"Εκκινήστε το Mi Mover  στην παλιά συσκευή,
+Αγγίξτε στο \"Είμαι ο Αποστολέας\" και επιλέξτε ένα hotspot για σύνδεση.
+Μην κλείσετε τη σελίδα προτού δημιουργηθεί η σύνδεση."</string>
   <string name="waiting">Μισό λεπτό…</string>
   <string name="err_no_gms">Μη συμβατή έκδοση. Εγκαταστήστε αυτήν την εφαρμογή ξεχωριστά.</string>
   <string name="trans_detail_item_app_data_skip_data">"Αδύνατη η μεταφορά δεδομένων της εφαρμογής"</string>
