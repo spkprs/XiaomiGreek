@@ -34,6 +34,10 @@
      <string name="announce_for_show_uninstall_dialog">διάλογος απεγκατάστασης, παρακαλώ επιλέξτε άκυρον ή επιβεβαίωση.</string>
      <string name="announce_for_unchecked">%1$s, δεν ελέγχθηκε</string>
      <string name="announce_for_widget_span">Πλάτος %1$d, Ύψος %2$d</string>
+  	 <string name="announce_for_search_bar">Μπάρα Αναζήτησης</string>
+	 <string name="announce_for_xiaoai">Mi AI</string>
+	 <string name="privacy_thumbnail_blur_summary">Θολή προεπισκόπηση εφαρμογών στα Πρόσφατα</string>
+	 <string name="privacy_thumbnail_blur_title">Θολή προεπισκόπηση εφαρμογών</string>
      <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>
      <string name="app_being_backup_message">Δημιουργείται αντίγραφο εφαρμογής.</string>
      <string name="app_being_restored_message">Η εφαρμογή επαναφέρεται</string>

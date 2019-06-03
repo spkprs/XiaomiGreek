@@ -946,7 +946,7 @@
      <string name="filter_people_movie">Ταινία</string>
      <string name="filter_people_nature">Φυσικό</string>
      <string name="filter_people_pink">Ρούζ</string>
-     <string name="filter_people_riddle">Αίνιγμα</string>
+     <string name="filter_people_riddle">Καραμέλα</string>
      <string name="filter_people_sepia">Σέπια</string>
      <string name="filter_people_story">Ιστορία</string>
      <string name="filter_people_tea">Τσαγιού</string>
@@ -1826,4 +1826,32 @@
 	  <string name="clear_dup_medias">Εκκαθάριση διπλότυπων φωτογραφιών</string>
       <string name="clear_dup_success">Επιτυχής εκκαθάριση</string>
       <string name="clear_dup_tip">Εκκαθάριση διπλών φωτογραφιών</string>
+	<string name="burst_image_download_item_title" formatted="false">Λήψη προτότυπου (%s|%s)</string>
+	<string name="burst_preview_title">Λήψη ριπής</string>
+	<string name="burst_save_all">Αποθήκευση Όλων</string>
+	<string name="burst_save_choice_title" formatted="false">Επιλεγμένες %d από %d</string>
+	<string name="burst_save_confirm_dialog_title">Αποθήκευση φωτογραφιών</string>
+	<string name="burst_save_error_msg">"Αδυναμία αποθήκευσης"</string>
+	<string name="burst_save_processing">Επεξεργασία…</string>
+	<string name="decrypt_video_failed">"Αδυναμία προετοιμασίας Βίντεο"</string>
+	<string name="decrypting_video">Προετοιμασία Βίντεο…</string>
+	<string name="editor_cancel">Ακύρωση</string>
+	<string name="editor_export">Αποθήκευση</string>
+	<string name="editor_talkback_redo">Επανάληψη</string>
+	<string name="editor_talkback_undo">Αναίρεση</string>
+	<string name="first_time_add_video_to_secret_tips">Ενημέρωση Συλλογής για να μπορείτε να αποκρύψετε βίντεο</string>
+	<string name="photo_editor_remove_watermark_on">Προσθήκη υδατογραφήματος</string>
+	<string name="photo_editor_talkback_crop_2_3">Δύο σε τρία</string>
+	<string name="special_type_eye_repair">Διόρθωση κλειστών ματιών με χρήση AI</string>
+	<string name="special_type_hdr">HDR</string>
+	<string name="special_type_night_beauty">AI Αισθητική χαμηλού φωτισμού</string>
+	<string name="special_type_night_mode">AI Νυχτερινή λειτουργία</string>
+	<string name="special_type_portrait">AI Φωτισμός πορτρέτου ζωγραφικής</string>
+	<string name="special_type_wide_angle">AI Υπέρ Ευρεία γωνία</string>
+	<string name="video_editor_audio_antiquity">Ρετρό</string>
+	<string name="video_editor_audio_dream">Όνειρο</string>
+	<string name="video_editor_audio_electronics">Έλεκτρο</string>
+	<string name="video_editor_audio_quiet">Ζεν</string>
+	<string name="video_editor_audio_summertime">Καλοκαίρι</string>
+	<string name="video_editor_audio_vitality">Δυναμική</string>
 </resources>

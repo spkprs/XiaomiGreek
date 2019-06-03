@@ -135,7 +135,7 @@
      <string name="preference_enable_earpiece_summary">Αν δεν ενεργοποιηθεί, χρήση του ηχείου για αναπαραγωγή</string>
      <string name="preference_enable_earpiece_title">Χρήση του ακουστικού για την αναπαραγωγή ήχου</string>
      <string name="preference_led_indicator">Ειδοποιήσεις οθόνης κλειδώματος</string>
-     <string name="preference_led_indicator_prompt">Κατά την εγγραφή, εμφάνιση στη γραμμή κατάστασης και ένδειξη LED όταν η οθόνη είναι κλειδωμένη</string>
+     <string name="preference_led_indicator_prompt">Κατά την εγγραφή, εμφάνιση στη γραμμή κατάστασης και ένδειξη LED</string>
      <string name="preference_online_orders">Ηλεκτρονικές παραγγελίες</string>
      <string name="preference_recog_faqs">Διαδικτυακή αναγνώριση FAQ</string>
      <string name="preference_recog_terms">Online αναγνώριση όρων</string>
@@ -283,4 +283,11 @@
 	  <string name="korea_permission_record_resc">Για την εγγραφή ήχου</string>
 	  <string name="korea_permission_storage">Αποθήκευση</string>
 	  <string name="korea_permission_storage_desc">Για την αποθήκευση εγγραφών</string>
+	  <string name="call_record_list_group_all">Όλες</string>
+	  <string name="call_record_list_group_connected">Συνδεδεμένες</string>
+	  <string name="call_record_list_group_unconnected">Μη συνδεδεμένες</string>
+	  <string name="preference_status_bar_indicator_prompt">Εμφάνιση συντόμευσης στη γραμμή κατάστασης κατά την εγγραφή</string>
+	  <string name="shortcut_records">Εγγραφές</string>
+	  <string name="shortcut_start_record">Έναρξη εγγραφής</string>
+	  <string name="shortcut_stop_record">Παύση εγγραφής</string>
 </resources>

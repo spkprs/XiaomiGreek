@@ -146,6 +146,9 @@
      <string name="setting_alarm_arriving_summary">Λήψη μιας ειδοποίησης πριν ηχήσει</string>
      <string name="setting_alarm_arriving_title">Ειδοποίηση πριν ηχήσει</string>
      <string name="settings">Ρυθμίσεις</string>
+     <string name="shortcut_new_alarm">Νέο Ξυπνητήρι</string>
+	 <string name="shortcut_start_timer">Έναρξη χρονομέτρου</string>
+	 <string name="shortcut_stop_watch">Έναρξη χρονομέτρου</string>
      <string name="shut_down_keep_screen">"Η οθόνη δεν θα διατηρηθεί"</string>
      <string name="shutdown_alarm_disable_summary">Η αφύπνιση δεν θα κλείσει μετά την απενεργοποίηση της συσκευής</string>
      <string name="shutdown_alarm_enable_summary">"Η αφύπνιση δεν θα ηχήσει  εάν έχει ρυθμιστεί για τουλάχιστον 5 λεπτά μετά την απενεργοποίηση της συσκευής"</string>

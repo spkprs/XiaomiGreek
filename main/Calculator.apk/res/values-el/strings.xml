@@ -442,7 +442,8 @@
   <string name="tax_medical">Ιατρικά</string>
   <string name="tax_param_error">Εισάγετε τα σωστά ασφαλιστικά ποσοστά</string>
   <string name="tax_payment_period">Αριθμός πληρωμών</string>
-  <string name="tax_rate_provider">Υπολογίστηκε σύμφωνα με τους νέους φορολογικούς κανονισμούς. Data is provided by hexun.com and East Money.</string>
+  <string name="tax_rate_provider">Υπολογίστηκε σύμφωνα με τους νέους φορολογικούς κανονισμούς. Τα στοιχεία παρέχονται από hexun.com and East Money.</string>
+  <string name="tax_rate_provider_east_money">Υπολογίστηκε σύμφωνα με τους νέους φορολογικούς κανονισμούς. Τα στοιχεία παρέχονται από το East Money.</string>
   <string name="tax_result_real_get">Μετά φόρων</string>
   <string name="tax_social_insurance">Κοινωνική ασφάλιση</string>
   <string name="tax_thershold_foreign">%s (Ξένοι υπήκοοι)</string>

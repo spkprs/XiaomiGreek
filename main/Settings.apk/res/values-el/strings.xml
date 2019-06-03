@@ -348,7 +348,7 @@
      <string name="app_notification_preferences">Ρυθμίσεις εφαρμογής</string>
      <string name="app_notification_row_banned">Αποκλεισμένο</string>
      <string name="app_notification_row_priority">Προτεραιότητατα</string>
-     <string name="app_notification_row_sensitive">Ευαισθησία</string>
+     <string name="app_notification_row_sensitive">Ευαίσθητο</string>
      <string name="app_notification_visibility_override_title">Στην οθόνη κλειδώματος</string>
      <string name="app_notifications_dialog_done">Ολοκληρώθηκε</string>
      <string name="app_notifications_switch_label">Προβολή ειδοποιήσεων</string>

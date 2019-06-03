@@ -681,10 +681,10 @@
      <string name="forget_password_string">Ξέχασα τον κωδικό</string>
      <string name="fs_gesture_back_home_summary">Σύρετε γρήγορα από κάτω</string>
      <string name="fs_gesture_back_ready_title">Μετάβαση Πίσω</string>
-     <string name="fs_gesture_final_over">Τελείωσα</string>
+     <string name="fs_gesture_final_over">Τέλος</string>
      <string name="fs_gesture_final_restart">Αλλη μιά φορά</string>
      <string name="fs_gesture_final_summary">Μπορείτε να επιστρέψετε με χρήση πλήκτρων στις Ρυθμίσεις &gt; Εμφάνιση Πλήρους οθόνης</string>
-     <string name="fs_gesture_final_title">Είστε έτοιμοι να πετάξετε!</string>
+     <string name="fs_gesture_final_title">Είστε έτοιμοι!</string>
      <string name="fs_gesture_finish">Ωραία!</string>
      <string name="fs_gesture_left_back_ready_summary">Σύρετε αριστερά από την άκρη</string>
      <string name="fs_gesture_right_back_ready_summary">Σύρετε δεξιά από την άκρη</string>

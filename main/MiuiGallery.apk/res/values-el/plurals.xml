@@ -284,4 +284,32 @@
         <item quantity="other">Τα κολάζ μπορούν να περιέχουν 1-%d φωτό</item>
         <item quantity="one">Το κολάζ μπορεί να περιέχει 1-%d φωτό</item>
     </plurals>
+	  <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Αποθήκευση %d επιλεγμένων φωτογραφιών και διαγραφή των υπολοίπων;</item>
+        <item quantity="one">Αποθήκευση %d επιλεγμένης φωτογραφίας και διαγραφή των υπολοίπων;</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Αποθήκευση %d επιλεγμένων φωτογραφιών</item>
+        <item quantity="one">Αποθήκευση %d επιλεγμένης φωτογραφίας</item>
+    </plurals>
+	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Διαγραφή %d λήψεων ριπής από το Mi Cloud και όλες τις συγχρονισμένες συσκευές;</item>
+        <item quantity="one">Διαγραφή %d λήψης ριπής από το Mi Cloud και όλες τις συγχρονισμένες συσκευές;</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Διαγραφή %d λήψεων ριπής?</item>
+        <item quantity="one">Διαγραφή %d λήψης ριπής?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Διαγραφή %d λήψεων ριπής από το Mi Cloud και από αυτήν την συσκευή;</item>
+        <item quantity="one">Διαγραφή %d λήψης ριπής από το Mi Cloud και από αυτήν την συσκευή;</item>
+    </plurals>
+	<plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Διαγραφή %d λήψεων ριπής από αυτήν την συσκευή;</item>
+        <item quantity="one">Διαγραφή %d λήψης ριπής από αυτήν την συσκευή;</item>
+    </plurals>
 </resources>
