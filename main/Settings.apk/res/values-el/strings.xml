@@ -3504,6 +3504,7 @@
      <string name="proxy_url_title">"PAC URL: "</string>
      <string name="proxy_warning_limited_support">Ο HTTP proxy χρησιμοποιείται από το πρόγραμμα περιήγησης, αλλά δεν μπορεί να χρησιμοποιηθεί από τις άλλες εφαρμογές</string>
      <string name="query_hint_text">Αναζήτηση Ρυθμίσεων</string>
+     <string name="quick_reply_title">Γρήγορες απαντήσεις</string>
      <string name="quiet">Μην Ενοχλείτε</string>
      <string name="quiet_group">Μην Ενοχλείτε</string>
      <string name="quiet_important_interruptions_mode">Αποδοχή μόνο των εξαιρέσεων</string>

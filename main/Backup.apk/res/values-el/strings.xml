@@ -616,4 +616,9 @@
   <string name="dialog_backup_password_backup_tips">"Αδύνατη η δημιουργία αντιγράφων των στοιχείων με ενεργό κωδικό. Απενεργοποιήστε τον κωδικό."</string>
   <string name="dialog_backup_password_cancel">Ακύρωση</string>
   <string name="dialog_backup_password_to_settings">Ρυθμίσεις</string>
+  <string name="trans_complete_restoring">Μεταφέρθηκε με επιτυχία. Επαναφορά δεδομένων εφαρμογής</string>
+  <string name="dialog_backup_password_auto_backup_tips">"Αδύνατη η αυτόματη δημιουργία αντιγράφων των στοιχείων όταν είναι ενεργός ο κωδικός  αντιγράφου. Απενεργοποιήστε πρώτα τον κωδικό."</string>
+  <string name="dialog_backup_password_change_device_restore_tips">"Αδύνατη η χρήση του Mi Mover όταν είναι ενεργός ο κωδικός  αντιγράφου. Απενεργοποιήστε πρώτα τον κωδικό."</string>
+  <string name="dialog_backup_password_restore_tips">"Αδύνατη η επαναφορά των στοιχείων όταν είναι ενεργός ο κωδικός  αντιγράφου. Απενεργοποιήστε πρώτα τον κωδικό."</string>
+  <string name="iCloud_ID_verification_tip">"Εισάγετε τον κωδικό επαλήθευσης SMS που αποστέλλεται στον αριθμό τηλεφώνου που σχετίζεται με το Apple ID σας. Αγνοήστε τον αναδυόμενο κωδικό που εμφανίζεται στην οθόνη του iPhone σας."</string>
 </resources>

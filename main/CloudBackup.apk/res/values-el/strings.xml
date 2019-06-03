@@ -9,7 +9,7 @@
      <string name="as_new_device_summary">Διαγραφή προηγούμενων αντιγράφων Mi Cloud</string>
      <string name="authentication_failed">"Αδυναμία επαλήθευσης λογαριασμού."</string>
      <string name="back_up_task_in_process">Δημιουργία αντιγράφου…</string>
-     <string name="back_up_task_unfinished">Η δημιουργία αντιγράφου δεν τελείωσε</string>
+     <string name="back_up_task_unfinished">Αδυναμία αντιγράφου</string>
      <string name="backing_up_to_micloud">Δημιουργία αντιγράφου…</string>
      <string name="backup_fail_wifi_needed">"Αδυναμία δημιουργίας αντιγράφων, χρειάζεται Wi-Fi."</string>
      <string name="backup_finished_notification_content">Ολοκλήρωση λήψης αντιγράφου Αρχικής οθόνης, εφαρμογών ρυθμίσεων συστήματος, κλπ.</string>
@@ -223,4 +223,10 @@
     <string name="hint_restore_cross_space">Η διάταξη της αρχικής οθόνης ενδέχεται να μην εμφανίζεται σωστά εάν μεταφέρετε στοιχεία μεταξύ διαστημάτων.</string>
     <string name="selected">Επιλεγμένα</string>
     <string name="unselected">Μη Επιλεγμένα</string>
+    <string name="backup_failed_reason_network_error">Σφάλμα δικτύου. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="backup_failed_reason_disk_space_not_enough">Δεν υπάρχει αρκετός αποθηκευτικός χώρος. Ελευθερώστε πρώτα χώρο.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Δεν υπάρχει αρκετός αποθηκευτικός χώρος στο Mi cloud. Αναβαθμίστε το σχέδιό σας ή ελευθερώστε χώρο αποθήκευσης.</string>
+    <string name="restore_task_unfinished">"Αδυναμία επαναφοράς"</string>
+    <string name="restore_failed_reason_network_error">Σφάλμα δικτύου. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="restore_failed_reason_disk_space_not_enough">Δεν υπάρχει αρκετός χώρος αποθήκευσης. Ελευθερώστε πρώτα χώρο.</string>
 </resources>

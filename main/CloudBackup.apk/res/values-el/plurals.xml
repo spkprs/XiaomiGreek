@@ -24,4 +24,8 @@
         <item quantity="other">%d εφαρμ. σε αυτήν τη συσκευή</item>
         <item quantity="one">%d εφαρμ. σε αυτήν τη συσκευή</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d συχνές φράσεις</item>
+        <item quantity="one">%d συχνή φράση</item>
+    </plurals>
 </resources>

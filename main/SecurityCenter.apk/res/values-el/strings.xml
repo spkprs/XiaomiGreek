@@ -2708,4 +2708,7 @@
     <string name="pc_abnormal_scan_button_text">Κλείσιμο εφαρμογών</string>
     <string name="gb_global_settings">Γενικές Ρυθμίσεις</string>
     <string name="gb_add_game_hint">Προσθήκη στοιχείων από την λίστα εφαρμογών</string>
+    <string name="quick_reply_title">Γρήγορες απαντήσεις</string>
+    <string name="quick_replay_list_title">Διαθέσιμες εφαρμογές</string>
+    <string name="qucick_replay_instrument">Χρησιμοποιήστε τις γρήγορες απαντήσεις στις ειδοποιήσεις των επιλεγμένων messengers (π.χ. WhatsApp, WeChat, QQ)</string>
 </resources>
