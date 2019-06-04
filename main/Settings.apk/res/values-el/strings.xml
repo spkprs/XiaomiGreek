@@ -581,7 +581,7 @@
      <string name="battery_sugg_display">Μειώστε τη φωτεινότητα της οθόνης ή / και χρονικό όριο οθόνης</string>
      <string name="battery_sugg_radio">Εναλλαγή σε λειτουργία πτήσης για εξοικονόμηση ενέργειας σε περιοχές όπου δεν υπάρχει κάλυψη δικτύου κινητής τηλεφωνίας</string>
      <string name="battery_sugg_wifi">Απενεργοποιήστε το Wi-Fi όταν δε χρησιμοποιείται ή όταν δεν είναι διαθέσιμο</string>
-     <string name="battery_summary">%1$d%% χρήση από την τελευταία πλήρη φόρτιση</string>
+     <string name="battery_summary">%1$s χρήση από την τελευταία πλήρη φόρτιση</string>
      <string name="bearer">Κομιστής</string>
      <string name="billing_cycle">Κύκλος χρέωσης</string>
      <string name="billing_cycle_fragment_summary">Μηνιαία εκκίνηση %1$s</string>
