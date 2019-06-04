@@ -16,7 +16,7 @@
      <string name="add_to_album_success">Προστέθηκε στο άλμπουμ</string>
      <string name="add_to_album_tip">Φωτογραφίες Cloud</string>
      <string name="add_to_favorites_failed">Αδύνατη η προσθήκη στα Aγαπημένα</string>
-     <string name="add_to_secret_exist">Αυτό το στοιχείο υπάρχει ήδη στο κρυφό άλμπουμ</string>
+     <string name="add_to_secret_exist">Η φωτό  υπάρχει ήδη στο κρυφό άλμπουμ</string>
      <string name="add_to_secret_fail">Αδυναμία προσθήκης στο κρυφό άλμπουμ</string>
      <string name="add_to_secret_failed_with_reason">Αδυναμία προσθήκης στο κρυφό άλμπουμ. %1$s.</string>
      <string name="add_to_secret_successful">Προστέθηκε στο κρυφό άλμπουμ</string>

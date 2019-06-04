@@ -293,6 +293,7 @@
     <string name="live_sticker_fragment_tab_name">TikTok εφέ</string>
     <string name="live_sticker_network_error_hint">Σφάλμα δικτύου</string>
     <string name="live_sticker_updating">Ενημέρωση...</string>
+    <string name="lying_direct_hint">Τρέχων προσανατολισμός</string>
     <string name="local_music">Τοπικά</string>
     <string name="macro_mode">Λειτουργία Macro</string>
     <string name="macro_mode_tip">Η απόσταση μεταξύ φακού και αντικειμένου δεν πρέπει να υπερβαίνει τα 10εκ</string>

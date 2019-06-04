@@ -2711,4 +2711,9 @@
     <string name="quick_reply_title">Γρήγορες απαντήσεις</string>
     <string name="quick_replay_list_title">Διαθέσιμες εφαρμογές</string>
     <string name="qucick_replay_instrument">Χρησιμοποιήστε τις γρήγορες απαντήσεις στις ειδοποιήσεις των επιλεγμένων messengers (π.χ. WhatsApp, WeChat, QQ)</string>
+    <string name="gamebox_display_1">Χωρίς</string>
+    <string name="gamebox_display_2">Έντονα</string>
+    <string name="gamebox_display_3">Φωτεινά</string>
+    <string name="gamebox_display_4">Φωτεινά και Έντονα</string>
+    <string name="gamebox_display_set">"Οπτική ενίσχυση: "</string>
 </resources>
