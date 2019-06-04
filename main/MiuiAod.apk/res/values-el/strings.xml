@@ -33,20 +33,29 @@
   <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
   <string name="accessibility_battery_level">Μπαταρία %d τοις εκατό.</string>
   <string name="accessibility_battery_level_charging">Φόρτιση μπαταρίας, %d τοις εκατό.</string>
+  <string name="always_style">Πάντα</string>
   <string name="aod_close_color_inversion">Αυτή η λειτουργία δεν μπορεί να συνδυαστεί με αντιστροφή χρώματος. Απενεργοποιήστε πρώτα την αντιστροφή χρώματος.</string>
   <string name="aod_dual_togother">HH:mm</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_lock_screen_date">EE, MMMM d</string>
   <string name="aod_lock_screen_date_12">EE, MMMM d</string>
+  <string name="aod_mode_preview">Προεπισκόπηση</string>
   <string name="aod_mode_style">Τύπος Ρολογιού και Φόντο</string>
-  <string name="aod_mode_summary">Αυτή η λειτουργία αυξάνει την κατανάλωση μπαταρίας. Θα απενεργοποιηθεί όταν η συσκευή σας παραμείνει στο σκοτάδι για μεγάλο χρονικό διάστημα ή εφαρμόζεται περιορισμός εξοικονόμησης μπαταρίας.</string>
+  <string name="aod_mode_style_title">Περισσότερα</string>
+  <string name="aod_mode_summary">Εμφάνιση ρολογιού, ημερομηνίας, ειδοποιήσεων και εικόνων φόντου όταν η οθόνη είναι ανενεργή</string>
   <string name="aod_mode_time_summary">Χρόνος προγραμματισμού για ενεργοποίηση και απενεργοποίηση της λειτουργίας Πάντα σε λειτουργία</string>
   <string name="aod_mode_time_title">Χρονοδιάγραμμα</string>
   <string name="aod_mode_title">Πάντα σε λειτουργία</string>
+  <string name="aod_show_style_title">Εμφάνιση στοιχείων</string>
   <string name="aod_to_close">Απενεργοποίηση</string>
   <string name="cancel">Ακύρωση</string>
   <string name="paper_mode_end_time_title">Απενεργοποίηση</string>
   <string name="paper_mode_start_time_title">Ενεργοποίηση</string>
+  <string name="scheduled_style">Προγραμματισμός</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="summary">"Για μείωση κατανάλωσης ενέργειας, τα στοιχεία δεν θα εμφανιστούν στις παρακάτω περιπτώσεις:
+1. Όταν η συσκευή βρίσκεται σε σκοτεινό σημείο για μεγάλο χρονικό διάστημα.
+2. Όταν η λειτουργία Μην Ενοχλείτε είναι ενεργή."</string>
+  <string name="temporary_style">Για 10 δευτ. μετά το άγγιγμα</string>
 </resources>
