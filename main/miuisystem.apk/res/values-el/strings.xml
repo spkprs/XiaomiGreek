@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+
 <resources>
      <string name="acousticguitar">Acoustic guitar</string>
-     <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
      <string name="alarmclock">Alarm clock</string>
      <string name="android_ringtone_default_with_actual">Προεπιλ. ήχος κλήσης (%1$s)</string>
      <string name="android_ringtone_silent">Χωρίς</string>
@@ -49,8 +48,6 @@
      <string name="cta_title">Όροι Χρήσης</string>
      <string name="day_following_good_friday">耶穌受難節翌日</string>
      <string name="daydream">Daydream</string>
-     <string name="delete_frequent_phrases">Διαγραφή συχνών φράσεων</string>
-     <string name="delete_frequent_phrases_confirm">Διαγραφή επιλεγμένων συχνών φράσεων;</string>
      <string name="device_hongmi">Redmi</string>
      <string name="device_pad">Mi Pad</string>
      <string name="device_poco_global">POCOPHONE</string>
@@ -60,7 +57,6 @@
      <string name="double_seventh_day">七夕</string>
      <string name="easter">復活節</string>
      <string name="echo">Echo</string>
-     <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
      <string name="fadein">Fade in</string>
      <string name="fadeout">Fade out</string>
      <string name="fairyland">Fairyland</string>
@@ -69,8 +65,6 @@
      <string name="fireflies">Fireflies</string>
      <string name="flute">Flute</string>
      <string name="fools_day">愚人节</string>
-     <string name="frequent_phrases_des">Εισάγετε συχνές φράσεις με λίγα μόνο πατήματα κατά την επεξεργασία κειμένου</string>
-     <string name="frequent_phrases_size_exceeded">Μπορείτε να προσθέσετε μέχρι %1$d συχνές φράσεις. Διαγράψτε τις περιττές, για να προσθέσετε νέες</string>
      <string name="fresh">Fresh</string>
      <string name="frog">Frog</string>
      <string name="glee">Glee</string>
@@ -123,9 +117,6 @@
      <string name="lunar_yi">一</string>
      <string name="lunar_yue">月</string>
      <string name="lunar_zheng">正</string>
-     <string name="menu_add_frequent_phrases">Προσθήκη</string>
-     <string name="menu_delete">Διαγραφή</string>
-     <string name="menu_edit">Επεξεργασία</string>
      <string name="messagesent">Μήνυμα εστάλει</string>
      <string name="mi">Mi</string>
      <string name="miremix">Mi (Remix)</string>
