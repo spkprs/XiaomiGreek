@@ -6381,4 +6381,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="recent_apps_label">Πρόσφατα</string>
     <string name="screenshot_label">Στιγμιότυπα Οθόνης</string>
     <string name="volume_label">Ένταση</string>
+    <string name="close_privacy_thumbnail_blur_title">"Οι προεπισκοπήσεις δεν είναι Θολές"</string>
+    <string name="open_privacy_thumbnail_blur_title">Οι προεπισκοπήσεις είναι Θολές</string>
+    <string name="privacy_thumbnail_blur_progress_message">Μισό λεπτό...</string>
+    <string name="privacy_thumbnail_blur_title">Θολή προεπισκόπηση εφαρμογών</string>
 </resources>

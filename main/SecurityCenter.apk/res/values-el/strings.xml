@@ -2716,4 +2716,6 @@
     <string name="gamebox_display_3">Φωτεινά</string>
     <string name="gamebox_display_4">Φωτεινά και Έντονα</string>
     <string name="gamebox_display_set">"Οπτική ενίσχυση: "</string>
+    <string name="app_manager_thumbnail_blur_title">Θολή προεπισκόπηση εφαρμογών</string>
+    <string name="app_manager_thumbnail_blur_summary">Θολή προεπισκόπηση εφαρμογών στα Πρόσφατα</string>
 </resources>

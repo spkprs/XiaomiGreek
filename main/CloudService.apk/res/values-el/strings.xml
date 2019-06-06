@@ -489,4 +489,7 @@
 	  <string name="user_detail_agreement">Συμφωνία χρήστη</string>
 	  <string name="user_detail_privacy_policy">Πολιτική απορρήτου</string>
       <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Πολιτική Απορρήτου&lt;/a&gt;&lt;/u&gt; μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
+	  <string name="micloud_request_sync_too_frequent">Πάρα πολλά αιτήματα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
+	  <string name="waiting_for_sync">Αναμονή...</string>
+	  <string name="system_busy_or_network_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
 </resources>
