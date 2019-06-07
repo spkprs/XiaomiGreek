@@ -223,7 +223,7 @@
   <string name="auto_login_fail_to_retry">Αυτόματη σύνδεση απέτυχε, δοκιμάστε ξανά.</string>
   <string name="auto_mail_enable_txt">Έναρξη Ρυθμίσεων</string>
   <string name="auto_mail_title_note">Βρείτε την επιλογή \"139 Mailbox Αυτόματη Ρύθμιση παραμέτρων\", κάντε κλικ για να ξεκινήσετε.</string>
-  <string name="auto_mail_window_description">139 Email Υπηρεσία αυτόματης διαμόρφωσης</string>
+  <string name="auto_mail_window_description">139 Email Υπηρ. αυτόματης διαμόρφωσης</string>
   <string name="auto_mail_window_label">139 Mailbox Αυτόματη ρύθμιση</string>
   <string name="auto_remind_bind">Προσθήκη</string>
   <string name="auto_remind_discribe_text">Ενεργοποίηση για λήψη αυτόματων υπενθυμίσεων</string>
