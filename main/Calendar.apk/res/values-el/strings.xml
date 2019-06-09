@@ -568,8 +568,8 @@
      <string name="preferences_use_home_tz_descrip">Εμφανίζει ώρες σε ημερολόγια και γεγονότα στην τοπική ζώνη ώρας όταν ταξιδεύετε</string>
      <string name="preferences_use_home_tz_title">Χρήση τοπικής ζώνης ώρας</string>
      <string name="preferences_week_start_day_default">-1</string>
-     <string name="preferences_week_start_day_dialog">Η εβδομάδα ξεκινάει την</string>
-     <string name="preferences_week_start_day_title">Η εβδομάδα ξεκινάει την</string>
+     <string name="preferences_week_start_day_dialog">Έναρξη εβδομάδος</string>
+     <string name="preferences_week_start_day_title">Έναρξη εβδομάδος</string>
      <string name="pull_to_refresh_hint">Τραβήξτε για ανανέωση συμβάντων του %1$d</string>
      <string name="receive_net_mock_success">Net mock receive success</string>
      <string name="recommend_card_add">立即订阅</string>

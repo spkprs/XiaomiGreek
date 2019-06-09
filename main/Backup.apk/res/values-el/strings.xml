@@ -94,7 +94,7 @@
   <string name="cloud_restore_title">Επαναφορά Αντιγράφου δεδομένων</string>
   <string name="cloud_restore_window_title">Επαναφορά Mi Cloud</string>
   <string name="cloud_search">"Αναζήτηση στο Cloud "</string>
-  <string name="comma_seperator">", "</string>
+  <string name="comma_seperator">" - "</string>
   <string name="compute_backup_info">Ανάκτηση πληροφοριών αντιγράφου</string>
   <string name="compute_delete_contact_info">Λήψη πληροφοριών…</string>
   <string name="connect_wifi">Σύνδεση σε Wi-Fi</string>

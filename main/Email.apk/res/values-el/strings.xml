@@ -770,9 +770,9 @@
   <string name="open_external_storage_and_contacts_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης και στις επαφές από τις Ρυθμίσεις</string>
   <string name="open_notification_kingagent">Ανοίξτε την ειδοποίηση για το σημείο ταφής</string>
   <string name="optimization_suggestion">Πρόταση βελτιστοποίησης</string>
-  <string name="others_mail">Άλλα</string>
+  <string name="others_mail">Άλλοι Λογαριασμοί</string>
   <string name="others_mail_des">(Συμβατό με πάνω από 600K Υπηρ. Mails)</string>
-  <string name="outbox_alert_button_no_resend">Μην στείλεις</string>
+  <string name="outbox_alert_button_no_resend">Χωρίς Αποστολή</string>
   <string name="outbox_alert_button_resend">Αποστολή ξανά</string>
   <string name="outbox_alert_certificate_error">Το πιστοποιητικό email εξαιρέθηκε. Παρακαλώ να το ενημερώσετε</string>
   <string name="outbox_alert_description_auth_error">Αιτία: Σφάλμα πιστοποίησης από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
@@ -899,9 +899,9 @@
   <string name="push_wps_confirm_message">Δοκιμάστε να χρησιμοποιήσετε το WPS Office για να ανοίξετε αυτό το συνημμένο.</string>
   <string name="push_wps_confirm_title">Δοκιμάστε το WPS Office</string>
   <string name="push_wps_no_response_app">Δεν υπάρχει εφαρμογή για τη διαχείριση αυτής της ενέργειας</string>
-  <string name="qq_authorization_help_get">Βοήθησέ με να πάρω</string>
-  <string name="qq_authorization_know">Κατανόηση του κωδικού εξουσιοδότησης</string>
-  <string name="qq_authorization_tips">Δεν είναι πλέον προτροπή</string>
+  <string name="qq_authorization_help_get">Λήψη κωδικού</string>
+  <string name="qq_authorization_know">Σχετικά με τον κωδικό</string>
+  <string name="qq_authorization_tips">Χωρίς επανεμφάνιση</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Αντιγράφηκε με επιτυχία, παρακαλώ επιστρέψτε στη σελίδα σύνδεσης και επικολλήστε το για να συμπληρώσετε το πεδίο κωδικού πρόσβασης</string>
   <string name="qq_auto_login_failed_dialog_message">Αντιγράψτε τον κωδικό εξουσιοδότησης και στη συνέχεια επιστρέψτε στη σελίδα σύνδεσης και κάντε κλικ στην επιλογή \"Εισαγωγή ονόματος χρήστη και κωδικού πρόσβασης για να συνδεθείτε \", επικολλήστε το πεδίο κωδικού για να συνδεθείτε χειροκίνητα</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Αντιγράψτε τον κωδικό εξουσιοδότησης</string>
@@ -917,7 +917,7 @@
   <string name="qq_next_generation_auth_toast">Ενεργοποιήστε την προστασία με κωδικό στο πρόγραμμα περιήγησής σας</string>
   <string name="qq_pwd_or_qq_auth_code">Εισάγετε QQ κωδικό ή γραμματοκιβωτίου</string>
   <string name="qq_uthentication_failed">Αδυναμία επαλήθευσης λογαριασμού, συνδεθείτε ξανά</string>
-  <string name="qq_verify_code">(Χρειάζεστε κώδικα επαλήθευσης QQ)</string>
+  <string name="qq_verify_code">(Χρειάζεστε κωδικό επαλήθευσης QQ)</string>
   <string name="qq_webview_loading">Περιμένετε μια στιγμή…</string>
   <string name="questionnair_body_invisibility">Τα μηνύματα δεν εμφανίζονται</string>
   <string name="questionnair_confirm_delete">Διαγραφή</string>
@@ -1065,9 +1065,9 @@
   <string name="settings_activity_title">Ρυθμίσεις</string>
   <string name="share_choose">Παρακαλώ επιλέξτε</string>
   <string name="sharing">Κοινή χρήση</string>
-  <string name="shortcut_name_title">Συντόμευση του φακέλου Όνομα</string>
+  <string name="shortcut_name_title">Συντόμευση Ονόματος φακέλου</string>
   <string name="show_elided">▶ Εμφάνιση κειμένου σε παράθεση</string>
-  <string name="show_images">Δείτε φωτογραφίες</string>
+  <string name="show_images">Προβολή φωτογραφιών</string>
   <string name="show_more_attachment">Περισσότερα συνημμένα</string>
   <string name="show_password">Εμφάνιση κωδικού πρόσβασης</string>
   <string name="signature">\u000d\n\u000d\n%s</string>

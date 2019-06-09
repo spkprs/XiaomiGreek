@@ -1059,7 +1059,7 @@
      <string name="long_press_to_refocus">Αγγίξτε &amp; κρατήστε για εστίαση</string>
      <string name="main_discard_confirm_message">Έχετε μη αποθηκευμένες αλλαγές</string>
      <string name="main_discard_negative_btn">Απόριψη</string>
-     <string name="main_discard_positive_btn">Αποθήκευση &amp;amp; Έξοδος</string>
+     <string name="main_discard_positive_btn">Αποθ/Έξοδος</string>
      <string name="main_save_error_msg">Δεν ήταν δυνατή η αποθήκευση αλλαγών λόγω σφάλματος</string>
      <string name="mark_myself_default_name">Me</string>
      <string name="mark_myself_suggestion_load_more">Δεν είμαι εγώ</string>
@@ -1616,7 +1616,7 @@
      <string name="today">Σήμερα</string>
      <string name="too_many_recipients">Το μήνυμα έχει πολλούς παραλήπτες ( %1$s ), %2$s είναι οι μέγιστοι επιτρεπόμενοι παραλήπτες.</string>
      <string name="trash_bin">Κάδος απορριμμάτων</string>
-     <string name="trash_bin_summary">Δείτε φωτογραφίες που διαγράφηκαν πρόσφατα</string>
+     <string name="trash_bin_summary">Προβολή πρόσφατων διεγραμένων φωτογραφιών</string>
      <string name="try_again_later">Δοκιμάστε ξανά αργότερα.</string>
      <string name="try_to_send">Προσπάθεια αποστολής</string>
      <string name="turn_off_and_move">Απενεργοποίηση και μετακινήστε</string>
