@@ -417,7 +417,7 @@
   <string name="prevent_ringing_option_vibrate">Δόνηση</string>
   <string name="prevent_ringing_option_vibrate_summary">Ενεργή (δόνηση)</string>
   <string name="print_configuring_state_title_template">Διαμόρφωση %1$s</string>
-  <string name="private_dns_help_message">&lt;annotation id=\"url\"&gt;Μάθετε περισσότερα&lt;/annotation&gt; σχετικά με τις λειτουργίες Ιδιωτικού DNS</string>
+  <string name="private_dns_help_message">&lt;annotation id="url"&gt;Μάθετε περισσότερα&lt;/annotation&gt; σχετικά με τις λειτουργίες Ιδιωτικού DNS</string>
   <string name="private_dns_mode_off">Ανενεργή</string>
   <string name="private_dns_mode_opportunistic">Αυτόματα</string>
   <string name="private_dns_mode_provider">Όνομα κεντρικού υπολογιστή παρόχου DNS</string>

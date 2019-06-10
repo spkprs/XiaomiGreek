@@ -4050,7 +4050,7 @@
   <string name="privacy_relative">Σχετικά με την Προστασίας Προσωπικών Δεδομένων</string>
   <string name="privacy_settings">Αντίγραφα και Επαναφορά</string>
   <string name="privacy_settings_title">Αντίγραφα και Επαναφορά</string>
-  <string name="private_dns_help_message">\" \"&lt;annotation id=\"url\"&gt;Μάθετε περισσότερα&lt;/annotation&gt; σχετικά με τις λειτουργίες Ιδιωτικού DNS</string>
+  <string name="private_dns_help_message">&lt;annotation id="url"&gt;Μάθετε περισσότερα&lt;/annotation&gt; σχετικά με τις λειτουργίες Ιδιωτικού DNS</string>
   <string name="private_dns_mode_off">Ανενεργή</string>
   <string name="private_dns_mode_opportunistic">Αυτόματα</string>
   <string name="private_dns_mode_provider">Όνομα κεντρικού υπολογιστή παρόχου DNS</string>
