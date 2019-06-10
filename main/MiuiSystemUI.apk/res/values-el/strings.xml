@@ -1902,8 +1902,8 @@
 	  <string name="power_save_ps_limit">Περιορισμός δραστηριότητας των εφαρμογών συστήματος</string>
       <string name="notification_channel_dnd">Μην Ενοχλείτε</string>
 	<string name="dnd_notification_warnings_title">Το Μην Ενοχλείτε είναι ενεργό. Κλήσεις και Ειδοπ/σεις θα σιγήσουν.</string>
-	<string name="choose_clock_title_left_top">Στοιχισμένο αριστερά</string>
-	<string name="choose_clock_title_middle">Κεντρικά</string>
+	<string name="choose_clock_title_left_top">Αριστερά</string>
+	<string name="choose_clock_title_middle">Κέντρο</string>
 	<string name="choose_clock_title_vertical">Κάθετα</string>
 	<string name="face_unlock_success_show_message_dialog_msg">Να επιτρέπεται στις ειδοποιήσεις να μπορούν να εμφανίζονται στην Οθόνη Κλειδώματος?</string>
 	<string name="face_unlock_success_show_message_dialog_negative_btn">Όχι ευχαριστώ</string>

@@ -135,7 +135,7 @@
      <string name="baby_suffix">μωρό</string>
      <string name="back">Πίσω</string>
      <string name="backup_automatically_summary">Κάντε αντίγραφα των φωτογραφιών και βίντεο από όλες τις συσκευές στο Mi Cloud. Έτσι θα μπορείτε εύκολα να περιηγηθείτε, να ταξινομήσετε, να επεξεργαστείτε και να μοιραστείτε τις φωτογραφίες και τα βίντεο σε όλες τις συσκευές σας.</string>
-     <string name="backup_automatically_title">Αυτόματο αντίγραφο και συγχρ/σμός</string>
+     <string name="backup_automatically_title">Αυτόματα αντίγραφα και συγχρονισμός</string>
      <string name="backup_battery_low_desc">Μπορείτε ακόμα να επιλέξετε να συνεχίσετε τα αντίγραφα των στοιχείων</string>
      <string name="backup_battery_low_title">Η δημιουργία αντιγράφων έχει διακοπεί λόγω χαμηλής μπαταρίας</string>
      <string name="backup_close">Κλείσιμο αντιγράφου ασφαλείας</string>
@@ -1757,7 +1757,7 @@
      <string name="video_editor_download_with_metered_network_msg">Η λήψη αρχικών αρχείων μπορεί να προκαλέσει επιπλέον χρεώσεις φορέα. Λήψη ούτως ή άλλως;</string>
 	 <string name="video_editor_download_with_metered_network_title">"Είστε συνδεδεμένοι σε ένα δίκτυο με χρέωση"</string>
 	  <string name="month_view_tip_button_text">Κατανοητό</string>
-	  <string name="month_view_tip_sub_title">Άγγιγμα της οθόνης για μετάβαση σε προβολή μήνα</string>
+	  <string name="month_view_tip_sub_title">Άγγιγμα στην οθόνη για μηνιαία προβολή</string>
 	  <string name="month_view_tip_title">Προβολή μήνα</string>
 	  <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
 	  <string name="photo_font_cancel_download">Ακύρωση</string>
