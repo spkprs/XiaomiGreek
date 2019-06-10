@@ -1645,4 +1645,6 @@
   <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM αυτόματα</string>
   <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM μόνο</string>
   <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA μόνο</string>	
+  <string name="preferred_network_type_pref_entries_5g_preferred">5G Προτίμηση</string>
+  <string name="network_mode_updating_title">Τύπος Δικτύου</string>
 </resources>
