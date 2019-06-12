@@ -150,7 +150,7 @@
      <string name="copy_to_sdcard">Αποθήκευση συνημμένου</string>
      <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
      <string name="copy_to_sdcard_success">Το συνημμένο αποθηκεύτηκε ως %s</string>
-     <string name="current_data_version">Έκδοση Mi Μηνύματα</string>
+     <string name="current_data_version">Έκδοση Mi Μήνυμα</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_bookmark">Αφαίρεση από τα Αγαπημένα</string>
      <string name="delete_message">Διαγραφή</string>
@@ -163,7 +163,9 @@
      <string name="delete_wild_sims_title">Διαγραφή επιλεγμένων αριθμών</string>
      <string name="delivery_report_activity">Αναφορά παράδοσης</string>
      <string name="delivery_toast_body">Μήνυμα ελήφθη από %s</string>
-     <string name="dialog_message_fake_cell_detect_error">Διορθώστε τις πληροφορίες σχετικά με αυτό το μήνυμα; Για να γίνει αυτό, το MIUI πρέπει να φορτώσει τον αριθμό τηλεφώνου (%1$s), το περιεχόμενο του μηνύματος και τις πληροφορίες σχετικά με την κοντινή τοποθεσία στους διακομιστές του.</string>
+     <string name="delivery_toast_body_more">Μήνυμα παραλήφθηκε από %1$s, και %2$d άλλα άτομα</string>
+     <string name="dialog_complain_tips">Να επιτρέπεται η σύνδεση των Μηνυμάτων στο δίκτυο για να είναι δυνατή η αναφορά στοιχείων.</string>
+     <string name="dialog_message_fake_cell_detect_error">Διόρθωση πληροφοριών για αυτό το μήνυμα; Για να γίνει αυτό, το MIUI πρέπει να φορτώσει τον αριθμό τηλεφώνου (%1$s), το περιεχόμενο και τις πληροφορίες σχετικά με την κοντινή τοποθεσία στους διακομιστές του.</string>
      <string name="dialog_message_mx">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβαρύνσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση της υπηρεσίας Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με τις \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το  Mi μήνυμα.</string>
      <string name="dialog_message_networking">Τα μηνύματα πρέπει να χρησιμοποιούν Yellow pages για να είναι σε θέση να παρέχουν αναγνώριση ID αποστολέα. Τα μηνύματα και οι Yellow pages πρέπει να συνδεθούν στο διαδίκτυο και να έχουν πρόσβαση στην τοποθεσία σας για να λειτουργούν κανονικά. Επιτρέπετε?</string>
      <string name="dialog_message_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες της ηπηρωτικής Κίνας χωρίς να χρεώνεστε. Πρέπει να συμφωνήσετε \"%1$s\" πριν χρησιμοποιήσετε το China Mobile Messaging.</string>
@@ -402,7 +404,7 @@
      <string name="networking_allow_desc_without_mx">Το Mi Message πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά. Για να αναγνωρίζει άγνωστους αριθμούς, να φιλτράρει τα ανεπιθύμητα μηνύματα και να ενεργοποιεί άλλες λειτουργίες, το Mi Message πρέπει να χρησιμοποιεί το Χρυσό Οδηγό. Να επιτρέπεται στο Χρυσό Οδηγό η πρόσβαση στο Internet, να λαμβάνει πληροφορίες για την τοποθεσία σας και να διαβάζει τις επαφές σας;</string>
      <string name="networking_allow_title">Προσοχή</string>
      <string name="new_message">Νέο μήνυμα</string>
-     <string name="new_message_arrived">Νέο μήνυμα ελήφθη</string>
+     <string name="new_message_arrived">Αγγίξτε για προβολή</string>
      <string name="new_phrase">Νέα απάντηση</string>
      <string name="new_phrase_hint">Εισάγετε νέα απάντηση</string>
      <string name="no">Άκυρο</string>
@@ -786,7 +788,7 @@
      <string name="undelivered_msg_dialog_title">Ανεπίδοτο μήνυμα</string>
      <string name="undelivered_sms_dialog_body">Δεν είναι δυνατή η αποστολή αυτού του μηνύματος.</string>
      <string name="unknown_num">Άγνωστος αριθμός</string>
-     <string name="unknown_sender">Άγνωστος αποστολέας</string>
+     <string name="unknown_sender">Έχετε ένα νέο μήνυμα</string>
      <string name="unstick">Ξεκαρφίτσωμα</string>
      <string name="unstick_conversation">Ξεκαρφίτσωμα τρέχουσας συνομιλίας</string>
      <string name="unsticked_conversation">Η συνομιλία έχει ήδη ξεκαρφιτσωθεί</string>
@@ -822,7 +824,7 @@
 	  <string name="menu_traffic_destination">Προορισμός</string>
 	  <string name="number_recognition_partner">Πάροχοι υπηρ. αναγνώρισης ID αποστολέα</string>
 	  <string name="train_edit_destination">Προσθήκη</string>
-	  <string name="select_copy_text">Επιλέξτε και αντιγράψτε το κείμενο του μηνύματος</string>
+	  <string name="select_copy_text">Επιλέξτε και αντιγράψτε το κείμενο</string>
 	  <string name="select_different_media">Επιλέξτε ένα διαφορετικό %1$s.</string>
 	  <string name="application_list_title">Μικρές εφαρμογές</string>
 	  <string name="attach_group_chat">Ομαδική συζήτηση</string>
