@@ -6151,10 +6151,10 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="none">Χωρίς</string>
   <string name="notifi_channels">Κατηγορίες ειδοποιήσεων</string>
   <string name="notifi_channels_other">Αλλα</string>
-  <string name="notifi_importance_default">Προβολή & σε Οθ. Κλειδώματος με ήχο</string>
-  <string name="notifi_importance_high">Προβολή & σε Οθ. Κλειδ. & σε Πλήρ. Οθόνη με ήχο</string>
+  <string name="notifi_importance_default">Προβολή και σε Οθ. Κλειδώματος με ήχο</string>
+  <string name="notifi_importance_high">Προβολή και σε Οθ. Κλειδ. και σε Πλήρ. Οθόνη με ήχο</string>
   <string name="notifi_importance_low">Χωρίς ήχο</string>
-  <string name="notifi_importance_min">Χωρίς Προβολή & ήχο σε Οθ. Κλειδώματος</string>
+  <string name="notifi_importance_min">Χωρίς Προβολή και ήχο σε Οθ. Κλειδώματος</string>
   <string name="notifi_importance_none">Χωρίς</string>
   <string name="notifi_importance_unspecified">Αφήστε την εφαρμογή να αποφασίσει</string>
   <string name="notifi_no_channels">Αυτή η εφαρμογή δεν έχει δημοσιεύσει καμία ειδοποίηση</string>
