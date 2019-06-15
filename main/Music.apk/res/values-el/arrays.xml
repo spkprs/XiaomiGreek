@@ -1,32 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>Α</item>
-        <item>Β</item>
-        <item>Γ</item>
-        <item>Δ</item>
-        <item>Ε</item>
-        <item>Ζ</item>
-        <item>Η</item>
-        <item>Θ</item>
-        <item>Ι</item>
-        <item>Κ</item>
-        <item>Λ</item>
-        <item>Μ</item>
-        <item>Ν</item>
-        <item>Ξ</item>
-        <item>Ο</item>
-        <item>Π</item>
-        <item>Ρ</item>
-        <item>Σ</item>
-        <item>Τ</item>
-        <item>Υ</item>
-        <item>Φ</item>
-        <item>Χ</item>
-        <item>Ψ</item>
-        <item>Ω</item>
-        <item></item>
-        <item></item>
-        <item>\#</item>
-    </string-array>
+  <string-array name="alphabet_table">
+    <item>Α</item>
+    <item>Β</item>
+    <item>Γ</item>
+    <item>Δ</item>
+    <item>Ε</item>
+    <item>Ζ</item>
+    <item>Η</item>
+    <item>Θ</item>
+    <item>Ι</item>
+    <item>Κ</item>
+    <item>Λ</item>
+    <item>Μ</item>
+    <item>Ν</item>
+    <item>Ξ</item>
+    <item>Ο</item>
+    <item>Π</item>
+    <item>Ρ</item>
+    <item>Σ</item>
+    <item>Τ</item>
+    <item>Υ</item>
+    <item>Φ</item>
+    <item>Χ</item>
+    <item>Ψ</item>
+    <item>Ω</item>
+    <item />
+    <item />
+    <item>\#</item>
+  </string-array>
+  <string-array name="aritst_area_filter">
+    <item>@string/artist_area_all</item>
+    <item>@string/artist_area_china</item>
+    <item>@string/artist_area_korea</item>
+    <item>@string/artist_area_japan</item>
+    <item>@string/artist_area_europe_usa</item>
+  </string-array>
+  <string-array name="aritst_area_filter_api">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+  </string-array>
+  <string-array name="aritst_gender_filter">
+    <item>@string/artist_gender_all</item>
+    <item>@string/artist_gender_male</item>
+    <item>@string/artist_gender_female</item>
+    <item>@string/artist_gender_group</item>
+  </string-array>
+  <string-array name="aritst_gender_filter_api">
+    <item>all</item>
+    <item>male</item>
+    <item>female</item>
+    <item>group</item>
+  </string-array>
+  <array name="desktop_lyric_seekbar_track_color">
+    <item>#ff13baff</item>
+    <item>#ff616acb</item>
+    <item>#ffe28ce2</item>
+    <item>#ffe64b4b</item>
+    <item>#ffffff00</item>
+    <item>#ff84cf84</item>
+    <item>#ff6fe9e9</item>
+  </array>
+  <string-array name="dirac_equalizer_preset_names">
+    <item>@string/eq_flat</item>
+    <item>@string/eq_rock</item>
+    <item>@string/eq_jazz</item>
+    <item>@string/eq_pop</item>
+    <item>@string/eq_classical</item>
+    <item>@string/eq_hiphop</item>
+    <item>@string/eq_blues</item>
+    <item>@string/eq_electronic</item>
+    <item>@string/eq_country</item>
+    <item>@string/eq_dance</item>
+    <item>@string/eq_metal</item>
+  </string-array>
+  <string-array name="dirac_equalizer_preset_values">
+    <item>0,0,0,0,0,0,0</item>
+    <item>4,2,-2,0,-2,-2,4</item>
+    <item>0,0,0,-2,-3,0,0</item>
+    <item>0,-3,-5,0,0,-3,0</item>
+    <item>0,0,0,0,3,6,6</item>
+    <item>3,3,-3,0,-3,0,2</item>
+    <item>2,4,-6,4,0,1,2</item>
+    <item>3,3,-1,0,-3,0,0</item>
+    <item>0,0,-2,-2,2,2,0</item>
+    <item>0,4,2,0,-2,-2,4</item>
+    <item>2,0,0,-2,-4,0,0</item>
+  </string-array>
+  <string-array name="karaoke_descriptions">
+    <item>υπάρχει ένα τραγούδι που θα σας αφήσει να ακολουθήσετε απαλά και...</item>
+    <item>τη τραγούδησα, ήμουν τόσο μαγική, τραγούδησα την καρδιά μου....</item>
+    <item>不管 喜 和 悲 卡拉 永远 ok...</item>
+    <item>τα μικρόφωνα επιτρέψτε μου να κατακτήσει...</item>
+    <item>αγαπάτε να ακούσετε τον κόσμο σε όλο τον κόσμο που σας ακούει....</item>
+    <item>ευτυχώς, έχω το πρώτο μου τραγούδι αγάπης....</item>
+    <item>χθες πολύ αύριο πολύ κοντά, πολύ μακριά για να ακούσετε τη νύχτα...</item>
+    <item>你 有 Jazz 我 用 Ροκ 一起 Hip-hop 整条街...</item>
+    <item>τραγουδήστε τον ενθουσιασμό σας, τεντώστε τα χέρια σας, επιτρέψτε μου να αγκαλιάσω τα όνειρά σας...</item>
+    <item>αυτό είναι ένα απλό τραγούδι αγάπης που τραγουδάει τις καρδιές μας....</item>
+    <item>νομίζω ότι είμαι πολύ κατάλληλος να είμαι τραγουδιστής, η νεολαία επιπλέει στον αέρα....</item>
+  </string-array>
+  <string-array name="xiaoai_tips">
+    <item>τζέι τσου</item>
+    <item>αναζήτηση για \"αξέχαστη αυτή η νύχτα\"</item>
+    <item>αναπαραγωγή τοπικών τραγουδιών</item>
+  </string-array>
 </resources>

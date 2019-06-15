@@ -6071,7 +6071,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
       <string name="miui_more_special_feature">Εξερευνήστε νέες λειτουργίες</string>
       <string name="miui_special_feature">Ειδικά χαρακτηριστικά</string>
       <string name="other_settings_sync_settings">Συγχρονισμός</string>
-      <string name="unlogin_account_summary">Ένας λογαριασμός, όλες τις υπηρεσίες MI</string>
+      <string name="unlogin_account_summary">Ένας λογαριασμός, όλες οι υπηρεσίες MI</string>
       <string name="unlogin_account_title">Συνδεθείτε στο Λογαριασμό Mi</string>
 	  <string name="cutout_mode_always">Εμφάνιση πάντα εγκοπής</string>
 	  <string name="cutout_mode_default">Αυτόματα</string>
@@ -6260,7 +6260,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="usage_state_noti_mourth_day">"Ειδοποιήσεις %s"</string>
   <string name="usage_state_notification">Διαχείριση ειδοποιήσεων</string>
   <string name="usage_state_notification_manager">Διαχείριση ειδοποιήσεων εφαρμογών</string>
-  <string name="usage_state_remind_summary">Ενεργοποιήστε το για να λάβετε ειδοποιήσεις χρόνου οθόνης. Μπορείτε να ορίσετε διαφορετικά χρονικά όρια για τις καθημερινές και τα Σαββατοκύριακα.</string>
+  <string name="usage_state_remind_summary">Ενεργοποιήστε το για να λάβετε ειδοποιήσεις χρόνου οθόνης.</string>
   <string name="usage_state_remind_title">Ειδοποίηση χρόνου οθόνης</string>
   <string name="usage_state_rest_day">Σαββατοκύριακα</string>
   <string name="usage_state_saturday">Σάβ</string>
@@ -6402,4 +6402,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="allowed_set">0.0.0.0 επιτρέπεται</string>
     <string name="not_allowed_set">0.0.0.0 δεν επιτρέπεται</string>
     <string name="no_neighboring_cells">χωρίς περιμετρικά κελιά</string>
+    <string name="dark_color_summary_lcd">"Χρήση σκοτεινότερης παλέτας χρωμάτων για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μπορεί να σας βοηθήσει να μειώσετε την καταπόνηση των ματιών όταν χρησιμοποιείτε τη συσκευή σας στο σκοτάδι."</string>
+    <string name="dark_color_summary_oled">Χρήση σκοτεινότερης παλέτας χρωμάτων για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μειώνει την κατανάλωση ενέργειας και την καταπόνηση των ματιών.</string>
 </resources>

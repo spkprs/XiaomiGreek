@@ -107,6 +107,8 @@
     <string name="button_fisheye_camera_title">Fisheye</string>
 	<string name="button_front_camera_title">Λήψη μιάς selfie</string>
     <string name="button_normal_video_title">Εγγραφή βίντεο</string>
+	<string name="calibration_guide_tittle">Αβαθμονόμητη Κάμερα</string>
+	<string name="calibration_hint_usage">Μια αβαθμονόμητη Κάμερα θα έχει αρνητικό αντίκτυπο στην ποιότητα της εικόνας. Παρακαλούμε επικοινωνήστε με την υπηρεσία πωλήσεων.</string>
     <string name="camera_disabled">Η Κάμερα έχει απενεργοποιηθεί</string>
     <string name="camera_error_title">Σφάλμα κάμερας</string>
     <string name="camera_facedetection_sub_option_hint">Πειραματική λειτουργία</string>

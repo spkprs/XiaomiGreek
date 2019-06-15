@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="check_in_day_label">
+    <item quantity="other">%1$d μέρες</item>
+    <item quantity="one">%1$d ημέρα</item>
+  </plurals>
   <plurals name="comment_count">
     <item quantity="other">%d σχόλια</item>
     <item quantity="one">%d σχόλιο</item>
   </plurals>
+  <plurals name="comment_input_length_invalid">
+    <item quantity="other">Μπορείτε να εισάγετε έως και %1$d χαρακτήρες.</item>
+    <item quantity="one">Μπορείτε να εισάγετε έως και %1$d χαρακτήρα.</item>
+  </plurals>
   <plurals name="dialog_confirm_delete_downloads_message">
     <item quantity="other">Διαγραφή %d αντικειμένων;</item>
     <item quantity="one">Διαγραφή %d αντικειμένου;</item>
-  </plurals>
-  <plurals name="dialog_confirm_delete_downloads_message_with_file">
-    <item quantity="other">Διαγραφή %d αντικειμένων; \nΣημείωση: Τα αρχεία θα διαγραφούν από τη συσκευή αυτή επίσης.</item>
-    <item quantity="one">Διαγραφή %d αντικειμένου; \nΣημείωση: Το αρχείο θα διαγραφεί από τη συσκευή αυτή επίσης.</item>
   </plurals>
   <plurals name="dialog_delete_descript">
     <item quantity="other">Διαγραφή %d τραγουδιών;</item>
@@ -20,9 +24,13 @@
     <item quantity="other">Αφαίρεση %d τραγουδιών;</item>
     <item quantity="one">Αφαίρεση %d τραγουδιού;</item>
   </plurals>
+  <plurals name="dialog_remove_from_cloud_descript">
+    <item quantity="other">Διαγραφή %d τραγούδια από το Mi Cloud; Θα διαγραφούν από τις τοπικές λίστες αναπαραγωγής, καθώς και.</item>
+    <item quantity="one">Διαγραφή %d τραγούδι από το Mi Cloud; Θα πρέπει να διαγραφεί από τις τοπικές λίστες αναπαραγωγής, καθώς και.</item>
+  </plurals>
   <plurals name="download_finished">
     <item quantity="other">&lt;font color=\"red\"&gt;%d τραγούδια&lt;/font&gt; έγινε λήψη</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d τραγούδι&lt;/font&gt; έγινε λήψη</item>
+    <item quantity="one">&lt;font color=\"=red\"&gt;%d τραγούδι&lt;/font&gt; έγινε λήψη</item>
   </plurals>
   <plurals name="download_info_count_deleted_tasks">
     <item quantity="other">%d λήψεις αφαιρέθηκαν</item>
@@ -30,7 +38,11 @@
   </plurals>
   <plurals name="download_running">
     <item quantity="other">&lt;font color=\"red\"&gt;%d τραγούδια&lt;/font&gt; γίνεται λήψη</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d τραγούδι&lt;/font&gt; γίνεται λήψη</item>
+    <item quantity="one">&lt;font color=\"=red\"&gt;%d τραγούδι&lt;/font&gt; γίνεται λήψη</item>
+  </plurals>
+  <plurals name="folder_songs_count">
+    <item quantity="other">%d τραγούδια</item>
+    <item quantity="one">%d τραγούδι</item>
   </plurals>
   <plurals name="multichoice_title">
     <item quantity="other">%d στοιχεία επιλέχθηκαν</item>
@@ -38,19 +50,39 @@
   </plurals>
   <plurals name="Nalbum_total_songs">
     <item quantity="other">Συνολικά %d τραγούδια</item>
+    <item quantity="zero">Total %d song</item>
     <item quantity="one">Συνολικά %d τραγούδι</item>
+  </plurals>
+  <plurals name="Nartists_count">
+    <item quantity="other">%d καλλιτέχνες</item>
+    <item quantity="one">%d καλλιτέχνης</item>
   </plurals>
   <plurals name="Nassociate_songs">
     <item quantity="other">Γίνεται αναζήτηση για εξώφυλλα άλμπουμ και στίχων (%1$d/%2$d)</item>
     <item quantity="one">Γίνεται αναζήτηση για εξώφυλλα άλμπουμ και στίχων (%1$d/%2$d)</item>
   </plurals>
-  <plurals name="Ndialog_renew_content">
-    <item quantity="other">Η συνδρομή σας λήγει σε %d ημέρες. \nΘέλετε να σας βοηθήσουμε να την ανανεώσετε;</item>
-    <item quantity="one">Η συνδρομή σας λήγει σε %d ημέρα. \nΘέλετε να σας βοηθήσουμε να την ανανεώσετε;</item>
+  <plurals name="Nbackup_songs">
+    <item quantity="other">Δημιουργία αντιγράφων τραγουδιών, %1$d τραγούδια που απομένουν (%2$.1fMB)</item>
+    <item quantity="one">Δημιουργία αντιγράφων τραγουδιών, %1$d το τραγούδι απομένει (%2$.1fMB)</item>
   </plurals>
-  <plurals name="Nhungama_free_download_summary">
-    <item quantity="other">Μπορείτε να κατεβάσετε %1$d δωρεάν τραγούδια. Λήψη %2$s τώρα;</item>
-    <item quantity="one">Μπορείτε να κατεβάσετε %1$d δωρεάν τραγούδι. Λήψη %2$s τώρα;</item>
+  <plurals name="Ndownload_fee_alert_message">
+    <item quantity="other">Κατόπιν αιτήματος του ιδιοκτήτη των πνευματικών δικαιωμάτων, %d δεν είναι δυνατή η λήψη επιλεγμένων τραγουδιών δωρεάν. Αυτά τα τραγούδια προστέθηκαν σε λήψεις.</item>
+    <item quantity="one">Κατόπιν αιτήματος του ιδιοκτήτη των πνευματικών δικαιωμάτων, %d δεν είναι δυνατή η λήψη του επιλεγμένου τραγουδιού δωρεάν. Αυτό το τραγούδι Προστέθηκε σε λήψεις.</item>
+  </plurals>
+  <plurals name="Nexpired_remind">
+    <item quantity="other">%d ημέρες που απομένουν</item>
+    <item quantity="one">%d ημέρα που απομένει</item>
+  </plurals>
+  <plurals name="Ngroups_count">
+    <item quantity="other">%d ζώνες</item>
+    <item quantity="one">%d ζώνη</item>
+  </plurals>
+  <plurals name="Nnew_tracks_count">
+    <item quantity="other">%d νέα</item>
+  </plurals>
+  <plurals name="Nnowplaying_songs">
+    <item quantity="other">(%d τραγ.)</item>
+    <item quantity="one">(%d τραγ.)</item>
   </plurals>
   <plurals name="notif_title_multiple_downloading">
     <item quantity="other">Λήψη %1$d αρχεία</item>
@@ -60,13 +92,38 @@
     <item quantity="other">Αδυναμία λήψης %1$d στοιχείων</item>
     <item quantity="one">Αδυναμία λήψης %1$d στοιχείου</item>
   </plurals>
+  <plurals name="notification_download_success_more">
+    <item quantity="other">%1$d τραγούδια</item>
+    <item quantity="one">%1$d τραγούδι</item>
+  </plurals>
+  <plurals name="NPlaylist_delete_confirm">
+    <item quantity="other">Διαγραφή %d λίστες αναπαραγωγής;</item>
+    <item quantity="one">Διαγραφή %d λίστα αναπαραγωγής?</item>
+  </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">Η αναπαραγωγή θα διακοπεί σε %d λεπτά</item>
     <item quantity="one">Η αναπαραγωγή θα διακοπεί σε %d λεπτό</item>
   </plurals>
+  <plurals name="Nrecognize_switch_off_alert_message">
+    <item quantity="other">Επιλέξατε να μην βρείτε αυτόματα εξώφυλλα άλμπουμ και στίχους για τοπικά τραγούδια. Διαγραφή πληροφοριών για %d τραγούδια?</item>
+    <item quantity="one">Επιλέξατε να μην βρείτε αυτόματα εξώφυλλα άλμπουμ και στίχους για τοπικά τραγούδια. Διαγραφή πληροφοριών για %d τραγούδι?</item>
+  </plurals>
+  <plurals name="Nsleep_quit_warning">
+    <item quantity="other">σε %d λεπτά</item>
+    <item quantity="one">σε %d λεπτό</item>
+  </plurals>
+  <plurals name="Nsleep_quit_warning_custom">
+    <item quantity="other">Προτίμηση:%d λεπτά απομένουν</item>
+    <item quantity="one">Προτίμηση:%d λεπτά απομένει\n</item>
+  </plurals>
   <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδια</item>
+    <item quantity="zero">Created on %1$s | total %2$d song</item>
     <item quantity="one">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
+  </plurals>
+  <plurals name="Nstop_backup_songs_message">
+    <item quantity="other">%d δεν έχουν δημιουργηθεί αντίγραφα ασφαλείας των τραγουδιών στο Mi cloud. Να σταματήσω τώρα;</item>
+    <item quantity="one">%d δεν έχει δημιουργηθεί αντίγραφο ασφαλείας του τραγουδιού στο Mi cloud. Να σταματήσω τώρα;</item>
   </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα αναπαραγωγής</item>
@@ -80,9 +137,21 @@
     <item quantity="other">%d τραγούδια αφαιρέθηκαν από την λίστα</item>
     <item quantity="one">%d τραγούδι αφαιρέθηκε από την λίστα</item>
   </plurals>
+  <plurals name="Ntracks_search_result">
+    <item quantity="other">%d τραγούδια βρέθηκαν</item>
+    <item quantity="one">%d το τραγούδι βρέθηκαν</item>
+  </plurals>
   <plurals name="Ntracks_similar_count">
     <item quantity="other">%d παρόμοια τραγούδια</item>
     <item quantity="one">%d παρόμοιο τραγούδι</item>
+  </plurals>
+  <plurals name="Nunbackup_audios">
+    <item quantity="other">%1$d δεν έχουν δημιουργηθεί αντίγραφα ασφαλείας των τραγουδιών (%2$.1fMB)</item>
+    <item quantity="one">%1$d δεν έχει δημιουργηθεί αντίγραφο ασφαλείας του τραγουδιού (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Nupload_song_button">
+    <item quantity="other">Αντίγραφα %1$d τραγούδια (%2$.1fMB)</item>
+    <item quantity="one">Αντίγραφα %1$d τραγούδι (%2$.1fMB)</item>
   </plurals>
   <plurals name="reader_count">
     <item quantity="other">%d ακόλουθοι</item>
@@ -104,20 +173,8 @@
     <item quantity="other">%d τραγούδια</item>
     <item quantity="one">%d τραγούδι</item>
   </plurals>
-  <plurals name="video_count">
-    <item quantity="other">Βίντεο</item>
-    <item quantity="one">Βίντεο</item>
+  <plurals name="swipe_to_load_head_complete_success">
+    <item quantity="other">Εδώ είναι %1$d ενημερώσεις για εσάς:</item>
+    <item quantity="one">Εδώ είναι. %1$d ενημέρωση για εσάς:</item>
   </plurals>
-  <plurals name="video_play_count">
-    <item quantity="other">%1$s προβολές</item>
-    <item quantity="one">%1$s προβολή</item>
-  </plurals>
-    <plurals name="free_downloads_num_hint">
-        <item quantity="other">απομένουν %d δωρεάν λήψη</item>
-        <item quantity="one">απομένει %d δωρεάν λήψη</item>
-    </plurals>
-	<plurals name="vip_remain_days_hint">
-        <item quantity="other">απομένουν %d ημέρες</item>
-        <item quantity="one">απομένουν %d ημέρα</item>
-    </plurals>
 </resources>
