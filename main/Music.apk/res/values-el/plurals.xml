@@ -30,7 +30,7 @@
   </plurals>
   <plurals name="download_finished">
     <item quantity="other">&lt;font color=\"red\"&gt;%d τραγούδια&lt;/font&gt; έγινε λήψη</item>
-    <item quantity="one">&lt;font color=\"=red\"&gt;%d τραγούδι&lt;/font&gt; έγινε λήψη</item>
+    <item quantity="one">&lt;font color=\"red\"&gt;%d τραγούδι&lt;/font&gt; έγινε λήψη</item>
   </plurals>
   <plurals name="download_info_count_deleted_tasks">
     <item quantity="other">%d λήψεις αφαιρέθηκαν</item>
@@ -50,7 +50,7 @@
   </plurals>
   <plurals name="Nalbum_total_songs">
     <item quantity="other">Συνολικά %d τραγούδια</item>
-    <item quantity="zero">Total %d song</item>
+    <item quantity="zero">Συνολικά %d τραγούδι</item>
     <item quantity="one">Συνολικά %d τραγούδι</item>
   </plurals>
   <plurals name="Nartists_count">
@@ -114,11 +114,11 @@
   </plurals>
   <plurals name="Nsleep_quit_warning_custom">
     <item quantity="other">Προτίμηση:%d λεπτά απομένουν</item>
-    <item quantity="one">Προτίμηση:%d λεπτά απομένει\n</item>
+    <item quantity="one">Προτίμηση:%d λεπτά απομένει</item>
   </plurals>
   <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδια</item>
-    <item quantity="zero">Created on %1$s | total %2$d song</item>
+    <item quantity="zero">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
     <item quantity="one">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
   </plurals>
   <plurals name="Nstop_backup_songs_message">
