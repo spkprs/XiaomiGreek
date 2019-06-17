@@ -422,4 +422,40 @@
         <item quantity="other">%s λεπ.</item>
         <item quantity="one">%s λεπ.</item>
     </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s ημ. απομένουν</item>
+        <item quantity="one">%s ημ. απομένει</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s ώρ. απομένουν</item>
+        <item quantity="one">%s ώρ. απομένει</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s λεπ. απομένουν</item>
+        <item quantity="one">%s λεπ. απομένει</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s ημ. απομένουν</item>
+        <item quantity="one">%s ημ. απομένει</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s ώρ. απομένουν</item>
+        <item quantity="one">%s ώρ. απομένει</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s λεπ. απομένουν</item>
+        <item quantity="one">%s λεπ. απομένει</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s ημ. έως την πλήρη φόρτιση</item>
+        <item quantity="one">%s ημ. έως την πλήρη φόρτιση</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s ώρ. έως την πλήρη φόρτιση</item>
+        <item quantity="one">%s ώρ. έως την πλήρη φόρτιση</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s λεπ. έως την πλήρη φόρτιση</item>
+        <item quantity="one">%s λεπ. έως την πλήρη φόρτιση</item>
+    </plurals>
 </resources>

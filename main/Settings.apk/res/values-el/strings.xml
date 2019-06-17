@@ -6402,4 +6402,19 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="no_neighboring_cells">χωρίς περιμετρικά κελιά</string>
     <string name="dark_color_summary_lcd">"Χρήση σκοτεινότερης παλέτας χρωμάτων για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μπορεί να σας βοηθήσει να μειώσετε την καταπόνηση των ματιών όταν χρησιμοποιείτε τη συσκευή σας στο σκοτάδι."</string>
     <string name="dark_color_summary_oled">Χρήση σκοτεινότερης παλέτας χρωμάτων για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μειώνει την κατανάλωση ενέργειας και την καταπόνηση των ματιών.</string>
+    <string name="usage_app_get_it">Τέλος</string>
+    <string name="usage_app_limit_alter_summary">"Φαίνεται ότι αυτό το χρονικό όριο είναι μικρότερο από το χρόνο που χρησιμοποιείτε αυτήν την εφαρμογή σήμερα. Ορισμός ορίου οπωσδήποτε?"</string>
+    <string name="usage_app_limit_alter_title">Ελέγξτε το χρονικό όριο της οθόνης</string>
+    <string name="usage_app_limit_prelong">Επέκταση χρόνου</string>
+    <string name="usage_app_limit_reach_summay">%s απομένουν</string>
+    <string name="usage_app_limit_reach_title">%s φτάνει στο χρονικό όριο της οθόνης</string>
+    <string name="usage_app_limit_summary">"Οι επιλεγμένες εφαρμογές δεν θα είναι διαθέσιμες όταν επιτευχθεί το όριο"</string>
+    <string name="usage_app_limit_title">Περιορισμός χρόνου οθόνης</string>
+    <string name="usage_app_other_settings">Πρόσθετες ρυθμίσεις</string>
+    <string name="usage_app_over_content">"Έχετε ήδη χρησιμοποιήσει αυτήν την εφαρμογή %s σήμερα."</string>
+    <string name="usage_app_over_summary">"Έχετε φτάσει το όριο σας. Τέλος χρόνου!"</string>
+    <string name="usage_app_set_limit_time">Ορισμός ορίου</string>
+    <string name="usage_app_system_app_summary">"Δεν είναι δυνατό να περιοριστεί ο χρόνος οθόνης για εφαρμογές συστήματος"</string>
+    <string name="usage_app_weekday_limit">Καθημερινές</string>
+    <string name="usage_app_weekend_limit">Σαββατοκύριακα</string>
 </resources>

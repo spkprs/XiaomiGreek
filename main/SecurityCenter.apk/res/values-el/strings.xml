@@ -2742,4 +2742,15 @@
 	<string name="summary_dark_mode">Ορισμένες σελίδες απεικονίζονται μαύρες λόγω υπηρεσιών τρίτων</string>
 	<string name="title_dark_mode">"Ορισμένα στοιχεία δεν απεικονίζονται σωστά"</string>
 	<string name="toast_dark_mode_fixed">Διορθώθηκε με επιτυχία. Αφήστε αυτήν τη σελίδα για να εφαρμοστούν οι αλλαγές.</string>
+    <string name="power_main_battery_last_day_hour">%1$sd %2$sh απομένουν</string>
+    <string name="power_main_battery_last_hour_minute">%1$sh %2$sm απομένουν</string>
+    <string name="pc_main_battery_text_day">Προστέθηκαν %1$sm, περίπου %2$sd απομένουν</string>
+    <string name="pc_main_battery_text_day_hour">Προστέθηκαν %1$sm, περίπου %2$sd %3$sh απομένουν</string>
+    <string name="pc_main_battery_text_hour">Προστέθηκαν %1$sm, περίπου %2$sh απομένουν</string>
+    <string name="pc_main_battery_text_hour_minute">Προστέθηκαν %1$sm, περίπου %2$sh %3$sm απομένουν</string>
+    <string name="pc_main_battery_text_minute">Προστέθηκαν %1$sm, περίπου %2$sm απομένουν</string>
+    <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh απομένουν</string>
+    <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm απομένουν</string>
+    <string name="pc_main_power_manager_day_hour">%1$sd %2$sh έως την πλήρη φόρτιση</string>
+    <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm έως την πλήρη φόρτιση</string>
 </resources>
