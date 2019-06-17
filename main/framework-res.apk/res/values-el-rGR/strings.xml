@@ -818,7 +818,7 @@
      <string name="mobile_provisioning_url" />
      <string name="month_day_year" formatted="false">%B %-e, %Y</string>
      <string name="more_item_label">Περισσότερα</string>
-     <string name="move_button_text">Διακόπτης</string>
+     <string name="move_button_text">Πατήστε το πλαίσιο του πλήκτρου για να μετακινήσετε ολόκληρο το παράθυρο</string>
      <string name="muted_by">Σίγαση απο %1$s</string>
      <string name="needPuk">Η κάρτα SIM έχει κλειδωθεί με κωδικό PUK. Πληκτρολογήστε τον κωδικό PUK για να την ξεκλειδώσετε.</string>
      <string name="needPuk2">Πληκτρολογήστε τον κωδικό PUK2 για την κατάργηση αποκλεισμού της κάρτας SIM.</string>

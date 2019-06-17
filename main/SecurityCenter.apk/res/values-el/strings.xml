@@ -2736,6 +2736,10 @@
     <string name="power_setting_background_app_save_title">Εξοικονόμηση μπαταρίας στο παρασκήνιο</string>
     <string name="power_setting_background_app_save_summary">Περιορίστε τη δραστηριότητα των εφαρμογών παρασκηνίου χωρίς να επηρεάσετε τη λειτουργικότητα</string>
     <string name="power_settings_lock_screen_saver_title">Ρυθμίσεις Οθόνης Κλειδώματος</string>
-    <string name="quick_optimize_sub_summary_with_battery_text">Προστέθηκαν %1$s, περίπου %2$s απομένει</string>
-    <string name="quick_optimize_sub_battery_text">Περίπου %s απομένει</string>
+    <string name="quick_optimize_sub_summary_with_battery_text">Προστέθηκαν %1$s, απομένουν %2$s περίπου</string>
+    <string name="quick_optimize_sub_battery_text">Απομένουν %s περίπου</string>
+	<string name="button_dark_mode">Διόρθωση</string>
+	<string name="summary_dark_mode">Ορισμένες σελίδες απεικονίζονται μαύρες λόγω υπηρεσιών τρίτων</string>
+	<string name="title_dark_mode">"Ορισμένα στοιχεία δεν απεικονίζονται σωστά"</string>
+	<string name="toast_dark_mode_fixed">Διορθώθηκε με επιτυχία. Αφήστε αυτήν τη σελίδα για να εφαρμοστούν οι αλλαγές.</string>
 </resources>

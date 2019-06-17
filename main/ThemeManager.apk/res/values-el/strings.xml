@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
+	 <string name="about_app_name">Περί Θέματα</string>
+	 <string name="about_version_update">"Τι νέο υπάρχει"</string>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -47,6 +49,8 @@
      <string name="ad_app_download_start">Έναρξη λήψης…</string>
      <string name="ad_app_is_downloading">Λήψη…</string>
      <string name="add_resource_detail_fail">Δεν είναι δυνατή η προσθήκη πόρων</string>
+     <string name="ad_tag_text_1">Δημοφιλή</string>
+     <string name="ad_tag_text_2">Μόδα</string>
      <string name="all_resources">Όλα</string>
      <string name="app_name">Θέματα</string>
      <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -253,11 +257,6 @@
      <string name="online_precust_plant">Φυτό</string>
      <string name="online_precust_scenery">Τοπίο</string>
      <string name="online_search_hint">Αναζήτηση online</string>
-     <string name="password_toggle_content_description">Εναλλαγή προβολής κωδικού πρόσβασης</string>
-     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
      <string name="pref_privacy_policy">Πολιτική Απορρήτου</string>
      <string name="present_local_themes">Ληφθέντα</string>
      <string name="present_local_themes_subtitle">Προσαρμόστε τη συσκευή σας</string>
@@ -743,4 +742,48 @@
 	<string name="video_ad_uncomplete_tip">Τελειώστε την παρακολούθηση του βίντεο για να λάβετε το θέμα.</string>
 	<string name="video_ad_uncomplete_tip_cancel">Ακύρωση</string>
 	<string name="video_ad_uncomplete_tip_continue">Συνεχίστε την παρακολούθηση</string>
+    <string name="already_latest_version">Ενημερωμένη</string>
+    <string name="app_ad_title">Καθημερινές συστάσεις</string>
+    <string name="character_counter_content_description">Υπέρβαση ορίου χαρακτήρων %1$d απο%2$d</string>
+    <string name="check_has_new_version">Διαθέσιμη ενημέρωση</string>
+    <string name="common_applying">Εφαρμογή…</string>
+    <string name="common_downloading">Λήψη…</string>
+    <string name="common_format_date_no_year">MM/dd</string>
+    <string name="common_skip">Παράβλεψη</string>
+    <string name="current_version">Τρέχουσα έκδοση: %1$s</string>
+    <string name="goto_purchased_list">Προβολή ιστορικού αγορών</string>
+    <string name="goto_wechat">Αντιγράφηκε ο λογαριασμός WeChat \"%1$s\" . Άνοιγμα?</string>
+    <string name="hide_pull_down_message">Απόκρυψη κοσμήματος?</string>
+    <string name="hide_pull_down_negative">"Χωρίς απόκρυψη"</string>
+    <string name="hide_pull_down_positive">Απόκρυψη</string>
+    <string name="lock_screen_apply">Ορισμός ως Οθόνη Κλειδώματος</string>
+    <string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
+    <string name="network_exception">"Αδυναμία σύνδεσης. Ελέξτε το δίκτυό σας και ξαναδοκιμάστε."</string>
+    <string name="no_net_work_connection">Ελέξτε το δίκτυό σας και ξαναδοκιμάστε.</string>
+    <string name="official_accounts">WeChat</string>
+    <string name="password_toggle_content_description">Εμφάνιση κωδικού</string>
+    <string name="pull_down_view_error_message">Ώχ!!. Δεν υπάρχει σύνδεση. Ελέξτε το δίκτυό σας και ξαναδοκιμάστε..</string>
+    <string name="pull_down_view_refresh">Ανανέωση</string>
+    <string name="pull_down_view_title">"Τι νέο υπάρχει"</string>
+    <string name="request_time_out">Η αίτηση έληξε. Προσπάθησε ξανά.</string>
+    <string name="resource_is_off_shelf_can_not_share">"Δεν είναι δυνατή η κοινή χρήση. Αυτό το αντικείμενο δεν είναι πλέον διαθέσιμο."</string>
+    <string name="server_internal_error">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
+    <string name="service_btn_text_know">Γνωρίστε το</string>
+    <string name="service_btn_text_try">Δοκιμάστε το</string>
+    <string name="set_home_wallpaper_failed">"%s. Δεν είναι δυνατή η εφαρμογή ταπετσαρίας στην Αρχική οθόνη."</string>
+    <string name="theme_comment_dialog_cancel">Όχι τώρα</string>
+    <string name="theme_comment_dialog_message">"Σας αρέσει το θέμα που χρησιμοποιείτε τώρα; Θα εκτιμούσαμε τα σχόλιά σας!"</string>
+    <string name="theme_comment_dialog_ok">Ανασκόπηση</string>
+    <string name="version_update">Ελεγχος για ενημερώσεις</string>
+    <string name="vip_level_dialog_positive">Γνωρίζω</string>
+    <string name="vip_level_dialog_title">Συμβουλές</string>
+    <string name="wechat_not_found">Εγκαταστήστε πρώτα το WeChat</string>
+    <string name="weibo">Weibo</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Η σύνδεση του Διαχειριστή λήψης απέτυχε, ελέγξτε την κατάσταση του στη Διαχείριση εφαρμογών.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Έκδοση Εισαγωγής %1$s
+Μέγεθος: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Έκδοση Εισαγωγής %1$s
+Delta μέγεθος ενημέρωσης: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s ενημέρωση!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Αποθήκευση μη διαθέσιμη, ελέγξτε την SD card.</string>
 </resources>

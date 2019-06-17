@@ -3,8 +3,16 @@
 <resources>
      <string name="action_add_to_workspace">Προσθήκη στο χώρο εργασίας</string>
      <string name="activity_not_found">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας</string>
+     <string name="activity_not_unlocked">Περιμένετε μέχρι η συσκευή σας να επανεκκινηθεί πλήρως πριν ανοίξετε τις εφαρμογές</string>
      <string name="add_screen">Προσθήκη οθόνης</string>
      <string name="announce_for_app_move_in_folder">Μετακινήθηκε στη θέση %1$d στο φάκελο</string>
+	 <string name="all_apps">Όλες οι εφαρμογές</string>
+	 <string name="all_apps_search_app">Αναζήτηση τοπικών εφαρμογών</string>
+	 <string name="all_apps_setting_desktop_desc">Εμφάνιση όλων των εγκατεστημένων εφαρμογών, πατήστε παρατεταμένα το εικονίδιο της εφαρμογής για να εμφανίσετε συντομεύσεις για τη διαχείριση ή απεγκατάσταση τους.</string>
+	 <string name="all_apps_setting_desktop_title">Τυπική λειτουργία</string>
+	 <string name="all_apps_setting_drawer_desc">Αγγίξτε το πλήκτρο συρταριού για εμφάνιση όλων των εφαρμογών, οι εφαρμογές που έχουν αφαιρεθεί από την επιφάνεια εξακολουθούν να υπάρχουν στο συρτάρι.</string>
+	 <string name="all_apps_setting_drawer_title">Λειτουργία συρταριού</string>
+	 <string name="all_apps_setting_title">Επιφάνεια εργασίας</string>
      <string name="announce_for_checked">%1$s, ελέγχθηκε</string>
      <string name="announce_for_choose_default_screen">επιλεγμένη οθόνη %1$d να γίνει Αρχική σελίδα</string>
      <string name="announce_for_close_default_preview">κλείσιμο αρχικής επιλεγμένης σελίδας</string>
@@ -97,6 +105,7 @@
      <string name="defalut_launcher_title">Προεπιλεγμένος Εκκινητής</string>
      <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Παιχνίδια</string>
+     <string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
      <string name="default_folder_title_microsoft">Microsoft</string>
      <string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
      <string name="default_folder_title_security">Σύστημα</string>
@@ -284,6 +293,7 @@
      <string name="preferred_app_settings_not_selected">Χωρίς επιλογή</string>
      <string name="process" />
      <string name="quick_app">Άμεσες εφαρμογές</string>
+     <string name="recent_apps">Πρόσφατες εφαρμογές</string>
      <string name="recents_config_title">Πρόσφατα</string>
      <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
      <string name="recommend_apps_default_title">Κενό</string>
@@ -310,6 +320,9 @@
      <string name="setting_wallpaper_tip">Μετακίνηση ή/αλλαγή κλίμακας</string>
      <string name="settings">Ρυθμίσεις</string>
      <string name="settings_shortcut">Ρυθμίσεις</string>
+     <string name="shake_to_align_icons">Ανακινήστε τη συσκευή για συμπλήρωση κενών κελιών με εικονίδια</string>
+     <string name="shake_to_align_icons_summary">Ανακινήστε τη συσκευή σας κατά τη διάρκεια της λειτουργίας επεξεργασίας για αυτόματη συμπλήρωση κενών κελιών με εικονίδια</string>
+     <string name="shake_to_align_icons_title">Ανακινήστε για συμπλήρωση κενών κελιών</string>
      <string name="share">Κοινή χρήση</string>
      <string name="sharedUserId" />
      <string name="show_all">Εμφάνιση όλων</string>
@@ -326,6 +339,7 @@
      <string name="status_installing">Εγκατάσταση…</string>
      <string name="status_paused">σε παύση</string>
      <string name="status_pending">σε αναμονή</string>
+     <string name="system_shortcuts_more_operation">Πληροφ. εφαρμογής</string>
      <string name="title_jeejen">Αρχική σελίδα Jeejen</string>
      <string name="title_select_live_folder">Επιλογή φακέλου</string>
      <string name="title_select_shortcut">Επιλογή συντόμευσης</string>

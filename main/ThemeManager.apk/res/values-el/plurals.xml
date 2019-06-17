@@ -44,4 +44,8 @@
         <item quantity="other">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχεία απομένουν για σήμερα)</item>
         <item quantity="one">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχείο απομένει για σήμερα)</item>
     </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">Εφαρμόστηκε σε %1$d συσκευές</item>
+        <item quantity="one">Εφαρμόστηκε σε %1$d συσκευή</item>
+    </plurals>
 </resources>

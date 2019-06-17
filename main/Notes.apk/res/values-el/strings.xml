@@ -136,13 +136,13 @@
      <string name="notify_alarm_title">Ήχος υπενθύμισης</string>
      <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορούν να το χρησιμοποιήσουν για να αποκτήσουν πρόσβαση στις προσωπικές σας πληροφορίες.</string>
      <string name="permlab_accessNote">Πρόσβαση στις σημειώσεις</string>
-     <string name="pref_desc_skip_confirm_for_quick_delete">Χωρίς ερώτηση για επιβεβαίωση κατά τη διαγραφή μιας σημείωσης με χρήση χειρονομίας</string>
+     <string name="pref_desc_skip_confirm_for_quick_delete">Σύρετε προς τα επάνω με 2 δάχτυλα για να διαγράψετε σημειώσεις χωρίς επιβεβαίωση</string>
      <string name="pref_title_cloud_trash_bin">Διαγραφή σημειώσεων στο Mi Cloud</string>
      <string name="pref_title_common">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_title_font_size">Μέγεθος Γραμματοσειράς</string>
      <string name="pref_title_note_style">Στυλ Σημείωσης</string>
      <string name="pref_title_show_root_folder_in_homepage">Εμφάνιση γρήγορων σημειώσεων στην Αρχική οθόνη</string>
-     <string name="pref_title_skip_confirm_for_quick_delete">Γρήγορη διαγραφή</string>
+     <string name="pref_title_skip_confirm_for_quick_delete">Διαγραφή με χειρονομία</string>
      <string name="recover_notes_hint">Βρέθηκαν σφάλματα στις σημειώσεις. Προσπαθήστε να τις ανακτήσετε στο i.mi.com</string>
      <string name="redo">Ακύρωση αναίρεσης</string>
      <string name="refuse_to_open_as_pic_because_of_loading">Περιμένετε μέχρι να φορτωθεί η Σημείωση, και δοκιμάστε ξανά.</string>
@@ -211,6 +211,7 @@
      <string name="toast_notes_hidden_edit">Αυτή η Σημείωση ήταν κρυφή επιτυχώς. Τραβήξτε προς τα κάτω για να δείτε τις κρυφές σημειώσεις.</string>
      <string name="toast_notes_hidden_home">Αυτή η Σημείωση ήταν κρυφή επιτυχώς. Τραβήξτε προς τα κάτω για να δείτε τις κρυφές σημειώσεις.</string>
      <string name="toast_notes_unhidden">Επιτυχής επανεμφάνιση</string>
+     <string name="toast_pic_is_not_really">Αποθήκευση εικόνας…</string>
      <string name="toast_notes_unhidden_count">Επιτυχής επανεμφάνιση %1$s</string>
      <string name="toast_reach_text_limit_attachment">Το περιεχόμενο του σημειώματος είναι πολύ μεγάλο για να προσθέσετε νέα συνημμένα.</string>
      <string name="toast_reach_text_limit_checkbox">Αδυναμία προσθήκης πλαίσιου επιλογής λόγω τεράστιου μεγέθους σημείωσης</string>
