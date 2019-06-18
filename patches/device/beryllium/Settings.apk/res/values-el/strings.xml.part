@@ -272,7 +272,7 @@
   <string name="gesture_prevent_ringing_sound_title">Συντόμευση για αποτροπή ήχου κλήσης</string>
   <string name="gesture_prevent_ringing_title">Πατήστε μαζί το πλήκτρο λειτουργίας και μείωσης έντασης ήχου</string>
   <string name="header_data_and_synchronization">Δεδομένα και συγχρονισμός</string>
-  <string name="imei_multi_sim">Αριθμός IMEI (υποδοχή κάρτας %1$d)</string>
+  <string name="imei_multi_sim">Αριθμός IMEI (υποδοχή sim %1$d)</string>
   <string name="ims_reg_status_not_registered">Μη εγγεγραμμένη</string>
   <string name="ims_reg_status_registered">Εγγεγραμμένη</string>
   <string name="ims_reg_title">Κατάσταση εγγραφής υπηρεσίας IMS</string>

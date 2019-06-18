@@ -1213,7 +1213,7 @@
      <string name="pointer_location_summary">Επικάλυψη οθόνης που προβάλει τα τρέχοντα δεδομένα αφής</string>
      <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s μέχρι την πλήρη φόρτιση</string>
-     <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
+     <string name="power_charging_duration_ac">%1$s - %2$s για πλήρη φόρτιση απο AC</string>
      <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
      <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
@@ -1460,10 +1460,10 @@
      <string name="screenshot_failed_title">Δεν ήταν δυνατή η λήψη στιγμιότυπου οθόνης.</string>
      <string name="screenshot_failed_to_capture_text">Η λήψη των στιγμιότυπων οθόνης δεν επιτρέπεται από την εφαρμογή ή τον οργανισμό σας</string>
      <string name="screenshot_failed_to_save_text">Δεν είναι δυνατή η αποθήκευση του στιγμιότυπου οθόνης λόγω περιορισμένου χώρου αποθήκευσης.</string>
-     <string name="screenshot_failed_to_save_unknown_text">Παρουσιάστηκε σφάλμα κατά την αποθήκευση στιγμιότυπο οθόνης</string>
+     <string name="screenshot_failed_to_save_unknown_text">Παρουσιάστηκε σφάλμα κατά την αποθήκευση στιγμιότυπου οθόνης</string>
      <string name="screenshot_feedback_txt">Σχόλια</string>
-     <string name="screenshot_insert_failed">Δεν ήταν δυνατή η φόρτωση του στιγμιότυπου οθόνης. Πάρτε ένα νέο ή δείτε την εικόνα στην Έκθεση.</string>
-     <string name="screenshot_long_screenshot">Λήψη μακρύτερου</string>
+     <string name="screenshot_insert_failed">Δεν ήταν δυνατή η φόρτωση του στιγμιότυπου οθόνης. Πάρτε ένα νέο ή δείτε την εικόνα στην Συλλογή.</string>
+     <string name="screenshot_long_screenshot">Λήψη ολόκληρου</string>
      <string name="screenshot_saved_text">Πατήστε για να δείτε το στιγμιότυπο.</string>
      <string name="screenshot_saved_title">Λήψη στιγμιότυπου οθόνης</string>
      <string name="screenshot_saving_text">Το στιγμιότυπο οθόνης αποθηκεύεται</string>
@@ -1917,5 +1917,5 @@
     <string name="keyguard_charging_super_quick_and_level_tip">Ταχεία Φόρτιση %d%%</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Περισσότερα</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Είσοδος</string>
-    <string name="long_screenshot_guide_text">"Λήψη μακρύτερου"</string>
+    <string name="long_screenshot_guide_text">"Λήψη ολόκληρου"</string>
 </resources>

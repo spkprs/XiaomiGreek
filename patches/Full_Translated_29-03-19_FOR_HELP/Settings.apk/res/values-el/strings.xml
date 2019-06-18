@@ -2510,7 +2510,7 @@
   <string name="ime_security_warning">%1$s Αυτή η μέθοδος εισόδου μπορεί να καταγράψει ότι πληκτρολογείτε, συμπεριλαμβανομένων των κωδικών πρόσβασης, αριθμούς πιστωτικών καρτών και άλλα προσωπικά δεδομένα. Θέλετε να χρησιμοποιήσετε αυτή τη μέθοδο εισαγωγής;</string>
   <string name="imei_information_summary">Σχετικές πληροφορίες IMEI</string>
   <string name="imei_information_title">Πληροφορίες IMEI</string>
-  <string name="imei_multi_sim">Αριθμός IMEI (υποδοχή κάρτας %1$d)</string>
+  <string name="imei_multi_sim">Αριθμός IMEI (υποδοχή sim %1$d)</string>
   <string name="Immediate_set">Άμεση</string>
   <string name="immediately_destroy_activities">Κλείσιμο δραστηριοτήτων</string>
   <string name="immediately_destroy_activities_summary">Κλείσιμο κάθε δραστηριότητας μόλις ο χρήστης την αφήνει</string>
