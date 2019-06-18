@@ -43,8 +43,8 @@
   <string name="accessibility_wifi_two_bars">Δύο γραμμές Wi-Fi.</string>
   <string name="active_input_method_subtypes">Ενεργές μέθοδοι εισαγωγής</string>
   <string name="adb_keys_warning_message">Ανάκληση πρόσβασης στον εντοπισμό σφαλμάτων USB από όλους τους υπολογιστές για τους οποίους είχατε εξουσιοδότηση στο παρελθόν;</string>
-  <string name="adb_warning_message">Ο εντοπισμός σφαλμάτων USB προορίζεται μόνο για σκοπούς προγραμματισμού. Χρησιμοποιήστε τον για αντιγραφή δεδομένων μεταξύ του υπολογιστή και της συσκευής σας, για την εγκατάσταση εφαρμογών στη συσκευή σας χωρίς προειδοποίηση και για την ανάγνωση δεδομένων καταγραφής.</string>
-  <string name="adb_warning_title">Να επιτρέπεται ο εντοπισμός σφαλμάτων USB;</string>
+  <string name="adb_warning_message">Η καταγραφή σφαλμάτων USB προορίζεται μόνο για σκοπούς προγραμματισμού. Χρησιμοποιήστε τον για αντιγραφή δεδομένων μεταξύ του υπολογιστή και της συσκευής σας, για την εγκατάσταση εφαρμογών στη συσκευή σας χωρίς προειδοποίηση και για την ανάγνωση δεδομένων καταγραφής.</string>
+  <string name="adb_warning_title">Επιτρέπετε την κατ. σφαλμ. USB?</string>
   <string name="add_blocked_dialog_body">Αποκλεισμός κλήσεων και μηνυμάτων από</string>
   <string name="add_blocked_number_hint">Αριθμός τηλεφώνου</string>
   <string name="add_vm_number_str">Προσθήκη αριθμού</string>

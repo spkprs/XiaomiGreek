@@ -57,10 +57,10 @@
         <item>@string/note</item>
      </string-array>
      <string-array name="date_of_app_all">
-        <item>Χθές (δεδομένα)</item>
-        <item>Σήμερα (δεδομένα)</item>
-        <item>Τον προηγούμενο μήνα (δεδομένα)</item>
-        <item>Αυτό το μήνα (δεδομένα)</item>
+        <item>Χθές (κινητής)</item>
+        <item>Σήμερα (κινητής)</item>
+        <item>Τον προηγούμενο μήνα (κινητής)</item>
+        <item>Αυτό το μήνα (κινητής)</item>
         <item>Χθες Wi-Fi</item>
         <item>Σήμερα Wi-Fi</item>
         <item>Τον προηγούμενο μήνα Wi-Fi</item>

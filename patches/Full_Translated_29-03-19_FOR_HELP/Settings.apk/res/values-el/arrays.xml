@@ -1350,9 +1350,9 @@
         <item>Ορισμός κύκλου χρήσης…</item>
      </string-array>
      <string-array name="date_of_app_all">
-        <item>Σήμερα (δεδομένα)</item>
-        <item>Αυτόν τον μήνα (δεδομένα)</item>
-        <item>Τελευταίο μήνα (δεδομένα)</item>
+        <item>Σήμερα (κινητής)</item>
+        <item>Αυτόν τον μήνα (κινητής)</item>
+        <item>Τελευταίο μήνα (κινητής)</item>
         <item>Σήμερα Wi-Fi</item>
         <item>Αυτόν τον μήνα Wi-Fi</item>
         <item>Τελευταίο μήνα Wi-Fi</item>
@@ -2451,7 +2451,7 @@
         <item>2</item>
      </string-array>
      <string-array name="traffic_type">
-        <item>"Χρήση  Δεδομένων "</item>
+        <item>"Χρήση  Κινητής "</item>
         <item>"Χρήση Wi-Fi "</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">

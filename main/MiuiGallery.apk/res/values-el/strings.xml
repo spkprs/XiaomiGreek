@@ -1194,7 +1194,7 @@
      <string name="operation_show_in_photos_tab">Εμφάνιση στην αρχική σελίδα</string>
      <string name="operation_show_on_map">Εμφάνιση στο χάρτη</string>
      <string name="operation_slide_show">Έναρξη προβολής διαφανειών</string>
-     <string name="operation_successful">Ολοκληρώθηκε</string>
+     <string name="operation_successful">Τέλος</string>
      <string name="operation_too_often">Υπέρβαση ορίου συχνότητας, παρακαλώ δοκιμάστε μετά από 1 λεπτό.</string>
      <string name="operation_unforce_top">Ξεκαρφίτσωμα</string>
      <string name="operation_unhide">Επανεμφάνιση</string>
@@ -1507,7 +1507,7 @@
      <string name="slideshow_interval_invalid">Το χρονικό διάστημα είναι λανθασμένο, πρέπει να είναι 1 ~ 3600 δευτ. Θα επαναφερθεί η προεπιλεγμένη τιμή</string>
      <string name="slideshow_interval_title">Διάρκεια προβολής διαφανειών</string>
      <string name="slideshow_interval_value">%1$d δευτ.</string>
-     <string name="slim_complete">Ολοκληρώθηκε</string>
+     <string name="slim_complete">Τέλος</string>
      <string name="slim_complete_action_title">Βελτιστοποιήθηκε με επιτυχία</string>
      <string name="slim_cost_time_minute">%dm απομένουν</string>
      <string name="slim_cost_time_minute_and_second">%1$dm %2$ds απομένουν</string>
@@ -1652,7 +1652,7 @@
      <string name="video_editor_auto_trim_tip">Αυτόματη περικοπή…</string>
      <string name="video_editor_cancel">Ακύρωση</string>
      <string name="video_editor_cancel_download">Ακύρωση</string>
-     <string name="video_editor_done">Ολοκληρώθηκε</string>
+     <string name="video_editor_done">Τέλος</string>
      <string name="video_editor_down_load_later">Αργότερα</string>
      <string name="video_editor_down_load_no_wifi_tips">Συνδεθείτε στο Wi-Fi για λήψη</string>
      <string name="video_editor_down_load_now">Λήψη</string>
@@ -1800,7 +1800,7 @@
 	  <string name="cleaner_video_title">Διαγραφή βίντεο</string>
 	  <string name="print_log">Εκτύπωση αρχείου καταγραφής</string>
 	  <string name="screen_doodle_talkback_size">Πλάτος γραμμής Σκίτσου</string>
-	  <string name="screen_editor_finish">Ολοκληρώθηκε</string>
+	  <string name="screen_editor_finish">Τέλος</string>
 	  <string name="screen_save_dialog_btn_cancel">Ακύρωση</string>
 	  <string name="screen_save_dialog_btn_delete">Διαγραφή στιγμιότυπου οθόνης</string>
 	  <string name="screen_save_dialog_btn_save">Αποθήκευση στη Συλλογή</string>

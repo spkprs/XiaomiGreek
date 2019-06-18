@@ -47,8 +47,8 @@
      <string name="accessibility_wifi_three_bars">Wifi τρεις μπάρες.</string>
      <string name="accessibility_wifi_two_bars">Wifi δύο μπάρες.</string>
      <string name="adb_keys_warning_message">Ανάκληση της πρόσβασης για τον εντοπισμό σφαλμάτων USB από όλους τους υπολογιστές που έχετε εξουσιοδοτήσει προηγουμένως;</string>
-     <string name="adb_warning_message">Εντοπισμός σφαλμάτων USB προορίζεται για αναπτυξιακούς σκοπούς μόνο. Χρησιμοποιήσετε για να αντιγράψετε δεδομένα μεταξύ του υπολογιστή και τη συσκευή σας, εγκαταστήστε εφαρμογές στη συσκευή σας χωρίς ειδοποίηση και ανάγνωση δεδομένων καταγραφής.</string>
-     <string name="adb_warning_title">Να επιτρέπεται η αποστολή σφαλμάτων USB;</string>
+     <string name="adb_warning_message">Η καταγραφή σφαλμάτων USB προορίζεται για αναπτυξιακούς σκοπούς μόνο. Χρησιμοποιήσετε για να αντιγράψετε δεδομένα μεταξύ του υπολογιστή και τη συσκευή σας, εγκαταστήστε εφαρμογές στη συσκευή σας χωρίς ειδοποίηση και ανάγνωση δεδομένων καταγραφής.</string>
+     <string name="adb_warning_title">Επιτρέπετε την κατ. σφαλμ. USB?</string>
      <string name="add_emergency_contact">Προσθέστε επαφή</string>
      <string name="address">Διεύθυνση</string>
      <string name="age">Ηλικία: %1$d</string>

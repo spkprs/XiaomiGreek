@@ -11,8 +11,8 @@
   <string name="accessibility_wifi_three_bars">Wifi τρεις μπάρες.</string>
   <string name="accessibility_wifi_two_bars">Wifi δύο μπάρες.</string>
   <string name="adb_keys_warning_message">Να ανακαλέσετε την πρόσβαση σε σφαλμάτων USB από όλους τους υπολογιστές που έχετε ήδη εγκρίνει;</string>
-  <string name="adb_warning_message">Το σφάλμα USB προορίζεται μόνο για αναπτυξιακούς σκοπούς. Χρησιμοποιήστε το για να αντιγράψετε δεδομένα μεταξύ του υπολογιστή σας και της συσκευής σας, εγκαταστήστε εφαρμογές στη συσκευή σας χωρίς ειδοποίηση και διαβάστε τα αρχεία καταγραφής.</string>
-  <string name="adb_warning_title">Να επιτρέπεται η αποστολή σφαλμάτων USB;</string>
+  <string name="adb_warning_message">Η καταγραφή σφαλμάτων USB προορίζεται μόνο για αναπτυξιακούς σκοπούς. Χρησιμοποιήστε το για να αντιγράψετε δεδομένα μεταξύ του υπολογιστή σας και της συσκευής σας, εγκαταστήστε εφαρμογές στη συσκευή σας χωρίς ειδοποίηση και διαβάστε τα αρχεία καταγραφής.</string>
+  <string name="adb_warning_title">Επιτρέπετε την κατ. σφαλμ. USB?</string>
   <string name="add">Προσθήκη</string>
   <string name="add_fdn_contact">Προσθέστε σταθερό αριθμό κλήσης</string>
   <string name="add_sip_account">Προσθήκη λογαριασμού</string>

@@ -200,8 +200,8 @@
   <string name="activity_picker_label">Επιλέξτε δραστηριότητα</string>
   <string name="ad_service">Υπηρεσίες διαφημίσεων</string>
   <string name="adb_keys_warning_message">Ανάκληση της πρόσβασης σε USB debugging από όλους τους υπολογιστές που είχατε προηγουμένως εγκρίνει;</string>
-  <string name="adb_warning_message">Ο Εντοπισμός σφαλμάτων USB προορίζεται μόνο για σκοπούς ανάπτυξης. Χρησιμοποιήστε το για να αντιγράψετε τα δεδομένα μεταξύ του υπολογιστή και της συσκευής σας, να εγκαταστήσετε εφαρμογές στη συσκευή σας χωρίς προηγούμενη ειδοποίηση, και να διαβάσετε δεδομένα καταγραφής.</string>
-  <string name="adb_warning_title">Επιτρέπετε την καταγραφή σφαλμάτων USB?</string>
+  <string name="adb_warning_message">Η καταγραφή σφαλμάτων USB προορίζεται μόνο για σκοπούς ανάπτυξης. Χρησιμοποιήστε το για να αντιγράψετε τα δεδομένα μεταξύ του υπολογιστή και της συσκευής σας, να εγκαταστήσετε εφαρμογές στη συσκευή σας χωρίς προηγούμενη ειδοποίηση, και να διαβάσετε δεδομένα καταγραφής.</string>
+  <string name="adb_warning_title">Επιτρέπετε την κατ. σφαλμ. USB?</string>
   <string name="add_a_language">Προσθέστε μια γλώσσα</string>
   <string name="add_account_label">Προσθήκη λογαριασμού</string>
   <string name="add_auto_startup_application">Προσθήκη εφαρμογών αυτόματης εκκίνησης</string>
@@ -5900,7 +5900,7 @@
   <string name="user_image_photo_selector">Επιλέξτε φωτογραφία</string>
   <string name="user_image_take_photo">Λήψη φωτογραφίας</string>
   <string name="user_info_settings_title">Πληροφορίες χρήστη</string>
-  <string name="user_installed_services_category_title">Λήψη υπηρεσιών</string>
+  <string name="user_installed_services_category_title">Ληφθείσες Υπηρεσίες</string>
   <string name="user_list_title">Χρήστες και προφίλ</string>
   <string name="user_lockscreen_settings">Ρυθμίσεις κλειδώματος οθόνης</string>
   <string name="user_need_lock_message">Για να μπορέσετε να δημιουργήσετε ένα περιορισμένο προφίλ, θα πρέπει να δημιουργηθεί ένα κλείδωμα οθόνης για να προστατεύσει τις εφαρμογές σας και τα προσωπικά δεδομένα.</string>
