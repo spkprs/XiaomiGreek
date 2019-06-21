@@ -77,7 +77,8 @@
      <string name="bind_sns_description">Συνδεθείτε με το %s.</string>
      <string name="bind_weibo_description">Βρείτε και συγχρονίστε τις επαφές των φίλων σας από το Sina Weibo.</string>
      <string name="binded">Συνδεδεμένο</string>
-     <string name="binded_description" formatted="false">Το %s προστέθηκε στον λογαριασμό Mi. Το προφίλ σας έχει ενημερωθεί με πληροφορίες από τον %s λογαριασμό.</string>
+     <string name="binded_description" formatted="false">"Το %s έχει συνδεθεί στον λογαριασμό Mi.
+Μπορείτε να συνδεθείτε στον Mi λογαριασμό σας χρησιμοποιώντας το %s τώρα."</string>
      <string name="button_unbind">Αποσύνδεση</string>
      <string name="change_activate_email">Αλλαγή διεύθυνσης email</string>
      <string name="change_email_address">Αλλαγή διεύθυνσης email</string>
@@ -518,4 +519,9 @@ ID:%s
 	  <string name="passport_first_login_prompt">Ο λογαριασμός Mi θα δημιουργηθεί αυτόματα κατά την είσοδο την πρώτη φορά.</string>
 	  <string name="scan_barcode">Σάρωση κωδικού QR για είσοδο</string>
       <string name="passport_wx_bind_account_limit">"Αδύνατη η δημιουργία λογαριασμού τώρα. Δοκιμάστε άλλες μεθόδους σύνδεσης."</string>
+  	  <string name="weixin">WeChat</string>
+	  <string name="bind_weixin">Σύνδεση στο Λογαριασμό WeChat</string>
+	  <string name="need_install_wechat">Εγκατάσταση πρώτα του WeChat</string>
+	  <string name="google">Google</string>
+	  <string name="bind_google">Σύνδεση στο Λογαριασμό Google</string>
 </resources>

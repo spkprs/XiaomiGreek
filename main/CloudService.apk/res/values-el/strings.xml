@@ -490,4 +490,5 @@
 	  <string name="micloud_request_sync_too_frequent">Πάρα πολλά αιτήματα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
 	  <string name="waiting_for_sync">Αναμονή...</string>
 	  <string name="system_busy_or_network_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
+      <string name="micloud_last_sync_canceled">Ο Συγχρονισμός ακυρώθηκε. Προσπάθησε ξανά.</string>
 </resources>
