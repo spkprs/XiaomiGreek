@@ -59,6 +59,7 @@
      <string name="other_settings_ad_enable_summary">Λήψη εξατομικευμένων διαφημίσεων βάσει των δεδομένων συμπεριφοράς σας</string>
      <string name="other_settings_auto_update">Αυτόματη ενημέρωση</string>
      <string name="other_settings_auto_update_summary">Το MIUI θα επιλέγει την πιο κατάλληλη στιγμή για λήψη και εγκατάσταση ενημερώσεων.</string>
+     <string name="other_settings_enhanced_lockscreen_privacy_index">Πολιτική Απορρήτου</string>
      <string name="other_settings_enhanced_lockscreen">Αποκτήστε βελτιωμένη εμπειρία Οθόνης Κλειδώματος</string>
      <string name="other_settings_enhanced_lockscreen_summary">Λάβετε επιμελημένες εικόνες και ιστορίες που παρέχονται στην Οθόνη Κλειδώματος. Ισχύουν οι Όροι και Προϋποθέσεις.</string>
      <string name="other_settings_enhanced_lockscreen_summary_index">Όροι και Προϋποθέσεις</string>
