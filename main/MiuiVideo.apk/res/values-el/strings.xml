@@ -918,4 +918,7 @@
   <string name="notification_offline_to_online_setting">Πίνακας ειδοποιήσεων</string>
   <string name="notification_offline_to_online_summary">Προβολή πληροφοριών καιρού και χρήση των συντομεύσεων Mi Video</string>
   <string name="notification_offline_to_online_title">Εμφάνιση συντομεύσεων στον Πίνακα ειδοποιήσεων</string>
+  <string name="offline_setting">Ρυθμίσεις αναπαραγωγής</string>
+  <string name="skip_play_time_summary">Παράκαμψη ανοίγματος και κλεισίματος πιστώσεων κατά την αναπαραγωγή βίντεο</string>
+  <string name="skip_play_time_title">Παράκαμψη πιστώσεων</string>
 </resources>
