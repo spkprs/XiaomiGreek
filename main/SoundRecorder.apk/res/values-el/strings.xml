@@ -253,6 +253,12 @@
      <string name="status_bar_back">Πατήστε για επιστροφή στην Ηχογράφηση</string>
      <string name="status_bar_recording">Ηχογράφηση…</string>
      <string name="status_bar_recording_pause">Ηχογράφηση σε παύση</string>
+  	 <string name="text_btn_backward_3_seconds">3 δευτ πίσω</string>
+	 <string name="text_btn_forward_3_seconds">3 δευτ εμπρός</string>
+	 <string name="text_play_speed_0_5">0.5X ταχύτητα</string>
+	 <string name="text_play_speed_1_0">Κανονική ταχύτητα</string>
+	 <string name="text_play_speed_1_5">1.5X ταχύτητα</string>
+	 <string name="text_play_speed_2_0">2X ταχύτητα</string>
      <string name="text_btn_complete">Διακοπή</string>
      <string name="text_btn_list">Ηχογραφήσεις</string>
      <string name="text_btn_mark">Σημείωση</string>

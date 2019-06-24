@@ -664,6 +664,8 @@
      <string name="bluetooth_disconnect_all_profiles">Θα γίνει αποσύνδεση από τη συσκευή &lt; br&gt;&lt; b&gt;%1$s&lt; /b&gt;</string>
      <string name="bluetooth_disconnect_headset_profile">Το %1$s θα αποσυνδεθεί από τον ήχο handsfree.</string>
      <string name="bluetooth_disconnect_hid_profile">Το %1$s θα αποσυνδεθεί από τη συσκευή εισαγωγής</string>
+     <string name="bluetooth_disable_inband_ringing">Απενεργοποίηση κουδουνίσματος στα ακουστικά</string>
+     <string name="bluetooth_disable_inband_ringing_summary">Μην αναπαράγετε προσαρμοσμένους ήχους κλήσης σε ακουστικά Bluetooth</string>  
      <string name="bluetooth_disconnect_pan_nap_profile">Το %1$s θα αποσυνδεθεί από την κοινή χρήση της σύνδεσης Internet αυτού του τηλεφώνου</string>
      <string name="bluetooth_disconnect_pan_user_profile">Η πρόσβαση στο Internet μέσω %1$s θα διακοπεί</string>
      <string name="bluetooth_disconnect_title">Αποσύνδεση;</string>

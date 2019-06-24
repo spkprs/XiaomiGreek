@@ -60,6 +60,7 @@
      <string name="dynamic_alarm_speech">Έξυπνη αφύπνιση</string>
      <string name="edit_alarm">Επεξεργασία αφύπνισης</string>
      <string name="edit_systemtime">Ρύθμιση ώρας συστήματος</string>
+     <string name="edit_systemtime_setting_summary">Ημέρα, ώρα, και Διπλό Ρολόι</string>
      <string name="elapsed_time_format">+</string>
      <string name="every_day">Καθημερινά</string>
      <string name="expired_timers_dismissed">Ο χρονομετρητής απορρίφθηκε</string>
@@ -149,9 +150,9 @@
      <string name="shortcut_new_alarm">Νέο Ξυπνητήρι</string>
 	 <string name="shortcut_start_timer">Έναρξη χρονομέτρου</string>
 	 <string name="shortcut_stop_watch">Έναρξη χρονομέτρου</string>
-     <string name="shut_down_keep_screen">"Η οθόνη δεν θα διατηρηθεί"</string>
+     <string name="shut_down_keep_screen">Η οθόνη δεν θα παραμείνει ενεργή</string>
      <string name="shutdown_alarm_disable_summary">Η αφύπνιση δεν θα κλείσει μετά την απενεργοποίηση της συσκευής</string>
-     <string name="shutdown_alarm_enable_summary">"Η αφύπνιση δεν θα ηχήσει  εάν έχει ρυθμιστεί για τουλάχιστον 5 λεπτά μετά την απενεργοποίηση της συσκευής"</string>
+     <string name="shutdown_alarm_enable_summary">"Η αφύπνιση δεν θα ηχήσει  εάν έχει ρυθμιστεί για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής"</string>
      <string name="shutdown_alarm_title">Παύση αφύπνισης</string>
      <string name="silent_alarm_summary">Αθόρυβο</string>
      <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -238,8 +239,11 @@
      <string name="volume_button_setting_summary">"Ρύθμιση κουμπιών, στην διάρκεια αφύπνισης"</string>
      <string name="volume_button_setting_title">Κουμπιά έντασης ήχου</string>
      <string name="workday_alarm_clock">Αφύπνιση εργάσιμης ημέρας</string>
+     <string name="worldcolock_date_display_prefix">Τρέχουσα: </string>
      <string name="worldclock_empty_text">Χωρίς ρολόι</string>
      <string name="worldclock_input_hint_text">Εύρεση Χώρας ή Πόλης</string>
+     <string name="worldclock_resident_city_text">Δεύτερο ρολόι: %s</string>
+     <string name="worldclock_resident_city_text_detail">Δεύτερο ρολόι είναι ενεργό</string>
      <string name="worldclock_search_city">Επιλογή πόλης</string>
      <string name="worldclock_title">Ρολόι</string>
      <string name="worldclock_world_time">Ζώνες Ώρας</string>
