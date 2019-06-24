@@ -1390,7 +1390,7 @@
      <string name="detail_app_button">Πληροφορίες εφαρμ.</string>
      <string name="details_subtitle">Αναλυτική παρουσίαση χρήσης</string>
      <string name="details_title">Χρησιμοποιήστε λεπτομέρειες</string>
-     <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται για χρήση ανάπτυξης μόνο. Μπορούν να προκαλέσουν στη συσκευή σας και στις εφαρμογές να καταρρεύσουν ή να λανθάνουν</string>
+     <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>
      <string name="dev_settings_warning_title">Να επιτρέπονται οι ρυθμίσεις ανάπτυξης</string>
      <string name="developer_build">Beta</string>
      <string name="developer_density_summary">%d dp</string>

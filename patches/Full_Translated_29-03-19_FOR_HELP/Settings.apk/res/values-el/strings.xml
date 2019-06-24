@@ -1709,7 +1709,7 @@
   <string name="dev_logpersist_clear_warning_message">Όταν δεν παρακολουθούμε πλέον τον συνεχή καταγραφέα, πρέπει να διαγράψουμε τα δεδομένα καταγραφής που είναι εγκατεστημένα στη συσκευή σας.</string>
   <string name="dev_logpersist_clear_warning_title">Εκκαθάριση μόνιμου χώρου καταγραφής;</string>
   <string name="dev_settings_disabled_warning">Ενεργοποιήστε πρώτα τις επιλογές για προγραμματιστές.</string>
-  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται για χρήση ανάπτυξης μόνο. Μπορούν να προκαλέσουν στη συσκευή σας και στις εφαρμογές να καταρρεύσουν ή να λανθάνουν</string>
+  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>
   <string name="dev_settings_warning_title">Να επιτρέπονται οι ρυθμίσεις ανάπτυξης</string>
   <string name="developer_build">\n\nΒήτα</string>
   <string name="developer_smallest_width">Μικρότερο πλάτος</string>

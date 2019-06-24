@@ -227,7 +227,7 @@
   <string name="delete_icon_description">Άρση αποκλεισμού</string>
   <string name="dev_logpersist_clear_warning_message">Όταν δεν γίνεται πλέον παρακολούθηση με μόνιμο αρχείο καταγραφής, θα πρέπει να διαγραφούν τα δεδομένα του αρχείου καταγραφής στη συσκευή σας.</string>
   <string name="dev_logpersist_clear_warning_title">Διαγραφή αποθηκευτικού χώρου μόνιμων αρχείων καταγραφής;</string>
-  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται για χρήση κατά την ανάπτυξη. Μπορούν να προκαλέσουν προβλήματα στη λειτουργία της συσκευής και των εφαρμογών σας.</string>
+  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>
   <string name="dev_settings_warning_title">Να επιτρέπεται η χρήση των ρυθμίσεων ανάπτυξης;</string>
   <string name="development_settings_enable">Ενεργοποίηση επιλογών για προγραμματιστές</string>
   <string name="development_settings_not_available">Οι επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν το χρήστη</string>

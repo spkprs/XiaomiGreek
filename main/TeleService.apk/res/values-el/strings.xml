@@ -454,7 +454,7 @@
   <string name="description_image_button_two">δύο</string>
   <string name="description_image_button_zero">μηδέν</string>
   <string name="description_voicemail_button">τηλεφωνητής</string>
-  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται αποκλειστικά για ανάπτυξη. Μπορούν να προκαλέσουν σπάσιμο ή κακή συμπεριφορά της συσκευής σας και των εφαρμογών σε αυτήν.</string>
+  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>
   <string name="dev_settings_warning_title">Να επιτρέπονται οι ρυθμίσεις ανάπτυξης;</string>
   <string name="development_settings_enable">Ενεργοποιήστε τις επιλογές προγραμματιστή</string>
   <string name="development_settings_not_available">Οι επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>

@@ -179,7 +179,7 @@
      <string name="debug_monitoring_category">Παρακολούθηση</string>
      <string name="debug_networking_category">Δικτύωση</string>
      <string name="debug_view_attributes">Ενεργοποίηση επιθεώρησης χαρακτηριστικών προβολής</string>
-     <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται αποκλειστικά για ανάπτυξη. Μπορούν να προκαλέσουν σπάσιμο ή κακή συμπεριφορά της συσκευής σας και των εφαρμογών σε αυτήν.</string>
+     <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>
      <string name="dev_settings_warning_title">Να επιτρέπονται οι ρυθμίσεις ανάπτυξης;</string>
      <string name="development_settings_enable">Ενεργοποιήστε τις επιλογές προγραμματιστή</string>
      <string name="development_settings_not_available">Οι επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
