@@ -821,6 +821,8 @@
     <string name="user_agree">Συμφωνώ</string>
     <string name="user_agreement2">Όροι υπηρεσίας</string>
     <string name="user_agreement4">Πολιτική Απορρήτου</string>
+    <string name="user_define_watermark_save">Αποθήκευση</string>
+    <string name="user_define_watermark_cancel">Ακύρωση</string>
 	<string name="user_notice_identify_summary_format">Πριν χρησιμοποιήσετε την Κάμερα, πρέπει να συμφωνήσετε με την  &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en_US\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en_US\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Επίσης χρειάζεται σύνδεση στο Διαδύκτιο για την σωστή λειτουργία της. Συμφωνείτε?</string>
 	<string name="user_notice_title">Οροι και Προϋποθέσεις</string>
 	<string name="video_beauty_tip">Ωραιοποίηση Βίντεο</string>
