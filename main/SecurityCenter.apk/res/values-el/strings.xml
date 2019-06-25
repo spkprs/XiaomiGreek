@@ -530,7 +530,7 @@
      <string name="card_main_applock_summary">Προστατεύστε επιλεγμένες εφαρμογές με κωδικό. Απόκρυψη μηνυμάτων, φωτογραφιών, σημειώσεων και πολλά άλλα.</string>
      <string name="card_main_applock_title">Κλείδωμα εφαρμογής</string>
      <string name="card_main_deepclean_action">Καθαρισμός</string>
-     <string name="card_main_deepclean_qq_title">Χρονοδιακόπτης</string>
+     <string name="card_main_deepclean_qq_title">Δοκιμή υλικού</string>
      <string name="card_main_deepclean_summary">Διαγραφή περιττών αρχείων</string>
      <string name="card_main_deepclean_title">Υπερκαθαρισμός</string>
      <string name="card_main_deepclean_wechat_action">Καθαρισμός</string>

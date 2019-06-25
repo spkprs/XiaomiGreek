@@ -2188,8 +2188,8 @@
   <string name="fingerprint_enable_keyguard_toggle_title">κλείδωμα οθόνης</string>
   <string name="fingerprint_enroll_button_add">Προσθέστε άλλο ένα</string>
   <string name="fingerprint_enroll_button_next">Επόμενο</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">Ασφάλεια (ορίστε πρώτα κωδικό Οθόνης κλειδώματος)</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Δακτυλικό αποτύπωμα (ορίστε κωδικό Οθόνης κλειδώματος πριν το χρησιμοποιήσετε)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Πρόσωπο (ορίστε πρώτα κωδικό Οθόνης κλειδώματος)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Δακτυλικό αποτύπωμα (ορίστε πρώτα κωδικό Οθόνης κλειδώματος)</string>
   <string name="fingerprint_for_keyguard_disabled">Το δακτυλικό αποτύπωμα έχει απενεργοποιηθεί από τις ρυθμίσεις ασφαλείας.</string>
   <string name="fingerprint_gesture_screen_title">Ολίσθηση δακτυλ. αποτυπ.</string>
   <string name="fingerprint_identify_input_password_msg">Εισαγωγή κωδικού</string>
