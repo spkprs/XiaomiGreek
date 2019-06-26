@@ -903,4 +903,7 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="guide_card_primary_fb_text">"Γενέθλια φίλων του Facebook"</string>
     <string name="guide_card_second_fb_text">"Ποτέ μην ξεχάσετε τα γενέθλια των φίλων σας"</string>
     <string name="setting_fb_birthdays_title">Εισαγωγή γενεθλίων από το Facebook</string>
+    <string name="shortcut_new_event">Προσθήκη συμβάντος</string>
+    <string name="shortcut_next_agenda">Επόμενο συμβάν</string>
+    <string name="shortcut_settings">Ρυθμίσεις</string>
 </resources>

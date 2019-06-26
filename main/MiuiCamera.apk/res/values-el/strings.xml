@@ -163,7 +163,8 @@
 	<string name="custom_watermark_words">Προσαρμογή κειμένου</string>
 	<string name="custom_watermark_words_input_hint">Εισαγωγή κειμένου</string>
     <string name="custom_watermark_words_save_success">Επιτυχής αποθήκευση</string>
-    <string name="device_48m_watermark_default_text">48M ΔΙΠΛΗ ΚΑΜΕΡΑ</string>
+    <string name="device_ultra_pixel_app_watermark_family_name_suffix">_48m</string>
+    <string name="device_ultra_pixel_watermark_default_text">48MP ΔΙΠΛΗ ΚΑΜΕΡΑ</string>
     <string name="device_watermark_default_text">AI ΔΙΠΛΗ ΚΑΜΕΡΑ</string>
     <string name="dialog_google_lens_option_0">Google Lens (Προτείνεται)</string>
     <string name="dialog_ok">OK</string>
