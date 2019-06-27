@@ -51,6 +51,10 @@
     <item>Παλαιότερη</item>
     <item>Λίστα συζητήσεων</item>
   </string-array>
+   <string-array name="prefEntries_contact_add">
+        <item>Όλες</item>
+        <item>Μόνο αποδέκτες</item>
+    </string-array>
   <string-array name="signature_normal_string_array">
     <item>Blog:</item>
     <item>Ιστοσελίδα:</item>
