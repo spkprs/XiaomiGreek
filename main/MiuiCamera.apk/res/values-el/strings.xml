@@ -755,8 +755,8 @@
     <string name="pref_watermark_title">Υδατογράφημα</string>
     <string name="pref_watermark_on">On</string>
     <string name="pref_watermark_off">Off</string>
-    <string name="pref_camera_lying_title">Συμβουλές καθοδήγησης οθόνης Οριζόντιες και κάθετες</string>
-    <string name="pref_camera_lying_summary">Όταν το τηλέφωνο είναι παράλληλο με το έδαφος, η προτροπή κατεύθυνσης της κάμερας θα δοθεί σε πραγματικό χρόνο στη διεπαφή της κάμερας.</string>
+    <string name="pref_camera_lying_title">Ειδοποίηση προσανατολισμού</string>
+    <string name="pref_camera_lying_summary">Ειδοποίηση σχετικά με τον προσανατολισμό όταν το τηλέφωνο είναι παράλληλο με το έδαφος.</string>
 	<string name="preparing_sd">Έλεγχος SD card…</string>
     <string name="recapture_dialog_message">Επιβεβαιώστε την επανάληψη?</string>
     <string name="recapture_dialog_title">Η επανάληψη της λήψης θα διαγράψει την τρέχουσα εικόνα</string>

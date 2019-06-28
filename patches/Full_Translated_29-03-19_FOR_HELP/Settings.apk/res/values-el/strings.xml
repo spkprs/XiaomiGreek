@@ -180,7 +180,7 @@
   <string name="account_settings_menu_auto_sync">Αυτόματος συγχρονισμός δεδομένων</string>
   <string name="account_settings_menu_auto_sync_personal">Αυτόματος συγχρονισμός προσωπικών δεδομένων</string>
   <string name="account_settings_menu_auto_sync_work">"Αυτόματος συγχρονισμός δεδομένων εργασίας "</string>
-  <string name="account_settings_title">Λογαριασμοί</string>
+  <string name="account_settings_title">Google &amp; Λογαριασμοί</string>
   <string name="account_sync_settings_title">Ρυθμίσεις συγχρονισμού</string>
   <string name="account_sync_summary_all_off">Ο συγχρονισμός είναι απενεργοποιημένος για όλα τα στοιχεία</string>
   <string name="account_sync_summary_all_on">Ο συγχρονισμός είναι ενεργοποιημένος για όλα τα στοιχεία</string>

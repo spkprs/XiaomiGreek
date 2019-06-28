@@ -949,6 +949,7 @@
      <string name="free_time_traffic_title">Εισάγετε το δωρεάν όριο δεδομένων</string>
      <string name="free_traffic_settings">Ρυθμίσεις δωρεάν χρήσης δεδομένων</string>
      <string name="function_close">Ανενεργό</string>
+     <string name="function_shield_voice_trigger">"Χωρίς αφύπνιση του Mi AI με φωνή"</string>
      <string name="fw_blocked">Λίστα Αποκλεισμών</string>
      <string name="fw_blocked_count">"Αποκλεισμένα "</string>
      <string name="fw_blocked_join">και</string>

@@ -1463,7 +1463,7 @@
      <string name="screenshot_failed_to_save_unknown_text">Παρουσιάστηκε σφάλμα κατά την αποθήκευση στιγμιότυπου οθόνης</string>
      <string name="screenshot_feedback_txt">Σχόλια</string>
      <string name="screenshot_insert_failed">Δεν ήταν δυνατή η φόρτωση του στιγμιότυπου οθόνης. Πάρτε ένα νέο ή δείτε την εικόνα στην Συλλογή.</string>
-     <string name="screenshot_long_screenshot">Λήψη ολόκληρου</string>
+     <string name="screenshot_long_screenshot">Κύληση</string>
      <string name="screenshot_saved_text">Πατήστε για να δείτε το στιγμιότυπο.</string>
      <string name="screenshot_saved_title">Λήψη στιγμιότυπου οθόνης</string>
      <string name="screenshot_saving_text">Το στιγμιότυπο οθόνης αποθηκεύεται</string>
@@ -1917,5 +1917,5 @@
     <string name="keyguard_charging_super_quick_and_level_tip">Ταχεία Φόρτιση %d%%</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Περισσότερα</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Είσοδος</string>
-    <string name="long_screenshot_guide_text">"Λήψη ολόκληρου"</string>
+    <string name="long_screenshot_guide_text">"Κύληση"</string>
 </resources>
