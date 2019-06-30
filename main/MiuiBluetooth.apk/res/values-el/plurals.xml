@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<plurals name="fast_connect_headset_reset">
-        <item quantity="other">Παρατεταμένο πάτημα κουμπιού στο box για %1$d δευτ.</item>
-        <item quantity="one">Παρατεταμένο πάτημα κουμπιού στο box για %1$d δευτ.</item>
+        <item quantity="other">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ.</item>
+        <item quantity="one">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ.</item>
 	</plurals>
 </resources>

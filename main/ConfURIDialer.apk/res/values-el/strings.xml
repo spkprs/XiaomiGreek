@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="add_participant_imposible">Κενός αριθμός: η προσθήκη συμμετέχοντος δεν είναι δυνατή.</string>
+  <string name="add_recipient_to_add_participant">Εισαγωγή παραλήπτη για προσθήκη συμμετέχοντα</string>
+  <string name="add_uri_list_to_dial">Εισαγωγή λίστας συσκευών για κλήση διάσκεψης</string>
+  <string name="applicationLabel">Συνδιάσκεψη URI διαλόγου</string>
+  <string name="applicationLabel_add_participant">Προσθήκη κλήσης συμμετέχοντα</string>
+  <string name="button_add_participant">Προσθέστε Συμμετέχοντα</string>
+  <string name="button_start_conference_call">Ξεκινήστε την κλήση</string>
+  <string name="button_start_video_conference_call">Εκκίνηση Βιντεοκλήσης</string>
+  <string name="qti_choose_contact">Επιλέξτε μια επαφή</string>
+  <string name="qti_edit_number">Εισάγετε αριθμό</string>
+  <string name="qti_edit_number_cancel_key">Ακύρωση</string>
+  <string name="qti_edit_number_ok_key">Ok</string>
+  <string name="select_from_call_log">Επιλέξτε από το Μητρώο κλήσεων</string>
+</resources>

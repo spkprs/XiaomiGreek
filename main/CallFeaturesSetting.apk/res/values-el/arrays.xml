@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="call_barring_incoming_display_values">
+    <item>Ολες</item>
+    <item>Περιαγωγή</item>
+  </string-array>
+  <string-array name="call_barring_outgoing_display_values">
+    <item>Εξερχόμενη κλήση</item>
+    <item>Διεθνής κλήση</item>
+    <item>Διεθνής κλήση περιαγωγής</item>
+  </string-array>
+</resources>

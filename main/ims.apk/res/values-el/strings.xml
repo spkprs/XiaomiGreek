@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_hold_label">Αναμονή κλήσης:</string>
+  <string name="call_resume_label">Επανάληψη κλήσης:</string>
+  <string name="device_is_hd_capable">SIM %1$d λειτουργεί σε HD</string>
+  <string name="device_is_volte_capable">SIM %1$d λειτουργεί σε VOLTE</string>
+  <string name="error_msg_cancelled">Ακυρώθηκε</string>
+  <string name="error_msg_failed">Απέτυχε</string>
+  <string name="error_msg_reinvite_collision">Reinvite Σύγκρουση</string>
+  <string name="handover_from_wifi_to_lte">Μετάβαση στο δίκτυο LTE για καλύτερη ποιότητα</string>
+  <string name="hd_icon_header_app_name">" "</string>
+  <string name="ims_channel_name">ims</string>
+  <string name="incoming_call_failed_low_battery">Η εισερχόμενη κλήση απέτυχε λόγω χαμηλής μπαταρίας.</string>
+  <string name="wifi_calling_enable_dialog_cancel">Ακύρωση</string>
+  <string name="wifi_calling_enable_dialog_enable">Ενεργοποίηση</string>
+  <string name="wifi_calling_enable_dialog_msg">Πραγματοποιήστε και λάβετε κλήση μέσω WIFI με το λογαριασμό σας Jio. Ελέγξτε τις πληροφορίες κλήσης έκτακτης ανάγκης του φορέα σας για να κατανοήσετε τα όρια κλήσης έκτακτης ανάγκης μέσω WIFI . Όταν συνδέεστε σε ένα δίκτυο, πληροφορίες σχετικά με τη χώρα όπου πραγματοποιείται η σύνδεση δικτύου ενδέχεται να σταλούν στον φορέα σας για λεπτομέρειες όπως χρέωση.</string>
+  <string name="wifi_calling_enable_dialog_title">Ενεργοποίηση κλήσης WIFI ;</string>
+  <string name="wifi_calling_off">Κλήση Wifi ανενεργή</string>
+  <string name="wifi_calling_on">Κλήση Wifi ενεργή</string>
+</resources>

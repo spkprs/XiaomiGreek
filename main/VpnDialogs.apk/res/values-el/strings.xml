@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
+	 <string name="always_on_disconnected_message">%1$s έχει ρυθμιστεί ώστε να παραμένει συνδεδεμένος όλη την ώρα, αλλά δεν μπορεί να συνδεθεί αυτή τη στιγμή. Το τηλέφωνό σας θα χρησιμοποιεί δημόσιο δίκτυο έως ότου μπορεί να συνδεθεί ξανά %1$s.</string>
+	 <string name="always_on_disconnected_message_lockdown">%1$s έχει ρυθμιστεί ώστε να παραμένει συνδεδεμένος όλη την ώρα, αλλά δεν μπορεί να συνδεθεί αυτή τη στιγμή. Δεν θα έχετε σύνδεση μέχρι να μπορέσει να συνδεθεί ξανά το VPN.</string>
+	 <string name="always_on_disconnected_message_settings_link">Αλλαγή ρυθμίσεις VPN</string>
+  	 <string name="always_on_disconnected_title">Δεν είναι δυνατή η σύνδεση σε πάντα-σε VPN</string>
      <string name="configure">Διαμόρφωση</string>
      <string name="data_received">Λήφθησαν:</string>
      <string name="data_transmitted">Απεσταλμένα:</string>
-     <string name="data_value_format">%1$s bytes / %2$s packets</string>
+     <string name="data_value_format">%1$s bytes / %2$s πακέτα</string>
      <string name="disconnect">Αποσύνδεση</string>
+     <string name="dismiss">Απόρριψη</string>
      <string name="duration">Διάρκεια:</string>
      <string name="legacy_title">Σύνδεση σε VPN</string>
+     <string name="open_app">Άνοιγμα εφαρμογής</string>
      <string name="prompt">Αίτηση σύνδεσης</string>
      <string name="session">Συνεδρία:</string>
-     <string name="warning">Το %s θέλει να δημιουργήσει μια σύνδεση VPN που του επιτρέπει την παρακολούθηση της κίνησης του δικτύου. Αποδεχτείτε μόνο αν εμπιστεύεστε την πηγή. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> εμφανίζεται στο πάνω μέρος της οθόνης σας όταν το VPN είναι ενεργό.</string>
+     <string name="warning">Το %s θέλει να δημιουργήσει μια σύνδεση VPN που του επιτρέπει την παρακολούθηση της κίνησης του δικτύου. Αποδεχτείτε μόνο αν εμπιστεύεστε την πηγή. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; εμφανίζεται στο πάνω μέρος της οθόνης σας όταν το VPN είναι ενεργό.</string>
 </resources>

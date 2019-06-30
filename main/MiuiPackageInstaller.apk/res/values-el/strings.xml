@@ -139,7 +139,7 @@
   <string name="install_failed_invalid_apk">Το πακέτο φαίνεται να είναι κατεστραμμένο.</string>
   <string name="install_failed_msg">%1$s δεν ήταν δυνατή η εγκατάσταση στο τηλέφωνό σας.</string>
   <string name="install_failed_system_incompatible">Αυτή η εφαρμογή δεν είναι συμβατή με το MIUI</string>
-  <string name="install_from_appstore_hint">Σας συνιστούμε να εγκαταστήσετε την εφαρμογή από το <u><font color=#91c727>AppStore</font></u></string>
+  <string name="install_from_appstore_hint">Σας συνιστούμε να εγκαταστήσετε την εφαρμογή από το AppStore</string>
   <string name="installing">Εγκατάσταση…</string>
   <string name="launch">Άνοιγμα</string>
   <string name="lb_playback_controls_closed_captioning_disable">Απενεργοποιήσετε τις Κλειστές Λεζάντες</string>
