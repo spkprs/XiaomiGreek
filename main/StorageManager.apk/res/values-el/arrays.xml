@@ -49,10 +49,6 @@
     <item>50%</item>
     <item>100%</item>
   </string-array>
-  <array name="batterymeter_color_values">
-    <item>; android: colorError</item>
-    <item>@android:color/white</item>
-  </array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
     <item>Χρήση επιλογής συστήματος (προεπιλογή)</item>
     <item>16 bit/δείγμα</item>
@@ -97,12 +93,6 @@
     <item>Ικανοποιημένη ποιότητα ήχου και σύνδεσης (660kbps/606kbps)</item>
     <item>Βελτιστοποιημένη για ποιότητα σύνδεσης (330kbps/303kbps)</item>
     <item>Καλύτερη προσπάθεια (προσαρμοστικός ρυθμός μετάδοσης)</item>
-  </string-array>
-  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-    <item>1000</item>
-    <item>1001</item>
-    <item>1002</item>
-    <item>1003</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
     <item>Χρήση επιλογής συστήματος (προεπιλογή)</item>
@@ -190,22 +180,11 @@
     <item>Εμφάνιση επιφανειών υπεράκτισης</item>
     <item>Εμφάνιση χώρων για το Deuteranomaly</item>
   </string-array>
-  <string-array name="debug_hw_overdraw_values">
-    <item>ψευδής</item>
-    <item>προβολή</item>
-    <item>show_deuteranomaly</item>
-  </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Κανένας</item>
     <item>Logcat</item>
     <item>Συλλογή (Γραφικά)</item>
     <item>Σειρά κλήσεων στο glGetError</item>
-  </string-array>
-  <string-array name="enable_opengl_traces_values">
-    <item>0</item>
-    <item>1</item>
-    <item>systrace</item>
-    <item>λάθος</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
     <item>Ποτέ μην χρησιμοποιείτε έλεγχο HDCP</item>
@@ -271,14 +250,6 @@
     <item>1Μ</item>
     <item>4Μ</item>
     <item>16Μ</item>
-  </string-array>
-  <string-array name="select_logd_size_values">
-    <item>32768</item>
-    <item>65536</item>
-    <item>262144</item>
-    <item>1048576</item>
-    <item>4194304</item>
-    <item>16777216</item>
   </string-array>
   <string-array name="select_logpersist_summaries">
     <item>Ανενεργό</item>
@@ -350,14 +321,6 @@
     <item>5</item>
     <item>10</item>
   </string-array>
-  <string-array name="tts_demo_string_langs">
-    <item>eng</item>
-    <item>fra</item>
-    <item>deu</item>
-    <item>ita</item>
-    <item>ιαματική πηγή</item>
-    <item>kor</item>
-  </string-array>
   <string-array name="tts_demo_strings">
     <item>Αυτό είναι ένα παράδειγμα σύνθεσης ομιλίας στα αγγλικά.</item>
     <item>Η φωνή της φωνητικής συνέντευξης.</item>
@@ -395,14 +358,6 @@
     <item>RNDIS (USB Ethernet)</item>
     <item>Πηγή ήχου</item>
     <item>MIDI</item>
-  </string-array>
-  <string-array name="usb_configuration_values">
-    <item>κανένας</item>
-    <item>mtp</item>
-    <item>ptp</item>
-    <item>rndis</item>
-    <item>audio_source</item>
-    <item>midi</item>
   </string-array>
   <string-array name="wifi_status">
     <item />

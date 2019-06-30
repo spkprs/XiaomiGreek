@@ -37,7 +37,7 @@
   <string name="download_remaining">%s απομένουν</string>
   <string name="download_running">Σε εξέλιξη</string>
   <string name="download_running_percent">Σε εξέλιξη, %d%%</string>
-  <string name="download_unknown_title">Ανώνυμο</string>
+  <string name="download_unknown_title">&lt;Χωρίς Τίτλο&gt;</string>
   <string name="enter_garbage_clean">Καθαρισμός εσωτ. χώρου αποθήκευσης.</string>
   <string name="insufficient_space">Δεν υπάρχει αρκετός χώρος στον εσωτ. χώρο αποθήκευσης της συσκευής</string>
   <string name="mobile_recommended_title">Χρήση δεδομένων κινητής</string>
