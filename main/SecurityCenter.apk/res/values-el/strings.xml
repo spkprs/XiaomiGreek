@@ -989,6 +989,11 @@
      <string name="gb_description_image_button_answer">Απάντηση</string>
      <string name="gb_description_image_button_reject">Απόρριψη</string>
      <string name="gb_description_image_button_video_answer">Κλήση Βίντεο</string>
+	 <string name="gb_first_guide_function_shiled_title">Απενεργοποίηση λειτουργιών συστήματος όταν Game Turbo είναι ενεργό</string>
+	 <string name="gb_first_guide_gamebox_des">Χρήση συντομεύσεων κατά την αναπαραγωγή παιχνιδιών</string>
+	 <string name="gb_first_guide_handsfree_des">Απάντηση κλήσεων στο παρασκήνιο</string>
+	 <string name="gb_first_guide_shortcut_des">Δημιουργήθηκε συντόμευση στην Αρχική οθόνη του Game Turbo</string>
+	 <string name="gb_first_guide_title">Αύξηση ταχύτητας και απόδοσης σε επίπεδο συστήματος</string>
      <string name="gb_first_window_antimsg_summary_quick_answer">Χρήση γρήγορων απαντήσεων</string>
      <string name="gb_first_window_antimsg_summary_transparent_show">Προβολή κειμένου σε διαφανές φόντο</string>
      <string name="gb_first_window_antimsg_title">Χρήσιμες ειδοποιήσεις</string>

@@ -1096,8 +1096,11 @@
   <string name="bootloader_status_unlocked">Ξεκλείδωτο</string>
   <string name="bootloader_status_unlocked_info">Αυτή η συσκευή είναι ξεκλείδωτη</string>
   <string name="bootloader_summary">Ενημέρωση λογισμικού μέσω USB</string>
-  <string name="bootloader_tips">Αφού προσθέσετε το λογαριασμό Mi, μην αποσυνδεθείτε, εκτελέστε επαναφορά εργοστασιακών ρυθμίσεων ή καταργήστε τα δεδομένα των εφαρμογών συστήματος. Αν κάνετε οποιοδήποτε από τα παραπάνω, προσθέστε ξανά το λογαριασμό σας ή διαφορετικά δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας.</string>
+  <string name="bootloader_tips">"%s
+
+Αν έχετε ήδη κάνει κάποιο από τα παραπάνω, προσθέστε ξανά το Λογαριασμό Mi. διαφορετικά, δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας. "</string>
   <string name="bootloader_tips_ok">Κατανοητό</string>
+  <string name="bootloader_tips_warning">"Μην αποσυνδεθείτε από το δίκτυο, αποσυνδεθείτε από τον λογαριασμό σας mi, εκτελέστε επαναφορά εργοστασιακών ρυθμίσεων ή διαγράψτε τα δεδομένα του συστήματος."</string>
   <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Χρώμα φωτός</string>
   <string name="breathing_light_color_summary">Χρώμα LED κατά τη λήψη νέων ειδοποιήσεων</string>
@@ -1825,6 +1828,7 @@
   <string name="disabled_dependent_setting_summary">Εξαρτάται από άλλη ρύθμιση</string>
   <string name="disabled_for_user_setting_summary">Η ρύθμιση δεν μπορεί να αλλάξει από τον τρέχοντα χρήστη</string>
   <string name="disabled_low_ram_device">Αυτή η λειτουργία δεν είναι διαθέσιμη σε αυτήν τη συσκευή</string>
+  <string name="disallow_lock_screen_summary">Επιτρέψτε πρώτα τις ειδοποιήσεις στις \"Ειδοποιήσεις εφαρμογών\"</string>
   <string name="Disabled_set">Ανενεργό</string>
   <string name="disableNetwork">Απενεργ-Δικτύου</string>
   <string name="disconnect">Αποσύνδεση</string>

@@ -9,15 +9,15 @@
   <string name="enable_lockscreen_notification">Επιτρέπονται οι ειδοποιήσεις οθόνης κλειδώματος</string>
   <string name="enable_show_badge_notification">Επιτρέπονται οι ενδείξεις ειδοποιήσεων</string>
   <string name="expandable_under_keyguard">Άνοιγμα Πίνακα ειδοποιήσεων στην Οθόνη Κλειδώματος</string>
-  <string name="float_notifications">Αναδυόμενες ειδοποιήσεις</string>
+  <string name="float_notifications">Αναδυόμενες</string>
   <string name="hint_search_all">Αναζήτηση εφαρμογών</string>
   <string name="hint_search_in_disabled_apps">"Αναζήτηση εφαρμογών χωρίς εμφάνιση ειδοποιήσεων"</string>
   <string name="hint_search_in_enabled_apps">Αναζήτηση εφαρμογών με εμφάνιση ειδοποιήσεων</string>
   <string name="list_title_disable_notification">"Οι ειδοποιήσεις δεν επιτρέπονται"</string>
   <string name="loading">Μισό λεπτό.…</string>
   <string name="lock_screen_display_rules">Μορφή</string>
-  <string name="lock_screen_tip_toast">Επιτρέπονται οι ειδοποιήσεις πρώτα σε \"Ειδοποιήσεις εφαρμογών\"</string>
-  <string name="lockscreen_notifications">Ειδοποιήσεις Οθόνης Κλειδώματος</string>
+  <string name="lock_screen_tip_toast">Επιτρέψτε πρώτα τις ειδοποιήσεις στις \"Ειδοποιήσεις εφαρμογών\"</string>
+  <string name="lockscreen_notifications">Οθόνης Κλειδώματος</string>
   <string name="not_sent_recently">Χωρίς πρόσφατα</string>
   <string name="notch_and_status_bar_setting">Εγκοπή και Γραμμή Κατάστασης</string>
   <string name="notification_display_setting">Πίνακας ειδοποιήσεων</string>
@@ -30,7 +30,7 @@
   <string name="off">OFF</string>
   <string name="on">ON</string>
   <string name="settings_guide_title">Χρειάζεστε άλλες ρυθμίσεις;</string>
-  <string name="show_badge_notifications">Ενδείξεις ειδοποίησης</string>
+  <string name="show_badge_notifications">Ενδείξεις</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_setting">Γραμμή κατάστασης</string>
   <string name="summary_disable_float_notification">"Χωρίς αναδυόμενες ειδοποιήσεις"</string>

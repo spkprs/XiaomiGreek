@@ -864,8 +864,11 @@
      <string name="bootloader_status_unlocked">Ξεκλειδώθηκε</string>
      <string name="bootloader_status_unlocked_info">Αυτή η συσκευή είναι ξεκλείδωτη</string>
      <string name="bootloader_summary">Ενημέρωση λογισμικού μέσω USB</string>
-     <string name="bootloader_tips">Αφού προσθέσετε το λογαριασμό Mi, μην αποσυνδεθείτε, εκτελέστε επαναφορά εργοστασιακών ρυθμίσεων ή καταργήστε τα δεδομένα των εφαρμογών συστήματος. Αν κάνετε οποιοδήποτε από τα παραπάνω, προσθέστε ξανά το λογαριασμό σας ή διαφορετικά δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας.</string>
+     <string name="bootloader_tips">"%s
+
+Αν έχετε ήδη κάνει κάποιο από τα παραπάνω, προσθέστε ξανά το Λογαριασμό Mi. διαφορετικά, δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας. "</string>
      <string name="bootloader_tips_ok">Κατανοητό</string>
+     <string name="bootloader_tips_warning">"Μην αποσυνδεθείτε από το δίκτυο, αποσυνδεθείτε από τον λογαριασμό σας mi, εκτελέστε επαναφορά εργοστασιακών ρυθμίσεων ή διαγράψτε τα δεδομένα του συστήματος."</string>
      <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
      <string name="breathing_light_color_menu_title">Χρώμα φωτός</string>
      <string name="breathing_light_color_summary">Χρώμα LED κατά τη λήψη νέων ειδοποιήσεων</string>
@@ -1465,7 +1468,7 @@
      <string name="dialog_title_login">Είσοδος στον λογαριασμό Mi</string>
      <string name="dialog_yes">Ναι</string>
      <string name="digital_clock_dot">:</string>
-    <string name="enableNetwork">Ενεργ-Δικτύου</string>
+     <string name="enableNetwork">Ενεργ-Δικτύου</string>
      <string name="disableNetwork">Απενεργ-Δικτύου</string>
      <string name="disable_overlays">Απενεργοποίηση επικάλυψης HW</string>
      <string name="disable_overlays_summary">Πάντα να χρησιμοποιείται η GPU για τη σύνθεση της οθόνης</string>
@@ -1479,6 +1482,13 @@
      <string name="disabled_by_admin">Απενεργοποιήθηκε από διαχειριστή</string>
      <string name="disabled_by_admin_summary_text">Ελέγχεται από διαχειριστή</string>
      <string name="disabled_by_administrator_summary">Απενεργοποιήθηκε από διαχειριστή</string>
+  <string name="disabled_by_policy_title_adjust_volume">Δεν είναι δυνατή η αλλαγή της έντασης του ήχου</string>
+  <string name="disabled_by_policy_title_camera">Δεν επιτρέπεται η χρήση της κάμερας</string>
+  <string name="disabled_by_policy_title_outgoing_calls">Δεν επιτρέπεται η πραγματοποίηση κλήσεων</string>
+  <string name="disabled_by_policy_title_screen_capture">Δεν επιτρέπεται η λήψη στιγμιότυπων οθόνης</string>
+  <string name="disabled_by_policy_title_sms">Δεν επιτρέπεται η αποστολή SMS</string>
+  <string name="disabled_low_ram_device">Αυτή η λειτουργία δεν είναι διαθέσιμη στην συσκευή αυτή</string>
+  <string name="disallow_lock_screen_summary">Επιτρέψτε πρώτα τις ειδοποιήσεις στις \"Ειδοποιήσεις εφαρμογών\"</string>
      <string name="disabled_by_policy_title">Η ενέργεια δεν επιτρέπεται</string>
      <string name="disconnect">Αποσύνδεση</string>
      <string name="disconnected">Αποσυνδέθηκε</string>
