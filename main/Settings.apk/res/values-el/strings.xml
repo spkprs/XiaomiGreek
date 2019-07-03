@@ -2563,6 +2563,8 @@
      <string name="manage_mobile_plan_title">Διαχειριστείτε το πρόγραμμα κινητής</string>
      <string name="manage_notification_access_summary_zero">Οι εφαρμογές δεν μπορούν να διαβάσουν τις ειδοποιήσεις</string>
      <string name="manage_notification_access_title">Πρόσβαση στις ειδοποιήσεις</string>
+     <string name="manage_password">Διαχείριση Κωδικών</string>
+     <string name="manage_password_summary">Αυτόματη συμπλήρωση αποθηκευμένων λογαριασμών και κωδικών</string>
      <string name="manage_space_text">Διαχείριση χώρου</string>
      <string name="manage_trust_agents">Έμπιστοι παράγοντες</string>
      <string name="manage_trust_agents_summary">Προβολή ή απενεργοποίηση έμπιστων παραγόντων</string>
