@@ -2051,7 +2051,7 @@
      <string name="sms_service">Αποκλεισμός SMS υπηρεσίας</string>
      <string name="sms_smart_engine_update">Αυτόματη ενημέρωση φίλτρου SMS</string>
      <string name="sms_smart_engine_update_now">Ενημέρωση</string>
-     <string name="sms_stranger_block">Αποκλεισμός SMS από αγνώστους</string>
+     <string name="sms_stranger_block">Αποκλεισμένα</string>
      <string name="sorted_dialog_title">Ταξινόμηση κατά</string>
      <string name="sp_background_risk_dialog_summary">, παρακαλώ κάντε λεπτομερή έλεγχο και διορθώστε τους κινδύνους πληρωμών</string>
      <string name="sp_background_risk_dialog_summary_wifi_approve">Είστε συνδεδεμένοι σε ένα δημόσιο δίκτυο Wi-Fi που μπορεί να μην είναι ασφαλές. Βεβαιωθείτε ότι η πληρωμή σας προστατεύεται πριν την ολοκληρώσετε.</string>
@@ -2761,4 +2761,7 @@
     <string name="pc_main_power_manager_hour_minute">%1$s Ωρ %2$s Λεπ έως την πλήρη φόρτιση</string>
     <string name="sms_delete_all_hint">Διαγραφή όλων των αποκλεισμένων μηνυμάτων?</string>
     <string name="delete_all_sms">Διαγραφή όλων</string>
+    <string name="power_ambient_display">Οθόνη Περιβάλλοντος</string>
+    <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την Οθόνη Περιβάλλοντος</string>
+    <string name="st_antispam_title_mms">MMS</string>
 </resources>
