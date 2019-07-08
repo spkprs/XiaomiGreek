@@ -916,12 +916,12 @@
      <string name="call_manager_enable_title">Ενεργοποίηση Διαχειριστή Κλήσεων</string>
      <string name="call_manager_summary">%1$s</string>
      <string name="call_manager_title">Διαχειριστής Κλήσεων</string>
-     <string name="call_records_name_1">Debbie Smith</string>
-     <string name="call_records_name_2">Jason Lee</string>
-     <string name="call_records_name_3">Tom Fowles</string>
-     <string name="call_records_summary_1">9:35 ΠΜ | 26 δευτ. | China Unicom</string>
-     <string name="call_records_summary_2">Αύγουστος 16 | 1λ 16δ | China Mobile</string>
-     <string name="call_records_summary_3">Αύγουστος 16 | 2λ 24δ | China Unicom</string>
+     <string name="call_records_name_1">Γεωργία Γιαννακάκη</string>
+     <string name="call_records_name_2">Κώστας Παπαδόπουλος</string>
+     <string name="call_records_name_3">Σωκράτης Αλεξάνδρου</string>
+     <string name="call_records_summary_1">9:35 ΠΜ | 26 δευτ. | COSMO</string>
+     <string name="call_records_summary_2">Αύγουστος 16 | 1λ 16δ | VODA</string>
+     <string name="call_records_summary_3">Αύγουστος 16 | 2λ 24δ | WIN</string>
      <string name="call_settings_primary_user_only">Αλλαγή ρυθμίσεων κλήσης στο Πρώτο προφίλ</string>
      <string name="call_settings_summary">Ρύθμιση τηλεφωνητή προώθησης κλήσεων αναμονής ταυτότητας καλούντος</string>
      <string name="call_settings_title">Ρυθμίσεις κλήσεων</string>
@@ -3158,7 +3158,7 @@
      <string name="others">Άλλα</string>
      <string name="overlay_display_devices_title">Εξομοιώνει δευτερεύουσες οθόνες</string>
      <string name="overlay_settings">Επικάλυψη άλλων εφαρμογών</string>
-     <string name="owner_info_settings_edit_text_hint">Γράψτε εδώ, θα φαίνεται στην Οθόνη κλειδώματος</string>
+     <string name="owner_info_settings_edit_text_hint">π.χ  Γιάννης Γιαννόπουλος</string>
      <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="owner_info_settings_summary">Χωρίς</string>
      <string name="owner_info_settings_title">Πληροφορίες Κατόχου</string>
@@ -5567,7 +5567,7 @@
      <string name="wifi_menu_forget">Διαγραφή δικτύου</string>
      <string name="wifi_menu_modify">Επεξεργασία δικτύου</string>
      <string name="wifi_menu_more_options">Περισσότερες επιλογές</string>
-     <string name="wifi_menu_p2p">Απευθείας Wi-Fi</string>
+     <string name="wifi_menu_p2p">Άμεσα σε Wi-Fi</string>
      <string name="wifi_menu_remember">Αποθήκευση δικτύου</string>
      <string name="wifi_menu_scan">Σάρωση</string>
      <string name="wifi_menu_wfd">Οθόνη Wi-Fi</string>
@@ -6181,7 +6181,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="notification_fold_description3">Εάν οι ειδοποιήσεις που θεωρείτε σημαντικές εξακολουθούν να εισέρχονται στο Φάκελο Ειδοποιήσεων, βεβαιωθείτε να αναφέρετε αυτά τα ζητήματα σε εμάς. Θα εκτιμούσαμε τα δικά σας Σχόλια.</string>
   <string name="notification_fold_summary">Όλες οι ασήμαντες ειδοποιήσεις θα εμφανίζονται σε έναν ξεχωριστό φάκελο</string>
   <string name="notification_fold_title">Φάκελος Ειδοποιήσεων</string>
-  <string name="notification_shade_shortcut_title">Συντόμευση στον Πίνακα ειδοπ/σης</string>
+  <string name="notification_shade_shortcut_title">Συντόμ. στον Πίνακα ειδοπ/σης</string>
   <string name="off">Ανενεργός</string>
   <string name="on">Ενεργός</string>
   <string name="peek_notification_icon_title">Εμφάνιση εικονιδίων για τις εισερχόμενες ειδοποιήσεις</string>
@@ -6420,8 +6420,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="allowed_set">0.0.0.0 επιτρέπεται</string>
     <string name="not_allowed_set">0.0.0.0 δεν επιτρέπεται</string>
     <string name="no_neighboring_cells">χωρίς περιμετρικά κελιά</string>
-    <string name="dark_color_summary_lcd">"Χρήση σκοτεινότερης παλέτας χρωμάτων για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μπορεί να σας βοηθήσει να μειώσετε την καταπόνηση των ματιών όταν χρησιμοποιείτε τη συσκευή σας στο σκοτάδι."</string>
-    <string name="dark_color_summary_oled">Χρήση σκοτεινότερης παλέτας χρωμάτων για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μειώνει την κατανάλωση ενέργειας και την καταπόνηση των ματιών.</string>
+    <string name="dark_color_summary_lcd">"Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Αυτό βοηθά στην μείωση καταπόνησης των ματιών όταν χρησιμοποιείτε τη συσκευή σας σε σκοτάδι."</string>
+    <string name="dark_color_summary_oled">Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μειώνει την κατανάλωση ενέργειας και την καταπόνηση των ματιών.</string>
     <string name="usage_app_get_it">Τέλος</string>
     <string name="usage_app_limit_alter_summary">"Φαίνεται ότι αυτό το χρονικό όριο είναι μικρότερο από το χρόνο που χρησιμοποιείτε αυτήν την εφαρμογή σήμερα. Ορισμός ορίου οπωσδήποτε?"</string>
     <string name="usage_app_limit_alter_title">Ελέγξτε το χρονικό όριο της οθόνης</string>
@@ -6453,7 +6453,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	<string name="gesture_open_camera">Άνοιγμα Κάμερας</string>
 	<string name="gesture_open_wechat">Άνοιγμα WeChat</string>
 	<string name="gesture_open_alipay">Άνοιγμα Alipay</string>
-    <string name="aod_and_lock_screen_settings_title">Οθόνη Περιβάλλοντος &amp; Οθόνη Κλειδώματος</string>
+    <string name="aod_and_lock_screen_settings_title">Οθόνη Περιβάλλοντος &amp; Κλειδώματος</string>
     <string name="aod_settings_category_name">Οθόνη Περιβάλλοντος</string>
     <string name="aod_settings_title">Οθόνη Περιβάλλοντος</string>
     <string name="applications_settings_title">Εφαρμογές</string>

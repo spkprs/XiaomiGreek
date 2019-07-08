@@ -255,6 +255,7 @@
      <string name="other">Άλλα</string>
      <string name="other_filter">Άλλα</string>
      <string name="package_filter">ΠΑΚΕΤΑ</string>
+     <string name="path_not_available">Μη διαθέσιμη διαδρομή</string>
      <string name="pause_download">Παύση</string>
      <string name="paused">Σε παύση</string>
      <string name="paused_by_app">Σε παύση</string>

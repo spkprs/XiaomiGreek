@@ -286,6 +286,7 @@
   <string name="mortgage_item_years">Δανειοληψία</string>
   <string name="mortgage_loans_amount">Ποσό δανείου</string>
   <string name="mortgage_provident_found_interest_rate">Επιτόκιο κεφαλαίου</string>
+  <string name="mortgage_provider_east_money">Ποροχή δεδομένων απο την East Money</string>
   <string name="mortgage_repayment_amount">Ποσό αποπληρωμής</string>
   <string name="mortgage_result">Αποτελέσματα</string>
   <string name="mortgage_show_details">Λεπτομέρειες</string>

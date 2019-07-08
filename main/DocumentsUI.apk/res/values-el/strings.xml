@@ -101,6 +101,11 @@
      <string name="root_type_shortcut">Συντομεύσεις</string>
      <string name="save_error">Αποτυχία αποθήκευσης</string>
      <string name="share_via">Κοινή χρήση μέσω</string>
+     <string name="sign_in">Είσοδος</string>
+     <string name="sort_dimension_date">Τροποποίηση</string>
+     <string name="sort_dimension_file_type">Τύπο</string>
+     <string name="sort_dimension_name">Όνομα</string>
+     <string name="sort_dimension_size">Μέγεθος</string>
      <string name="sort_date">Κατά ημερομηνία</string>
      <string name="sort_name">Κατά όνομα</string>
      <string name="sort_size">Κατά μέγεθος</string>
