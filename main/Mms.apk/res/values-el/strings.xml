@@ -404,7 +404,7 @@
      <string name="networking_allow_desc_without_mx">Το Mi Message πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά. Για να αναγνωρίζει άγνωστους αριθμούς, να φιλτράρει τα ανεπιθύμητα μηνύματα και να ενεργοποιεί άλλες λειτουργίες, το Mi Message πρέπει να χρησιμοποιεί το Χρυσό Οδηγό. Να επιτρέπεται στο Χρυσό Οδηγό η πρόσβαση στο Internet, να λαμβάνει πληροφορίες για την τοποθεσία σας και να διαβάζει τις επαφές σας;</string>
      <string name="networking_allow_title">Προσοχή</string>
      <string name="new_message">Νέο μήνυμα</string>
-     <string name="new_message_arrived">Αγγίξτε για προβολή</string>
+     <string name="new_message_arrived">Μη αναγνωσμένο</string>
      <string name="new_phrase">Νέα απάντηση</string>
      <string name="new_phrase_hint">Εισάγετε νέα απάντηση</string>
      <string name="no">Άκυρο</string>
@@ -788,7 +788,7 @@
      <string name="undelivered_msg_dialog_title">Ανεπίδοτο μήνυμα</string>
      <string name="undelivered_sms_dialog_body">Δεν είναι δυνατή η αποστολή αυτού του μηνύματος.</string>
      <string name="unknown_num">Άγνωστος αριθμός</string>
-     <string name="unknown_sender">Έχετε ένα νέο μήνυμα</string>
+     <string name="unknown_sender">Άγνωστος Αποστολέας</string>
      <string name="unstick">Ξεκαρφίτσωμα</string>
      <string name="unstick_conversation">Ξεκαρφίτσωμα τρέχουσας συνομιλίας</string>
      <string name="unsticked_conversation">Η συνομιλία έχει ήδη ξεκαρφιτσωθεί</string>
@@ -847,4 +847,5 @@
       <string name="sub_sim_card">Δεύτερη</string>
       <string name="sub_sim_card_indicator">Δεύτερη%d</string>
       <string name="sub_sim_not_support_mms">"Αδύνατη η αποστολή MMS χρησιμοποιώντας την δεύτερη κάρτα SIM"</string>
+      <string name="click_to_view">Άγγιγμα για προβολή</string>
 </resources>

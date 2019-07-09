@@ -6483,5 +6483,10 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
     <string name="unlock_mode_title">Οθόνη Κλειδώματος</string>
     <string name="volume_launch_camera_summary">Διπλό πάτημα του κουμπιού έντασης ήχου για εκκίνηση της Κάμερας σε κλειδωμένη οθόνη</string>
 	<string name="wakeup_and_sleep_settings_category_name">Ρυθμίσεις Οθόνης Κλειδώματος</string>
-    <string name="gesture_wakeup_summary">Αυτό λειτουργεί όταν εφαρμόζεται είτε το Προεπιλεγμένο είτε το Κλασικό θέμα</string>
+    <string name="gesture_wakeup_summary">Διπλό άγγιγμα για απενεργ/ση οθόνης όταν εφαρμοστεί το Προεπιλεγμένο ή το Κλασικό θέμα</string>
+    <string name="notch_style_mod_description">Ρυθμίσεις εμφάνισης Εγκοπής και Γραμμής κατάστασης</string>
+    <string name="notch_style_mod_title">Απόκρυψη Εγκοπής</string>
+    <string name="notch_style_show">"Χωρίς απόκρυψη"</string>
+    <string name="notch_style_status_bar_inside">Απόκρυψη χωρίς μετακίνηση της γραμμής κατάστασης</string>
+    <string name="notch_style_status_bar_outside">Απόκρυψη και μετακίνηση της γραμμής κατάστασης</string>
 </resources>

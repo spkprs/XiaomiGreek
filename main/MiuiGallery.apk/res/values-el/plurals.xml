@@ -312,4 +312,8 @@
         <item quantity="other">Διαγραφή %d λήψεων ριπής από αυτήν την συσκευή;</item>
         <item quantity="one">Διαγραφή %d λήψης ριπής από αυτήν την συσκευή;</item>
     </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d δευτ.</item>
+        <item quantity="one">%1$d δευτ.</item>
+    </plurals>
 </resources>

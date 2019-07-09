@@ -8,7 +8,7 @@
   <string name="enable_float_notification">Επιτρέπονται η αναδυόμενες ειδοπ/σεις</string>
   <string name="enable_lockscreen_notification">Επιτρέπονται οι ειδοπ/σεις οθόνης κλειδώματος</string>
   <string name="enable_show_badge_notification">Επιτρέπονται οι ενδείξεις ειδοπ/σεων</string>
-  <string name="expand_top_notification">Ανάπτυξη ειδοπ. κορυφής</string>
+  <string name="expand_top_notification">Ανάπτυξη πρώτης ειδοπ/σης</string>
   <string name="expandable_under_keyguard">Άνοιγμα Πίνακα ειδοπ. Οθ. Κλειδ/τος</string>
   <string name="float_notifications">Αναδυόμενες</string>
   <string name="hint_search_all">Αναζήτηση εφαρμογών</string>

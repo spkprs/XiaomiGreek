@@ -102,6 +102,8 @@
      <string name="app_name_view_picture">Προβολή εικόνας</string>
      <string name="app_name_view_video">Προβολή βίντεο</string>
      <string name="assistant_page_label">Αναμνήσεις</string>
+     <string name="assistant_page_discovery">Ανακαλύψτε</string>
+     <string name="assistant_page_server_error">Ελέγξτε τις ρυθμίσεις δικτύου</string>
      <string name="associate_face_album">Επιλέξτε ένα άλμπουμ</string>
      <string name="auto_backup_introduce">Αυτόματη δημιουργία αντιγράφων φωτογραφιών και βίντεο(απαιτείται λογαριασμός Xiaomi)</string>
      <string name="auto_download_media_title">Αυτόματη λήψη φωτογραφιών από το Mi Cloud</string>
@@ -1855,4 +1857,5 @@
 	<string name="video_editor_audio_quiet">Ζεν</string>
 	<string name="video_editor_audio_summertime">Καλοκαίρι</string>
 	<string name="video_editor_audio_vitality">Δυναμική</string>
+	<string name="movie_customer_unsupport_audio_file">Μη υποστηριζόμενο αρχείο ήχου</string>
 </resources>

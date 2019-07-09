@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%s ημ</item>
+        <item quantity="one">1 ημ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ωρ</item>
+        <item quantity="one">1 ωρ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s λεπ</item>
+        <item quantity="one">1 λεπ</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s δευτ</item>
+        <item quantity="one">1 δευτ</item>
+    </plurals>
+</resources>
