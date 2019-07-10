@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="complain_reasons">
-    <item>harassment</item>
-    <item>fraud/false information</item>
-    <item>Infringement</item>
-    <item>porn</item>
-    <item>iolates laws and regulations</item>
-  </string-array>
-  <string-array name="entries_rcs_backup_item">
-    <item>all</item>
-    <item>fav</item>
-  </string-array>
-  <string-array name="entries_rcs_backup_period">
-    <item>ημέρα</item>
-    <item>εβδομάδα</item>
-    <item>μήνας</item>
-  </string-array>
-  <string-array name="rcs_profile">
-    <item>joyn blackbird</item>
-    <item>joyn hotfixes</item>
-  </string-array>
-  <string-array name="rcs_ver">
-    <item>rcs ver 5.1</item>
-    <item>rcs ver 5.1b</item>
-  </string-array>
-  <string-array name="recv_type">
-    <item>Λήψη και ειδοποίηση</item>
-    <item>Λήψη μόνο</item>
-  </string-array>
-  <string-array name="session_start">
-    <item>αποδοχή όταν είναι σε δραστηριότητα</item>
-    <item>αποδοχή κατά την πληκτρολόγηση</item>
-    <item>αποδοχή όταν το στείλετε πίσω</item>
-  </string-array>
+    <string-array name="media_proto_type_value">
+        <item>Λήψη και ειδοποίηση</item>
+        <item>Ειδοποίηση μόνο</item>
+    </string-array>
+       <string-array name="entries_rcs_backup_period">
+       <item>ημέρα</item>
+       <item>εβδομάδα</item>
+       <item>μήνας</item>
+    </string-array>
 </resources>
