@@ -1906,10 +1906,10 @@
      <string-array name="screen_timeout_entries">
         <item>15 Δευτ.</item>
         <item>30 Δευτ.</item>
-        <item>1 Λεπτό</item>
-        <item>2 Λεπτά</item>
-        <item>5 Λεπτά</item>
-        <item>10 Λεπτά</item>
+        <item>1 Λεπτού</item>
+        <item>2 Λεπτών</item>
+        <item>5 Λεπτών</item>
+        <item>10 Λεπτών</item>
         <item>Ποτέ</item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">

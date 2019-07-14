@@ -495,4 +495,10 @@
 	  <string name="waiting_for_sync">Αναμονή...</string>
 	  <string name="system_busy_or_network_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
       <string name="micloud_last_sync_canceled">Ο Συγχρονισμός ακυρώθηκε. Προσπάθησε ξανά.</string>
+	  <string name="cloud_storage_already_used">Σε χρήση: %1$s/%2$s</string>
+	  <string name="cloud_storage_info_type_others">Άλλα</string>
+	  <string name="cloud_storage_manage_title">Διαχείριση χώρου cloud</string>
+	  <string name="sync_setting_title">Ρυθμίσεις Συγχρ/μού</string>
+	  <string name="data_protection_title">Ασφάλεια Δεδ/νων</string>
+	  <string name="cloud_lab_title">Εργαστήριο Cloud</string>
 </resources>

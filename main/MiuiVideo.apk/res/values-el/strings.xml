@@ -185,11 +185,13 @@
   <string name="lp_advance_sound">Αύξηση ήχου</string>
   <string name="lp_brightness">Φωτεινότητα</string>
   <string name="lp_fullscreen">Πλήρης Οθόνη</string>
+  <string name="lp_playspeed">Ταχύτητα</string>
   <string name="lp_setting">Ρυθμίσεις</string>
   <string name="lp_speed_title">Ταχύτητα αναπαραγωγής</string>
-  <string name="lp_speed_toast">Παίζει στην %sX ταχύτητα…</string>
+  <string name="lp_speed_toast">Ταχύτητα αναπ/γής %sX</string>
   <string name="lp_volume">Ένταση</string>
   <string name="menu_item_enable_audio_enhance">Ενεργοποίηση βελτιώσεων ήχου</string>
+  <string name="menu_item_use_notch">Αναπ. Πλήρους οθόνης</string>
   <string name="message_center_activity_title">Τα μηνύματά μου</string>
   <string name="message_center_activity_title_setting">Ρυθμίσεις</string>
   <string name="message_comment_item_my_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Εγώ&lt;/font&gt;&lt;/Data&gt;: %s</string>
@@ -252,7 +254,7 @@
   <string name="offline_media_empty_title">Δεν υπάρχουν βίντεο</string>
   <string name="offline_pause">Παύση όλων των λήψεων</string>
   <string name="offline_setting_mobile_net_limit_summary">Περιορίστε τη χρήση των δεδομένων όταν το μέγεθος των ληφθέντων βίντεο φτάσει σε ένα καθορισμένο όριο</string>
-  <string name="offline_setting_mobile_net_limit_title">Περιορισμός χρήσης δεδομένων</string>
+  <string name="offline_setting_mobile_net_limit_title">Όριο δεδομένων</string>
   <string name="offline_setting_mobile_net_limit_unlimited_title">Περιορισμός χρήσης δεδομένων κινητής (Απεριόριστα)</string>
   <string name="offline_setting_mobile_net_unlimited">Απεριόριστα</string>
   <string name="offline_success">Λήψη με επιτυχία</string>
@@ -456,7 +458,7 @@
   <string name="player_plugin_title">Προσθήκες για Βίντεο</string>
   <string name="plugin_install_failure">Δεν ήταν δυνατή η εγκατάσταση της προσθήκης</string>
   <string name="portrait_speed_title">Ταχύτητα αναπαραγωγής</string>
-  <string name="portrait_speed_toast">Παίζει στην %sX ταχύτητα…</string>
+  <string name="portrait_speed_toast">Ταχύτητα αναπ/γής %sX</string>
   <string name="pre_play_tips">Σχετικά με την επανάληψη %1$s</string>
   <string name="priority_storage">Χρήση εξωτερικής κάρτας SD</string>
   <string name="priority_storage_summary">Αυτόματη αποθήκευση σε εξωτερική κάρτα SD εάν είναι διαθέσιμη</string>
@@ -486,9 +488,9 @@
   <string name="resumedownload">Συνέχεια</string>
   <string name="save_cancel_toast">Αγγίξτε ξανά \"Επιστροφή\" για να ακυρώσετε την αποθήκευση βίντεο</string>
   <string name="score">Αξιολόγηση </string>
-  <string name="screen_shot_failure">το στιγμιότυπο απέτυχε!</string>
-  <string name="screen_shot_failure_tips">η έκδοση συστήματος σας είναι πολύ αργή, αδύνατο το στιγμιότυπο οθόνης</string>
-  <string name="screen_shot_success">ελήφθει το στιγμιότυπο!</string>
+  <string name="screen_shot_failure">Αποτυχία στιγμιοτύπου!</string>
+  <string name="screen_shot_failure_tips">Η έκδοση σας είναι παλιά, αδύνατο το στιγμιότυπο οθόνης</string>
+  <string name="screen_shot_success">Το στιγμιότυπο ελήφθει!</string>
   <string name="search_hint">Αναζήτηση</string>
   <string name="search_settings">Βίντεο;Ρυθμίσεις βίντεο;δεδομένα κινητής τηλεφωνίας;ώθηση;ειδοποιήσεις push;ειδοποιήσεις;προσωρινή μνήμη;εμπειρία χρήστη;Wi-Fi</string>
   <string name="server_summary">Επιλέξτε Υπηρεσία Διακομιστή</string>
@@ -813,6 +815,13 @@
   <string name="vp_adapt_height">Ταίριασμα ύψους</string>
   <string name="vp_adapt_width">Ταίριασμα πλάτους</string>
   <string name="vp_agree">Συμφωνώ</string>
+  <string name="vp_airplay_check_connected_wifi">"Βεβαιωθείτε ότι η συσκευή που θέλετε να χρησιμοποιήσετε είναι στο ίδιο δίκτυο Wi-Fi με το τηλέφωνό σας."</string>
+  <string name="vp_airplay_connected">" (Συνδέθηκε)"</string>
+  <string name="vp_airplay_connecting">" Συνδέεται"</string>
+  <string name="vp_airplay_devices">Διαθέσιμες συσκευές</string>
+  <string name="vp_airplay_did_not_find_device">"Δεν βρέθηκαν συμβατές συσκευές."</string>
+  <string name="vp_airplay_disconnect">Αποσύνδεση</string>
+  <string name="vp_airplay_failed_to_connect">"Δεν ήταν δυνατή η σύνδεση"</string>
   <string name="vp_app_download">Λήψη εφαρμογής</string>
   <string name="vp_app_name">Βίντεο</string>
   <string name="vp_audio">Ένταση</string>
@@ -884,6 +893,7 @@
   <string name="vp_player_plugin_dlg_neg_btn">Κλείστε</string>
   <string name="vp_player_plugin_dlg_no_content">Δεν υπάρχουν προσθήκες (plugins) Βίντεο</string>
   <string name="vp_player_plugin_dlg_title">Βίντεο Προσθήκες</string>
+  <string name="vp_playspeed">Ταχύτητα</string>
   <string name="vp_plugin_download_retry">Η αυτόματη λήψη εγκατάστασης προσθήκης απέτυχε, προσπάθεια με μη αυτόματο τρόπο;</string>
   <string name="vp_plugin_message">Εγκατάσταση προσθέτου HD βίντεο;</string>
   <string name="vp_retry">Δοκιμάστε ξανά</string>
@@ -917,7 +927,7 @@
   <string name="vp_VideoView_error_title">Σφάλμα αναπαραγωγής βίντεο!</string>
   <string name="notification_offline_to_online_setting">Πίνακας ειδοποιήσεων</string>
   <string name="notification_offline_to_online_summary">Προβολή πληροφοριών καιρού και χρήση των συντομεύσεων Mi Video</string>
-  <string name="notification_offline_to_online_title">Εμφάνιση συντομεύσεων στον Πίνακα ειδοποιήσεων</string>
+  <string name="notification_offline_to_online_title">Συντομεύσεις Πίνακα ειδ/σεων</string>
   <string name="offline_setting">Ρυθμίσεις αναπαραγωγής</string>
   <string name="skip_play_time_summary">Παράκαμψη ανοίγματος και κλεισίματος πιστώσεων κατά την αναπαραγωγή βίντεο</string>
   <string name="skip_play_time_title">Παράκαμψη πιστώσεων</string>
