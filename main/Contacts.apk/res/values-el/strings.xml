@@ -1057,6 +1057,8 @@
      <string name="shortcutContact">Επαφή</string>
      <string name="shortcutDialContact">Απευθείας κλήση</string>
      <string name="shortcutMessageContact">Άμεσο μήνυμα</string>
+     <string name="shortcut_new_contact_label">Νέα επαφή</string>
+     <string name="shortcut_scan_label">Σάρωση επαγγελματικής κάρτας</string>
      <string name="showAllContactsJoinItem">Εμφάνιση όλων των επαφών</string>
      <string name="simContacts_airplaneMode">Για να εισάγετε επαφές από την κάρτα SIM, απενεργοποιήστε τη λειτουργία πτήσης</string>
      <string name="simContacts_empty">Δεν υπάρχουν επαφές στην κάρτα SIM</string>

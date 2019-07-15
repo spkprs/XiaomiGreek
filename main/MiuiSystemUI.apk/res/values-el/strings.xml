@@ -745,7 +745,9 @@
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Δεν είναι δυνατή η εναλλαγή μεταξύ των προφίλ κατά τη διάρκεια μιας κλήσης</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Αδύνατη η εναλλαγή μεταξύ Χώρων με τον Γονικό έλεγχο ενεργό"</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Πρέπει να εισέλθετε στο Πρώτο προφίλ μετά την επανεκκίνηση της συσκευής σας</string>
+     <string name="input_password_handle_sdcard_fs">Αδύνατη η είσοδος στο Δεύτερο Χώρο από την οθόνη κλειδώματος. Εισέλθετε από τον Πρώτο Χώρο.</string>
      <string name="input_password_hint_text">Εισάγετε τον κωδικό</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Αδύνατη η εναλλαγή μεταξύ χώρων όταν είναι ενεργή η Υπέρ εξοικ/ση μπαταρίας"</string>
      <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
      <string name="input_pin_code">Εισάγετε το PIN</string>
      <string name="input_puk_code">Εισάγετε το PUK</string>
@@ -1168,10 +1170,10 @@
      <string name="oem_unlock_enable_summary">Επιτρέψτε το ξεκλείδωμα του bootloader</string>
      <string name="oldman_airplane_mode_text">Λειτουργία πτήσης</string>
      <string name="oldman_incall_text">Κλήση</string>
-     <string name="open_camera_hint_text">Σύρετε αριστερά για την Κάμερα</string>
+     <string name="open_camera_hint_text">Σύρετε το εικονίδιο για εκκίνηση Κάμερας</string>
      <string name="open_extreme_power_save_mode_title">Ενεργοποίηση Μέγιστης εξοικονόμησης μπαταρίας</string>
-     <string name="open_lock_screen_magazine_hint_text">Σύρετε δεξιά για περισσότερες επιλογές</string>
-     <string name="open_remote_center_hint_text">Σύρετε δεξιά, για άνοιγμα συντομεύσεων</string>
+     <string name="open_lock_screen_magazine_hint_text">Σύρετε το εικονίδιο για εκκίνηση Ταπετσαρίας Καρουζέλ</string>
+     <string name="open_remote_center_hint_text">Σύρετε το εικονίδιο για προβολή στοιχείων ελέγχου</string>
      <string name="other">Άλλα</string>
      <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
      <string name="overview">Επισκόπηση</string>
@@ -1411,6 +1413,9 @@
      <string name="recents_multistack_add_stack_dialog_split_vertical">Κάθετη διαίρεση</string>
      <string name="recents_search_bar_label">Αναζήτηση</string>
      <string name="recents_stack_action_button_label">Αφαίρεση όλων</string>
+     <string name="recents_task_screening">Προβολή…</string>
+     <string name="recents_forbid_dock_when_screening_toast_text">"Αδύνατη η χρήση της Διαίρεσης οθόνης κατά τη διάρκεια της μετάδοσης"</string>
+     <string name="recents_dimiss_task">Καθαρισμός</string>
      <string name="recents_title_app_manager">Διαχείριση Εφαρμογών</string>
      <string name="recents_title_game">Παιχνίδια</string>
      <string name="recents_title_garbage_cleanup">Καθαρισμός</string>

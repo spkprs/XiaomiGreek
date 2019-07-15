@@ -26,6 +26,7 @@
      <string name="can_not_delete_when_calling">Δεν είναι δυνατή η διαγραφή Χώρων κατά τη διάρκεια μιας κλήσης</string>
      <string name="can_not_switch_when_calling">Δεν είναι δυνατή η εναλλαγή μεταξύ Χώρων κατά τη διάρκεια μιας κλήσης</string>
      <string name="can_not_switch_when_green_kid_active">Η εναλλαγή στο Δεύτερο χώρο περιορίζεται από τους γονικούς ελέγχους</string>
+     <string name="can_not_switch_when_super_power_active">"Δεν είναι δυνατή η εναλλαγή μεταξύ Χώρων όταν η Υπέρ εξοικ/ση μπαταρίας είναι ενεργή"</string>
      <string name="cancelClosePassword">Μην απενεργοποιείτε</string>
      <string name="cancel_button">Ακύρωση</string>
      <string name="changePassword">Αλλαγή κωδικού</string>

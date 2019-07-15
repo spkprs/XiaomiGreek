@@ -906,4 +906,9 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="shortcut_new_event">Προσθήκη συμβάντος</string>
     <string name="shortcut_next_agenda">Επόμενο συμβάν</string>
     <string name="shortcut_settings">Ρυθμίσεις</string>
+    <string name="preferences_popup_alert_smart_summary_new">Χρονικά ευαίσθητα γεγονότα είναι τα γεγονότα με ακριβή χρόνο</string>
+    <string name="setting_desc_import_todo">Εισαγωγή προγραμματισμένων εργασιών από τις Σημειώσεις</string>
+    <string name="setting_title_import_todo">Εισαγωγή εργασιών</string>
+    <string name="todo_audio_event">"[Φωνητική εργασία] "</string>
+    <string name="todo_event">Επερχόμενες εργασίες</string>
 </resources>

@@ -509,7 +509,7 @@
   <string name="handle_later">Όχι τώρα</string>
   <string name="hide_album">Απόκρυψη εξώφυλλου άλμπουμ</string>
   <string name="hide_lyric">Απόκρυψη στίχων</string>
-  <string name="higher_quality_music">Ήχος υψηλής ποιότητας</string>
+  <string name="higher_quality_music">Εγγραφείτε στο Mi Music</string>
   <string name="higher_quality_music_summary">Ροή και λήψη αρχείων με μεγαλύτερη ταχύτητα</string>
   <string name="history_clear">Εκκαθάριση</string>
   <string name="history_clear_fm">Διαγραφή ιστορικού αναπαραγωγής ραδιοφώνου;</string>
@@ -521,6 +521,7 @@
   <string name="i_know_it">OK</string>
   <string name="impunity_declaration_content">Πρέπει να διαβάζετε και να συμφωνείτε με την %1$s και %2$s πριν από τη χρήση αυτού του προϊόντος.</string>
   <string name="impunity_declaration_content_agreement">Συμφωνία χρήστη</string>
+  <string name="impunity_declaration_content_live">Πρέπει να διαβάζετε και να συμφωνείτε με την %1$s και %2$s πριν από τη χρήση αυτού του προϊόντος.</string>
   <string name="impunity_declaration_content_policy">Πολιτική απορρήτου</string>
   <string name="impunity_declaration_enjoy_now">Απολαύστε τώρα</string>
   <string name="impunity_declaration_ignore">Να μην εμφανιστεί ξανά</string>

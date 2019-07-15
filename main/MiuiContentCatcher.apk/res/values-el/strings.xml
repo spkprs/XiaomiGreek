@@ -27,5 +27,7 @@
 	<string name="save_content_tip">"Τα ακόλουθα στοιχεία θα αποθηκευτούν:"</string>
 	<string name="search">Αναζήτηση</string>
 	<string name="settings_clear_data_confirmation_title">Διαγραφή κωδικών</string>
+    <string name="settings_clear_data_confirmation_description">"Εάν διαγράψετε τους κωδικούς πρόσβασης τώρα, θα πρέπει να τους πληκτρολογήσετε χειροκίνητα την επόμενη φορά που θα συνδεθείτε.
+Διαγραφή κωδικών?"</string>
 	<string name="using_miui_autofill_message">Για να εισάγονται οι κωδικοί αυτόματα, το MIUI θα αποθηκεύσει τις πληροφορίες λογαριασμού και τους κωδικούς στη συσκευή σας.</string>
 </resources>

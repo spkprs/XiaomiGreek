@@ -1670,7 +1670,8 @@
      </string-array>
      <string-array name="notch_battery_indicator_style_entries">
         <item>Γραφική</item>
-        <item>Ποσοστό</item>
+        <item>Ποσοστό (εντός εικονιδίου)</item>
+        <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Κανένα</item>
@@ -2619,5 +2620,10 @@
         <item>Γραφική</item>
         <item>Ποσοστό (εντός εικονιδίου)</item>
         <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Γραφική</item>
+        <item>Ποσοστό (εντός εικονιδίου)</item>
+        <item>Ποσοστό (δίπλα στο εικονίδιο στον Πίνακα)</item>
     </string-array>
 </resources>

@@ -250,10 +250,12 @@
      </plurals>
      <plurals name="people">
         <item quantity="other">Έχει ληφθεί από %1$d άτομα</item>
+        <item quantity="one">Έχει ληφθεί από %1$d άτομο</item>
      </plurals>
      <plurals name="people_million">
         <item quantity="other">Έχει ληφθεί από %1$d άτομα</item>
-     </plurals>
+        <item quantity="one">Έχει ληφθεί από %1$d άτομο</item>
+    </plurals>
      <plurals name="power_center_battery_day">
         <item quantity="other">%d Ημ.</item>
         <item quantity="one">%d Ημ.</item>

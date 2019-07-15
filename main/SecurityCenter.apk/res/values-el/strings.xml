@@ -2764,4 +2764,43 @@
     <string name="power_ambient_display">Οθόνη Περιβάλλοντος</string>
     <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την Οθόνη Περιβάλλοντος</string>
     <string name="st_antispam_title_mms">MMS</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">Καλώς ήλθατε στη %1s! Αυτή η εφαρμογή σάς επιτρέπει να χρησιμοποιήσετε την παρακάτω λειτουργία: %2s.</string>
+    <string name="system_permission_declare_privacy_declare">"Σεβόμαστε και προστατεύουμε το απόρρητό σας.
+Έχετε υπόψη ότι η %1s χρειάζεται να συλλέξει τα δεδομένα σας και απαιτεί τα ακόλουθα δικαιώματα για κανονική λειτουργία: "</string>
+    <string name="system_permission_declare_use_network">Σύνδεση στο δίκτυο</string>
+    <string name="system_permission_declare_no_say_no">"Αν επιλέξετε να μην δώσετε τα απαιτούμενα δικαιώματα ή δεν μας επιτρέψετε να συλλέξουμε και να χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα είναι σε θέση να λειτουργήσει κανονικά."</string>
+    <string name="system_permission_declare_revoke_path">Μπορείτε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής, να αποσυνδεθείτε από το λογαριασμό σας ή να διαχειριστείτε τα δικαιώματα και τις εξουσιοδοτήσεις σας στην ενότητα Ασφάλεια> Διαχείριση εφαρμογών> Δικαιώματα> Άλλα δικαιώματα.</string>
+    <string name="system_permission_declare_double_link"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και την  &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
+    <string name="system_permission_declare_agree">Αποδοχή</string>
+    <string name="system_permission_perm_send_mms">Αποστολή MMS</string>
+    <string name="system_permission_perm_read_mms">Ανάγνωση MMS</string>
+    <string name="system_permission_perm_answer_call">Πραγματοποίηση Κλήσεων</string>
+    <string name="system_permission_perm_read_numbers">Ανάγνωση αριθμών τηλεφώνου</string>
+    <string name="superpower_settings">Υπέρ Εξοικ. μπαταρίας</string>
+    <string name="superpower_notification_time_12">MMMM dd, EEEE</string>
+    <string name="superpower_notification_time_24">MMMM dd, EEEE</string>
+    <string name="superpower_notification_hint_enter">Ενεργό</string>
+    <string name="superpower_savemode_limit1">Σκοτεινό θέμα</string>
+    <string name="superpower_savemode_limit2">Περιορισμός δραστηριότητας παρασκηνίου</string>
+    <string name="superpower_savemode_limit3">Περιορισμός δραστηριότητας που καταναλώνει ενέργεια (συγχρονισμός, GPS, δόνηση, οθόνη περιβάλλοντος κ.λπ.)</string>
+    <string name="superpower_savemode_limit4">Επιτρέψτε στις επιλεγμένες εφαρμογές την κανονική λειτουργία</string>
+    <string name="superpower_settins_switch_summary">Περιορίζει τις πιο απαιτητικές λειτουργίες ώστε να παραμείνουν διαθέσιμες περισσότερες βασικές λειτουργίες (π.χ. κλήσεις, SMS και επιλεγμένες εφαρμογές)</string>
+    <string name="superpower_settins_autoleave_title">Αυτόματη απενεργοποίηση</string>
+    <string name="superpower_settins_autoleave_summary">Αυτόματη απεν/ποίηση Υπέρ εξοικ/σης μπαταρίας όταν είναι κατά 50% φορτισμένη</string>
+    <string name="superpower_settins_other">Πρόσθετες ρυθμίσεις</string>
+    <string name="superpower_settins_autoenter_title">Αυτόματη ενεργοποίηση</string>
+    <string name="superpower_settins_autoenter_summary">Αυτόματη ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας όταν είναι μόνο 10% φορτισμένη</string>
+    <string name="superpower_notification_title">Λιγότερο από 10% μπαταρίας απομένει</string>
+    <string name="superpower_notification_summary">Ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας</string>
+    <string name="superpower_dialog_title">Υπέρ εξοικ/ση μπαταρίας</string>
+    <string name="superpower_dialog_massage">"Η Υπέρ Εξοικονόμηση μπαταρίας περιορίζει τις περισσότερες λειτουργίες και μειώνει την απόδοση της συσκευής σας, προκειμένου να αφήσει τις βασικές λειτουργίες (π.χ. κλήσεις, SMS και σύνδεση στο δίκτυο) διαθέσιμες όσο το δυνατόν περισσότερο. Ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας; "</string>
+    <string name="superpower_dialog_button_ok">OK</string>
+    <string name="superpower_dialog_button_disable_dialog">"Χωρίς επανεμφάνιση"</string>
+    <string name="superpower_progress_title">Χρόνος που απομένει</string>
+    <string name="superpower_progress_content">Ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας…</string>
+    <string name="superpower_progress_turnoff_items">Περιορισμός ενεργοβόρων δραστηριοτήτων</string>
+    <string name="superpower_progress_turnoff_process">Περιορισμός δραστηριοτήτων παρασκηνίου</string>
+    <string name="superpower_progress_turndown_brightness">Μείωση φωτεινότητας οθόνης</string>
+    <string name="superpower_progress_switch_home">Μετάβαση σε Σκοτεινό θέμα</string>
+    <string name="superpower_progress_left_time">%1$d ω %2$d λ</string>
 </resources>

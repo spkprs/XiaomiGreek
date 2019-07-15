@@ -53,4 +53,8 @@
         <item quantity="other">%1$dΔ</item>
         <item quantity="one">%1$dΔ</item>
      </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Αλλαγή διαστήματος αναβολής για %d λεπτά</item>
+        <item quantity="one">Αλλαγή διαστήματος αναβολής για %d λεπτό</item>
+    </plurals>
 </resources>
