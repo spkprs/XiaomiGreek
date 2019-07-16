@@ -517,6 +517,7 @@
      <string name="call_contact_block">Αποκλεισμός κλήσεων από επαφές</string>
      <string name="call_delete_hint">Διαγραφή των αποκλεισμένων κλήσεων αυτού του αριθμού;</string>
      <string name="call_delete_title">Διαγραφή ιστορικού κλήσεων</string>
+     <string name="call_delete_all_hint">Διαγραφή όλων των αποκλεισμένων κλήσεων?</string>
      <string name="call_oversea_block">Αποκλεισμός κλήσεων από το εξωτερικό</string>
      <string name="call_prefix">Λίστα αποκλεισμών προθέματος</string>
      <string name="call_private">Αποκλεισμός κλήσεων από απόρρητους αριθμούς</string>

@@ -19,7 +19,7 @@
   <string name="lock_screen_display_rules">Τύπος</string>
   <string name="lock_screen_tip_toast">Επιτρέψτε τις ειδοπ/σεις οθόνης κλειδώματος σε \"Τύπο\".</string>
   <string name="lockscreen_notifications">Οθ. Κλειδώματος</string>
-  <string name="not_sent_recently">Χωρίς πρόσφατα</string>
+  <string name="not_sent_recently">Χωρίς πρόσφατες</string>
   <string name="notch_and_status_bar_setting">Εγκοπή και Γραμμή Κατάστασης</string>
   <string name="notification_display_setting">Πίνακας ειδοπ/σεων</string>
   <string name="notification_display_style">Τύπος ειδοποιήσεων</string>

@@ -2259,6 +2259,7 @@
      <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;Wi-Fi</string>
      <string name="keywords_wifi_calling">"wifi κλήση "</string>
      <string name="keywords_write_settings">γράψει τροποποιήσει τις ρυθμίσεις του συστήματος</string>
+    <string name="kid_space_settings">Παιδικός Χώρος</string>
      <string name="kilobyteShort">KB</string>
      <string name="kilobyte_per_second">KB/δ</string>
      <string name="label_global_roaming_settings">Ρυθμίσεις Περιαγωγής</string>
