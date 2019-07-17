@@ -577,7 +577,7 @@
      <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
      <string name="refresh">Ανανέωση</string>
      <string name="refreshing_hint">Μισό λεπτό…</string>
-     <string name="reminder_overdue">'Εληξε</string>
+     <string name="reminder_overdue">Εληξε</string>
      <string name="repeat_activity_label">Επανάληψη</string>
      <string name="repeat_custom_activity_label">Προσαρμογή</string>
      <string name="repeat_custom_prompt">κάθε %1$s την %2$s</string>
@@ -875,7 +875,7 @@ You can also add reminders so you don't miss anything important."</string>
 	<string name="repeat_alarm_changed_hotel_event">Υπενθύμιση πάντα για ξενοδοχεία</string>
 	<string name="repeat_alarm_changed_loan_event">Υπενθύμιση πάντα για επιστροφές δανείων</string>
 	<string name="repeat_alarm_changed_movie_event">Υπενθύμιση πάντα για ταινίες</string>
-	<string name="repeat_alarm_changed_ony_selected">Μόνο γι ' αυτή τη φορά</string>
+	<string name="repeat_alarm_changed_ony_selected">Μόνο αυτή τη φορά</string>
 	<string name="repeat_alarm_changed_title">Αυτό είναι ένα επαναλαμβανόμενο γεγονός. Ορισμός υπενθύμισης;</string>
 	<string name="repeat_alarm_changed_train_event">Υπενθύμιση πάντα για τρένα</string>
 	<string name="repeat_alarm_close_title">Αυτό είναι ένα επαναλαμβανόμενο γεγονός. Απενεργοποίηση της υπενθύμισης συναγερμού;</string>

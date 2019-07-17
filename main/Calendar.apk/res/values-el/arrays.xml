@@ -308,11 +308,11 @@
         <item>τελευταία Κυριακή</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Μόνο γι ' αυτή τη φορά</item>
+        <item>Μόνο αυτή τη φορά</item>
         <item>Απενεργ/ση επαναλαμβανόμενης υπενθύμισης</item>
     </string-array>
 	<string-array name="open_alarm_repeating_labels">
-        <item>Μόνο γι ' αυτή τη φορά</item>
+        <item>Μόνο αυτή τη φορά</item>
         <item>Ορισμός επαναλαμβανόμενης υπενθύμισης</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
