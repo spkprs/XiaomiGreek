@@ -13,7 +13,7 @@
      <string name="avast_dialog_cloudscan" />
      <string name="avast_dialog_dbupdate" />
      <string name="avast_dialog_header">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του Avast (%s).</string>
-     <string name="avast_dialog_policy">δείτε την Πολιτική Απορρήτου</string>
+     <string name="avast_dialog_policy">Πολιτική Απορρήτου</string>
      <string name="avast_dialog_title">Πολιτική Απορρήτου Avast</string>
      <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
      <string name="avast_virus_type_adware_description">Ο ιός είναι ένα adware. Εμφανίζει αυτόματα διαφημίσεις.</string>
@@ -33,7 +33,7 @@
      <string name="avl_dialog_cloudscan" />
      <string name="avl_dialog_dbupdate" />
      <string name="avl_dialog_header">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του AVL (%s).</string>
-     <string name="avl_dialog_policy">δείτε την Πολιτική Απορρήτου</string>
+     <string name="avl_dialog_policy">Πολιτική Απορρήτου</string>
      <string name="avl_dialog_title">Πολιτική Απορρήτου AVL</string>
      <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
      <string name="default_sdcard_volume_path" />
@@ -42,7 +42,7 @@
      <string name="tencent_dialog_cloudscan">Ανέβασε και σάρωσε τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών.</string>
      <string name="tencent_dialog_dbupdate">Αυτόματη ενημέρωση βάσης ιών</string>
      <string name="tencent_dialog_header">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του Tencent (%s).</string>
-     <string name="tencent_dialog_policy">Δείτε την Πολιτική Απορρήτου</string>
+     <string name="tencent_dialog_policy">Πολιτική Απορρήτου</string>
      <string name="tencent_dialog_title">Πολιτική Απορρήτου Tencent</string>
      <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
      <string name="title_activity_main">Βασική Δραστηριότητα</string>

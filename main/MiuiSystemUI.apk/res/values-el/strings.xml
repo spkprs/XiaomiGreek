@@ -1923,4 +1923,5 @@
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Περισσότερα</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Είσοδος</string>
     <string name="long_screenshot_guide_text">"Κύληση"</string>
+	<string name="gxzw_add_fingerprint_area">Σαρωτής δακτυλικών αποτυπ/των</string>
 </resources>

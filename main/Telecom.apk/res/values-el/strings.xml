@@ -297,6 +297,7 @@
   <string name="local_backup_password_toast_validation_failure">Αποτυχία κατά τον ορισμό εφεδρικού κωδικού πρόσβασης</string>
   <string name="managed_user_title">Όλες οι εφαρμ. εργασίας</string>
   <string name="media_category">Μέσα</string>
+  <string name="missedcall_notification_public_version_title">Τηλέφωνο</string>
   <string name="mobile_data_always_on">Πάντα ενεργά δεδομένα κινητής τηλεφωνίας</string>
   <string name="mobile_data_always_on_summary">Τα δεδομένα κινητής τηλεφωνίας να διατηρούνται πάντα ενεργά, ακόμα και όταν είναι ενεργό το Wi-Fi (για γρήγορη εναλλαγή δικτύου).</string>
   <string name="mock_location_app">Επιλογή εφ/γής τεχνητής τοπ/σίας</string>

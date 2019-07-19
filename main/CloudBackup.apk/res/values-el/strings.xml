@@ -166,6 +166,7 @@
      <string name="remove_task_unfinished">Δεν τελείωσε η διαγραφή</string>
      <string name="remove_unfinished">Κατάργηση, δοκιμάστε ξανά αργότερα</string>
      <string name="restore_cloud_backup_to_phone">Επαναφορά στοιχείων από Mi Cloud</string>
+     <string name="restoring_data">Επαναφορά δεδομένων…</string>
      <string name="restore_data_summary">Αυτή η λειτουργία απαιτεί μια σύνδεση στο Internet.</string>
      <string name="restore_data_title">Επαναφορά δεδομένων</string>
      <string name="restore_finished_notification_content">Επαναφορά εφαρμογών αρχικής οθόνης, ρυθμίσεις συστήματος, κλπ.</string>

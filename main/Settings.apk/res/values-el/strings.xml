@@ -6501,4 +6501,11 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 
 Αυτή η λειτουργία θα απενεργοποιηθεί αυτόματα αν η φόρτιση δεν ξεκινήσει εντός 90 δευτ."</string>
     <string name="privacy_password_settings_summary">Ο κωδικός προστασίας προσωπικών δεδομένων χρησιμοποιείται για τις εφαρμογές που ενδέχεται να περιέχουν ευαίσθητες πληροφορίες</string>
+	<string name="bluetooth_disable_mi_fast_connect">Απενεργ/ση Mi Γρήγορη Σύνδεση</string>
+	<string name="bluetooth_disable_mi_fast_connect_summary">Απενεργ/ση λειτουργίας Mi Γρήγορη Σύνδεση</string>
+	<string name="screen_dark_mode_time_title">Χρονοδιάγραμμα</string>
+	<string name="screen_dark_mode_advanced_title">Προχωρημένες</string>
+	<string name="screen_dark_mode_smart_dark_title">Γενική Σκοτεινή Λειτουργία</string>
+	<string name="screen_dark_mode_smart_dark_summary">Εφαρμογή επίσης Σκοτεινής Λειτουργίας σε εφαρμογές τρίτων. Ορισμένες εφαρμογές ενδέχεται να μην εμφανίζονται σωστά.</string>
+	<string name="screen_dark_mode_select_time_error_summary">"Η ώρα Έναρξης και Λήξης δεν μπορούν να είναι οι ίδιες"</string>
 </resources>

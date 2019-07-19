@@ -116,7 +116,7 @@
      <string name="antivirus_privacy_dialog_cloudscan_description">Ανεβάζει και σαρώνει τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών τους.</string>
      <string name="antivirus_privacy_dialog_ok">OK</string>
      <string name="antivirus_privacy_dialog_summary">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές των AVL και Tencent (%s).</string>
-     <string name="antivirus_privacy_dialog_summary_link">Δείτε την Πολιτική Απορρήτου</string>
+     <string name="antivirus_privacy_dialog_summary_link">Πολιτική Απορρήτου</string>
      <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
      <string name="antivirus_sec_network_unavailable">Η εφαρμογή Ασφαλείας δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
      <string name="antivirus_toast_already_update">Ενημερωμένο</string>
@@ -2804,4 +2804,16 @@
     <string name="superpower_progress_turndown_brightness">Μείωση φωτεινότητας οθόνης</string>
     <string name="superpower_progress_switch_home">Μετάβαση σε Σκοτεινό θέμα</string>
     <string name="superpower_progress_left_time">%1$d ω %2$d λ</string>
+    <string name="gamebox_milink">Μετάδοση</string>
+    <string name="stop_milink_connect">Παύση Μετάδοσης</string>
+    <string name="other_milink_connect">"Αδύνατη η Μετάδοση. Μια άλλη λειτουργία είναι σε προβολή."</string>
+    <string name="alert_back_milink_hangup_tips_content">"Η Μετάδοση δεν θα διακοπεί κατά τη λήξη μιας κλήσης. Μπορείτε να πατήσετε το κουμπί POWER για ενεργοποίηση οθόνης."</string>
+	<string name="system_permission_declare_privacy_no_permission">"Σημειώστε ότι η %1s πρέπει να συλλέγει τα δεδομένα σας για να λειτουργήσει κανονικά.
+Σεβόμαστε και προστατεύουμε τα Προσωπικά σας Δεδομένα."</string>
+	<string name="system_permission_declare_use_network_no_permission">Σύνδεση στο δίκτυο</string>
+	<string name="system_permission_declare_revoke_uninstallable">Μπορείτε να απεγκαταστήσετε αυτήν την εφαρμογή ή να διαχειριστείτε τα δικαιώματα και την άδειά σας στην Ασφάλεια &gt; Διαχείρηση Εφαρμογών &gt; Δικαιώματα &gt; Άλλα Δικαιώματα.</string>
+	<string name="system_permission_declare_revoke_system">Μπορείτε να βγείτε από αυτήν την Εφαρμογή.</string>
+	<string name="system_permission_declare_user_agreement"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
+    <string name="system_permission_declare_disagree">Διαφωνώ</string>
 </resources>

@@ -1567,10 +1567,10 @@
   <string name="volte_provision_title">Ενεργοποίηση κλήσεων VoLTE</string>
   <string name="volte_switch_not_support_summary">Οι κλήσεις VoLTE δεν υποστηρίζονται για την κάρτα SIM δεδομένων.</string>
   <string name="volte_switch_not_support_summary2">Οι κλήσεις VoLTE δεν υποστηρίζονται απο τον πάροχο σας.</string>
-  <string name="volte_switch_summary">Χρησιμοποιείστε VoLTE για βελτίωση της ποιότητας ομιλίας και βίντεο</string>
+  <string name="volte_switch_summary">Χρήση VoLTE για βελτίωση της ποιότητας ομιλίας</string>
   <string name="volte_switch_summary2">Βεβαιωθείτε ότι ο φορέας σας υποστηρίζει αυτή τη λειτουργία πριν ενεργοποιηθεί. Διαφορετικά, ενδέχεται να επηρεαστούν οι τακτικές κλήσεις.</string>
-  <string name="volte_switch_title">Ενεργοποίηση VoLTE</string>
-  <string name="volte_switch_title_ct">VoLTE ενεργό</string>
+  <string name="volte_switch_title">Χρήση VoLTE</string>
+  <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">Οι υπηρεσίες της China Telecom VoLTE παρέχονται μόνο στις περιοχές με κάλυψη δικτύου VoLTE. Οι υπηρεσίες VoLTE παρέχονται από τον φορέα.</string>
   <string name="vpn_settings_not_available">Οι ρυθμίσεις VPN δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
   <string name="wait_for_debugger">Περιμένετε για τον εντοπισμό σφαλμάτων</string>
