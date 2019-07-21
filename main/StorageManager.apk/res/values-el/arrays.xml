@@ -259,9 +259,9 @@
   </string-array>
   <string-array name="select_logpersist_titles">
     <item>Ανενεργό</item>
-    <item>Ολα</item>
-    <item>Όλοι εκτός από το ραδιόφωνο</item>
-    <item>μόνο πυρήνα</item>
+    <item>Όλα</item>
+    <item>Όλα εκτός radio</item>
+    <item>Μόνο πυρήνας</item>
   </string-array>
   <string-array name="select_logpersist_values">
     <item />

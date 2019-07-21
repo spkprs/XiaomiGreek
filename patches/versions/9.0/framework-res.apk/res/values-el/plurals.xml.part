@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="kg_too_many_failed_attempts_countdown">
+    <item quantity="other">Δοκιμάστε ξανά σε %d δευτ.</item>
+    <item quantity="one">Δοκιμάστε ξανά σε 1 δευτ.</item>
+  </plurals>
+</resources>

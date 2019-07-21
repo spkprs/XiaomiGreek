@@ -75,4 +75,6 @@
   <string name="set_in_aod_title">Αλλάξτε τη λειτουργία AOD</string>
   <string name="extended_power_menu">Σύνθετη Επανεκκίνηση</string>
   <string name="ext_powermenu_title">Σύνθετη Επανεκκίνηση</string>
+  <string name="two_lines_app_title">Τίτλοι Εφαρμ. σε 2 γραμμές</string>
+  <string name="use_in_theme_server">Παγκόσμιος διακομιστής Θεμάτων</string>
 </resources>

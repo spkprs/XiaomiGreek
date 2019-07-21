@@ -184,10 +184,10 @@
         <item>μόνο προσωρινή μνήμη αρχείου καταγραφής πυρήνα</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Ανενεργό</item>
-        <item>Όλα</item>
-        <item>Όλοι εκτός από του αποστολέα</item>
-        <item>μόνο πυρήνας</item>
+		<item>Ανενεργό</item>
+		<item>Όλα</item>
+		<item>Όλα εκτός radio</item>
+		<item>Μόνο πυρήνας</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Απενεργοποίηση</item>

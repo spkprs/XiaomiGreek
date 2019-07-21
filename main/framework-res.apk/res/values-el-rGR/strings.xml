@@ -998,8 +998,18 @@
      <string name="permgrouplab_sensors">Αισθητήρες σώματος</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Αποθηκευτικός χώρος</string>
-     <string name="permission">Δικαιώματα</string>
-     <string name="permission_remember_choice">Remember</string>
+ 	<string name="permgrouprequest_calendar">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; να έχει πρόσβαση στο ημερολόγιό σας;</string>
+	<string name="permgrouprequest_calllog">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; να έχει πρόσβαση στα αρχεία καταγραφής τηλεφωνικών κλήσεών σας;</string>
+	<string name="permgrouprequest_camera">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; η λήψη φωτογραφιών και η εγγραφή βίντεο;</string>
+	<string name="permgrouprequest_contacts">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; να έχει πρόσβαση στις επαφές σας;</string>
+	<string name="permgrouprequest_location">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; να έχει πρόσβαση στην τοποθεσία αυτής της συσκευής;</string>
+	<string name="permgrouprequest_microphone">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; η εγγραφή ήχου;</string>
+	<string name="permgrouprequest_phone">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; η πραγματοποίηση και η διαχείριση τηλεφωνικών κλήσεων;</string>
+	<string name="permgrouprequest_sensors">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; να έχει πρόσβαση στα δεδομένα αισθητήρα σχετικά με τις ζωτικές ενδείξεις σας;</string>
+	<string name="permgrouprequest_sms">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; η αποστολή και η προβολή μηνυμάτων SMS;</string>
+	<string name="permgrouprequest_storage">Να επιτρέπεται στην εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; να έχει πρόσβαση σε φωτογραφίες, μέσα και αρχεία στη συσκευή σας;</string>
+    <string name="permission">Δικαιώματα</string>
+     <string name="permission_remember_choice">Θυμηθείτε</string>
      <string name="permission_request_notification_title">Απαιτείται άδεια</string>
      <string name="permission_request_notification_with_subtitle">"Ζητήθηκε άδεια
 για το λογαριασμό %s."</string>

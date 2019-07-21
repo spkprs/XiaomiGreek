@@ -4,6 +4,8 @@
      <string name="about_extreme_mode">Μέγιστη εξοικονόμηση</string>
      <string name="about_hide_mode">Σχετικά με την εφαρμογή</string>
      <string name="active_classify">Ταξινόμηση κατά κατάσταση δραστηριότητας</string>
+     <string name="adaptive_battery_summary">"Περιορισμός μπαταρίας σε εφαρμογές με σπάνια χρήση"</string>
+     <string name="adaptive_battery_title">Χρήση Προσαρμοσμένης Μπαταρίας</string>
      <string name="app_list_title">Επιλέξτε εφαρμογές</string>
      <string name="app_name">Μπαταρία και απόδοση</string>
      <string name="app_preload_policies_summary">Χρήση των μηχανών εκμάθησης για πρόβλεψη των εφαρμογών που πιθανόν θα χρησιμοποιήσετε για φόρτωση των πόρων τους εκ των προτέρων.</string>
