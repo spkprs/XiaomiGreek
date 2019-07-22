@@ -76,7 +76,6 @@
 	<string name="printer_error_msg">Εκτυπωτή σφάλμα:…%1$s</string>
 	<string name="printer_notification_error_title">Δεν ήταν δυνατή η εκτύπωση %1$s</string>
 	<string name="printer_unavailable">Ο εκτυπωτής δεν είναι διαθέσιμος</string>
-	<string name="printer_unavailable">%1$s – μη διαθέσιμο</string>
 	<string name="printing">Εκτύπωση…</string>
 	<string name="printing_app_crashed">Η εφαρμογή εκτύπωσης έκλεισε απροσδόκητα</string>
 	<string name="printing_in_progress">Εκτύπωση…</string>

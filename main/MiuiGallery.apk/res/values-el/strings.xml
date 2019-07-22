@@ -626,7 +626,6 @@
      <string name="cleaner_screen_shot_action">Καθαρισμός</string>
      <string name="cleaner_screen_shot_description">Διαγράψτε τα στιγμιότυπα οθόνης που δεν χρειάζεστε πλέον.</string>
      <string name="cleaner_screen_shot_title">Διαγραφή στιγμιοτύπων</string>
-     <string name="cleaner_similar_action">Διαγραφή τώρα</string>
      <string name="cleaner_slim_action">Έναρξη βελτιστοποίησης…</string>
      <string name="cleaner_slim_description">Διατηρήστε τις βελτιστοποιημένες φωτογραφίες στη συσκευή σας. Τα πρωτότυπα αρχεία θα αποθηκευτούν στο Mi Cloud.</string>
      <string name="cleaner_slim_start">Βελτιστοποίηση</string>
