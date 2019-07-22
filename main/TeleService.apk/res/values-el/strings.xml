@@ -1670,4 +1670,17 @@
 	<string name="fiveg_upperlayer_indication2">"Κατάσταση ένδειξης ανώτερου επιπέδου[Slot2] : "</string>
 	<string name="china_mobile_palm_category">Υπηρεσία Παρόχου</string>
 	<string name="china_mobile_palm_title">CMCC Online αίθουσα εξυπηρέτησης</string>
+	<string name="clear_all_set_button">καθαρισμός ρυθμίσεων</string>
+	<string name="clear_all_set_title">αυτό το πλήκτρο είναι για καθαρισμό όλων των ρυθμίσεων</string>
+	<string name="eps_only_set_button">ορίστε eps μόνο</string>
+	<string name="eps_only_set_title">αυτό το πλήκτρο είναι μόνο για ρύθμιση των eps</string>
+	<string name="frequecy_num">lte αριθμός καναλιού</string>
+	<string name="lte_band_sel_setting">λίστα ζωνών</string>
+	<string name="lte_band_set_status">lte ορισμός ζωνών</string>
+	<string name="lte_freq_set_button">ορισμός συχν. και pci</string>
+	<string name="modem_set_title">ΡΥΘΜΙΣΗ MODEM</string>
+	<string name="modem_setting_button_title">Είσοδος στο μενού ρυθμίσεων</string>
+	<string name="modem_setting_info">ΠΛΗΡ. ΡΥΘΜΙΣΕΩΝ MODEM</string>
+	<string name="modem_setting_text_title">έλεγχος ρρυθμίσεων ιδιοτήτων μόντεμ</string>
+	<string name="pci_num">lte pci αριθμός</string>
 </resources>

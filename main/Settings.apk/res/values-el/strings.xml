@@ -1199,11 +1199,11 @@
      <string name="cryptkeeper_wrong_pin">Λάθος PIN</string>
      <string name="current_backup_pw_prompt">Πληκτρολογήστε τον τρέχοντα κωδικό πλήρες αντιγράφου ασφαλείας σας εδώ</string>
      <string name="current_input_method">Προεπιλογή</string>
-     <string name="current_screen_lock">Τρέχων κλείδωμα οθόνης</string>
-     <string name="current_use_ese">Χρησιμοποιώντας το ενσωματωμένο ασφαλές στοιχείο</string>
+     <string name="current_screen_lock">Τρέχον κλείδωμα οθόνης</string>
+     <string name="current_use_ese">Χρησιμοποιείτε το ενσωματωμένο ασφαλές στοιχείο</string>
      <string name="current_use_ese_wallet">Χρησιμοποιείτε το Mi Wallet. Σας δίνει τη δυνατότητα χρήσης του Mi Pay και της κάρτας μεταφορών NCF.</string>
      <string name="current_use_hce_wallet">Χρησιμοποιείτε το HCE Wallet</string>
-     <string name="current_use_uicc_se">Χρησιμοποιώντας ασφαλές στοιχείο στην κάρτα SIM</string>
+     <string name="current_use_uicc_se">Χρησιμοποιείτε ασφαλές στοιχείο στην κάρτα SIM</string>
      <string name="current_use_uicc_wallet">Χρησιμοποιείτε SIM%1$s Πορτοφόλι</string>
      <string name="current_zone">(τρέχουσα)</string>
      <string name="daltonizer_mode_deuteranomaly">Διχρωματοψία (κόκκινο-πράσινο)</string>
@@ -3001,7 +3001,7 @@
      <string name="nfc_payment_use_default">Χρήση προεπιλογής</string>
      <string name="nfc_quick_toggle_summary">Να επιτρέπεται η ανταλλαγή δεδομένων όταν το τηλέφωνο αγγίζει άλλη συσκευή</string>
      <string name="nfc_quick_toggle_title">NFC</string>
-     <string name="nfc_se_route_title">Ασφαλές στοιχείο θέσης</string>
+     <string name="nfc_se_route_title">Ασφαλή θέση στοιχείου</string>
      <string name="nfc_se_wallet_title">Προεπιλεγμένο πορτοφόλι</string>
      <string name="night_light">Νυχτερινή λειτουργία</string>
      <string name="night_light_brightness">Φωτισμός Νυχτερινής λειτουργίας</string>

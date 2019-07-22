@@ -41,4 +41,36 @@
         <item quantity="other">Επανεμφάνιση επιτυχώς %1$s σημειώσεις</item>
         <item quantity="one">Επανεμφάνιση επιτυχώς %1$s σημείωση</item>
     </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">Μετά %1$d ημέρες</item>
+        <item quantity="one">Μετά %1$d ημέρα</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">Πρίν %1$d ημέρες</item>
+        <item quantity="one">Πρίν %1$d ημέρα</item>
+    </plurals>
+	 <plurals name="todo_N_days_after">
+        <item quantity="other">Σε %1$d ημέρες</item>
+        <item quantity="one">Σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d μέρες πριν</item>
+        <item quantity="one">%1$d μέρα πριν</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Διαγραφή %1$s εργασιών?</item>
+        <item quantity="one">Διαγραφή %1$s εργασίας?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d μέρες πριν</item>
+        <item quantity="one">%1$d μέρα πριν</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Σε %1$d ημέρες</item>
+        <item quantity="one">Σε %1$d ημέρα</item>
+    </plurals>
+	 <plurals name="todo_terms">
+        <item quantity="other">%1$s σημειώσεις</item>
+        <item quantity="one">%1$s σημείωση</item>
+    </plurals>
 </resources>

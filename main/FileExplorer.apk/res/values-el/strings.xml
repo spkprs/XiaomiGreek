@@ -16,7 +16,7 @@
      <string name="all_topic">Όλα τα θέματα</string>
      <string name="already_liked">Είναι ήδη στα αγαπημένα</string>
      <string name="apk_installing">正在安装...</string>
-     <string name="app_name">Αρχεία</string>
+     <string name="app_name">@string/home_title</string>
      <string name="app_name_bluetooth">Bluetooth</string>
      <string name="app_name_camera">Κάμερα</string>
      <string name="app_name_downloadedrom">Πακέτα</string>
@@ -367,7 +367,7 @@
      <string name="mobile_network_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="month_day_format">dd MMM</string>
      <string name="more_hot_text">更多热门</string>
-     <string name="move_failed">Αδυναμία αποκοπής</string>
+     <string name="move_failed">Αδυναμία μετακίνησης στοιχείων</string>
      <string name="move_icon_to_desktop_hint">Δημιουργήστε μια συντόμευση για τον Explorer στην Αρχική οθόνη, για να διαχειριστείτε τα αρχεία πιο αποτελεσματικά.</string>
      <string name="move_icon_to_desktop_success">Η συντόμευση προστέθηκε στην Αρχική οθόνη.</string>
      <string name="move_to">Μετακίνηση σε…</string>
@@ -441,7 +441,7 @@
      <string name="operation_hide_sys">Απόκρυψη κρυφών αρχείων</string>
      <string name="operation_info">Λεπτομέρειες</string>
      <string name="operation_like">Αγαπημένο</string>
-     <string name="operation_move">Αποκοπή</string>
+     <string name="operation_move">Μετακίνηση</string>
      <string name="operation_moving">Μετακίνηση…</string>
      <string name="operation_other_apps">Άνοιγμα σε μια άλλη εφαρμογή</string>
      <string name="operation_paste">Επικόλληση</string>
@@ -877,4 +877,17 @@
 	  <string name="ftp_anonymous_warning_msg">Η ανώνυμη λειτουργία ενδέχεται να ενέχει κινδύνους ασφαλείας. Χρησιμοποιήτε τη λειτουργία ούτως ή άλλως;</string>
 	  <string name="ftp_anonymous_warning_title">Προσοχή</string>
 	  <string name="home_action_up">Πίσω</string>
+	  <string name="category_source">Πηγή</string>
+	  <string name="category_time">Χρόνος</string>
+	  <string name="create_folder">Δημιουργία</string>
+	  <string name="home_title">Αρχεία</string>
+	  <string name="otg_file_security_confirm">αντιγραφή στο τηλέφωνο</string>
+	  <string name="otg_file_security_details">Παρακαλώ αντιγραφή στο τηλέφωνο</string>
+	  <string name="otg_file_security_note">OGTΑσφάλεια</string> 
+	  <string name="privacy_policy">Πολιτική Απορρήτου</string>
+	  <string name="start_doc">Αρχεία</string>
+	  <string name="start_phone">Αποθήκευση</string>
+	  <string name="tab_app">Περισσότερα</string>
+	  <string name="text_select_all">Επιλογή όλων</string>
+	  <string name="text_select_nothing">Αποεπιλογή όλων</string>
 </resources>

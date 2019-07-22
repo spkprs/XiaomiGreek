@@ -208,4 +208,9 @@
         <item quantity="other">Αποκτήστε %1$d ακόμα ακόλουθους για να αναβαθμίσετε την κατάστασή σας</item>
         <item quantity="one">Αποκτήστε %1$d ακόμα ακόλουθο για να αναβαθμίσετε την κατάστασή σας</item>
      </plurals>
+     <plurals name="text_group_count">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="zero"> %1$d στοιχεία</item>
+        <item quantity="one">%d στοιχείo</item>
+      </plurals>
 </resources>
