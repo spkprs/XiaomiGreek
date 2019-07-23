@@ -990,6 +990,7 @@
      <string name="permgroupdesc_sms">αποστολή και προβολή μηνυμάτων SMS</string>
      <string name="permgroupdesc_storage">έχει πρόσβαση στις φωτογραφίες/πολυμέσα/αρχεία στη συσκευή σας</string>
      <string name="permgrouplab_calendar">Ημερολόγιο</string>
+     <string name="permgrouplab_calllog">Αρχεία Κλήσεων</string>
      <string name="permgrouplab_camera">Κάμερα</string>
      <string name="permgrouplab_contacts">Επαφές</string>
      <string name="permgrouplab_location">Τοποθεσία</string>

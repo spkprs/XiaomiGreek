@@ -769,7 +769,7 @@
   <string name="open_external_storage_and_contacts_and_calendar_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης, στις επαφές και στις πληροφορίες ημερολογίου από τις Ρυθμίσεις</string>
   <string name="open_external_storage_and_contacts_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης και στις επαφές από τις Ρυθμίσεις</string>
   <string name="open_notification_kingagent">Ανοίξτε την ειδοποίηση για το σημείο ταφής</string>
-  <string name="optimization_suggestion">Πρόταση βελτιστοποίησης</string>
+  <string name="optimization_suggestion">Προτάσεις βελτιστοποιήσεων</string>
   <string name="others_mail">Άλλοι Λογαριασμοί</string>
   <string name="others_mail_des">(Συμβατό με πάνω από 600K Υπηρ. Mails)</string>
   <string name="outbox_alert_button_no_resend">Χωρίς Αποστολή</string>
@@ -1208,7 +1208,7 @@
   <string name="contact_add_options_details1">Όλες</string>
   <string name="contact_add_options_details2">Μόνο αποδέκτες</string>
   <string name="get_oauth_code">Λήψη κωδικού</string>
-  <string name="help_weixin_title">"Εάν έχετε απορίες, μη διστάσετε να μας αφήσετε μια γραμμή στον επίσημο λογαριασμό WeChat: "</string>
+  <string name="help_weixin_title">"Εάν έχετε απορίες, μη διστάσετε, γράψτε στον λογαριασμό WeChat: "</string>
   <string name="login_qq_psw">Σύνδεση με κωδικό/ελέγχο ταυτότητας/επαλήθευση</string>
   <string name="mi_sync_erroe_toast">"Παρουσιάστηκε σφάλμα δικτύου: "</string>
   <string name="mi_sync_erroe_toast_other">"Παρουσιάστηκε σφάλμα διακομιστή: "</string>

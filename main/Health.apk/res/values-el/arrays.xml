@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="arr_prompt_label">
+    <item>Λογικό</item>
+    <item>Μακρύ</item>
+    <item>Πολύ μακρύ</item>
+  </string-array>
+  <string-array name="arr_sedentary_reminder">
+    <item>Ώρα να κινηθούμε!</item>
+    <item>Μάθε περισσότερα</item>
+    <item>Πιείτε λίγο νερό και κάντε μια βόλτα.</item>
+    <item>Μάθε περισσότερα</item>
+    <item>Αναρριχηθείτε σε μια σκάλα</item>
+    <item>Μάθε περισσότερα</item>
+    <item>Μην καθίσετε για πολύ</item>
+    <item>Μάθε περισσότερα</item>
+  </string-array>
+  <string-array name="arr_time_label">
+    <item>1 ώρα</item>
+    <item>2 ώρες</item>
+  </string-array>
+  <string-array name="pager_titles">
+    <item>Καθημερινά</item>
+    <item>Εβδομαδιαία</item>
+    <item>Μηνιαία</item>
+  </string-array>
+  <string-array name="run_in_background_state">
+    <item>Πάντα</item>
+    <item>Περιορίστε τη δραστηριότητα στο παρασκήνιο</item>
+    <item>Σταματήστε μετά από 10 λεπτά</item>
+    <item>Ποτέ</item>
+  </string-array>
+  <string-array name="splash_loading">
+    <item>Υπολογισμός στόχου δραστηριότητας…</item>
+    <item>Στόχος δραστηριότητας: %1$d βήματα</item>
+    <item>Εσύ περπάτησες %1$d βήματα σήμερα</item>
+    <item>Υπολογισμός του στόχου ύπνου…</item>
+    <item>Στόχος ύπνου: %1$d ώρα</item>
+    <item>Δεν υπάρχουν δεδομένα ύπνου για τώρα</item>
+    <item>Άνοιγμα Mi Υγείας</item>
+  </string-array>
+  <string-array name="week_label">
+    <item>Κυρ</item>
+    <item>Δευτ</item>
+    <item>Τρι</item>
+    <item>Τετ</item>
+    <item>Πέμ</item>
+    <item>Παρ</item>
+    <item>Σάβ</item>
+  </string-array>
+</resources>

@@ -2690,7 +2690,7 @@
     <string name="securityadd_update_tips_message">Ενημερώστε την προσθήκη υπηρεσιών ασφαλείας για να αποκτήσετε πρόσβαση στις πιο πρόσφατες λειτουργίες παιχνιδιών. Θα γίνει λήψη %1$dMB.</string>
     <string name="securityadd_update_tips_now">Ενημέρωση</string>
     <string name="securityadd_update_tips_title">Ενημέρωση</string>
-	<string name="power_save_ps_clean">Καθαρίστε την προσωρινή μνήμη όποτε η συσκευή είναι κλειδωμένη</string>
+	<string name="power_save_ps_clean">Καθαρισμός προσωρινής μνήμης όταν η συσκευή είναι κλειδωμένη</string>
 	<string name="power_save_ps_close_setting">Απενεργοποίηση υπηρεσιών παρασκηνίου (Συγχρονισμός, GPS) για εξοικονόμηση μπαταρίας</string>
 	<string name="power_save_ps_freeze">Πάγωμα εφαρμογών παρασκηνίου</string>
 	<string name="power_save_ps_limit">Περιορισμός δραστηριότητας των εφαρμογών συστήματος</string>

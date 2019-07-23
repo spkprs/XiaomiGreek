@@ -1901,7 +1901,7 @@
 	  <string name="battery_low_title_power_save">Εξοικονόμηση μπαταρίας</string>
 	  <string name="face_data_manage_unlock_liftcamera_msg">Μετά την ενεργοποίηση της οθόνης, σαρώστε προς τα πάνω για να ξεκλειδώσετε με χρήση Δεδομένων Προσώπου.</string>
 	  <string name="face_unlock_fail_retry_global">Αγγίξτε παραπάνω για χρήση Δεδομένων Προσώπου</string>
-	  <string name="power_save_ps_clean">Καθαρίστε την προσωρινή μνήμη όποτε η συσκευή είναι κλειδωμένη</string>
+	  <string name="power_save_ps_clean">Καθαρισμός προσωρινής μνήμης όταν η συσκευή είναι κλειδωμένη</string>
 	  <string name="power_save_ps_close_setting">Απενεργοποίηση υπηρεσιών παρασκηνίου (Συγχρονισμός, GPS) για εξοικονόμηση μπαταρίας</string>
 	  <string name="power_save_ps_freeze">Πάγωμα εφαρμογών παρασκηνίου</string>
 	  <string name="power_save_ps_limit">Περιορισμός δραστηριότητας των εφαρμογών συστήματος</string>

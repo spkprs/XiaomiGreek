@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="day_index">
+    <item quantity="other">%1$d μέρες</item>
+    <item quantity="one">%1$d ημέρα</item>
+  </plurals>
+  <plurals name="goal_format_with_unit">
+    <item quantity="other">Στόχος: %1$d βήματα</item>
+    <item quantity="one">Στόχος: %1$d βήμα</item>
+  </plurals>
+  <plurals name="goal_unit">
+    <item quantity="other">" βήματα"</item>
+    <item quantity="one">" βήμα"</item>
+  </plurals>
+  <plurals name="menstruation_sum_days">
+    <item quantity="other">%1$d-ημ. περίοδο</item>
+    <item quantity="one">%1$d-ημ. περίοδο</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d νέες ειδοποιήσεις</item>
+    <item quantity="one">%d νέα ειδοποίηση</item>
+  </plurals>
+  <plurals name="subtitle_add_record">
+    <item quantity="other">"Δεν έχετε καταγράψει για %1$d μέρες. Καταγράψτε τις περιόδους σας για να λάβετε ακριβέστερες προβλέψεις."</item>
+    <item quantity="one">"Δεν έχετε καταγράψει για %1$d ημέρα. Καταγράψτε τις περιόδους σας για να λάβετε ακριβέστερες προβλέψεις."</item>
+  </plurals>
+  <plurals name="subtitle_menstruation_continued_days">
+    <item quantity="other">Αυτή η περίοδος διαρκεί συνολικά %1$d μέρες</item>
+    <item quantity="one">Αυτή η περίοδος διαρκεί συνολικά %1$d ημέρα</item>
+  </plurals>
+  <plurals name="subtitle_menstruation_cycle_days">
+    <item quantity="other">Ημέρα %1$d αυτού του εμμηνορροϊκού κύκλου</item>
+    <item quantity="one">Ημέρα %1$d αυτού του εμμηνορροϊκού κύκλου</item>
+  </plurals>
+  <plurals name="sum_cycle_days">
+    <item quantity="other">%1$d-ημ. κύκλος</item>
+    <item quantity="one">%1$d-ημ. κύκλος</item>
+  </plurals>
+  <plurals name="title_menstruation_day">
+    <item quantity="other">Ημέρα %1$d της περιόδου</item>
+    <item quantity="one">Ημέρα %1$d της περιόδου</item>
+  </plurals>
+  <plurals name="title_menstruation_margin_next_time_days">
+    <item quantity="other">%1$d ημέρες μέχρι την επόμενη περίοδο</item>
+    <item quantity="one">%1$d ημέρα μέχρι την επόμενη περίοδο</item>
+  </plurals>
+  <plurals name="title_menstruation_predict_period">
+    <item quantity="other">Εκτιμώμενη ημέρα %1$d της περιόδου</item>
+    <item quantity="one">Εκτιμώμενη ημέρα %1$d της περιόδου</item>
+  </plurals>
+  <plurals name="user_age_display_format_year">
+    <item quantity="other">%1$d ετών</item>
+    <item quantity="one">%1$d ετών</item>
+  </plurals>
+</resources>
