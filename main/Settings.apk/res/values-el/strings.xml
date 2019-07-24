@@ -6517,4 +6517,18 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="screen_dark_mode_select_time_error_summary">"Η ώρα Έναρξης και Λήξης δεν μπορούν να είναι οι ίδιες"</string>
     <string name="two_lines_app_title">Τίτλοι Εφαρμ. σε 2 γραμμές</string>
     <string name="use_in_theme_server">Παγκόσμιος διακομιστής Θεμάτων</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency">Κωδικοποιητής ήχου Bluetooth LHDC: Καθυστέρηση</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Επιλέξτε κωδικοποιητή LHDC Bluetooth ήχου:
+Καθυστέρηση"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Κωδικοποιητής LHDC ήχου Bluetooth: ποιότητα αναπαραγωγής</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Επιλέξτε κωδικοποιητή LHDC Bluetooth ήχου:
+Ποιότητα αναπαραγωγής"</string>
+    <string name="bt_lhdc_declaration">Όταν μια συσκευή Bluetooth υποστηρίζει LHDC, θα συνδεθεί από προεπιλογή. Το LHDC παρέχει ηχητική εμπειρία υψηλής ποιότητας, αλλά αυξάνει επίσης την κατανάλωση ενέργειας. Ενδέχεται να προκύψουν ζητήματα κατά την αναπαραγωγή λόγω περιορισμών υλικού Bluetooth.</string>
+    <string name="bt_lhdc_dialog_summary">"Το LHDC παρέχει ηχητική εμπειρία υψηλής ποιότητας αλλά επίσης μεγαλύτερη κατανάλωση ενέργειας
+Αυτή η δυνατότητα μπορεί να απενεργοποιηθεί στις [Ρυθμίσεις]"</string>
+    <string name="bt_lhdc_dialog_title">Η τρέχουσα συσκευή υποστηρίζει LHDC, η οποία έχει συνδεθεί από προεπιλογή:</string>
+    <string name="bt_lhdc_open_dialog_summary">Το LHDC παρέχει ηχητική εμπειρία υψηλής ποιότητας, αλλά αυξάνει επίσης την κατανάλωση ενέργειας. Ενδέχεται να προκύψουν ζητήματα κατά την αναπαραγωγή λόγω περιορισμών υλικού Bluetooth.</string>
+    <string name="bt_lhdc_open_dialog_title">Ενεργοποιήστε το LHDC;</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
+    <string name="bt_lhdc_property">Χαρακτηριστικά</string>
 </resources>

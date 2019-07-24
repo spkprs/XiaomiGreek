@@ -2624,6 +2624,28 @@
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Γραφική</item>
         <item>Ποσοστό (εντός εικονιδίου)</item>
-        <item>Ποσοστό (δίπλα στο εικονίδιο στον Πίνακα)</item>
+        <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Μικρή καθυστέρηση</item>
+        <item>Μεσαία καθυστέρηση</item>
+        <item>Μεγάλη καθυστέρηση</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Μικρή καθυστ. (50~100ms)</item>
+        <item>Μεσαία καθυστ. (150~200ms)</item>
+        <item>Μεγάλη καθυστ. (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Βελτιστοποιημένη για ποιότητα σύνδεσης</item>
+        <item>Ισορροπημένη ποιότητα ήχου και σύνδεσης</item>
+        <item>Βελτιστοποιημένη για ποιότητα ήχου</item>
+        <item>Καλύτερη προσπάθεια (αυτόμ. ρυθμός μετάδοσης bit)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Βελτιστοποιημένη για ποιότητα σύνδεσης (400kbps)</item>
+        <item>Ισορροπημένη ποιότητα ήχου και σύνδεσης (500/560kbps)</item>
+        <item>Βελτιστοποιημένη για ποιότητα ήχου (900kbps)</item>
+        <item>Καλύτερη προσπάθεια (αυτόμ. ρυθμός μετάδοσης bit)</item>
     </string-array>
 </resources>

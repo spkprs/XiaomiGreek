@@ -284,14 +284,18 @@
         <item quantity="other">στοιχεία</item>
         <item quantity="one">στοιχείο</item>
      </plurals>
-     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d εφαρμ. είναι κρυφές</item>
-        <item quantity="one">%d εφαρμ. είναι κρυφή</item>
-     </plurals>
-     <plurals name="privacy_apps_enable_header_title">
+    <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">Μπορεί να αποκρυφθούν %d εφαρμ.</item>
         <item quantity="one">Μπορεί να αποκρυφθεί %d εφαρμ.</item>
-     </plurals>
+        <item quantity="other">Εικονίδιο Αρχικής οθόνης κρυφό για %d εφαρμ.</item>
+        <item quantity="one">Εικονίδιο Αρχικής οθόνης κρυφό για %d εφαρμ.</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d εφαρμ. είναι κρυφές</item>
+        <item quantity="one">%d εφαρμ. είναι κρυφή</item>
+        <item quantity="other">Εικονίδιο Αρχικής οθόνης δεν είναι κρυφό για %d εφαρμ.</item>
+        <item quantity="one">Εικονίδιο Αρχικής οθόνης δεν είναι κρυφό για %d εφαρμ.</item>
+    </plurals>
      <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d προβλήματα μπαταρίας</item>
         <item quantity="one">%d πρόβλημα μπαταρίας</item>
