@@ -31,9 +31,9 @@
      <string name="christmas_day">圣诞节</string>
      <string name="clank">Clank</string>
      <string name="clear_and_bright">清明</string>
-     <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
-     <string name="cloud_state_finished">Συγχρονισμένο με Mi Cloud</string>
-     <string name="cloud_state_syncing">Συγχρονίζεται με Mi Cloud</string>
+     <string name="cloud_state_disabled">Ο συγχρονισμός με το Cloud είναι ανενεργός</string>
+     <string name="cloud_state_finished">Συγχρονισμένο με Cloud</string>
+     <string name="cloud_state_syncing">Συγχρονίζεται με Cloud</string>
      <string name="cold_dews">寒露</string>
      <string name="country">Country</string>
      <string name="cowboy">Cowboy</string>

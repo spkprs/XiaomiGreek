@@ -4,4 +4,8 @@
         <item quantity="other">%1$d περισσότερα</item>
         <item quantity="one">%1$d περισσότερο</item>
     </plurals>
+    <plurals name="miui_permission_detail">
+        <item quantity="other">%d άδειες</item>
+        <item quantity="one">%d άδεια</item>
+    </plurals>
 </resources>

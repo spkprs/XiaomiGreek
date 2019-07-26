@@ -469,7 +469,7 @@
      <string name="btn_start_diagnostic">Δοκιμή δικτύου</string>
      <string name="btn_stop_diagnostic">Διακοπή</string>
      <string name="btn_text_already_opened">Ενεργό</string>
-     <string name="btn_text_goto_power_rank">Περισσότερα</string>
+     <string name="btn_text_goto_power_rank">Προβολή όλων των στατιστικών</string>
      <string name="btn_text_goto_setup">Ρυθμίσεις</string>
      <string name="btn_text_network_speed_detail">Σύνδεση</string>
      <string name="btn_text_open_now">Ενεργοποίηση</string>
@@ -872,7 +872,7 @@
      <string name="firewall_restrict_android_dialog_content">Σιγουρευτείτε ότι η συσκευή λειτουργεί ικανοποιητικά, ορισμένες εφαρμογές συστήματος Android, θα εξακολουθούν να συνδέονται στο Internet. Αυτές οι εφαρμογές θα χρησιμοποιούν σύνδεση δεδομένων κινητής και μπορεί να οδηγήσουν σε επιπλέον χρεώσεις στον φορέα σας.</string>
      <string name="firewall_restrict_android_dialog_title">Προσοχή</string>
      <string name="firewall_restrict_data">Περιορισμός χρήσης δεδομένων κινητής</string>
-     <string name="firewall_restrict_notify_title">Το %s δεν μπορεί να χρησιμοποιήσει το δίκτυο</string>
+     <string name="firewall_restrict_notify_title">\"%s\" περιορ. δίκτυου</string>
      <string name="firewall_restrict_wlan">Περιορισμός χρήσης σύνδεσης Wi‑Fi</string>
      <string name="firewall_rule_group_title_roaming">Διεθνής περιαγωγή</string>
      <string name="firewall_system_title">Χρήση δεδομένων των εφαρμ. συστήματος</string>
@@ -2592,7 +2592,7 @@
      <string name="virus_auto_update_engine">Αυτόματες ενημερώσεις: %s</string>
      <string name="virus_scan_process_pre">%</string>
      <string name="virus_update_tips_title">Προειδοποίηση</string>
-     <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο στο δίκτυο Wi-Fi τώρα. Θα κοστίσει επιπλέον τη χρήση δεδομένων κινητής τηλεφωνίας. Συνέχεια ?</string>
+     <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο σε δίκτυο Wi-Fi τώρα. Θα χρεωθείτε δεδομένα κινητής τηλεφωνίας. Συνέχεια ?</string>
      <string name="voltage_symbol">V</string>
      <string name="wakepath_confirm_start_activity">Επιτρέπετε στο %1$s να ανοίξει το %2$s;</string>
      <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
@@ -2822,4 +2822,15 @@
     <string name="privacy_apps_next_stup">Επόμενο</string>
     <string name="privacy_apps_button_know">Κατανοητό</string>
     <string name="privacy_apps_tutorial_dlg_title">Πώς να βρείτε κρυφές εφαρμογές</string>
+    <string name="battery_statistics_activity_title">Στατιστικά χρήσης μπαταρίας</string>
+    <string name="pc_battery_history_consume_rank_menu_item">Κατάταξη</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Λεπτομέριες</string>
+    <string name="pc_battery_history_rank_percent_menu_item">Ποσοστό</string>
+    <string name="pc_battery_history_rank_mha_menu_item">mAh</string>
+    <string name="pc_battery_detail_curve_reference_now">Τώρα</string>
+    <string name="pc_battery_detail_device_item_title">Στατιστικά χρήσης μπαταρίας</string>
+    <string name="pc_statistics_battery_use_title">Χρήση μπαταρίας</string>
+    <string name="pc_statistics_battery_use_summary">%s από την τελευταία φόρτιση</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$dω %2$dλ από την τελευταία φόρτιση</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$dω %2$dλ απομένουν</string>
 </resources>

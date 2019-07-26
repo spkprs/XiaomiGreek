@@ -87,4 +87,8 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">%d πριν από ένα λεπτό</item>
      </plurals>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Σε %d λεπ.</item>
+        <item quantity="one">Σε %d λεπ.</item>
+    </plurals>
 </resources>
