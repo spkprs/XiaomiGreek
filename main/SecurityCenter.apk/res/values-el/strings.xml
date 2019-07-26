@@ -2833,4 +2833,5 @@
     <string name="pc_statistics_battery_use_summary">%s από την τελευταία φόρτιση</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dω %2$dλ από την τελευταία φόρτιση</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dω %2$dλ απομένουν</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">"Εάν επιλέξετε να μην δώσετε τα απαιτούμενα δικαιώματα ή δεν μας επιτρέψετε να συλλέξουμε και να χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα μπορεί να λειτουργήσει μερικώς."</string>
 </resources>

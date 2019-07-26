@@ -231,7 +231,8 @@
 	<string name="autofill_save_ok">Αποδοχή</string>
 	<string name="autofill_save_title">Αυτόματη αποθήκευση κωδικών</string>
 	<string name="autofill_save_message">Επιτρέπετε στο MIUI να αποθηκεύει τους λογαριασμούς και κωδικούς σας;</string>
-	<string name="autofill_save_sub_message">"Μπορείτε να διαχειριστείτε τους αποθηκευμένους κωδικούς στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Απόρρητο > Διαχείριση κωδικών."</string>
+	<string name="autofill_save_sub_message">"Μπορείτε να διαχειριστείτε τους αποθηκευμένους κωδικούς στις Ρυθμίσεις > Κωδικοί &amp; Ασφάλεια > %s."</string>
+    <string name="autofill_service_name">Διαχείριση Κωδικών</string>
     <string name="user_switching_dialog_switch_into_kid_space">Μετάβαση στο χώρο Kid…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Αφήνοντας το χώρο Kid…</string>
 </resources>
