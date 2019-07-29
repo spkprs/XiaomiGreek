@@ -126,14 +126,14 @@
         <item></item>
      </string-array>
      <string-array name="wind_direction">
-        <item>Βόρειος</item>
-        <item>Βορειοανατολικός</item>
-        <item>Ανατολικός</item>
-        <item>Νοτιοανατολικός</item>
-        <item>Νότιος</item>
-        <item>Νοτιοδυτικός</item>
-        <item>Δυτικός</item>
-        <item>Βορειοδυτικός</item>
+        <item>Β</item>
+        <item>Β|Α</item>
+        <item>Α</item>
+        <item>Ν|Α</item>
+        <item>Ν</item>
+        <item>Ν|Δ</item>
+        <item>Δ</item>
+        <item>Β|Δ</item>
      </string-array>
      <string-array name="wind_direction_simple">
         <item>Β</item>

@@ -18,15 +18,15 @@
         <item quantity="one">%d φορά</item>
      </plurals>
      <plurals name="app_usage_day">
-        <item quantity="other">Χρησιμοποιήθηκαν %d ημέρες πριν</item>
+        <item quantity="other">Χρησιμοποιήθηκε %d ημέρες πριν</item>
         <item quantity="one">Χρησιμοποιήθηκε %d ημέρα πρίν</item>
      </plurals>
      <plurals name="app_usage_month">
-        <item quantity="other">Χρησιμοποιήθηκαν %d μήνες πριν</item>
+        <item quantity="other">Χρησιμοποιήθηκε %d μήνες πριν</item>
         <item quantity="one">Χρησιμοποιήθηκε %d μήνα πριν</item>
      </plurals>
      <plurals name="app_usage_year">
-        <item quantity="other">Χρησιμοποιήθηκαν %d χρόνια πριν</item>
+        <item quantity="other">Χρησιμοποιήθηκε %d χρόνια πριν</item>
         <item quantity="one">Χρησιμοποιήθηκε %d χρόνο πριν</item>
      </plurals>
      <plurals name="bg_network_allow_count">

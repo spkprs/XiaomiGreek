@@ -28,9 +28,9 @@
      <string name="first_using_mic_dialog_message">Η συσκευή Εγγραφής οθόνης χρειάζεται πρόσβαση στο μικρόφωνο σας για την εγγραφή ήχου. Επιτρέπετε?</string>
      <string name="first_using_mic_dialog_title">Απαιτούνται δικαιώματα</string>
      <string name="fixed_frame_rate">Σταθερό ρυθμό καρέ</string>
-     <string name="fixed_frame_rate_summary">Η εγγραφή βίντεο με σταθερό ρυθμό καρέ αυξάνει την αναπαραγωγή σε πλατφόρμες κοινωνικών μέσων και μειώνει τη διάρκεια ζωής της μπαταρίας.</string>
+     <string name="fixed_frame_rate_summary">Η εγγραφή βίντεο με σταθερό ρυθμό καρέ βελτιώνει την αναπαραγωγή σε πλατφόρμες κοινωνικών δικτύων αλλά μειώνει την διάρκεια της μπαταρίας.</string>
      <string name="frames">Ρυθμός ανάλυσης</string>
-     <string name="frames_summary">Υψηλότεροι ρυθμοί ανάλυσης μειώνουν την θολούρα</string>
+     <string name="frames_summary">Υψηλότερη ανάλυση μειώνει την θόλωση</string>
      <string name="frequently_click_toast">Περιμένετε μία στιγμή…</string>
      <string name="gleam_led_while_recording">Ένδειξη LED κατά την εγγραφή</string>
      <string name="hint_back">Πίσω</string>
@@ -41,8 +41,8 @@
      <string name="hint_volume_up">Αύξηση έντασης</string>
      <string name="home_title_none">Επιλογή στοιχείων</string>
      <string name="is_checked">Επιλεγμένο</string>
-     <string name="is_go_home">Επιστρέψτε στην οθόνη εγγραφής</string>
-     <string name="is_go_home_summary">Ανοίξτε τη σελίδα εκκίνησης της συσκευής Εγγραφής, αφού σταματήσετε την εγγραφή</string>
+     <string name="is_go_home">Επιστροφή στην οθόνη εγγραφής</string>
+     <string name="is_go_home_summary">Επιστροφή στη αρχική σελίδα Εγγραφής, όταν σταματήσετε την εγγραφή</string>
      <string name="loopback_sound">Ηχείο</string>
      <string name="low_battery">Φορτίστε το τηλέφωνό σας πριν την έναρξη εγγραφής</string>
      <string name="low_battery_title">Χαμηλή μπαταρία</string>
@@ -53,7 +53,7 @@
      <string name="memory_not_allowed">Μη διαθέσιμος χώρος αποθήκευσης. Ελευθερώστε λίγο χώρο για εγγραφή.</string>
      <string name="mic_sound">Μικρόφωνο</string>
      <string name="no_recorder_info">Δεν υπάρχουν βίντεο εδώ</string>
-     <string name="no_recorder_info2">Πατήστε το κουμπί για να προσθέστε μια εγγραφή οθόνης</string>
+     <string name="no_recorder_info2">Αγγίξτε το εικονίδιο για εκκίνηση Εγγραφής οθόνης</string>
      <string name="no_sound">Σίγαση</string>
      <string name="operation_delete">Διαγραφή</string>
      <string name="operation_send">Αποστολή</string>

@@ -148,7 +148,7 @@
      <string name="indices_desc_humidity">Υγρασία %1$s%%</string>
      <string name="indices_desc_humidity_without_pic">%1$s%%</string>
      <string name="indices_desc_pressure">%1$s mm Hg</string>
-     <string name="indices_title_feel">Πραγματική αίσθηση</string>
+     <string name="indices_title_feel">Αίσθηση</string>
      <string name="indices_title_pressure">Πίεση</string>
      <string name="information_settings_title">Weather info</string>
      <string name="install">Εγκατάσταση</string>
