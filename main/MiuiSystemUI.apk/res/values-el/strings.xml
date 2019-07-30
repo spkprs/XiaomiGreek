@@ -344,11 +344,7 @@
      <string name="block_record_notification_title">Κρυφές ειδοποιήσεις</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Συνδεδεμένο με ήχο πολυμέσων</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Χρήση για ήχο πολυμέσων</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Connected -->
-     <string name="bluetooth_connected">Συνδεδεμένο%1$s</string>
+     <string name="bluetooth_connected">Συνδεδεμένο %1$s</string>
      <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (χωρίς πολυμέσα)</string>
      <string name="bluetooth_connected_no_headset">Συνδεδεμένο (χωρίς τηλέφωνο)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο (χωρίς τηλέφωνο ή πολυμέσα)</string>
@@ -1098,10 +1094,10 @@
      <string name="nav_guide_title">Απόκρυψη πλήκτρων οθόνης</string>
      <string name="network_speed_suffix">%1$s%2$s</string>
      <string name="no_application">Καμμιά</string>
-     <string name="no_multi_window_app">Δεν υπάρχουν εφαρμογές που να δουλεύουν σε λειτουργία πολλαπλών παραθύρων</string>
+     <string name="no_multi_window_app">Δεν υπάρχουν εφαρμογές που να υποστηρίζουν τη λειτουργία πολλαπλών παραθύρων</string>
      <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
      <string name="no_tiles_add">Δεν υπάρχουν πλακίδια για προσθήκη</string>
-     <string name="no_weather_description">Λήψη πληροφοριών καιρού&gt;</string>
+     <string name="no_weather_description">Λήψη πληροφοριών καιρού &gt;</string>
      <string name="not_support_multi_window">Η τρέχουσα εφαρμογή δεν υποστηρίζει τη λειτουργία πολλαπλών παραθύρων</string>
      <string name="notch_sos_status_bar_title">SOS</string>
      <string name="notification_all_categories">Ολες οι κατηγορίες</string>
@@ -1129,8 +1125,8 @@
      <string name="notification_header_title">Ειδοποιήσεις</string>
      <string name="notification_hidden_by_policy_text">Κρυφά περιεχόμενα Απορρήτου</string>
      <string name="notification_hidden_text">Κρυφό περιεχόμενο</string>
-     <string name="notification_info_channel_disabled_text">Δεν θα λάβετε %2$s ειδοποιήσεις από %1$s.</string>
-     <string name="notification_info_channel_enabled_text">Θα λάβετε ειδοποιήσεις της εφαρμ. %2$s από το %1$s.</string>
+     <string name="notification_info_channel_disabled_text">Χωρίς ειδοπ. της εφαρμ. \"%2$s\" από \"%1$s\".</string>
+     <string name="notification_info_channel_enabled_text">Λήψη ειδοπ. της εφαρμ. \"%2$s\" από \"%1$s\".</string>
      <string name="notification_low_battery_action_btn">Ενεργοποίηση</string>
      <string name="notification_low_battery_need_charge">Χαμηλή μπαταρία. Φορτίστε τη συσκευή σας.</string>
      <string name="notification_low_battery_open_save_mode">Ενεργοποίηση Εξοικ.μπαταρίας</string>
@@ -1172,8 +1168,8 @@
      <string name="oldman_incall_text">Κλήση</string>
      <string name="open_camera_hint_text">Σύρετε το εικονίδιο για εκκίνηση Κάμερας</string>
      <string name="open_extreme_power_save_mode_title">Ενεργοποίηση Μέγιστης εξοικονόμησης μπαταρίας</string>
-     <string name="open_lock_screen_magazine_hint_text">Σύρετε το εικονίδιο για εκκίνηση Ταπετσαρίας Καρουζέλ</string>
-     <string name="open_remote_center_hint_text">Σύρετε το εικονίδιο για προβολή στοιχείων ελέγχου</string>
+     <string name="open_lock_screen_magazine_hint_text">Σύρετε δεξιά για περισσότερες επιλογές</string>
+     <string name="open_remote_center_hint_text">Σύρετε δεξιά για προβολή συντομεύσεων</string>
      <string name="other">Άλλα</string>
      <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
      <string name="overview">Επισκόπηση</string>
