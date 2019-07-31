@@ -2811,7 +2811,7 @@
 	<string name="system_permission_declare_privacy_no_permission">"Σημειώστε ότι η %1s πρέπει να συλλέγει τα δεδομένα σας για να λειτουργήσει κανονικά.
 Σεβόμαστε και προστατεύουμε τα Προσωπικά σας Δεδομένα."</string>
 	<string name="system_permission_declare_use_network_no_permission">Σύνδεση στο δίκτυο</string>
-	<string name="system_permission_declare_revoke_uninstallable">Μπορείτε να απεγκαταστήσετε αυτήν την εφαρμογή ή να διαχειριστείτε τα δικαιώματα και την άδειά σας στην Ασφάλεια &gt; Διαχείρηση Εφαρμογών &gt; Δικαιώματα &gt; Άλλα Δικαιώματα.</string>
+	<string name="system_permission_declare_revoke_uninstallable">Μπορείτε να απεγκαταστήσετε αυτήν την εφαρμογή ή να διαχειριστείτε τα δικαιώματα και την άδειά σας στην Ασφάλεια > Διαχείρηση Εφαρμογών > Δικαιώματα > Άλλα Δικαιώματα.</string>
 	<string name="system_permission_declare_revoke_system">Μπορείτε να βγείτε από αυτήν την Εφαρμογή.</string>
 	<string name="system_permission_declare_user_agreement"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
     <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>

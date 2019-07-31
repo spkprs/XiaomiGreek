@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="a_hour_ago">
+    <item quantity="other">πριν από 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">πριν από 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Πριν από μισή ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Σε μισή ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">σε %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Μόλις τώρα</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">1 λεπτό πριν</item>
+  </plurals>
+  <plurals name="data_item_count">
+    <item quantity="other">%d στοιχείων</item>
+    <item quantity="one">%d στοιχείου</item>
+  </plurals>
+  <plurals name="data_item_count_fail">
+    <item quantity="other">Αδύνατη η μεταφορά %d στοιχείων</item>
+    <item quantity="one">Αδύνατη η μεταφορά %d στοιχείου</item>
+  </plurals>
+  <plurals name="data_item_count_pair">
+    <item quantity="other">%1$d/%2$d στοιχείων</item>
+    <item quantity="one">%1$d/%2$d στοιχείου</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Πριν από μισή ώρα</item>
+  </plurals>
+  <plurals name="hour">
+    <item quantity="other">&lt;g id="hour">%1$d&lt;/g> ώρες</item>
+    <item quantity="one">&lt;g id="hour">%1$d&lt;/g> ώρα</item>
+  </plurals>
+  <plurals name="icloud_importing_title_count_desc">
+    <item quantity="other">Εισαγόμενος %d στοιχείων</item>
+    <item quantity="one">Εισαγόμενος %d στοιχείου</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Σε μισή ώρα</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">σε %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
+  </plurals>
+  <plurals name="items_selected">
+    <item quantity="other">%d επιλεγμένα στοιχεία</item>
+    <item quantity="one">%d στοιχείο που έχει επιλεγεί</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Μόλις τώρα</item>
+  </plurals>
+  <plurals name="minute">
+    <item quantity="other">&lt;g id="minute">%1$d&lt;/g> λεπτά</item>
+    <item quantity="one">&lt;g id="minute">%1$d&lt;/g> λεπτό</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">πριν από 1 λεπτό</item>
+  </plurals>
+  <plurals name="save_item_failed_summary_seg1">
+    <item quantity="other">Εισαγωγή %d στοιχείων</item>
+    <item quantity="one">Εισαγωγή %d στοιχείου</item>
+  </plurals>
+  <plurals name="save_item_failed_summary_seg2">
+    <item quantity="other">Εισαγωγή %d στοιχείων ξανά.</item>
+    <item quantity="one">Εισαγωγή %d στοιχείο ξανά.</item>
+  </plurals>
+  <plurals name="save_item_saved_summary">
+    <item quantity="other">Εισαγωγή και Επαναφορά %d στοιχείων</item>
+    <item quantity="one">Εισαγωγή και Επαναφορά %d στοιχείου</item>
+  </plurals>
+  <plurals name="save_item_saving_summary">
+    <item quantity="other">Επαναφορά %d στοιχείων</item>
+    <item quantity="one">Επαναφορά %d στοιχείου</item>
+  </plurals>
+  <plurals name="select_item_count_unit">
+    <item quantity="other">" στοιχείων"</item>
+    <item quantity="one">" στοιχείο"</item>
+  </plurals>
+  <plurals name="select_item_summary">
+    <item quantity="other">%1$s | %2$d στοιχείων</item>
+    <item quantity="one">%1$s | %2$d στοιχείου</item>
+  </plurals>
+  <plurals name="trans_time_format_hours">
+    <item quantity="other">%d ώρες</item>
+    <item quantity="one">%d ώρα</item>
+  </plurals>
+  <plurals name="trans_time_format_minute">
+    <item quantity="other">%d λεπτά</item>
+    <item quantity="one">%d λεπτό</item>
+  </plurals>
+</resources>

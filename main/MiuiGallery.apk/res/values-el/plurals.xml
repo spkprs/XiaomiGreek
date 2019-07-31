@@ -289,12 +289,12 @@
         <item quantity="one">%d φωτογραφία</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Αποθήκευση %d επιλεγμένων φωτογραφιών και διαγραφή των υπολοίπων;</item>
-        <item quantity="one">Αποθήκευση %d επιλεγμένης φωτογραφίας και διαγραφή των υπολοίπων;</item>
+        <item quantity="other">Διαγραφή %d φωτογραφιών που δεν επιλέξατε;</item>
+        <item quantity="one">Διαγραφή %d φωτογραφιών που δεν επιλέξατε;</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Αποθήκευση %d επιλεγμένων φωτογραφιών</item>
-        <item quantity="one">Αποθήκευση %d επιλεγμένης φωτογραφίας</item>
+        <item quantity="other">Κράτηση %d επιλεγμένων φωτογραφιών</item>
+        <item quantity="one">Κράτηση %d επιλεγμένης φωτογραφίας</item>
     </plurals>
 	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Διαγραφή %d λήψεων ριπής από το Mi Cloud και όλες τις συγχρονισμένες συσκευές;</item>

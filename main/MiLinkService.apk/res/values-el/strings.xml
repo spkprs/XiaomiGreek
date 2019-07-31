@@ -107,6 +107,6 @@
   <string name="tile_label">Μετάδοση</string>
   <string name="toast_guide_show_more">Μάθε περισσότερα</string>
   <string name="toast_guide_title">Εξερευνήστε νέες λειτουργίες</string>
-  <string name="toast_msg">Παρακαλώ χρησιμοποιήστε μικρό παράθυρο για να μεταδώσετε την οθόνη στην εφαρμογή.</string>
-  <string name="toast_msg_for_multi_window">Αδύνατη η προβολή σε μικρά παράθυρα σε λειτουργία Διαίρεσης οθόνης</string>
+  <string name="toast_msg_for_small_window">Αφού ανοίξετε την εφαρμογή που θέλετε να μεταδώσετε, χρησιμοποιήστε τη λειτουργία προβολής μικρών παραθύρων, η οθόνη που προβάλλεται δεν θα διακοπεί και το κινητό τηλέφωνο μπορεί να χειριστεί άλλες εφαρμογές.</string>
+  <string name="toast_title_for_small_window">Χρησιμοποιήστε το μικρό παράθυρο για να μεταδώσετε την οθόνη στην εφαρμογή.</string>
 </resources>
