@@ -301,9 +301,15 @@
 	  <string name="todo_schedule_time_ymdhm">MM/dd/yyyy HH:mm</string>
 	  <string name="todo_search_hint">Αναζήτηση για εργασίες</string>
 	  <string name="todo_time_picker_title">Ορισμός υπενθύμισης</string>
-	  <string name="todo_user_guide_tip1">Καλωσορίσατε στις \"Εργασίες\"!</string>
-	  <string name="todo_user_guide_tip2">Αυτό είναι μια εργασία. Μπορείτε να αγγίξετε το πλαίσιο για ολοκλήρωση.</string>
-	  <string name="todo_user_guide_tip3">Πατήστε το συν παρακάτω για δημιουργία. Μπορείτε επίσης και φωνητική εργασία.</string>
-	  <string name="todo_user_guide_tip4">Ορισμός υπενθυμίσεων εργασιών σας για να μην τις ξεχάσετε.</string>
+	  <string name="todo_user_guide_tip1">Καλωσορίσατε στις Εργασίες!</string>
+	  <string name="todo_user_guide_tip2">Εδώ μπορείτε να προσθέσετε εργασίες κειμένου και φωνής.</string>
+	  <string name="todo_user_guide_tip3">Για να επεξεργαστείτε μια εργασία κειμένου, απλώς αγγίξτε.</string>
+	  <string name="todo_user_guide_tip4">"Μην ξεχάσετε να δημιουργήσετε μια συντόμευση στην αρχική οθόνη για τις Εργασίες."</string>
 	  <string name="todoalert_done">OK</string>
+	  <string name="app_notification_info">Οι Σημειώσεις λειτουργούν στο παρασκήνιο</string>
+	  <string name="check_in_todo_app">Προβολή εργασιών</string>
+	  <string name="todo_float_permission_open_reminder">Να επιτρέπεται στις Σημειώσεις να εμφανίζουν αναδυόμενα παράθυρα σε άλλες εφαρμογές για να μπορεί να χρησιμοποιεί αυτήν τη δυνατότητα.</string>
+	  <string name="todo_menu_cancel">Ακύρωση</string>
+	  <string name="todo_user_guide_fw_pop">Προσθήκη συντόμευσης στην Αρχική Οθόνη</string>
+	  <string name="todo_user_guide_tip5">Μείνετε στην κορυφή του παιχνιδιού σας και μην χάσετε ποτέ τίποτα σημαντικό!</string>
 </resources>

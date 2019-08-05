@@ -57,4 +57,8 @@
         <item quantity="other">Αλλαγή διαστήματος αναβολής για %d λεπτά</item>
         <item quantity="one">Αλλαγή διαστήματος αναβολής για %d λεπτό</item>
     </plurals>
+  <plurals name="snooze_duration_desc">
+      <item quantity="other">Κάθε %1$s λεπ, παύση %2$s φορές</item>
+      <item quantity="one">Κάθε %1$s λεπ, παύση %2$s φορά</item>
+   </plurals>
 </resources>

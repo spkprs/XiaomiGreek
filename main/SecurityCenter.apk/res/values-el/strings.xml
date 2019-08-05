@@ -2076,7 +2076,7 @@
      <string name="sp_settings_check_item_title_root">Root</string>
      <string name="sp_settings_check_item_title_sign_exception">Εξαιρέσεις υπογραφής</string>
      <string name="sp_settings_check_item_title_update">Ενημερώσεις συστήματος</string>
-     <string name="sp_settings_check_item_title_virus_exception">Εξαιρέσεις ιών</string>
+     <string name="sp_settings_check_item_title_virus_exception">Εξαιρέσεις</string>
      <string name="sp_settings_check_item_title_wifi">Wi‑Fi</string>
      <string name="sp_settings_exception_count_zero">Χωρίς στοιχεία</string>
      <string name="sp_settings_group_title_check_item">Έλεγχος πολλαπλών στοιχείων</string>
@@ -2833,5 +2833,10 @@
     <string name="pc_statistics_battery_use_summary">%s από την τελευταία φόρτιση</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dω %2$dλ από την τελευταία φόρτιση</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dω %2$dλ απομένουν</string>
+	<string name="pc_search_keywords_battery">Μπαταρία</string>
+	<string name="pc_search_keywords_battery_save">Εξοικονόμηση μπαταρίας</string>
+	<string name="pc_search_keywords_battery_use">Χρήση μπαταρίας</string>
+	<string name="pc_search_keywords_capacity">Χωρητικότητα μπαταρίας</string>
+	<string name="pc_search_keywords_property">Απόδοση</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Εάν επιλέξετε να μην δώσετε τα απαιτούμενα δικαιώματα ή δεν μας επιτρέψετε να συλλέξουμε και να χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα μπορεί να λειτουργήσει μερικώς."</string>
 </resources>

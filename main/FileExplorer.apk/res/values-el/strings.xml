@@ -890,4 +890,6 @@
 	  <string name="tab_app">Περισσότερα</string>
 	  <string name="text_select_all">Επιλογή όλων</string>
 	  <string name="text_select_nothing">Αποεπιλογή όλων</string>
+      <string name="hint_switch_to_grid_mode">Προβολή πλέγματος</string>
+      <string name="hint_switch_to_list_mode">Προβολή λίστας</string>
 </resources>

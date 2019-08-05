@@ -396,4 +396,5 @@
 	<string name="edit_mode_group_error_nothing_be_selected">Επιλέξτε πρώτα μια εφαρμογή</string>
 	<string name="minus_one_screen">Προσωπικός Βοηθός</string>
 	<string name="menu_auto_fill_of_uninstall">Συμπλήρωση κελιών των απεγκ/μένων εφαρμ.</string>
+    <string name="no_space_toast_when_click_widget">Δεν υπάρχει αρκετός χώρος σε αυτήν τη σελίδα. Δοκιμάστε να σύρετε αυτό το στοιχείο σε διαφορετική σελίδα.</string>
 </resources>
