@@ -727,7 +727,7 @@
      <string name="sp_category_bank">Μηνύματα Τραπεζών</string>
      <string name="sp_category_title_prefix">%s</string>
      <string name="sp_conversation_title">Ειδοποιήσεις</string>
-     <string name="sp_mark_as_read_menu_title">Σήμανση ως αναγνωσμένα</string>
+     <string name="sp_mark_as_read_menu_title">Σήμανση ως αναγνωσμένo</string>
      <string name="sqlite_disk_full">Ο χώρος αποθήκευσης στη συσκευή σας είναι γεμάτος.</string>
      <string name="sqlite_low_memory">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
      <string name="status_bar_notification_info_overflow">999+</string>

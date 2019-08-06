@@ -728,7 +728,7 @@
      <string name="define_by_user">Προσαρμογή</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_album_failed">Αδυναμία δημιουργίας άλμπουμ</string>
-     <string name="delete_album_msg_format">Διαγραφή \"%2$s\" άλμπουμ %1$s%3$s;</string>
+     <string name="delete_album_msg_format">Διαγραφή \"%2$s\" άλμπουμ %1$s %3$s;</string>
      <string name="delete_album_success">Το άλμπουμ διαγράφηκε</string>
      <string name="delete_finish_format">%d διαγράφηκαν</string>
      <string name="delete_from_all_devices_and_cloud">από όλες τις συσκευές και από το Mi Cloud</string>
@@ -1805,6 +1805,9 @@
 	  <string name="cleaner_video_title">Διαγραφή βίντεο</string>
 	  <string name="print_log">Εκτύπωση αρχείου καταγραφής</string>
 	  <string name="screen_doodle_talkback_size">Πλάτος γραμμής Σκίτσου</string>
+      <string name="screen_editor_btn_delete">Διαγραφή</string>
+      <string name="screen_editor_btn_save">Αποθήκευση</string>
+      <string name="screen_editor_delete_dialog_msg">Διαγραφή του στιγμιότυπου?</string>
 	  <string name="screen_editor_finish">Τέλος</string>
 	  <string name="screen_save_dialog_btn_cancel">Ακύρωση</string>
 	  <string name="screen_save_dialog_btn_delete">Διαγραφή στιγμιότυπου οθόνης</string>

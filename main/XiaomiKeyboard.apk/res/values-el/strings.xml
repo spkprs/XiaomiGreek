@@ -561,6 +561,7 @@
   <string name="item_text_singlehand">Με Το Ένα Χέρι</string>
   <string name="item_text_size">Μέγεθος</string>
   <string name="item_text_sound">Ήχος</string>
+  <string name="item_text_sound_vibration">Ήχος &amp; Δόνηση</string>
   <string name="item_text_symbols">Σύμβολα</string>
   <string name="item_text_themes">@string/menu_theme</string>
   <string name="item_text_voice">Φωνή</string>
@@ -591,6 +592,7 @@
   <string name="label_send_key">Αποστολή</string>
   <string name="label_wait_key">Αναμονή</string>
   <string name="language_keep_one">Καλύτερα να κρατήσεις τουλάχιστον μία γλώσσα.</string>
+  <string name="mushroom_sound_title">Ένταση ήχου πλήκτρων</string>
   <string name="language_selection_title">Γλώσσες</string>
   <string name="language_setting">Ρυθμίσεις γλώσσας</string>
   <string name="last_update">Τελευταία ενημέρωση</string>
@@ -726,6 +728,7 @@
   <string name="prefs_advanced_title">Προτιμήσεις</string>
   <string name="prefs_block_potentially_offensive_summary">Να μην προτείνονται πιθανώς προσβλητικές λέξεις</string>
   <string name="prefs_block_potentially_offensive_title">Αποκλεισμός υβριστικών λέξεων</string>
+  <string name="prefs_keypress_sound_volume_settings">Ένταση ήχου πλήκτρων</string>
   <string name="prefs_customize_key_preview_animation">Προσαρμόστε την κινούμενη εικόνα προεπισκόπησης</string>
   <string name="prefs_debug_mode">Λειτουργία εντοπισμού σφαλμάτων</string>
   <string name="prefs_dump_dynamic_dicts">Dump λεξικό</string>
@@ -738,7 +741,6 @@
   <string name="prefs_key_popup_show_up_duration_settings">Αναδυόμενο παράθυρο εμφανίζεται η διάρκεια</string>
   <string name="prefs_key_popup_show_up_start_x_scale_settings">Το αναδυόμενο παράθυρο κλειδιού εμφανίζει την κλίμακα εκκίνησης Χ</string>
   <string name="prefs_key_popup_show_up_start_y_scale_settings">Το αναδυόμενο παράθυρο κλειδιού εμφανίζει την κλίμακα εκκίνησης Y</string>
-  <string name="prefs_keypress_sound_volume_settings">Ένταση ήχου πατήματος πλήκτρου</string>
   <string name="prefs_keypress_vibration_duration_settings">Διάρκεια δόνησης πατήμ. πλήκτ.</string>
   <string name="prefs_read_external_dictionary">Ανάγνωση αρχείου εξωτερικού λεξικού</string>
   <string name="prefs_show_advance">Δείτε περισσότερες προτιμήσεις επιλογών</string>
@@ -791,8 +793,8 @@
   <string name="ranking_sys_load_full">ΟΧΙ πια…</string>
   <string name="ranking_sys_more">Απέτυχε η φόρτωση</string>
   <string name="ranking_tips_title">Πώς να χρησιμοποιήσετε το Emoji Combo</string>
-  <string name="ranking_title">Κορυφή</string>
-  <string name="ranking_top">Κορυφή</string>
+  <string name="ranking_title">Κορυφαία</string>
+  <string name="ranking_top">Κορυφαία</string>
   <string name="ranking_touroku">Προσθήκη στο πληκτρολόγιο</string>
   <string name="ranking_trending">Δημοφιλή</string>
   <string name="read_external_dictionary_confirm_install_message">Πραγματικά εγκαταστήστε αυτό το αρχείο για %s?</string>
@@ -804,7 +806,7 @@
   <string name="remove">Κατάργηση</string>
   <string name="save">Αποθήκευση</string>
   <string name="search_menu_title">Αναζήτηση</string>
-  <string name="select_ime_float_hint">Επιλέξτε πληκτρολόγιο Facemoji για Xiaomi</string>
+  <string name="select_ime_float_hint">Επιλογή πληκτρ. Facemoji Xiaomi</string>
   <string name="select_language">Γλώσσες</string>
   <string name="sentence_separator">.</string>
   <string name="session_log_category_title">ΑΠΟΡΡΗΤΟ</string>
@@ -814,8 +816,8 @@
   <string name="session_privacy_no">ΟΧΙ ΕΥΧΑΡΙΣΤΩ</string>
   <string name="session_privacy_ok">Θα αγαπώ</string>
   <string name="session_privacy_policy">Πολιτική απορρήτου Facemoji</string>
-  <string name="session_privacy_text">Θα θέλατε να συμμετάσχετε στη μελέτη χρήστη του Facemoji; Η συνεισφορά σας θα βοηθήσει άλλους φίλους και θα κάνει το πληκτρολόγιο καλύτερο. Για λεπτομέρειες, ανατρέξτε στο</string>
-  <string name="session_privacy_title">Πάρτε ένα καλύτερο Facemoji</string>
+  <string name="session_privacy_text">"Θα θέλατε να συμμετάσχετε στη εύρευνα χρήστη του Facemoji; Η συνεισφορά σας θα βοηθήσει άλλους φίλους σας για καλύτερο πληκτρολόγιο. Για λεπτομέρειες, ανατρέξτε στην "</string>
+  <string name="session_privacy_title">Λάβετε ένα καλύτερο Facemoji</string>
   <string name="set_wallpaper">Ορίστε ως Lockscreen</string>
   <string name="set_wallpaper_download_timeout">Αποτυχία ορισμού ταπετσαρίας ως οθόνης κλειδώματος λόγω κακής σύνδεσης στο διαδίκτυο %1$s</string>
   <string name="set_wallpaper_success">Εφαρμοσμένη ως οθόνη κλειδώματος</string>

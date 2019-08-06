@@ -681,9 +681,9 @@
      <string name="fs_gesture_final_restart">Αλλη μιά φορά</string>
      <string name="fs_gesture_final_summary">Μπορείτε να επιστρέψετε με χρήση πλήκτρων στις Ρυθμίσεις &gt; Εμφάνιση Πλήρους οθόνης</string>
      <string name="fs_gesture_final_title">Είστε έτοιμοι!</string>
-     <string name="fs_gesture_finish">Ωραία!</string>
-     <string name="fs_gesture_left_back_ready_summary">Σύρετε αριστερά από την άκρη</string>
-     <string name="fs_gesture_right_back_ready_summary">Σύρετε δεξιά από την άκρη</string>
+     <string name="fs_gesture_finish">Τέλεια!</string>
+     <string name="fs_gesture_left_back_ready_summary">Σύρετε από την αριστερή άκρη</string>
+     <string name="fs_gesture_right_back_ready_summary">Σύρετε από την δεξιά άκρη</string>
      <string name="fs_gesture_skip">Πίσω</string>
      <string name="fs_gesture_switch_recents_summary">Σύρετε από κάτω και σταματήστε</string>
      <string name="fsg_demo_back">Πίσω</string>

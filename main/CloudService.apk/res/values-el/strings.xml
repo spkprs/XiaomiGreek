@@ -38,7 +38,7 @@
      <string name="find_device">Εύρεση συσκευής</string>
      <string name="find_device_dspt_provision">Εάν χάσετε τη συσκευή σας, μπορείτε να μεταβείτε στο &lt;font color=#ff0000>%s&lt;/font> να εντοπίσετε, να κλειδώσετε ή να την επαναφέρετε. Μπορείτε να αλλάξετε αυτήν τη λειτουργία οποτεδήποτε στις Ρυθμίσεις.</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
-     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
+     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_error_network">Ελέγξτε τη σύνδεση δεδομένων σας και δοκιμάστε ξανά.</string>
      <string name="find_device_error_server">Κάτι πήγε στραβά με τους διακομιστές μας.</string>
      <string name="find_device_gdpr_prompt_policy_doc_name">Privacy Policy</string>

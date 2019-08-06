@@ -6485,7 +6485,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="google_service_title">Google υπηρεσίες</string>
     <string name="headset_settings_title">Ακουστικά</string>
     <string name="home_title">Αρχική Οθόνη</string>
-    <string name="key_shortcut_settings_title">Πλήκτρο Συντομεύσεων</string>
+    <string name="key_shortcut_settings_title">Συντομεύσεις Πλήκτρων</string>
     <string name="lock_screen_display_category_name">Οθόνη Κλειδώματος</string>
     <string name="miui_sos_emergency_delete">Διαγραφή</string>
     <string name="more_account_settings_title">Άλλοι λογαριασμοί</string>
