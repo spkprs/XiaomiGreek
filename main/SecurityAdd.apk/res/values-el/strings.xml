@@ -38,6 +38,9 @@
 	<string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
 	<string name="fastboot_unlock_web_title">Πηγαίνετε στον επίσημο ιστότοπο MIUI για να λάβετε το εργαλείο ξεκλειδώματος.</string>
 	<string name="game_booster">Βελτιστοποίηση ταχύτητας παιχνιδιού</string>
+    <string name="gamebooster_network_dialog_message">Να επιτρέπεται στην Ασφάλεια η πρόσβαση στο δίκτυο προκειμένου να χρησιμοποιήσει όλες τις λειτουργίες της ενίσχυσης ταχύτητας παιχνιδιών;</string>
+    <string name="gamebooster_network_dialog_title">Μερικές λειτουργίες δεν είναι διαθέσιμες</string>
+    <string name="gdpr_msg">&lt;Data&gt;"Για να χρησιμοποιήσετε τα χαρακτηριστικά της Ασφάλειας, πρέπει να συμφωνείσετε ότι η Xiaomi θα συλλέγει, επεξεργαστεί και θα χρησιμοποιήσει τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων πληροφοριών για τους τρόπους χρήσης της Ασφάλειας (π.χ. στατιστικά δεδομένων, πληροφορίες για κακόβουλα προγράμματα, σχετικά με τη συσκευή σας) και άλλες πληροφορίες που καθορίζονται στην &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt; μας"&lt;/Data&gt;</string>
 	<string name="gamebox_no_network_btn">Επαναφόρτωση</string>
 	<string name="gb_alipays_can_not_complete">Δεν είναι δυνατή η ολοκλήρωση της πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>
 	<string name="gb_weixinpay_can_not_complete">Δεν είναι δυνατή η ολοκλήρωση της πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>

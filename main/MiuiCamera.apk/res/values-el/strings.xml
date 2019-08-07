@@ -608,6 +608,7 @@
     <string name="pref_camera_show_gender_age_title">Ηλικία και φύλο</string>
 	<string name="pref_camera_snap_enable_title">Λειτουργία Γρήγορης Λήψης</string>
     <string name="pref_camera_snap_entry_off">Off</string>
+    <string name="pref_camera_snap_entry_summary">Αγγίξτε παρατεταμένα το πλήκτρο Μείωση έντασης ήχου σε ανενεργή οθόνη για λήψη φωτογραφίας</string>
     <string name="pref_camera_snap_entry_take_movie">Γρήγορη Λήψη (Βίντεο)</string>
 	<string name="pref_camera_snap_entry_take_picture">Γρήγορη Λήψη (Φωτό)</string>
     <string name="pref_camera_snap_label_take_movie">Βίντεο</string>

@@ -290,8 +290,8 @@
 	<string name="input_method_switch_settings_text">Ρυθμίσεις πληκτρολογίου</string>
 	<string name="input_method_tab_clipboard_text">Πρόχειρο</string>
 	<string name="input_method_tab_phrase_text">Συχνές φράσεις</string>
-	<string name="slavewifi">Διπλό WiFi</string>
+	<string name="slavewifi">Διπλή ζώνη WiFi</string>
 	<string name="slavewifi_disconnect">Αποσύνδεση</string>
-	<string name="slavewifi_notification_title">επιτάχυνση Διπλό WiFi</string>
-	<string name="slavewifi_settings">Αγγίξτε για τροποποίηση ρύθμισης παραμέτρων</string>
+	<string name="slavewifi_notification_title">Χρήση Διπλής ζώνης WiFi</string>
+	<string name="slavewifi_settings">Αγγίξτε για αλλαγή ρυθμίσεων</string>
 </resources>
