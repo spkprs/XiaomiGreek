@@ -1117,7 +1117,7 @@
      <string name="notification_channel_usb">USB</string>
      <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
      <string name="notification_default_channel_desc">Αυτή η εφαρμογή δεν διαθέτει κατηγορίες ειδοποιήσεων</string>
-     <string name="notification_done">Ολοκληρώθηκε</string>
+     <string name="notification_done">Τέλος</string>
      <string name="notification_group_collapse_button_text">Δίπλωμα</string>
      <string name="notification_group_divider_symbol">%1$s • %2$s</string>
      <string name="notification_group_overflow_indicator">+%s</string>
@@ -1141,7 +1141,7 @@
      <string name="notification_menu_remove_from_filter_secondary_text">Όλες οι σημαντικές ειδοποιήσεις του %s θα εμφανιστούν απευθείας στον πίνακα ειδοποίησης.</string>
      <string name="notification_menu_remove_from_filter_title">Σημαντική</string>
      <string name="notification_menu_snooze_description">Επιλογές αναβολής ειδοποίησης</string>
-     <string name="notification_more_settings">Περισσότερες ρυθμίσεις</string>
+     <string name="notification_more_settings">Ρυθμίσεις</string>
      <string name="notification_otg_gamestick_in">Ο ελεγκτής παιχνιδιού συνδέθηκε</string>
      <string name="notification_otg_gamestick_out">Ο ελεγκτής παιχνιδιού αποσυνδέθηκε</string>
      <string name="notification_otg_keyboard_in">Το πληκτρολόγιο συνδέθηκε</string>
