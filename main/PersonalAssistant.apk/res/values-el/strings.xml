@@ -1633,4 +1633,16 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
 	  <string name="shopping_recommend_coupon">Κουπόνι ￥%s</string>
 	  <string name="toast_function_add_limit">Μπορείτε να προσθέσετε έως %d συντομεύσεις</string>
       <string name="announce_for_drag">Σύρετε ένα στοιχείο</string>
+  	  <string name="preference_privacy_settings">Ρυθμίσεις απορρήτου</string>
+	  <string name="send_express">Γρήγορη παράδοση</string>
+	  <string name="setting_cancel_sticky">Ξεκαρφίτσωμα</string>
+	  <string name="setting_commute_brief">Προσαρμόστε την καθημερινή σας μετακίνηση στην τρέχουσα κίνηση</string>
+	  <string name="setting_commute_label">Μετακίνηση</string>
+	  <string name="setting_office_lable">Προσθήκη διεύθυνσης εργασίας</string>
+	  <string name="setting_sticky">Καρφίτσωμα στην κορυφή</string>
+	  <string name="setting_sticky_canceled">Ξεκαρφίτσωμα</string>
+	  <string name="setting_sticky_done">Καρφίτσωμα στην κορυφή</string>
+	  <string name="sport_headline">"Η σημερινή δραστηριότητα"</string>
+	  <string name="timeline_headline">Επερχόμενα</string>
+	  <string name="vertical_separator">|</string>
 </resources>

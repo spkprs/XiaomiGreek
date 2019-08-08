@@ -2,8 +2,8 @@
 
 <resources>
      <string name="about_extreme_mode">Μέγιστη εξοικονόμηση</string>
-     <string name="about_hide_mode">Σχετικά με την εφαρμογή</string>
-     <string name="active_classify">Ταξινόμηση κατά κατάσταση δραστηριότητας</string>
+     <string name="about_hide_mode">Σχετικά</string>
+     <string name="active_classify">Ταξινόμ. κατά δραστηριότητα</string>
      <string name="adaptive_battery_summary">"Περιορισμός μπαταρίας σε εφαρμογές με σπάνια χρήση"</string>
      <string name="adaptive_battery_title">Χρήση Προσαρμοσμένης Μπαταρίας</string>
      <string name="app_list_title">Επιλέξτε εφαρμογές</string>
@@ -28,7 +28,7 @@
      <string name="config_restrict_function_title">Περιορισμός εφαρμογών</string>
      <string name="config_restrict_running_description">Οι εφαρμογές θα κλείσουν για εξοικονόμηση ενέργειας</string>
      <string name="config_restrict_running_title">Περιορισμός δραστηριότητας</string>
-     <string name="config_restrict_running_warning">Οι εφαρμογές θα κλείσουν στο παρασκήνιο. Αυτό μπορεί να τους οδηγήσει σε κακή συμπεριφορά.</string>
+     <string name="config_restrict_running_warning">Οι εφαρμογές παρασκηνίου θα κλείσουν. Αυτό μπορεί να τις οδηγήσει σε κακή συμπεριφορά.</string>
      <string name="config_scenario_policies_title">Σχέδια</string>
      <string name="config_suggest_description">"Προσδιορίζει εφαρμογές και λειτουργίες για διατήρηση σημαντικών διεργασιών.
 Η εξοικονόμηση θα επεξεργάζεται επιλεκτικά τις σημαντικές εφαρμογές."</string>

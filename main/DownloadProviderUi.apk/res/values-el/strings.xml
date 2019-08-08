@@ -53,7 +53,7 @@
      <string name="copy">Αντιγραφή</string>
      <string name="copy_info">Αντιγράφτηκε στο πρόχειρο. Μπορείτε να το μοιραστείτε με φίλους!</string>
      <string name="creat_task_success">Προστέθηκε σε αναμονή λήψης</string>
-     <string name="create_task">Δημιουργία διεργασίας</string>
+     <string name="create_task">Nέα εργασία</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_download">Διαγραφή</string>
      <string name="delete_downloads_records">Διαγραφή λήψεων</string>
@@ -152,7 +152,7 @@
      <string name="durationMinutes">%1$d λεπτά</string>
      <string name="durationSecond">%1$d δευτ.</string>
      <string name="durationSeconds">%1$d δευτ.</string>
-     <string name="edit_hint"> Πληκτρολογήστε μια διεύθυνση URL (http or https)</string>
+     <string name="edit_hint">Εισάγετε http, torrent, ή διεύθυνση eMule</string>
      <string name="editmode_menu_delete">Διαγραφή</string>
      <string name="editmode_menu_share">Κοινή χρήση</string>
      <string name="engine_open">Άνοιγμα</string>
@@ -225,7 +225,7 @@
      <string name="missing_title">&lt;Άγνωστο</string>
      <string name="net_error">Αδυναμία σύνδεσης στο δίκτυο. Προσπαθήστε ξανά</string>
      <string name="network_error">Αδυναμία σύνδεσης στο δίκτυο</string>
-     <string name="new_add">Νέο</string>
+     <string name="new_add">Νέα Λήψη</string>
      <string name="new_add_bt">Προσθήκη torrent</string>
      <string name="no_downloads">Χωρίς λήψεις</string>
      <string name="no_file_hint">Αυτό το αρχείο είναι ήδη σε αναμονή για λήψη</string>
