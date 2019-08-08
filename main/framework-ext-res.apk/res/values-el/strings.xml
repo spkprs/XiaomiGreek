@@ -47,9 +47,7 @@
 	<string name="enable_livetalk_title">Ενεργοποίηση πακέτου Top-up</string>
 	<string name="fc_dialog_body">Αποστολή αναφοράς σφάλματος στη Mi για ανάλυση; Αυτή η αναφορά μπορεί να περιέχει προσωπικά αναγνωρίσιμες πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για να διορθωθεί αυτό το σφάλμα και δεν πρόκειται ποτέ να μοιραστεί σε εμπορικό πλαίσιο.</string>
 	<string name="fc_dialog_jump_to_preview">Δείτε την περίληψη</string>
-	<string name="first_back_long_press_message">"Πατήστε &amp; κρατήστε το κουμπί Back για τερματισμό της τρέχουσας διεργασίας και όλων των υπηρεσιών της που τρέχουν στο παρασκήνιο.
-
-Για να ενεργοποιήσετε αυτή τη λειτουργία, πηγαίνετε στις Ρυθμίσεις &gt; Πρόσθετες Ρυθμίσεις &gt; Πλήκτρα"</string>
+	<string name="first_back_long_press_message">"Για προσαρμογή αγγίξτε παρατεταμένα την λειτουργία πλήκτρων πλοήγησης, πηγαίνετε στις Ρυθμίσεις &gt; Πρόσθετες Ρυθμίσεις &gt; Πλήκτρα"</string>
 	<string name="fm_record_smaple_prefix_miui">Εγγραφή FM</string>
 	<string name="force_exit_message">Επιβολή τερματισμού %1$s</string>
 	<string name="force_exit_skip_message">Αδυναμία τερματισμού του %1$s γιατί είναι βασική ενότητα του συστήματος.</string>
@@ -236,18 +234,17 @@
     <string name="user_switching_dialog_switch_into_kid_space">Μετάβαση στο χώρο Kid…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Έξοδος απο το χώρο Kid…</string>
 	<string name="btn_cancel">Ακύρωση</string>
-	<string name="btn_sure">Επιβεβαίωση</string>
-	<string name="confirm_cancel_task">Θέλετε να ακυρώσετε την αποστολή %1$s σε %2$s</string>
+	<string name="btn_sure">OK</string>
+    <string name="confirm_cancel_task_files">Ακύρωση αποστολής αρχείων σε %1$s?</string>
+    <string name="confirm_cancel_task_images">Ακύρωση αποστολής εικόνων σε %1$s?</string>
 	<string name="default_device_name">Άγνωστη συσκευή</string>
 	<string name="device_type_pc">PC</string>
-	<string name="enable_midrop">Άνοιγμα</string>
-	<string name="file">Αρχείο</string>
-	<string name="file_cannot_print">Αυτό το περιεχόμενο δεν υποστηρίζει εκτύπωση</string>
-	<string name="file_cannot_screen_throw">Αυτό το περιεχόμενο δεν υποστηρίζει οθόνη προβολής</string>
-	<string name="file_sending">Αποστέλλεται</string>
-	<string name="file_type_detail_count">%1$d αρχεία</string>
-	<string name="functions_are_being_developed">Η λειτουργικότητα αναπτύσσεται, οπότε παραμείνετε συντονισμένοι</string>
-	<string name="mi_drop">Xiaomi Mi Drop</string>
+	<string name="enable_midrop">Ενεργοποίηση</string>
+	<string name="file_cannot_print">"Αδυναμία προβολής του στοιχείου."</string>
+	<string name="file_cannot_screen_throw">"Αδυναμία εκτύπωσης του στοιχείου."</string>
+	<string name="file_sending">Μεταφορά αρχείων ...</string>
+	<string name="functions_are_being_developed">Αυτή η λειτουργία θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
+	<string name="mi_drop">Mi Κοινή χρήση</string>
 	<string name="pc_device_model_name">Notebook</string>
 	<string name="picture">Εικόνα</string>
 	<string name="redmi_6">Redmi 6</string>
@@ -259,11 +256,11 @@
 	<string name="redmi_note_5">Redmi Note5</string>
 	<string name="redmi_note_7">Redmi Note7</string>
 	<string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
-	<string name="scanning_device_tips">Αναζήτηση για κοντινές συσκευές, το άλλο μέρος πρέπει να ανοίξει το Xiaomi Mi Drop για μεταφορά</string>
-	<string name="send_files_to">Στείλτε το αρχείο στο</string>
+	<string name="scanning_device_tips">Αναζήτηση συσκευών σε κοντινή απόσταση ... Βεβαιωθείτε ότι η άλλη συσκευή είναι ανιχνεύσιμη.</string>
+	<string name="send_files_to">Αποστολή στοιχείων σε</string>
 	<string name="throwing_print">Εκτύπωση</string>
 	<string name="throwing_screen">Προβολή οθόνης</string>
-	<string name="tips_prompt_enable_midrop">Ανακαλύψτε συσκευές γύρω από το τηλέφωνο/notebook σας και μοιραστείτε γρήγορα αρχεία με αυτές</string>
+	<string name="tips_prompt_enable_midrop">Κοινή χρήση αρχείων σε κοντινές συσκευές</string>
 	<string name="unrecognized_manufacture">Άγνωστη μάρκα</string>
 	<string name="unrecognized_model">Άγνωστη συσκευή</string>
 	<string name="xiaomi">Xiaomi</string>
@@ -294,4 +291,8 @@
 	<string name="slavewifi_disconnect">Αποσύνδεση</string>
 	<string name="slavewifi_notification_title">Χρήση Διπλής ζώνης WiFi</string>
 	<string name="slavewifi_settings">Αγγίξτε για αλλαγή ρυθμίσεων</string>
+    <string name="wireless_charging_notification_message1">"Δεν ήταν δυνατή η εύρεση ασύρματων συσκευών για φόρτιση. Η αντίστροφη ασύρματη φόρτιση είναι ανενεργή τώρα."</string>
+    <string name="wireless_charging_notification_message2">Η μπαταρία είναι φορτισμένη λιγότερο από 30%. Η αντίστροφη ασύρματη φόρτιση είναι ανενεργή τώρα.</string>
+    <string name="wireless_charging_notification_message3">Παρουσιάστηκε σφάλμα κατά τη φόρτιση. Η αντίστροφη ασύρματη φόρτιση είναι ανενεργή τώρα.</string>
+    <string name="wireless_charging_notification_titile">Απενεργοποίησε την αντίστροφη ασύρματη φόρτιση</string>
 </resources>
