@@ -7,12 +7,18 @@
      <string name="add_screen">Προσθήκη οθόνης</string>
      <string name="announce_for_app_move_in_folder">Μετακινήθηκε στη θέση %1$d στο φάκελο</string>
 	 <string name="all_apps">Όλες οι εφαρμογές</string>
+     <string name="all_apps_no_search_results">"Χωρίς αποτελέσματα"</string>
 	 <string name="all_apps_search_app">Αναζήτηση τοπικών εφαρμογών</string>
-	 <string name="all_apps_setting_desktop_desc">Εμφάνιση όλων των εγκατεστημένων εφαρμογών, πατήστε παρατεταμένα το εικονίδιο της εφαρμογής για να εμφανίσετε συντομεύσεις για τη διαχείριση ή απεγκατάσταση τους.</string>
+     <string name="all_apps_search_market_message">Αναζήτηση online</string>
+	 <string name="all_apps_setting_desktop_desc">"Τοποθέτηση όλων των εγκατεστημένων εφαρμογών στο Συρτάρι  που μπορείτε να ανοίξετε σύρωντας το πάνω στην Αρχική οθόνη. Θα εξακολουθήσετε να βρίσκετε τις εφαρμογές που μετακινήσατε στην Αρχική οθόνη στο συρτάρι εφαρμογών."</string>
 	 <string name="all_apps_setting_desktop_title">Τυπική λειτουργία</string>
 	 <string name="all_apps_setting_drawer_desc">Αγγίξτε το πλήκτρο συρταριού για εμφάνιση όλων των εφαρμογών, οι εφαρμογές που έχουν αφαιρεθεί από την επιφάνεια εξακολουθούν να υπάρχουν στο συρτάρι.</string>
 	 <string name="all_apps_setting_drawer_title">Λειτουργία συρταριού</string>
+     <string name="all_apps_setting_drawer_tips_desc">Το Συρτάρι εφαρμογών ανοίγει σαρώνοντας την Αρχική οθόνη. Η μετάβαση στη λειτουργία Αρχικής οθόνης με συρτάρι εφαρμογών, η Αναζήτηση δεν είναι πλέον διαθέσιμη. Αλλαγή ούτως ή άλλως;?</string>
+     <string name="all_apps_setting_drawer_tips_title">Χρήση Συρταριού εφαρμογών</string>
 	 <string name="all_apps_setting_title">Επιφάνεια εργασίας</string>
+     <string name="all_apps_slide_up_tips">Η σάρωση προς τα επάνω είναι αποκλειστικά για το άνοιγμα του Συρταριού εφαρμογών. Μεταβείτε στην κανονική λειτουργία Αρχικής οθόνης και δοκιμάστε ξανά.</string>
+     <string name="all_apps_suggestions">Προτάσεις εφαρμογών</string>
      <string name="announce_for_checked">%1$s, ελέγχθηκε</string>
      <string name="announce_for_choose_default_screen">επιλεγμένη οθόνη %1$d να γίνει Αρχική σελίδα</string>
      <string name="announce_for_close_default_preview">κλείσιμο αρχικής επιλεγμένης σελίδας</string>
@@ -306,6 +312,7 @@
      <string name="recommend_loading">Φόρτωση</string>
      <string name="recommend_refresh">Ανανέωση</string>
      <string name="recommend_xout">"Χωρίς εμφάνιση"</string>
+     <string name="remove_invalidate_gadget_tips">Ένα από τα widgets που χρησιμοποιείτε δεν είναι πλέον διαθέσιμο. Μπορείτε να προσθέσετε ένα άλλο.</string>
      <string name="reset_description_first_time">Μπορείτε να επαναφέρετε τη διάταξη από %1$s εντός 2 ωρών</string>
      <string name="reset_description_others">Μπορείτε να επαναφέρετε τη διάταξη από %1$s</string>
      <string name="reset_fail">Αδύνατη η Επαναφορά</string>
@@ -369,7 +376,6 @@
      <string name="wallpaper_failed_message">Αδυναμία εφαρμογής ταπετσαρίας</string>
      <string name="wallpaper_scaling_message">Αλλαγής κλίμακας για διόρθωση μεγέθους</string>
      <string name="wallpaper_scroll_type_tips">Κύλιση ταπετσαρίας</string>
-     <string name="wallpaper_scrolling">όλα</string>
      <string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>
      <string name="wallpaper_success_message">Επιτυχής εφαρμογή ταπετσαρίας</string>
      <string name="widget_favorite_contacts_edit">Επεξεργασία</string>
