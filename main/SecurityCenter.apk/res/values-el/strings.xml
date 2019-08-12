@@ -2798,7 +2798,7 @@
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_button_disable_dialog">"Χωρίς επανεμφάνιση"</string>
     <string name="superpower_progress_title">Χρόνος που απομένει</string>
-    <string name="superpower_progress_content">Ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας…</string>
+    <string name="superpower_progress_content">Ενεργοποίηση Υπέρ εξοικ/σης…</string>
     <string name="superpower_progress_turnoff_items">Περιορισμός ενεργοβόρων δραστηριοτήτων</string>
     <string name="superpower_progress_turnoff_process">Περιορισμός δραστηριοτήτων παρασκηνίου</string>
     <string name="superpower_progress_turndown_brightness">Μείωση φωτεινότητας οθόνης</string>

@@ -6609,4 +6609,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="raise_bottom_height_of_keyboard_sub_title">Μια μπάρα με προσαρμόσιμες συντομεύσεις θα εμφανιστεί κάτω από το πληκτρολόγιο αν μεταβείτε σε Βελτιωμένη λειτουργία</string>
 	<string name="raise_bottom_height_of_keyboard_title">Προσαρμογή πληκτρολογίου σε οθόνη Πλήρους Οθόνης</string>
 	<string name="right_function_key">Δεξιά συντόμευση</string>
+    <string name="show_app_titles">Απόκρυψη τίτλων εφαρμογών</string>
+    <string name="show_icon_shadows_title">Εμφάνιση σκιάς εικονιδίων</string>
 </resources>

@@ -36,7 +36,7 @@
      <string name="error_server">Σφάλμα διακομιστή</string>
      <string name="error_unknown">Αδυναμία σύνδεσης</string>
      <string name="find_device">Εύρεση συσκευής</string>
-     <string name="find_device_dspt_provision">Εάν χάσετε τη συσκευή σας, μπορείτε να μεταβείτε στο &lt;font color=#ff0000>%s&lt;/font> να εντοπίσετε, να κλειδώσετε ή να την επαναφέρετε. Μπορείτε να αλλάξετε αυτήν τη λειτουργία οποτεδήποτε στις Ρυθμίσεις.</string>
+     <string name="find_device_dspt_provision">Εάν χάσετε τη συσκευή σας, μπορείτε να μεταβείτε στο &lt;font color=#ff0000&gt;%s&lt;/font&gt; να εντοπίσετε, να κλειδώσετε ή να την επαναφέρετε. Μπορείτε να αλλάξετε αυτήν τη λειτουργία οποτεδήποτε στις Ρυθμίσεις.</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
      <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_error_network">Ελέγξτε τη σύνδεση δεδομένων σας και δοκιμάστε ξανά.</string>
@@ -167,7 +167,7 @@
      <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ενεργοποιήστε την Εύρεση συσκευής για να ασφαλίσετε τα δεδομένα σας στο WeChat</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ενεργοποιήστε την Εύρεση συσκευής για να ασφαλίσετε τα δεδομένα σας στο Alipay</string>
      <string name="micloud_find_device_guide_progress">Ενεργοποίηση του Εύρεση συσκευής…</string>
-     <string name="micloud_find_device_guide_title">"Συνδεθείτε στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> για να εντοπίσετε, κλειδώσετε ή να διαγράψετε τη συσκευή σας. Αυτό μπορεί να σας βοηθήσει να τη βρείτε σε περίπτωση που χαθεί.<br />Αν τη χάσετε, μπορείτε να επικοινωνήσετε με τις υπηρεσίες ασφαλείας των εφαρμογών που χρησιμοποιείτε συχνά (π.χ. Alipay, WeChat, QQ) για να προστατεύσετε τους λογαριασμούς σας στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>."</string>
+     <string name="micloud_find_device_guide_title">"Συνδεθείτε στο &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; για να εντοπίσετε, κλειδώσετε ή να διαγράψετε τη συσκευή σας. Αυτό μπορεί να σας βοηθήσει να τη βρείτε σε περίπτωση που χαθεί.&lt;br/&gt; Αν τη χάσετε, μπορείτε να επικοινωνήσετε με τις υπηρεσίες ασφαλείας των εφαρμογών που χρησιμοποιείτε συχνά (π.χ. Alipay, WeChat, QQ) για να προστατεύσετε τους λογαριασμούς σας στο &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;."</string>
      <string name="micloud_find_device_open_fail">Αδυναμία ενεργοποίησης του Εύρεση συσκευής</string>
      <string name="micloud_find_device_opened">Εύρεση συσκευής, ενεργή</string>
      <string name="micloud_find_device_opened_content">Βρείτε τη συσκευή σας στη διεύθυνση %s</string>
@@ -488,7 +488,7 @@
 	  <string name="warning_bar_title_sync_off">Ο συγχρ. με το Xiaomi Cloud είναι ανενεργός</string>
       <string name="enable_sync_setting_title">Ρύθμιση υπηρεσιών Cloud…</string>
       <string name="provision_sync_items_loading">Προετοιμασία συγχρονισμού στοιχείων</string>
-      <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Πολιτική Απορρήτου&lt;/a&gt;&lt;/u&gt; μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
+      <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Πολιτική Απορρήτου&lt;/u&gt;&lt;/a&gt; μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
 	  <string name="micloud_request_sync_too_frequent">Πάρα πολλά αιτήματα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
 	  <string name="waiting_for_sync">Αναμονή...</string>
 	  <string name="system_busy_or_network_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>

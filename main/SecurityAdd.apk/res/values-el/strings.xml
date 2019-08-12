@@ -75,7 +75,7 @@
 	<string name="superpower_settings">Ultra Εξοικονόμηση μπαταρίας</string>
 	<string name="superpower_system">Προτείνεται</string>
 	<string name="superpower_third">Εφαρμογές τρίτων</string>
-    <string name="superpower_exit_hint">Απενεργοποίηση Υπέρ εξοικονόμησης μπαταρίας…</string>
+    <string name="superpower_exit_hint">Απενεργοποίηση Υπέρ εξοικ/σης…</string>
 	<string name="title_share_link">Κοινόχρηστη διεύθυνση URL</string>
 	<string name="usage_sorted_loading_text">Μισό λεπτό…</string>
 	<string name="xunyou_pay_webview">Υπηρεσίες Xunyou</string>
