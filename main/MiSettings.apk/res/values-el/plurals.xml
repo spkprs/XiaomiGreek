@@ -9,20 +9,20 @@
     <item quantity="one">Ξεκλειδώθηκε %d φορά</item>
   </plurals>
   <plurals name="usage_state_device_noti_explain_today">
-    <item quantity="other">Έλαβε %d ειδοποιήσεις</item>
-    <item quantity="one">Έλαβε %d ειδοποίηση</item>
+    <item quantity="other">Ελήφθησαν %d ειδοποιήσεις</item>
+    <item quantity="one">Ελήφθη %d ειδοποίηση</item>
   </plurals>
   <plurals name="usage_state_device_noti_explain_week">
-    <item quantity="other">Έλαβε %d ειδοποιήσεις</item>
-    <item quantity="one">Έλαβε %d ειδοποίηση</item>
+    <item quantity="other">Ελήφθησαν %d ειδοποιήσεις</item>
+    <item quantity="one">Ελήφθη %d ειδοποίηση</item>
   </plurals>
   <plurals name="usage_state_hour">
     <item quantity="other">%d ώρες</item>
     <item quantity="one">%d ώρα</item>
   </plurals>
   <plurals name="usage_state_hour_text">
-    <item quantity="other">ώρες</item>
-    <item quantity="one">ώρα</item>
+    <item quantity="other">" ώρες"</item>
+    <item quantity="one">" ώρα"</item>
   </plurals>
   <plurals name="usage_state_hour24">
     <item quantity="other">%d ώρες</item>
@@ -45,12 +45,12 @@
     <item quantity="one">%d φορά</item>
   </plurals>
   <plurals name="usage_state_week_day_hour">
-    <item quantity="other">Σαββατοκύριακο: %d ώρες</item>
-    <item quantity="one">Σαββατοκύριακο: %d ώρα</item>
+    <item quantity="other">Σαββατοκύριακα: %d ώρες</item>
+    <item quantity="one">Σαββατοκύριακα: %d ώρα</item>
   </plurals>
   <plurals name="usage_state_week_day_minute">
-    <item quantity="other">Σαββατοκύριακο: %d λεπτά</item>
-    <item quantity="one">Σαββατοκύριακο: %d λεπτό</item>
+    <item quantity="other">Σαββατοκύριακα: %d λεπτά</item>
+    <item quantity="one">Σαββατοκύριακα: %d λεπτό</item>
   </plurals>
   <plurals name="usage_state_work_day_hour">
     <item quantity="other">Εργάσιμες: %d ώρες</item>
