@@ -484,6 +484,7 @@
      <string name="saturday">Σάββατο</string>
      <string name="saturday_short">Σαβ</string>
      <string name="saturday_shortest">Σ</string>
+     <string name="search_action_mode_cancel">Ακύρωση</string>
      <string name="search_input_description">Εύρεση</string>
      <string name="search_mode_button_back_description">Πίσω</string>
      <string name="select_all">Επιλογή όλων</string>

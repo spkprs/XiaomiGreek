@@ -60,10 +60,6 @@
     <string name="accessibility_setting_button">Κουμπί πρόσθετων ρυθμίσεων</string>
     <string name="accessibility_shutter_button">Κουμπί κλείστρου</string>
     <string name="accessibility_stereo_button">Ρύθμιση Εστίασης</string>
-    <string name="accessibility_ultra_pixel_photography_32mp_off">32MP ανενεργό</string>
-    <string name="accessibility_ultra_pixel_photography_32mp_on">32MP ανενεργό</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_off">48MP ανενεργό</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_on">48MP ανενεργό</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD ανενεργό</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD ενεργό</string>
     <string name="accessibility_ultra_wide_off">Υπέρ Ευρεία γωνία, Ανενεργή</string>
@@ -679,8 +675,6 @@
     <string name="pref_google_lens_title">Προτάσεις Φακού Google</string>
     <string name="pref_groupshot_with_primitive_title">Αποθήκευση αρχικών φωτό, επίσης.</string>
 	<string name="pref_manual_exposure_title">Έκθεση</string>
-    <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
-    <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
     <string name="pref_mi_front_video_quality_default">6</string>
     <string name="pref_mtk_video_quality_default">10</string>
 	<string name="pref_new_slow_motion_video_quality_240_720only">Μπορείτε να καταγράψετε βίντεο μόνο σε 720P με 240FPS</string>
@@ -807,10 +801,6 @@
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
-    <string name="ultra_pixel_photography_32mp_close_tip">32MP ανενεργό</string>
-    <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
-    <string name="ultra_pixel_photography_48mp_close_tip">48MP ανενεργό</string>
-    <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD ανενεργό</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD ενεργό</string>
     <string name="ultra_pixel_zoom_no_support_tip">"Το Ζούμ δεν λειτουργεί σε %s Ultra HD"</string>
@@ -850,5 +840,15 @@
 	<string name="wideselfie_rotate_to_front">Κλίση της συσκευής εμπρός</string>
     <string name="wideselfie_rotate_to_left_slowly">Περιστρέψτε προς τα αριστερά</string>
     <string name="wideselfie_rotate_to_right_slowly">Περιστρέψτε προς τα δεξιά</string>
-    <string name="zoom_no_support_tip_48M">Το ζουμ δεν υποστηρίζεται στη λειτουργία 48MP</string>
+	<string name="live_sticker_tab_name">TikTok Μαγικό αυτοκόλλητο</string>
+	<string name="macro_mode_use_hint_text_body">"Ενεργοποιήστε τη λειτουργία μακροεντολών για να καταγράψετε έναν πιο μικροσκοπικό κόσμο για εσάς
+Εξερευνήστε την ομορφιά των περισσότερων λεπτομερειών"</string>
+	<string name="macro_mode_use_hint_text_title">Λειτουργία μακροεντολών</string>
+	<string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+	<string name="recommend_macro_mode">Συνιστάται η ενεργοποίηση της μακροεντολής</string>
+	<string name="recommend_portrait">Συνιστώμενη λειτουργία πορτρέτου</string>
+	<string name="recommend_super_night">Προτεινόμενη λειτουργία νυχτερινής προβολής</string>
+	<string name="super_night_hint">Βελτιστοποίηση ποιότητας εικόνας</string>
+	<string name="ultra_pixel_portrait_hint">Σούπερ καθαρό πορτρέτο</string>
+	<string name="vv_start">Ξεκινήστε τη λήψη VV</string>
 </resources>

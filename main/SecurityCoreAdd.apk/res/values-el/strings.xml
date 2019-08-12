@@ -95,6 +95,8 @@
      <string name="do_not_ask">Μην ρωτήσετε ξανά</string>
      <string name="dont_import">Όχι τώρα</string>
      <string name="downloading_space">Λήψη…</string>
+     <string name="dual_animation">Έναρξη κινήσεων</string> 
+     <string name="dual_animation_description">Εμφάνιση κινήσεων κατά την έναρξη Διπλών εφαρμογών</string>
      <string name="enable">Ενεργοποίηση</string>
      <string name="encrypt_space_delete_dialog_click_message">*Αν δεν χρειάζεται να μεταφέρετε δεδομένα, %s</string>
      <string name="encrypt_space_delete_dialog_click_message_action">διαγράψτε και δημιουργήστε Δεύτερο Χώρο τώρα.</string>

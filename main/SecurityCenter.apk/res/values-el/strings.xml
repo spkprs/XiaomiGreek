@@ -405,7 +405,7 @@
      <string name="battery_desc_apps">Χρήση μπαταρίας της εφαρμογής</string>
      <string name="battery_desc_bluetooth">Χρήση μπαταρίας από Bluetooth</string>
      <string name="battery_desc_display">Χρήση μπαταρίας από φωτισμό οθόνης</string>
-     <string name="battery_desc_other_apps">Συνολική ενέργεια που καταναλώνεται από άλλες εφαρμογές</string>
+     <string name="battery_desc_other_apps">Συνολική κατανάλωση άλλων εφαρμογών</string>
      <string name="battery_desc_radio">Χρήση μπαταρίας από σήμα GSM</string>
      <string name="battery_desc_standby">Χρήση μπαταρίας όταν το τηλέφωνο βρίσκεται σε αδράνεια</string>
      <string name="battery_desc_voice">Χρήση μπαταρίας από φωνητικές κλήσεις</string>
@@ -1634,7 +1634,7 @@
      <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_install_manager">Εγκατάσταση μέσω USB</string>
      <string name="pc_main_activity_back">Πίσω</string>
-     <string name="pc_settings_title">Ρυθμίσεις βελτιστοποίησης μπαταρίας</string>
+     <string name="pc_settings_title">Μπαταρία &amp; Απόδοση</string>
      <string name="pc_to_phone_install">Αποκλείσθηκε η εγκατάσταση του %s μέσω USB</string>
      <string name="per_month_pkg_traffic_settings">Ορισμός ορίου δεδομένων</string>
      <string name="percent_formatted_text">%s%%</string>
@@ -1706,9 +1706,9 @@
      <string name="power_center_stop_scan_title">Διακοπή σάρωσης</string>
      <string name="power_center_time_to_boot">Ώρα ενεργοποίησης</string>
      <string name="power_center_time_to_shutdown">Ώρα απενεργοποίησης</string>
-     <string name="power_center_title">Βελτιστοποίηση μπαταρίας</string>
+     <string name="power_center_title">Μπαταρία &amp; Απόδοση</string>
      <string name="power_consume_hardware_total_format">Υλικό: %s</string>
-     <string name="power_consume_other">Άλλο</string>
+     <string name="power_consume_other">Άλλες</string>
      <string name="power_consume_rank_hardware">Υλικό</string>
      <string name="power_consume_rank_software">Εφαρμογές</string>
      <string name="power_consume_rank_title">Χρήση ενέργειας</string>
@@ -2839,4 +2839,13 @@
 	<string name="pc_search_keywords_capacity">Χωρητικότητα μπαταρίας</string>
 	<string name="pc_search_keywords_property">Απόδοση</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Εάν επιλέξετε να μην δώσετε τα απαιτούμενα δικαιώματα ή δεν μας επιτρέψετε να συλλέξουμε και να χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα μπορεί να λειτουργήσει μερικώς."</string>
+    <string name="battery_and_property">Μπαταρία &amp; Απόδοση</string>
+	<string name="power_setting_config_scenario_policies_title">Σενάρια</string>
+	<string name="power_setting_features">Ειδικά χαρακτηριστικά</string>
+	<string name="power_setting_important_warning">Προσοχή</string>
+	<string name="power_setting_scenario_policies_summary">Προσδιορίστε τα σενάρια για εναλλαγή μεταξύ των τρόπων εξοικονόμησης μπαταρίας αυτόματα</string>
+	<string name="power_setting_warm_configure">Ελεγχος θερμοκρασίας</string>
+	<string name="power_setting_warm_performance_tip">Τα σενάρια που απαιτούν μεγάλη κατανάλωση ενέργειας θα αυξήσουν τη θερμοκρασία της συσκευής σας πάνω από τα επίπεδα της προεπιλεγμένης λειτουργίας ελέγχου θερμοκρασίας.</string>
+	<string name="power_setting_wireless_reverse_charging_summary">Φορτίστε ασύρματα συμβατές συσκευές</string>
+	<string name="power_setting_wireless_reverse_charging_title">Αντίστροφη ασύρματη φόρτιση</string>
 </resources>

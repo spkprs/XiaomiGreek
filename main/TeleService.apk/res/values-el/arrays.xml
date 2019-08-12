@@ -527,10 +527,6 @@
 		<item>Αποκλεισμένος</item>
 		<item>Προσωρινή αποφυγή κακής σύνδεσης</item>
      </string-array>
-     <string-array name="wificall_preferred_entries">
-        <item>@string/wfcmode_mobile_preferred</item>
-        <item>@string/wfcmode_wifi_preferred</item>
-     </string-array>
      <string-array name="window_animation_scale_entries">
 		<item>Απενεργοποίηση</item>
 		<item>Κλίμακα κίνησης .5x</item>

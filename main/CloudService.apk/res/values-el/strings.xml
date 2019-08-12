@@ -488,8 +488,6 @@
 	  <string name="warning_bar_title_sync_off">Ο συγχρ. με το Xiaomi Cloud είναι ανενεργός</string>
       <string name="enable_sync_setting_title">Ρύθμιση υπηρεσιών Cloud…</string>
       <string name="provision_sync_items_loading">Προετοιμασία συγχρονισμού στοιχείων</string>
-	  <string name="user_detail_agreement">Συμφωνία χρήστη</string>
-	  <string name="user_detail_privacy_policy">Πολιτική απορρήτου</string>
       <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Πολιτική Απορρήτου&lt;/a&gt;&lt;/u&gt; μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
 	  <string name="micloud_request_sync_too_frequent">Πάρα πολλά αιτήματα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
 	  <string name="waiting_for_sync">Αναμονή...</string>
@@ -501,4 +499,9 @@
 	  <string name="sync_setting_title">Ρυθμίσεις Συγχρ/μού</string>
 	  <string name="data_protection_title">Ασφάλεια Δεδ/νων</string>
 	  <string name="cloud_lab_title">Εργαστήριο Cloud</string>
+	  <string name="pre_privacy_policy">Πολιτική απορρήτου</string>
+	  <string name="pre_user_agreement">Συμφωνία χρήστη</string>
+	  <string name="privacy_and_agreement">Απόρρητο και Συμφωνία</string>
+	  <string name="sync_normal_summary">"Ορισμένα στοιχεία από την παρακάτω λίστα δεν ήταν δυνατό να συγχρονιστούν"</string>
+	  <string name="sync_normal_title">"Δεν ήταν δυνατή η ολοκλήρωση του συγχρονισμού"</string>
 </resources>

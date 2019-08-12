@@ -310,6 +310,7 @@
   <string name="card_title_redialing">Επανάκληση</string>
   <string name="card_title_unconditionalCF">Η προώθηση κλήσεων άνευ όρων είναι ενεργοποιημένη</string>
   <string name="carrier_info">Πληροφορίες φορέα</string>
+  <string name="carrier_settings_euicc">Πάροχος</string>
   <string name="carrier_settings_title">Ρυθμίσεις φορέα</string>
   <string name="category_personal">Προσωπικός</string>
   <string name="category_work">Δουλειά</string>
@@ -751,6 +752,7 @@
   <string name="local_enable">Τοπικές ειδήσεις ενεργοποιημένες</string>
   <string name="local_weather_disable">Τοπικός καιρός ανενεργός</string>
   <string name="local_weather_enable">Τοπικός καιρός ενεργός</string>
+  <string name="location">Περιοχή</string>
   <string name="lodgings_disable">Καταλύματα ανενεργά</string>
   <string name="lodgings_enable">Καταλύματα ενεργά</string>
   <string name="maintenance_disable">Συντήρηση απενεργοποιημένη</string>
@@ -915,7 +917,8 @@
   <string name="open_miui">Άνοιγμα</string>
   <string name="opened_dual_4g_confirm_prompt">Φαίνεται οτι έχετε μια κάρτα SIM 4G. Η Διπλή 4G ενεργοποιήθηκε αυτόματα.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">Η SIM %1$s υποστηρίζει μόνο 4G. Για να βεβαιωθείτε ότι λειτουργεί κανονικά, η Διπλή 4G να είναι ενεργοποιημένη.</string>
-  <string name="optional_summary">&lt;Προαιρετικό&gt;</string>
+  <string name="operator">Πάροχος</string>
+  <string name="optional_summary">&lt;Προαιρετικό></string>
   <string name="ota_activate">Ενεργοποίηση</string>
   <string name="ota_call_end">Πίσω</string>
   <string name="ota_failure">Προγραμματισμός ανεπιτυχής</string>
@@ -1184,7 +1187,7 @@
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Προτιμώμενος τύπος δικτύου</string>
   <string name="preferred_phone_account">Προτιμώμενος λογαριασμός κλήσης</string>
-  <string name="preferred_wificall_title">Προτιμήσεις δικτύου</string>
+  <string name="preferred_wificall_title">Προτίμηση δικτύου</string>
   <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
   <string name="private_num">Απόρρητος αριθμός</string>
   <string name="process_kernel_label">Android OS</string>
@@ -1278,7 +1281,7 @@
   <string name="search_app_name">Τηλέφωνο; Ηχογράφηση κλήσης; Ανακατεύθυνση κλήσεων; Ανακατεύθυνση; Αναμονή κλήσης; Λίστα αποκλεισμού; Κωδικός χώρας; Κωδικός περιοχής; Κωδικοί περιοχής; Τηλεφωνική κλήση; VoLTE; Αναπάντητη κλήση;κλήσεις;SIP;T9;IP τηλεφωνία;FDN</string>
   <string name="search_networks">Αναζήτηση δικτύων</string>
   <string name="select_application">Επιλέξτε εφαρμογή</string>
-  <string name="select_automatically">Επιλέξτε αυτόματα</string>
+  <string name="select_automatically">Αυτόματη επιλογή</string>
   <string name="select_logd_size_dialog_title">Επιλέξτε Μέγεθος καταγραφέα ανά buffer απογραφής</string>
   <string name="select_logd_size_title">Τα μεγέθη του buffer καταγραφής</string>
   <string name="select_usb_configuration_dialog_title">Επιλέξτε Διαμόρφωση USB</string>
@@ -1355,11 +1358,12 @@
   <string name="sip_settings">Ρυθμίσεις SIP</string>
   <string name="sip_system_decide">Αυτόματο</string>
   <string name="smart_divert_summary">Ρυθμίσεις CFNRc</string>
-  <string name="smart_divert_title">Smart-Divert</string>
+  <string name="smart_divert_title">Έξυπνη εκτροπή</string>
+  <string name="smsc_dialog_message">"Βεβαιωθείτε ότι ο αριθμός που πληκτρολογείτε είναι σωστός. Διαφορετικά, δεν θα μπορείτε να στέλνετε ή να λαμβάνετε SMS. Επικοινωνήστε με τον πάροχό σας για να επιβεβαιώσετε τον αριθμό SMSC."</string>
   <string name="sports_news_settings">Αθλητικές Ειδήσεις</string>
-  <string name="srvcc_message">η φωνητική κλήση 4G έχει υποβαθμιστεί σε 2G/3G, επειδή το δίκτυο 4G δεν είναι διαθέσιμο.</string>
+  <string name="srvcc_message">Η φωνητική κλήση 4G έχει υποβαθμιστεί σε 2G/3G, επειδή το δίκτυο 4G δεν είναι διαθέσιμο.</string>
   <string name="srvcc_video_message">Η κλήση βίντεο έχει υποβαθμιστεί σε φωνητική κλήση 2G/3G, επειδή το δίκτυο 4G δεν είναι διαθέσιμο.</string>
-  <string name="status_hint_label_incoming_wifi_call">Εισερχόμενη κλήση Wi‑Fi</string>
+  <string name="status_hint_label_incoming_wifi_call">Κλήση Wi‑Fi από</string>
   <string name="status_hint_label_wifi_call">Κλήση Wi‑Fi</string>
   <string name="stk_cc_ss_to_dial_error">Αίτημα SS τροποποιήθηκε σε αίτημα κλήσης.</string>
   <string name="stk_cc_ss_to_ss_error">Αίτημα SS τροποποιήθηκε σε νέο αίτημα SS.</string>
@@ -1505,7 +1509,9 @@
   <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για Σίγαση Κλήσης απενεργοποίηση Δόνησης και Φωτισμού ειδοποίησης.</string>
   <string name="turnover_mute_title">Αναποδογυρίστε για σίγαση</string>
   <string name="undefined">Απροσδιόριστο</string>
-  <string name="unknown">Άγνωστος</string>
+  <string name="unknown">Άγνωστη</string>
+  <string name="unlock_failed">Αίτηση ξεκλειδώματος δικτύου ανεπιτυχής.</string>
+  <string name="unlock_success">Επιτυχές ξεκλείδωμα δικτύου.</string>
   <string name="updating_fdn_contact">Ενημέρωση σταθερού αριθμού κλήσης…</string>
   <string name="updating_settings">Ενημέρωση ρυθμίσεων…</string>
   <string name="updating_title">Ρυθμίσεις κλήσεων</string>
@@ -1576,9 +1582,9 @@
   <string name="wait_for_debugger">Περιμένετε για τον εντοπισμό σφαλμάτων</string>
   <string name="wait_for_debugger_summary">Η εφαρμογή εντοπισμού σφαλμάτων περιμένει για την επισύναψη του εντοπισμού σφάλματος πριν από την εκτέλεση</string>
   <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων?</string>
-  <string name="wfcmode_mobile_preferred">Προτίμηση Δεδ. Κινητής</string>
+  <string name="wfcmode_mobile_preferred">Μέσω Δεδομένων</string>
   <string name="wfcmode_wifi_only">Wi-Fi μόνο</string>
-  <string name="wfcmode_wifi_preferred">Προτίμηση Wi-Fi</string>
+  <string name="wfcmode_wifi_preferred">Μέσω Wi-Fi</string>
   <string name="wifi_aggressive_handover">Επιθετικό Wi-Fi έως Cellular handover</string>
   <string name="wifi_aggressive_handover_summary">Όταν είναι ενεργοποιημένη, το Wi-Fi θα είναι πιο επιθετικό στην παράδοση της σύνδεσης δεδομένων στο Cellular, όταν το σήμα Wi-Fi είναι χαμηλό</string>
   <string name="wifi_allow_scan_with_traffic">Να επιτρέπεται πάντα η σάρωση Wi-Fi Roam</string>
