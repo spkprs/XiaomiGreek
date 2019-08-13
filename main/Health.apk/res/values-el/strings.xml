@@ -61,48 +61,47 @@
   <string name="chart_no_data">Χωρίς δεδομένα</string>
   <string name="chip_text">Τσιπ κειμένου</string>
   <string name="clear_text_end_icon_content_description">Καθαρό κείμενο</string>
-  <string name="consumption_format_with_unit">%1$d %2$s</string>
   <string name="copy_done">Η αντιγραφή έγινε με επιτυχία</string>
   <string name="copyright_statement">Πνευματικά δικαιώματα © Xiaomi Inc. Ολα τα δικαιώματα διατηρούνται.</string>
   <string name="daily_consumption_label">Θερμίδες</string>
   <string name="daily_distance_label">Απόσταση</string>
   <string name="daily_steps">Βήματα</string>
   <string name="daily_time_label">Χρόνος</string>
-  <string name="date_format_m_d">%1$d/%2$d</string>
-  <string name="date_format_y_m">%1$d/%2$d</string>
-  <string name="date_format_y_m_d">%1$d/%2$d/%3$d</string>
-  <string name="date_week_index">%1$d, Εβδομάδα %2$d</string>
+  <string name="date_format_m_d">M/d</string>
+  <string name="date_format_mm_dd">MMM dd</string>
+  <string name="date_format_y_m">MMM yyyy</string>
+  <string name="date_format_y_m_d">MM/dd/yyyy</string>
+  <string name="date_week_index">yyyy \'Εβδομάδα\' wwη</string>
   <string name="day">Ημέρα</string>
-  <string name="day_in_month_format">%1$d</string>
   <string name="deep_sleep">Βαθύς ύπνος</string>
   <string name="delete_menstruation_record_confirm">Διαγραφή αυτής της εγγραφής;</string>
   <string name="detail_format">%1$.1f</string>
-  <string name="dialog_abandon">Απορρίψτε</string>
+  <string name="dialog_abandon">Απόρριψη</string>
   <string name="dialog_abandon_sleep_edit">Απορρίψτε τις αλλαγές;</string>
   <string name="dialog_agree_and_continue">Συμφωνώ</string>
   <string name="dialog_auto_start_title">Να επιτρέπεται η αυτόματη εκκίνηση του Mi Health</string>
   <string name="dialog_cancel">Ακύρωση</string>
   <string name="dialog_confirm">OK</string>
-  <string name="dialog_data_collect_detail">"Το Mi Health συλλέγει, επεξεργάζεται και χρησιμοποιεί τις παρακάτω πληροφορίες για την παροχή εξατομικευμένων υπηρεσιών:
-- Προσωπικές πληροφορίες, συμπεριλαμβανομένων των γενεθλίων σας, φύλου, ύψους και βάρους, τα οποία χρησιμοποιούνται για τη δημιουργία ακριβών στατιστικών στοιχείων και εξατομικευμένων συμβουλών υγείας.
-- Στατιστικά στοιχεία δραστηριότητας και ύπνου, συμπεριλαμβανομένων των τύπων δραστηριότητάς σας, της διάρκειας δραστηριότητας, του αριθμού βημάτων, των στόχων, του χρόνου και της διάρκειας του ύπνου, τα οποία θα χρησιμοποιηθούν για αποθήκευση, παρουσίαση και δημιουργία στατιστικών.</string>
-  <string name="dialog_data_collect_title">Προσωπικά δεδομένα</string>
+  <string name="dialog_date_select">Επιλέξτε ημερομηνία</string>
   <string name="dialog_delete">Διαγραφή</string>
+  <string name="dialog_exercise_purpose">Καλώς ήλθατε στην υπηρεσία βημάτων Mi Health Sports. Μπορείτε με αυτήν την υπηρεσία για να προβάλετε τις λειτουργίες των δεδομένων του αθλητικού βήματος και διαχείρισης αθλητικών στόχων. Τα δεδομένα σας αποθηκεύονται μόνο στο τηλέφωνο και τα διαχειρίζεστε μόνοι σας.</string>
   <string name="dialog_exit">Εξοδος</string>
   <string name="dialog_juveniles_details">Σύμφωνα με την Πολιτική Προστασίας Προσωπικών Δεδομένων, η ελάχιστη ηλικία για τη χρήση αυτού του προϊόντος είναι 18 ετών.</string>
+  <string name="dialog_juveniles_link">Σύμφωνα με την &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt;&lt;/font&gt;, η ελάχιστη ηλικία για τη χρήση αυτού του προϊόντος είναι 18 ετών.</string>
   <string name="dialog_known">Το κατάλαβα</string>
   <string name="dialog_main_purpose">Καταγράψτε συμπεριφορές υγείας, κατάσταση υγείας και λάβετε συμβουλές υγείας</string>
-  <string name="dialog_network_agree_title">Πρόσβαση στο δίκτυο</string>
-  <string name="dialog_network_detail">Το Mi Health χρειάζεται να συνδεθεί στο internet για να λειτουργήσει κανονικά. Συμφωνείτε;</string>
+  <string name="dialog_menstruation_purpose">Καλώς ήλθατε στην υπηρεσία του έμμηνου βοηθού Mi Health. Μπορείτε με αυτήν την υπηρεσία να καταγράψετε τη λειτουργία της περιόδου, πρόβλεψη και υπενθύμιση. Τα δεδομένα σας αποθηκεύονται μόνο στο κινητό τηλέφωνο. Τα διαχειρίζεστε μόνο εσείς.</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_permission_loading_msg">Ελεγχος…</string>
   <string name="dialog_privacy_description">"Καλώς ήρθατε στο Mi Health! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να καταγράψετε τη δραστηριότητά σας, να παρακολουθείτε τον ύπνο σας και πολλά άλλα.
 Θα πρέπει να συνδεθεί στο δίκτυο, καθώς και να συλλέξει, να επεξεργαστεί και να χρησιμοποιήσει τα προσωπικά σας στοιχεία για να λειτουργήσει κανονικά.
 Τα προσωπικά σας στοιχεία θα συλλέγονται, θα υποβάλλονται σε επεξεργασία και θα χρησιμοποιούνται σύμφωνα με τους σχετικούς νόμους και κανονισμούς. Ανατρέξτε στην Πολιτική χρήσης και στην Πολιτική απορρήτου για περισσότερες λεπτομέρειες."</string>
-  <string name="dialog_privacy_details">Πριν χρησιμοποιήσετε τη Mi Health, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήσης και την Πολιτική Απορρήτου.</string>
+  <string name="dialog_privacy_link">Καλώς ήρθατε στη Mi Health! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να καταγράψετε τη δραστηριότητά σας, να παρακολουθείτε τον ύπνο σας και άλλα. Η Mi Health πρέπει να συνδεθεί στο διαδίκτυο, καθώς και να συλλέγει, επεξεργάζεται και να χρησιμοποιεί τις προσωπικές σας πληροφορίες για να λειτουργεί φυσιολογικά.&lt;/br&gt; Οι προσωπικές σας πληροφορίες θα συλλέγονται, επεξεργάζονται και χρησιμοποιούνται σύμφωνα με τους σχετικούς νόμους και κανονισμούς.  Ανατρέξτε στους &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%1$s\"&gt;Όρους Χρήσης&lt;/a &gt;&lt;/font&gt; και την  &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%2$s\"&gt;Πολιτική Απορρήτου&lt;/a &gt;&lt;/font&gt; για περισσότερες πληροφορίες.</string>
   <string name="dialog_privacy_policy_statement">Δήλωση Πολιτικής Απορρήτου</string>
   <string name="dialog_privacy_title">Οροι και Προϋποθέσεις</string>
-  <string name="dialog_sure">Σίγουρα</string>
+  <string name="dialog_read_phone_perm_desc">"Το IMEI της συσκευής αποκτάται για να παρέχει μια αντίστοιχη υπηρεσία.
+Αν δεν συμφωνείτε με τα παραπάνω δικαιώματα, δεν επηρεάζει τη χρήση της υπηρεσίας από εσάς.Αφού συμφωνήσετε, μπορείτε να μεταβείτε στις Ρυθμίσεις &gt; Κωδικοί, Ασφάλεια απορρήτου &gt; Ασφάλεια συστήματος &gt; Προγράμματος εμπειρίας χρήστη για τον τερματισμό του."</string>
+  <string name="dialog_sure">Προτίμηση</string>
   <string name="drink_water">Πιείτε λίγο νερό και κάντε μια βόλτα.</string>
   <string name="edit_basic_info_desc">Βασικές πληροφορίες</string>
   <string name="empty_data">-</string>
@@ -173,12 +172,9 @@
   <string name="mi_health">Mi Υγεία</string>
   <string name="modify_end_date">Αλλάξτε την ημερομηνία λήξης</string>
   <string name="month">Μήνας</string>
-  <string name="month_sleep_history_title_pattern">Κοιμηθείτε σε MMMM\n</string>
   <string name="mtrl_badge_numberless_content_description">Νέα ειδοποίηση</string>
   <string name="mtrl_chip_close_icon_content_description">Καταργήσετε %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-  <string name="mtrl_picker_cancel">@android:string/cancel</string>
-  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Επιλέξτε μια ημερομηνία</string>
@@ -218,8 +214,16 @@
   <string name="prompt_sleep_time_night">Νυχτερινός ύπνος</string>
   <string name="prompt_sleep_time_noon">Ημερησίως</string>
   <string name="recorded_menstruation">Καταγεγραμμένη περίοδος</string>
+  <string name="remind">Υπενθύμιση</string>
   <string name="remind_goto_sleep">Είναι αργά τώρα. Ωρα να παω στο κρεβάτι.</string>
+  <string name="remind_menstruation_acquired_start">Η εμμηνόρροιά σας ξεκινάει σε 2 ημέρες</string>
+  <string name="remind_query_menstruation_end">Τελείωσε η εμμηνόρροιά σας; Μην ξεχάσετε να την καταγράψετε.</string>
+  <string name="remind_query_menstruation_start">Ξεκίνησε η εμμηνόρροιά σας; Μην ξεχάσετε να την καταγράψετε.</string>
   <string name="remind_sleep_report_complete">Τα στατιστικά του ύπνου είναι έτοιμα</string>
+  <string name="remind_subtitle_menstruation_start">Λάβετε υπενθύμιση 2 ημέρες πριν από την πιθανή έναρξη της επόμενης εμμηνόρροιας</string>
+  <string name="remind_subtitle_record">Λάβετε υπενθυμίσεις όταν πρέπει να καταγράψετε της ημερομηνίες έναρξης και τέλους των εμμηνορροιών σας</string>
+  <string name="remind_title_menstruation_start">Υπενθύμιση για την αρχή της εμμηνόρροιας</string>
+  <string name="remind_title_record">Υπενθύμιση για καταγραφή</string>
   <string name="revert_to_default">Επαναφορά προεπιλογών</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="sedentary_detail_title">Το να κάθεσαι για πολύ καιρό είναι επιβλαβές.</string>
@@ -238,15 +242,11 @@
   <string name="setting_sedentary_off">OFF</string>
   <string name="setting_sedentary_on">ON</string>
   <string name="setting_sedentary_title">Υπενθύμιση για μετακίνηση</string>
-  <string name="skip">Παραλείψετε</string>
+  <string name="skip">Παράληψη</string>
   <string name="sleep">Υπνος</string>
   <string name="sleep_auto_start_perm_grant">Δικαιώματα που χορηγούνται</string>
-  <string name="sleep_chart_date_label">MM/dd/yyyy</string>
   <string name="sleep_chart_empty">Χωρίς δεδομένα</string>
   <string name="sleep_chart_loading">Μισό λεπτό…</string>
-  <string name="sleep_chart_top_day_title">MM/dd/yyyy</string>
-  <string name="sleep_chart_top_month_title">MMM yyyy</string>
-  <string name="sleep_chart_top_week_title">yyyy, εβδομάδα %2$d</string>
   <string name="sleep_day">Ημέρα</string>
   <string name="sleep_detector_content">Το Mi Health παρακολουθεί τον ύπνο σας στο παρασκήνιο</string>
   <string name="sleep_detector_title">Παρακολούθηση ύπνου</string>
@@ -255,7 +255,7 @@
   <string name="sleep_goal_maybe_compliance">Σχετικά καλός ύπνος</string>
   <string name="sleep_goal_not_compliance">Δεν υπάρχει αρκετός ύπνος</string>
   <string name="sleep_month">Μήνας</string>
-  <string name="sleep_no_data_info">"Πέρασε μια πλήρη
+  <string name="sleep_no_data_info">"Πέρασε ένας πλήρης
 κύκλος ύπνου"</string>
   <string name="sleep_no_generate_report">"Δεν μπόρεσα να βρω
 δεδομένα ύπνου"</string>
@@ -286,7 +286,6 @@
   <string name="state_disagree">Περιορισμένη</string>
   <string name="state_disagree2">"Δεν συμφωνώ"</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="step_num_format">%1$d βήματα</string>
   <string name="stub_string">-</string>
   <string name="subtitle_be_ready">Προετοιμάσου</string>
   <string name="subtitle_exercise_and_sleep">Μείνετε δραστήριοι σωματικά και απολαμβάνετε αρκετό ύπνο</string>
@@ -301,12 +300,10 @@
   <string name="suggestion_move_title">Ώρα να κινηθούμε!</string>
   <string name="suggestion_title">Προτάσεις</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="sustain_time">-h-m</string>
   <string name="sustain_title">"Δεν έχεις κινηθεί για "</string>
   <string name="text_edit_exercise_goal">Αλλαγή στόχου</string>
   <string name="text_no_value">--</string>
   <string name="text_save_exercise_goal">Εγινε</string>
-  <string name="times_format">%1$d φορές</string>
   <string name="tips_default">Τίποτα ακόμα.</string>
   <string name="title_auto_run">Αυτόματη εκκίνηση</string>
   <string name="title_click_record_menstruation">Καταγράψτε μια περίοδο</string>
@@ -324,18 +321,18 @@
   <string name="tomorrow">Αύριο</string>
   <string name="total_consumption_label">Συνολικές θερμίδες</string>
   <string name="total_distance_label">Συνολική απόσταση</string>
-  <string name="total_time_label">Συνολικός χρόνος</string>
+  <string name="total_time_label">"Συνολικός
+χρόνος"</string>
   <string name="turn_on_necessary_permissions">Απαιτούνται δικαιώματα για τον εντοπισμό του ύπνου.</string>
   <string name="unable_record_future_menstruation">Δεν είναι δυνατή η καταγραφή μελλοντικών περιόδων</string>
   <string name="unit_day">Ημέρα</string>
-  <string name="unit_hour">" h"</string>
-  <string name="unit_k_kilo_calorie">k kcal</string>
+  <string name="unit_hour">" ω"</string>
   <string name="unit_kilo_calorie">" kcal"</string>
   <string name="unit_kilometre">" km"</string>
-  <string name="unit_metre">" m"</string>
-  <string name="unit_min">" m"</string>
+  <string name="unit_metre">" μ"</string>
+  <string name="unit_min">" λ"</string>
   <string name="unit_number_format">%1$d</string>
-  <string name="unit_second">" s"</string>
+  <string name="unit_second">" δ"</string>
   <string name="unit_thousand_format">%1$sK</string>
   <string name="update_notify_dialog_ignore">Αργότερα</string>
   <string name="update_notify_dialog_msg">"Διατίθεται μια ενημερωμένη έκδοση: %1$s.
@@ -347,9 +344,7 @@
   <string name="user_age_unit">Y.O.</string>
   <string name="user_agreement">Συμφωνία Χρήστη</string>
   <string name="user_birthday_display_format">MM/dd/yyyy</string>
-  <string name="user_height_display_format">%1$d %2$s</string>
   <string name="user_invalid_value">--</string>
-  <string name="user_weight_display_format">%1$d %2$s</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
