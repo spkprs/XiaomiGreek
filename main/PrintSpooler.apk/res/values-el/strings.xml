@@ -73,7 +73,7 @@
 	<string name="printer">Εκτυπωτής</string>
 	<string name="printer_busy">Ο εκτυπωτής είναι απασχολημένος</string>
 	<string name="printer_error">Σφάλμα εκτυπωτή</string>
-	<string name="printer_error_msg">Εκτυπωτή σφάλμα:…%1$s</string>
+	<string name="printer_error_msg">Εκτυπωτή σφάλμα: %1$s</string>
 	<string name="printer_notification_error_title">Δεν ήταν δυνατή η εκτύπωση %1$s</string>
 	<string name="printer_unavailable">Ο εκτυπωτής δεν είναι διαθέσιμος</string>
 	<string name="printing">Εκτύπωση…</string>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-	 <string name="about_app_name">Περί Θέματα</string>
+	<string name="author_attention">Ακολουθώ</string>
+	<string name="author_attention_success">Ακολουθώ επιτυχώς</string>
+	<string name="author_dialog_message">Δεν ακολουθείτε το λογαριασμό τώρα?</string>
+	<string name="author_dynamic">Κατάσταση</string>
+	<string name="author_dynamic_no_resource">"Χωρίς αποτέλεσμα"</string>
+	<string name="about_app_name">Σχετικά</string>
 	 <string name="about_version_update">"Τι νέο υπάρχει"</string>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -103,6 +108,9 @@
      <string name="description_version_szie">Έκδοση: %1$s Μέγεθος: %2$s</string>
      <string name="desktop_wallpaper">Επιφάνεια εργασίας</string>
      <string name="detail_recommend_title">Συνιστάται</string>
+     <string name="detail_author_attention_head">Ακολουθήστε μερικούς από τους πιο εκλεκτούς σχεδιαστές μας</string>
+     <string name="detail_author_fans">"Ακόλουθοι: "</string>
+     <string name="detail_author_works">"Στοιχεία: "</string>
      <string name="dev_options">Επιλογές για προγραμματιστές</string>
      <string name="dev_options_summary">Πηγές στο διαδίκτυο</string>
      <string name="download_failed">Η λήψη απέτυχε!</string>
@@ -661,6 +669,8 @@
     <string name="incall_show_remove_success">Επιτυχής αφαίρεση Προφίλ Βίντεο</string>
     <string name="mix_tip">Στοιχεία θέματος</string>
     <string name="present_local_fonts">Οι γραμ/σειρές μου</string>
+    <string name="resource_apply_trial">Εφαρμογή</string>
+    <string name="resource_download_trial">Δοκιμή</string>
     <string name="resource_trial_end_checkbox_hint">Λάβετε πρώτα τις πιστώσεις Mi</string>
     <string name="resource_trial_end_get_mibi">Λήψη πιστώσεων Mi</string>
     <string name="resource_trial_end_jump_hint">Ανακατεύθυνση…</string>
@@ -691,7 +701,6 @@
 	<string name="enable_accessibility_hint">"Μπορείτε να ενεργοποιήσετε αυτήν την υπηρεσία στα Θέματα. Μετά από αυτό, θα μπορείτε να επιλέξετε ποιες εφαρμογές θα πρέπει να λειτουργούν με διαφανή ταπετσαρίες."</string>
 	<string name="enable_transparent_wallpaper">Χρησιμοποιήστε διαφανή ταπετσαρία</string> 
 	<string name="go_accessibility_setting">Επιλογή</string>
-	<string name="loop_wallpaper_is_here">Διαθέσιμες παρουσιάσεις</string>  
 	<string name="multi_sim_mms_ringtone_settings_dialog_message">Αυτός ο ήχος κλήσης θα εφαρμοστεί και για τις δύο κάρτες SIM.</string>
 	<string name="reenable_accessibility">Παρουσιάστηκε σφάλμα. Παραχωρήστε ξανά δικαιώματα πρόσβασης.</string>   
 	<string name="theme_apply_audio_dialog_item_mms">Ήχος κλήσης μηνυμάτων</string>   
@@ -726,6 +735,8 @@
 	<string name="wallpaper_loop_title">Παρουσίαση ταπετσαριών</string>
 	<string name="wallpaper_loop_title_desk_wallpaper">Παρουσίαση στην Αρχική οθόνη</string>
 	<string name="wallpaper_loop_title_lock_walpaper">Παρουσίαση στην Οθόνη Κλειδώματος</string>
+    <string name="wallpaper_no_favorite">Χωρίς στοιχεία ακόμα.</string>
+    <string name="wallpaper_no_record">Χωρίς στοιχεία ακόμα.</string>
 	<string name="audition_ringtone">Αναπαραγωγή</string>
 	<string name="count_down_tip">%ds υπόλοιπο</string>
 	<string name="like_list">Είδη που μου άρεσαν</string>

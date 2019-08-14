@@ -303,6 +303,7 @@
   <string name="cit_sim_state_puk_required">Απαιτείται PUK</string>
   <string name="cit_sim_state_ready">Η κάρτα SIM είναι έτοιμη</string>
   <string name="cit_sim_state_unkown">Άγνωστο</string>
+  <string name="cit_soft_torch_off">Απενεργοποιήστε τη λυχνία φλας</string>
   <string name="cit_start_calibration">Βαθμονόμηση</string>
   <string name="cit_stop_calibration">Σταματήστε τη βαθμονόμηση</string>
   <string name="cit_tfcard_support_summary">Ελέγξτε αν υποστηρίζεται TFCard σε αυτή τη συσκευή</string>

@@ -15,8 +15,8 @@
   <string name="HIPS_Perm_AudioRecorder_Desc">να καταγράφει ήχους και τηλεφωνικές κλήσεις</string>
   <string name="HIPS_Perm_AutoStart">Εκτέλεση κατά την εκκίνηση</string>
   <string name="HIPS_Perm_AutoStart_Desc">να ξεκινά αυτόματα κατά την εκκίνηση της συσκευής</string>
-  <string name="HIPS_Perm_background_start_activity">Έναρξη στο παρασκήνιο</string>
-  <string name="HIPS_Perm_background_start_activity_Desc">να ξεκινά στο παρασκήνιο</string>
+  <string name="HIPS_Perm_background_start_activity">Προβολή αναδυόμενων παραθύρων</string>
+  <string name="HIPS_Perm_background_start_activity_Desc">προβάλει αναδυόμενα παραθύρα ενώ εκτελείται στο παρασκήνιο</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Αλλαγή κατάστασης Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">να ενεργοποιεί/απενεργοποιεί το Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Αισθητήρες σώματος</string>

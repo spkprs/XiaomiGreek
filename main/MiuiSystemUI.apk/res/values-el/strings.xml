@@ -504,7 +504,8 @@
      <string name="description_direction_left">Σύρετε προς τα αριστερά για %s.</string>
      <string name="description_direction_up">Σύρετε προς τα πάνω για %s.</string>
      <string name="description_image_button_answer">Απάντηση</string>
-     <string name="description_image_button_reject">Μείωση</string>
+     <string name="description_image_button_bubble_answer">Ηχείο</string>
+    <string name="description_image_button_reject">Μείωση</string>
      <string name="description_target_search">Αναζήτηση</string>
      <string name="dessert_case">Dessert Case</string>
      <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>

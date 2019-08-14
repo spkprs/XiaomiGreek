@@ -241,6 +241,7 @@
   <string name="device_not_connected">Δεν έγινε σύνδεση</string>
   <string name="dialog_button_create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
   <string name="dialog_button_editor_choice">Προτεινόμενα</string>
+  <string name="dialog_my_playlist_set_to_public">Μοιραστείτε αυτήν τη λίστα αναπαραγωγής με όλους τους χρήστες της μουσικής Mi Music και Hungama</string>
   <string name="dialog_button_find_music">Ανακαλύπτω</string>
   <string name="dialog_button_login">Συνδεθείτε και συγχρονίστε τη μουσική σας</string>
   <string name="dialog_button_scan_tracks">Αναζήτηση μουσικής σε αυτήν τη συσκευή</string>
@@ -403,6 +404,7 @@
   <string name="eq_preset_select">Επιλέξτε μια προεπιλεγμένη</string>
   <string name="eq_rock">Ροκ</string>
   <string name="equalizer">Ισοσταθμιστής</string>
+  <string name="error_not_support">Δεν υποστηρίζεται</string>
   <string name="error_forbidden">Ο συγχρονισμός έχει απενεργοποιηθεί λόγω προβλημάτων με το λογαριασμό σας.</string>
   <string name="error_not_acceptable">Ο συγχρονισμός είναι απενεργοποιημένος.</string>
   <string name="error_title">Δεν είναι δυνατή η συγχρονισμός με το λογαριασμό mi</string>
@@ -410,10 +412,16 @@
   <string name="expired">Έληξε</string>
   <string name="expires">Λήγει αυτό το μήνα:</string>
   <string name="fail_to_play">Αδυναμία αναπαραγωγής τραγουδιού</string>
+  <string name="failed_not_access_sd_card">Επιτρέψτε την πρόσβαση στην SD card πρώτα</string>
+  <string name="failed_obtain_permissions">"Αδυναμία λήψης πρόσβασης"</string>
   <string name="failure_no_network">Ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά.</string>
   <string name="favorite_cancel">Κατάργηση από τα αγαπημένα</string>
   <string name="favorite_canceled">Αφαιρέθηκε από τα αγαπημένα</string>
   <string name="favorite_playlist">Αγαπημένα</string>
+  <string name="floating_view_dialog_desc">Η μουσική θα σταματήσει να παίζει αν αφήσετε αυτή τη σελίδα τώρα. Αποχωρείτε;</string>
+  <string name="floating_view_dialog_leave">Αποχωρώ</string>
+  <string name="floating_view_dialog_stay">Παραμένω</string>
+  <string name="floating_view_dialog_title">Αποχωρείτε απο την σελίδα?</string>
   <string name="favorite_singer">Αγαπημένοι καλλιτέχνες</string>
   <string name="favorite_songgroup">Αγαπημένο songgroup(%d)</string>
   <string name="favorite_succeed">Προστέθηκε στα αγαπημένα</string>
@@ -511,6 +519,9 @@
   <string name="hide_lyric">Απόκρυψη στίχων</string>
   <string name="higher_quality_music">Εγγραφείτε στο Mi Music</string>
   <string name="higher_quality_music_summary">Ροή και λήψη αρχείων με μεγαλύτερη ταχύτητα</string>
+  <string name="home_tab_home">Αρχική</string>
+  <string name="home_tab_search">Αναζήτηση</string>
+  <string name="home_tab_yandex">Yandex.Music</string>
   <string name="history_clear">Εκκαθάριση</string>
   <string name="history_clear_fm">Διαγραφή ιστορικού αναπαραγωγής ραδιοφώνου;</string>
   <string name="history_clear_music">Εκκαθάριση ιστορικού αναπαραγωγής μουσικής;</string>
@@ -799,6 +810,7 @@
   <string name="normal_quality">Καλή</string>
   <string name="not_login">Δεν έγινε σύνδεση</string>
   <string name="not_selected">Επιλογή τραγουδιού</string>
+  <string name="not_support_documentui">"Το DocumentUI δεν υποστηρίζεται σε αυτή τη συσκευή"</string>
   <string name="notif_text_engine_off">Ο επιταχυντής Xunlei είναι απενεργοποιημένος.</string>
   <string name="notif_text_engine_on">Επιταχύνοντας…</string>
   <string name="notif_title_file_size">%1$d συνολικά</string>
@@ -1043,6 +1055,7 @@
   <string name="search_instant_online_music">Online</string>
   <string name="search_localsearch_hint">Αναζήτηση τραγουδιών στην συσκευή</string>
   <string name="search_menu_title">Αναζήτηση</string>
+  <string name="search_more">Περισσότερα</string>
   <string name="search_title">Αναζήτηση</string>
   <string name="search_title_album">Άλμπουμ</string>
   <string name="search_title_singer">Καλλιτέχνες</string>
@@ -1121,6 +1134,8 @@
   <string name="song_group_float_save_picture">Αποθήκευση εξωφύλλου</string>
   <string name="song_group_float_save_picture_success">Η αποθήκευση ολοκληρώθηκε με επιτυχία</string>
   <string name="song_group_float_to_save_picture">Αποθηκεύτηκε σε %1$s</string>
+  <string name="song_already_in_playlist">Αυτό το τραγούδι βρίσκεται ήδη στην ουρά</string>
+  <string name="song_is_added_to_playlist">Προστέθηκε στην ουρά</string>
   <string name="song_is_empty">Το όνομα του τραγουδιού δεν πρέπει να είναι κενό.</string>
   <string name="song_name">Τραγούδι</string>
   <string name="song_not_find">Αυτό το τραγούδι δεν είναι διαθέσιμο.</string>
@@ -1145,12 +1160,12 @@
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop">Stop</string>
   <string name="stop_backup">Stop</string>
-  <string name="storage_internal">Εσωτερικός χώρος αποθήκευσης</string>
+  <string name="storage_cloned_app">Αποθήκευση Διπλών εφαρμογών</string>
+  <string name="storage_internal">Εσωτερική αποθήκευση</string>
   <string name="storage_sd_card">Κάρτα SD</string>
   <string name="storage_usb">Χώρος αποθήκευσης USB</string>
   <string name="stream_quality">Ποιότητα ροής</string>
   <string name="streamloadingtext">Σύνδεση σε %s</string>
-  <string name="subscribe_success_location">μπορείτε να βρείτε στο \\"&lt;font color=\"#FC3F70\"&gt;Δικό μου&lt;/font&gt;-&lt;font color=\"#FC3F70\"&gt;Η FM άκουσε σε&lt;/font&gt;\"</string>
   <string name="subscribed_channel">Εγγεγραμμένο Κανάλι</string>
   <string name="subscribed_fm">Εγγραφή FM</string>
   <string name="suggest_text">Στους ανθρώπους που άρεσε αυτό άρεσε επίσης</string>

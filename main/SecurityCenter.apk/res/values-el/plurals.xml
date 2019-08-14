@@ -156,6 +156,10 @@
         <item quantity="other">Παρακολούθηση χρήσης δεδομένων για %d εφαρμογές</item>
         <item quantity="one">Παρακολούθηση χρήσης δεδομένων για %d εφαρμογή</item>
      </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">Σε %d δευτ.</item>
+        <item quantity="one">Σε %d δευτ.</item>
+    </plurals>
      <plurals name="hints_traffic_enable_title">
         <item quantity="other">Χωρίς παρακολούθηση χρήσης δεδομένων για %d εφαρμογές</item>
         <item quantity="one">Χωρίς παρακολούθηση χρήσης δεδομένων για %d εφαρμογή</item>

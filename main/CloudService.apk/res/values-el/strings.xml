@@ -73,7 +73,7 @@
      <string name="ks_update_wait">Μισό λεπτό…</string>
      <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, πηγαίνετε τώρα στο %s.</string>
      <string name="loading">Φόρτωση…</string>
-     <string name="master_alert_notif_content">Τα δεδομένα δεν συγχρονίστηκαν.</string>
+     <string name="master_alert_notif_content">Δημιουργείτε αντίγραφα ασφαλείας τακτικά για να μην χάνετε τίποτα σημαντικό.</string>
      <string name="master_alert_notif_title">Ενεργοποίηση MiCloud</string>
      <string name="member_menu_vipname_free">Δωρεάν</string>
      <string name="member_menu_vipname_mega">Mega</string>
@@ -139,7 +139,8 @@
      <string name="micloud_dialog_sync_now_negative">Οχι τώρα</string>
      <string name="micloud_dialog_sync_now_positive">Χρησιμοποιήστε δεδομένα κινητής τηλεφωνίας</string>
      <string name="micloud_dialog_sync_now_title">Συνδεθείτε στο Wi-Fi για συγχρονισμό</string>
-     <string name="micloud_dspt">Χρησιμοποιήστε το Xiaomi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας,</string>
+    <string name="micloud_dspt">"Συγχρονίστε τις επαφές, τα μηνύματα, το ιστορικό κλήσεων και άλλα στοιχεία σε όλες τις συσκευές.
+Εντοπίστε και κλειδώστε τη συσκευή σας σε περίπτωση απώλειας."</string>
      <string name="micloud_dspt_provision">Χρησιμοποιήστε το Xiaomi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε πράγματα με φίλους.</string>
      <string name="micloud_dspt_provision_xms">Χρήση του Xiaomi Cloud για συγχρονισμό δεδομένων.</string>
      <string name="micloud_find_device_close_alert_content">"Εάν απενεργοποιήσετε τη λειτουργία Εύρεση Συσκευής, δεν θα μπορείτε να εντοπίσετε το τηλέφωνό σας όταν χαθεί. Εάν υποστηρίζει τη λειτουργία NFC, όλες οι τραπεζικές και άλλες κάρτες σας θα διαγραφούν από τη Mi Pay."</string>
@@ -269,7 +270,6 @@
      <string name="micloud_request_permission_confirm">Το κατάλαβα</string>
      <string name="micloud_request_permission_content">Το Xiaomi Cloud χρειάζεται δικαιώματα γα συγχρονισμό δεδομένων. Επιτρέψτε στο Xiaomi Cloud την πρόσβαση σε Ημερολόγιο, Επαφές, Λογαριασμό Mi, κατάσταση κάρτας SIM, αρχείο κλήσεων και μηνύματα.</string>
      <string name="micloud_request_permission_title">Το Xiaomi Cloud χρειάζεται δικαιώματα</string>
-     <string name="micloud_sec_dspt">και να μοιραστείτε πράγματα με φίλους.</string>
      <string name="micloud_setting_antispam_summary">Εξαιρέσεις για Μην Ενοχλείτε και μπλοκαρισμένους αριθμούς τηλεφώνου.</string>
      <string name="micloud_setting_browser_summary">Σελιδοδείκτες, ιστορικό και ετικέτες</string>
      <string name="micloud_setting_contact_summary">Πληροφορίες επαφών και φωτογραφίες προφίλ</string>

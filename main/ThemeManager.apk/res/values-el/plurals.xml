@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d ωρ. πρίν</item>
+        <item quantity="one">%d ωρ. πρίν</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d λεπ. πρίν</item>
+        <item quantity="one">%d λεπ. πρίν</item>
+    </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d εικόνες</item>
+        <item quantity="one">%1$d εικόνα</item>
+    </plurals>
   <plurals name="theme_batch_has_update_text">
     <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα.</item>
     <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα.</item>

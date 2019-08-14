@@ -3,7 +3,7 @@
 <resources>
      <string name="alert_message_clear_records">Διαγραφή επιλεγμένων εγγραφών;</string>
      <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
-     <string name="alert_message_delete_record">Διαγραφή επιλεγμένης εγγραφής;</string>
+     <string name="alert_message_delete_record">Η διαγραφή της εγγραφής από τη συσκευή σας θα διαγράψει επίσης αυτήν την εγγραφή από το Xiaomi Cloud. Διαγραφή τώρα;</string>
      <string name="alert_message_delete_record_title">Διαγραφή εγγραφής;</string>
      <string name="app_name">Ηχογράφηση</string>
      <string name="back">Πίσω</string>
@@ -12,12 +12,12 @@
      <string name="call_record">Ηχογραφημένες κλήσεις</string>
      <string name="clear_records">Διαγραφή συγχρονισμένων εγγραφών</string>
      <string name="cloud_record_open">Συγχρονισμός εγγραφών</string>
-     <string name="cloud_record_tip">Συγχρονισμός εγγραφών με το Mi Cloud.</string>
-     <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το Mi Cloud για συγχρονισμό αρχείων εγγραφής.</string>
+     <string name="cloud_record_tip">Συγχρονισμός εγγραφών με το Xiaomi Cloud.</string>
+     <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το Cloud για συγχρονισμό αρχείων εγγραφής.</string>
      <string name="cloud_status_full_dialog_cancel">Όχι τώρα</string>
      <string name="cloud_status_full_dialog_msg">Ο χώρος αποθήκευσης στο cloud είναι πλήρης. Αδύνατος ο συγχρονισμός εγγραφών. Αναβαθμίστε το λογαριασμό σας για να πάρετε περισσότερο χώρο αποθήκευσης.</string>
      <string name="cloud_status_full_dialog_ok">Αναβάθμιση</string>
-     <string name="cloud_status_full_dialog_title">Ο χώρος αποθήκευσης Mi Cloud είναι πλήρης</string>
+     <string name="cloud_status_full_dialog_title">Ο χώρος αποθήκευσης Xiaomi Cloud είναι πλήρης</string>
      <string name="data_connection_body">Χρησιμοποιώντας τα δεδομένα κινητής για να κατεβάσετε αυτό το αρχείο, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
      <string name="data_connection_button_text">OK</string>
      <string name="data_connection_title">Προειδοποίηση χρήσης δεδομένων</string>
@@ -26,7 +26,7 @@
      <string name="deleting_message">Διαγραφή…</string>
      <string name="details">Λεπτομέρειες</string>
      <string name="dialog_content_storage_full">Η εγγραφή σταμάτησε γιατί δεν έχει απομείνει αρκετός χώρος στην εσωτερική μνήμη της συσκευής σας</string>
-     <string name="dialog_privacy_revoke_tips">Αφού ανακαλέσετε την εξουσιοδότηση, η εφαρμογή θα διακόψει τη συλλογή δεδομένων και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό μπορεί να κάνει την εφαρμογή σχεδόν άχρηστη. Ανάκληση εξουσιοδότησης ούτως ή άλλως; Για να διασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν από την ανάκληση της εξουσιοδότησης για υπηρεσίες Mi Cloud.</string>
+     <string name="dialog_privacy_revoke_tips">Αφού ανακαλέσετε την εξουσιοδότηση, η εφαρμογή θα διακόψει τη συλλογή δεδομένων και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό μπορεί να κάνει την εφαρμογή σχεδόν άχρηστη. Ανάκληση εξουσιοδότησης ούτως ή άλλως; Για να διασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν από την ανάκληση της εξουσιοδότησης για υπηρεσίες Xiaomi Cloud.</string>
      <string name="dialog_title_storage_full">Δεν υπάρχει αρκετός χώρος</string>
      <string name="download">Λήψη</string>
      <string name="duration_format_hour">%sδ</string>
@@ -191,7 +191,7 @@
      <string name="recognize_extra_price_desp">(Μόνο Fo Mi)</string>
      <string name="record">Εγγραφή</string>
      <string name="record_back_pressed_hint">Για να σταματήσετε την εγγραφή, πατήστε ξανά το Πίσω</string>
-     <string name="record_download">Λήψη από το Mi Cloud</string>
+     <string name="record_download">Λήψη από το Xiaomi Cloud</string>
      <string name="record_download_complete">Ολοκληρώθηκε</string>
      <string name="record_download_msg">Οι εγγραφές μπορούν να αναπαραχθούν μόνο όταν τελειώσει η λήψη τους.</string>
      <string name="record_download_msg_reload">Αυτή η εγγραφή δεν υπάρχει</string>
