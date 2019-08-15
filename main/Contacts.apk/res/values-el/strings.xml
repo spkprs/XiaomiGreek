@@ -999,6 +999,7 @@
      <string name="scan_bussiness_card_merge_tip">Δεδομένα σε διένεξη αντικαταστάθηκαν</string>
      <string name="scan_duplicate_message">%1$d επαφές με ταυτόσημες πληροφορίες</string>
      <string name="scan_merge">Αναζήτηση για διπλές επαφές…</string>
+     <string name="scan_not_installed">Εγκατάσταση Σαρωτή πρώτα</string>
      <string name="scan_qrcode_card_hint1">Σάρωση κωδικού QR</string>
      <string name="scan_qrcode_card_hint2" />
      <string name="scanning_sdcard_failed_message">Αιτία: \"%s\".</string>

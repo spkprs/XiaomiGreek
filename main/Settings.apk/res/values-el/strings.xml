@@ -1040,10 +1040,10 @@
      <string name="close_optimization_option">Απενεργοποίηση</string>
      <string name="close_sdcard_optimization_title">Απενεργοποίηση βελτιστοποίησης</string>
      <string name="close_sdcard_optimization_warning_message">Η συσκευή θα επανεκκινήσει για να εφαρμοστεί η αλλαγή.</string>
-     <string name="cloud_backup_section_title">Αντίγραφα ασφαλείας στο Mi Cloud</string>
+     <string name="cloud_backup_section_title">Αντίγραφα στο Xiaomi Cloud</string>
      <string name="cloud_backup_settings_section_title">Ρυθμίσεις αντιγράφων</string>
      <string name="cloud_restore_section_summary">Επαναφορά Εφαρμογών, διάταξη Αρχικής Οθόνης και ρυθμίσεις Συστήματος</string>
-     <string name="cloud_restore_section_title">Επαναφορά από το Mi Cloud</string>
+     <string name="cloud_restore_section_title">Επαναφορά από το Xiaomi Cloud</string>
      <string name="cmcc_hardware_version">Έκδοση υλικού</string>
      <string name="collect_diagnostics_summary">Συλλογή δεδομένων διαγνωστικών για την αντιμετώπιση προβλημάτων</string>
      <string name="collect_diagnostics_title">Συλλογή διαγνωστικών</string>
@@ -4243,7 +4243,7 @@
      <string name="settings_license_activity_unavailable">Υπάρχει ένα πρόβλημα κατά τη φόρτωση των αδειών</string>
      <string name="settings_manual_activity_title">Εγχειρίδιο χρήσης</string>
      <string name="settings_manual_activity_unavailable">Παρουσιάστηκε κάποιο πρόβλημα κατά τη φόρτωση του εγχειριδίου χρήσης.</string>
-     <string name="settings_notify_need_backup">Δημιουργήστε αντίγραφα  στο Mi Cloud για πρόσβαση σε αυτά όταν αλλάξετε συσκευή.</string>
+     <string name="settings_notify_need_backup">Δημιουργήστε αντίγραφα  στο Xiaomi Cloud για πρόσβαση σε αυτά όταν αλλάξετε συσκευή.</string>
      <string name="settings_notify_phone_recycled">Ο αριθμός τηλεφώνου σας έχει ανακυκλωθεί. Πατήστε για να προσθέσετε έναν διαφορετικό αριθμό τηλεφώνου.</string>
      <string name="settings_package">com.android.settings</string>
      <string name="settings_safetylegal_activity_loading">Φόρτωση…</string>
@@ -5927,8 +5927,9 @@ VK: vk.com/mi_room_ru"</string>
      <string name="write_tag">Εγγραφή</string>
      <string name="wrong_pin_code_pukked">Εσφαλμένος κωδικός PIN κάρτας SIM. Θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</string>
      <string name="xiaomi_account">Λογαριασμός Mi</string>
-     <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xiaomi_cloud_service_description">Το Mi Cloud συγχρονίζει επαφές, φωτογραφίες και άλλα στοιχεία στις συσκευές σας. Η \"Εύρεση Συσκευής\" απαιτεί επίσης το Mi Cloud για να λειτουργήσει κανονικά.</string>
+     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+     <string name="xiaomi_cloud_service_description">Το Xiaomi Cloud συγχρονίζει επαφές, φωτογραφίες και άλλα στοιχεία στις συσκευές σας. Η \"Εύρεση Συσκευής\" απαιτεί επίσης το Mi Cloud για να λειτουργήσει κανονικά.</string>
+      <string name="xiaomi_cloud_service_description_without_contacts">Το Xiaomi Cloud συγχρονίζει τις φωτογραφίες σας, δημιουργεί αντίγραφα των εφαρμογών και ρυθμίσεών και βοηθά να βρείτε το τηλέφωνό σας με την Εύρεση συσκευής.</string>
      <string name="xiaomi_cloud_service_disabled">Ανενεργό</string>
      <string name="xiaomi_cloud_service_unknown">Αγνωστο</string>
      <string name="xiaomi_money_service">Mi Credit</string>

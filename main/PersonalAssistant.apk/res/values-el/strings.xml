@@ -856,8 +856,8 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="locating_fail">Δεν ήταν δυνατή η λήψη τοποθεσίας</string>
      <string name="locations">Συχνές θέσεις</string>
      <string name="locations_preferences">Διευθύνσεις</string>
+     <string name="login_dialog_body">Ενεργοποιήστε τον συγχρονισμό με το cloud για πρόσβαση στα στοιχεία σας από πολλές συσκευές. Σύνδεση και ενεργ/ση τώρα;</string>
      <string name="login_before_use">Θα πρέπει να συνδεθείτε πρώτα</string>
-     <string name="login_dialog_body">Turn on sync with Mi Cloud to access your items from multiple devices. Sign in and turn on now?</string>
      <string name="login_dialog_negative">Not now</string>
      <string name="login_dialog_positive">Sign in and turn on</string>
      <string name="login_dialog_title">Turn on sync</string>
