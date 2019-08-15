@@ -699,8 +699,9 @@
 	<string name="app_enable_transparent_wallpaper">Με διαφανή ταπετσαρία</string>
 	<string name="enable_accessibility">Απαιτούνται δικαιώματα πρόσβασης</string>
 	<string name="enable_accessibility_hint">"Μπορείτε να ενεργοποιήσετε αυτήν την υπηρεσία στα Θέματα. Μετά από αυτό, θα μπορείτε να επιλέξετε ποιες εφαρμογές θα πρέπει να λειτουργούν με διαφανή ταπετσαρίες."</string>
-	<string name="enable_transparent_wallpaper">Χρησιμοποιήστε διαφανή ταπετσαρία</string> 
+	<string name="enable_transparent_wallpaper">Χρήση διάφανης ταπετσαρίας</string> 
 	<string name="go_accessibility_setting">Επιλογή</string>
+    <string name="loop_wallpaper_is_here">Διαθέσιμες επιλογές</string>
 	<string name="multi_sim_mms_ringtone_settings_dialog_message">Αυτός ο ήχος κλήσης θα εφαρμοστεί και για τις δύο κάρτες SIM.</string>
 	<string name="reenable_accessibility">Παρουσιάστηκε σφάλμα. Παραχωρήστε ξανά δικαιώματα πρόσβασης.</string>   
 	<string name="theme_apply_audio_dialog_item_mms">Ήχος κλήσης μηνυμάτων</string>   
@@ -709,7 +710,7 @@
 	<string name="transparent_wallpaper_disable">Ανενεργό</string>
 	<string name="transparent_wallpaper_enable">Ενεργό</string>
 	<string name="transparent_wallpaper_filter_pref_summary">"Οι διαφανείς ταπετσαρίες δεν θα εμφανίζονται σε εφαρμογές περιορισμένης χρήσης"</string>
-	<string name="transparent_wallpaper_filter_pref_title">Επιλέξτε εφαρμογές που θα πρέπει να λειτουργούν με διαφανή ταπετσαρίες</string>
+	<string name="transparent_wallpaper_filter_pref_title">Εφαρμογές με διαφανή ταπετσαρία</string>
 	<string name="transparent_wallpaper_filter_set_successfully">Ορίστηκε με επιτυχία</string>
 	<string name="transparent_wallpaper_filter_setting">Μεμονωμένες εφαρμογές</string>
 	<string name="transparent_wallpaper_pref_summary">Ταπετσαρίες με μειωμένη αδιαφάνεια του φόντου</string>
