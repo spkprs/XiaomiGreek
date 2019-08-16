@@ -97,8 +97,8 @@
      <string name="info_note_enter_desktop">Η σημείωση προστέθηκε στην αρχική οθόνη</string>
      <string name="loading_text">Φόρτωση…</string>
      <string name="login_sync">Είσοδος &amp; συγχρονισμός</string>
-     <string name="menu_add_audio_description">Add voice note</string>
-     <string name="menu_add_description">Add note</string>
+     <string name="menu_add_audio_description">Φωνητική σημείωση</string>
+     <string name="menu_add_description">Σημείωση</string>
      <string name="menu_add_folder">Add to folder</string>
      <string name="menu_add_folder_description">Add folder</string>
      <string name="menu_create_folder">Νέος φάκελος</string>
@@ -252,8 +252,8 @@
 	  <string name="lunar_day">Σελήνη %1$s</string>
 	  <string name="menu_todo_hide_finished_todo">Απόκρυψη ολοκληρ. εργασιών</string>
 	  <string name="menu_todo_show_finished_todo">Εμφάνιση ολοκληρωμένων εργασιών</string>
-	  <string name="pref_desc_todo_float_mode">Σύρετε από την άκρη της οθόνης για να ανοίξετε την εργαλειοθήκη εργασιών</string>
-	  <string name="pref_title_todo_float_mode">Χρήση της εργαλειοθήκης εργασιών</string>
+	  <string name="pref_desc_todo_float_mode">Σύρετε από την αριστερή άκρη στην Αρχική οθόνη για να ανοίξετε την εργαλειοθήκη εργασιών</string>
+	  <string name="pref_title_todo_float_mode">Εργαλειοθήκη εργασιών</string>
 	  <string name="pref_title_todo_shorcut">Εργαλειοθήκη</string>
 	  <string name="time_picker_label_hour">Ω</string>
 	  <string name="time_picker_label_minute">Λ</string>
@@ -284,8 +284,8 @@
 	  <string name="todo_item_status_delete">Διαγραφή</string>
 	  <string name="todo_item_status_finished">Ολοκληρώθηκε</string>
 	  <string name="todo_item_status_unfinished">Δεν ολοκληρώθηκε</string>
-	  <string name="todo_menu_add_audio_description">Προσθήκη φωνητικής εργασίας</string>
-	  <string name="todo_menu_add_description">Προσθήκη εργασίας</string>
+	  <string name="todo_menu_add_audio_description">Φωνητική εργασία</string>
+	  <string name="todo_menu_add_description">Εργασία</string>
 	  <string name="todo_menu_delete">Διαγραφή</string>
 	  <string name="todo_module_name">Εργασίες</string>
 	  <string name="todo_notify_alarm_title">Υπενθύμιση εργασιών</string>

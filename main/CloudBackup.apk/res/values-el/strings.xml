@@ -170,7 +170,7 @@
      <string name="restore_data_summary">Αυτή η λειτουργία απαιτεί μια σύνδεση στο Internet.</string>
      <string name="restore_data_title">Επαναφορά δεδομένων</string>
      <string name="restore_finished_notification_content">Επαναφορά εφαρμογών αρχικής οθόνης, ρυθμίσεις συστήματος, κλπ.</string>
-     <string name="restore_from_cloud">Επαναφορά αντ.ασφαλείας Xiaomi Cloud</string>
+     <string name="restore_from_cloud">Επαναφορά αντιγράφων ασφαλείας από το Xiaomi Cloud</string>
      <string name="restore_from_this_device">Επαναφορά αυτού τού αντιγράφου</string>
      <string name="restore_home_failed">"Αδύνατη η επαναφορά της Αρχικής οθόνης."</string>
      <string name="restore_home_screen_apps">Επαναφορά από αντίγραφο Xiaomi Cloud</string>

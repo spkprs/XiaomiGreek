@@ -1154,7 +1154,7 @@
      <string name="credentials_reset_warning_plural">Λανθασμένος κωδικός. Έχετε ακόμα %1$d προσπάθειες προτού ο χώρος διαπιστευτηρίων διαγραφεί</string>
      <string name="credentials_settings_not_available">Τα διαπιστευτήρια δεν είναι διαθέσιμα για αυτόν τον χρήστη</string>
      <string name="credentials_title">Αποθηκευτικός χώρος πιστοποιητικών</string>
-     <string name="credentials_title_verification">Επαλήθευση</string>
+     <string name="credentials_title_verification">Πιστοποίηση</string>
      <string name="credentials_unlock" />
      <string name="credentials_unlock_hint">Εισαγάγετε τον κωδικό για το χώρο διαπιστευτηρίων</string>
      <string name="credentials_wrong_password">Λανθασμένος κωδικός</string>

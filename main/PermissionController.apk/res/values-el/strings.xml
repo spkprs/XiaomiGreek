@@ -227,7 +227,7 @@
     <string name="permission_description_summary_phone">Οι εφαρμογές με αυτήν την άδεια έχουν δυνατότητα πραγματοποίησης και διαχείρισης τηλεφωνικών κλήσεων</string>
     <string name="permission_description_summary_sensors">Οι εφαρμογές με αυτήν την άδεια μπορούν να αποκτήσουν πρόσβαση στα δεδομένα αισθητήρα σχετικά με τις ζωτικές ενδείξεις σας</string>
     <string name="permission_description_summary_sms">Οι εφαρμογές με αυτήν την άδεια μπορούν να στέλνουν και να προβάλλουν μηνύματα SMS</string>
-    <string name="permission_description_summary_storage">Οι εφαρμογές με αυτήν την άδεια έχουν πρόσβαση σε φωτογραφίες, μέσα και αρχεία στη συσκευή σας</string>
+    <string name="permission_description_summary_storage">Οι εφαρμογές με αυτήν την άδεια έχουν πρόσβαση σε φωτογραφίες, πολυμέσα και αρχεία στη συσκευή σας</string>
     <string name="permission_reminders">Υπενθυμίσεις άδειας</string>
     <string name="permission_request_title">Αίτημα άδειας</string>
     <string name="permission_review_title_template_install">Επιλέξτε σε τι θα έχει πρόσβαση η εφαρμογή &lt;b>%1$s&lt;/b></string>

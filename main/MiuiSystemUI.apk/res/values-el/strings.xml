@@ -676,7 +676,7 @@
      <string name="fs_gesture_back_ready_title">Μετάβαση Πίσω</string>
      <string name="fs_gesture_final_over">Τέλος</string>
      <string name="fs_gesture_final_restart">Αλλη μιά φορά</string>
-     <string name="fs_gesture_final_summary">Μπορείτε να επιστρέψετε με χρήση πλήκτρων στις Ρυθμίσεις &gt; Εμφάνιση Πλήρους οθόνης</string>
+     <string name="fs_gesture_final_summary">Μπορείτε να επιστρέψετε με την χρήση πλήκτρων στις Ρυθμίσεις &gt; Εμφάνιση Πλήρους οθόνης</string>
      <string name="fs_gesture_final_title">Είστε έτοιμοι!</string>
      <string name="fs_gesture_finish">Τέλεια!</string>
      <string name="fs_gesture_left_back_ready_summary">Σύρετε από την αριστερή άκρη</string>

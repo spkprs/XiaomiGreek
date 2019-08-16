@@ -525,10 +525,10 @@ ID:%s
 	  <string name="google">Google</string>
 	  <string name="bind_google">Σύνδεση στο Λογαριασμό Google</string>
 	  <string name="two_factor_auth">Έλεγχος ταυτότητας δύο παραγόντων</string>
-	  <string name="two_factor_auth_click_confirm">Επιβεβαιώστε για να συνδεθείτε</string>
+	  <string name="two_factor_auth_click_confirm">Επιβεβαίωση για σύνδεση</string>
 	  <string name="two_factor_auth_click_confirm_summary">"Θα δείτε μια ειδοποίηση σε άλλες συνδεδεμένες συσκευές Mi. Αγγίξτε την ειδοποίηση για να επιτρέψετε την είσοδο σε μια νέα συσκευή."</string>
 	  <string name="two_factor_auth_method">Μέθοδος αυθεντικότητας</string>
-	  <string name="two_factor_auth_need_code">Εισάγετε τον κωδικό</string>
-	  <string name="two_factor_auth_need_code_summary">"Θα δείτε έναν κωδικό σε άλλες συνδεδεμένες συσκευές Mi. Εισαγάγετε αυτόν τον κωδικό σε μια νέα συσκευή για να συνδεθείτε."</string>
+	  <string name="two_factor_auth_need_code">Εισαγωγή με κωδικό</string>
+	  <string name="two_factor_auth_need_code_summary">"Θα δείτε έναν κωδικό σε άλλες συνδεδεμένες συσκευές Mi. Εισάγετε αυτόν τον κωδικό σε μια νέα συσκευή για να συνδεθείτε."</string>
 	  <string name="two_factor_auth_summary">"Όταν προσπαθείτε να εισέλθετε σε μια νέα συσκευή ή σε μια νέα θέση, θα ειδοποιηθείτε σχετικά με αυτό στις άλλες συνδεδεμένες συσκευές. Θα πρέπει να επιβεβαιώσετε αν αυτές οι απόπειρες εισόδου εγκρίνονται από εσάς."</string>
 </resources>
