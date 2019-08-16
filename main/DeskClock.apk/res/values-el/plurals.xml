@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
      <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Αναβολή για %d λεπ</item>
@@ -61,4 +60,12 @@
       <item quantity="other">Κάθε %1$s λεπ, παύση %2$s φορές</item>
       <item quantity="one">Κάθε %1$s λεπ, παύση %2$s φορά</item>
    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Αναβολή %1$s φορές</item>
+        <item quantity="one">Αναβολή %1$s φορά</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">Κάθε %1$s λεπτά</item>
+        <item quantity="one">Κάθε %1$s λεπτό</item>
+    </plurals>
 </resources>

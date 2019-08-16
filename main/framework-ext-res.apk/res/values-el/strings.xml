@@ -240,8 +240,8 @@
 	<string name="default_device_name">Άγνωστη συσκευή</string>
 	<string name="device_type_pc">PC</string>
 	<string name="enable_midrop">Ενεργοποίηση</string>
-	<string name="file_cannot_print">"Αδυναμία προβολής του στοιχείου."</string>
-	<string name="file_cannot_screen_throw">"Αδυναμία εκτύπωσης του στοιχείου."</string>
+	<string name="file_cannot_print">"Αδυναμία εκτύπωσης του στοιχείου."</string>
+	<string name="file_cannot_screen_throw">"Αδυναμία προβολής του στοιχείου."</string>
 	<string name="file_sending">Μεταφορά αρχείων ...</string>
 	<string name="functions_are_being_developed">Αυτή η λειτουργία θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
 	<string name="mi_drop">Mi Κοινή χρήση</string>
