@@ -185,7 +185,7 @@
      <string name="app_manager_dlg_ok">OK</string>
      <string name="app_manager_enable_text">Ενεργοποίηση</string>
      <string name="app_manager_enabled">Ενεργοποιήθηκε</string>
-     <string name="app_manager_factory_reset">Απεγκατάσταση ενημερώσεων</string>
+     <string name="app_manager_factory_reset">Απεγκατ/ση ενημ.</string>
      <string name="app_manager_factory_reset_dlg_msg">Όλες οι ενημερώσεις αυτής της εφαρμογής συστήματος Android θα απεγκατασταθούν.</string>
      <string name="app_manager_factory_reset_dlg_title">Απεγκατάσταση ενημερώσεων;</string>
      <string name="app_manager_force_stop_dlg_text">Εάν κάνετε αναγκαστική διακοπή σε μία εφαρμογή, ίσως να μην συμπεριφέρεται σωστά.</string>
@@ -650,7 +650,7 @@
      <string name="deep_clean_never_memory_clean">Ποτέ</string>
      <string name="deep_power_save_item_summary_auto_brightness">Ρυθμίστε τη φωτεινότητα οθόνης αυτόματα για εξοικονόμηση μπαταρίας</string>
      <string name="deep_power_save_item_summary_bluetooth">Απενεργοποίηση Bluetooth για εξοικονόμηση μπαταρίας</string>
-     <string name="deep_power_save_item_summary_lock_screen_time">Βάλτε οθόνη σε ύπνο μετά από 30 δευτ αδράνειας για την εξοικονόμηση μπαταρίας</string>
+     <string name="deep_power_save_item_summary_lock_screen_time">Θέστε την οθόνη σε κατάσταση αναμονής μετά από 15 δευτ αδράνειας για εξοικονόμηση μπαταρίας</string>
      <string name="deep_power_save_item_title_auto_brightness">Ενεργοποίηση αυτόματης φωτεινότητας</string>
      <string name="deep_power_save_item_title_bluetooth">Απενεργοποίηση Bluetooth</string>
      <string name="deep_power_save_item_title_lock_screen_time">Βάλτε την οθόνη σε ύπνο</string>
@@ -951,6 +951,12 @@
      <string name="free_traffic_settings">Ρυθμίσεις δωρεάν χρήσης δεδομένων</string>
      <string name="function_close">Ανενεργό</string>
      <string name="function_shield_voice_trigger">"Χωρίς αφύπνιση του Mi AI με φωνή"</string>
+    <string name="function_gwsd_title">"Μην επιτρέπετε εισερχόμενες κλήσεις να διακόπτουν τη σύνδεση δεδομένων SIM"</string>
+    <string name="function_gwsd_detail">"Σχετικά με αυτή τη λειτουργία:
+ 1. Οι εισερχόμενες κλήσεις στην κάρτα δεδομένων σας δεν θα διακόψουν τη σύνδεση δεδομένων κινητής. Η σύνδεση θα διακοπεί μόνο όταν απαντήσετε σε μια κλήση.
+ 2. Όταν η λειτουργία αυτή είναι ενεργή, ο καλών δεν θα ακούσει τους ήχους αναμονής κλήσης. Οι εισερχόμενες κλήσεις θα ολοκληρωθούν εκτός αν απαντήσετε μέσα σε 6 δευτερόλεπτα.
+ 3. Αυτή η λειτουργία λειτουργεί μόνο για κάρτες SIM δεδομένων. Οι κλήσεις προς την κύρια SIM θα διακόψουν τη σύνδεση δεδομένων κινητής τηλεφωνίας.
+ 4. Αυτή η λειτουργία υποστηρίζεται μόνο από την China Mobile και την China Unicom."</string>
      <string name="fw_blocked">Λίστα Αποκλεισμών</string>
      <string name="fw_blocked_count">"Αποκλεισμένα "</string>
      <string name="fw_blocked_join">και</string>
@@ -1062,7 +1068,7 @@
      <string name="gs_open_game_booster">Αύξηση Ταχύτητας</string>
      <string name="gs_open_game_booster_summary">Ενισχύστε την ταχύτητα του δικτύου για παιχνίδια</string>
      <string name="gs_performance_mode">Λειτουργία απόδοσης</string>
-     <string name="gs_performance_mode_detail">Βελτιστοποιήστε την απόδοση του συστήματος για gaming</string>
+     <string name="gs_performance_mode_detail">Βελτιστοποίηση συστήματος για gaming</string>
      <string name="gs_sign_notification">Υπενθυμίστε να κάνετε check in στις 8 μ.μ. καθημερινά</string>
      <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό ή σύρετε από την επάνω πλευρά της οθόνης για να εμφανιστεί ο πίνακας συντομεύσεων</string>
      <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Εσφαλμένος πάροχος;&lt;/U>&lt;/font>"</string>
@@ -1644,6 +1650,8 @@
      <string name="permission_action_accept">Αποδοχή</string>
      <string name="permission_action_prompt">Αίτηση</string>
      <string name="permission_action_reject">Απόρριψη</string>
+     <string name="permission_action_always">Πάντα αποδοχή</string>
+     <string name="permission_action_foreground">Κατά τη χρήση της εφαρμογής</string>
      <string name="permission_close_permission_control_dialog_msg">Όταν η διαχείριση δικαιωμάτων είναι απενεργοποιημένη, οι εφαρμογές δεν θα ζητούν την άδεια σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής.</string>
      <string name="permission_close_permission_control_dialog_title">Απενεργοποίηση διαχείρισης δικαιωμάτων;</string>
      <string name="permission_exception_title">Περιορισμένη σύνδεση για εφαρμογές</string>
@@ -2013,7 +2021,8 @@
      <string name="shake_send_sticker">ανακινήστε μια έκφραση μαλλιών</string>
      <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
      <string name="shield_keyboard_detail">Πατήστε δύο φορές τα κουμπιά για να τα ενεργοποιήσετε ξανά</string>
-     <string name="shield_keyboard_title">Περιορίστε κουμπιά και χειρονομίες</string>
+     <string name="shield_keyboard_summary">Περιορισμός πλήκτρων και χειρονομιών πλήρους οθόνης κατά τη διάρκεια των παιχνιδιών</string>
+     <string name="shield_keyboard_title">Περιορισμός πλήκτρων και χειρονομιών</string>
      <string name="shoop_again_float">咻一咻</string>
      <string name="show_system_app">Εμφάνιση εφαρμ συστήματος</string>
      <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στον πίνακα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων &gt; Ρυθμίσεις</string>
@@ -2397,7 +2406,7 @@
      <string name="title_chain_start">Περιορίστε την αλυσιδωτή έναρξη</string>
      <string name="title_cleaner_cloudscan">Μεταφόρτωση ονομάτων φακέλων</string>
      <string name="title_cloud_account">Λογαριασμός Mi</string>
-     <string name="title_cloud_service">Mi Cloud</string>
+     <string name="title_cloud_service">Xiaomi Cloud</string>
      <string name="title_cloud_space_almost_full">Ο χώρος αποθήκευσης Cloud είναι σχεδόν πλήρης. Τα στοιχεία μπορεί να μην συγχρονιστούν</string>
      <string name="title_cloud_space_full">Ο χώρος αποθήκευσης Cloud είναι γεμάτος. Αδυναμία συγχρονισμού φωτογραφιών</string>
      <string name="title_cmcc_app_check">Η επαλήθευση δεν έχει ολοκληρωθεί</string>
@@ -2699,6 +2708,7 @@
     <string name="function_shield_auto_bright">Απενεργοποίηση αυτόματης φωτεινότητας</string>
     <string name="function_shield_eye_shield">Απενεργοποίηση λειτουργίας ανάγνωσης</string>
     <string name="function_shield_three_finger">Περιορισμός χειρονομιών οθόνης</string>
+    <string name="function_shield_title">Βελτιωμένη εμπειρία</string>
     <string name="function_shield_pull_notification_bar">"Μην ανοίγει ο πίνακας ειδοποίησης"</string>
     <string name="choose_gs_show_way">Επιλογή προσανατολισμού Αρχικής σελίδας</string>
     <string name="gs_show_way">Προσανατολισμός Αρχικής σελίδας</string>

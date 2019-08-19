@@ -272,6 +272,7 @@
 	<string name="live_error_confirm">Προσαρμ. χρόνου</string>
 	<string name="live_error_message">Σφάλμα λειτουργίας λόγω εσφαλμένης ώρας συστήματος.</string>
 	<string name="live_error_title">Εσφαλμένη ώρας συστήματος.</string>
+    <string name="live_music_author">Xiaomi Μικρό βίντεο</string>
 	<string name="live_music_change_bgm">Αλλαγή μουσικής παρασκηνίου</string>
     <string name="live_music_close_cancel_message">Ακύρωση</string>
 	<string name="live_music_close_message">Να κλείσει η μουσική τώρα;</string>
@@ -559,8 +560,9 @@
     <string name="pref_camera_peak_title">Ολοκλήρωση Εστίασης</string>
     <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
     <string name="pref_camera_picture_format_entry_raw">RAW</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Πλήρης οθόνη 18:9</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Πλήρης οθόνη</string>
     <string name="pref_camera_picturesize_entry_standard">Κανονική 4:3</string>
+    <string name="pref_camera_flashmode_entry_back_soft_light">Απαλός φωτισμός</string>
     <string name="pref_camera_picturesize_title_simple_mode">Πλαίσιο Κάμερας</string>
 	<string name="pref_camera_portrait_mode_entry_off">Η λειτουργία Πορτρέτου είναι ανενεργή</string>
 	<string name="pref_camera_portrait_mode_entry_on">Η λειτουργία Πορτρέτου είναι ενεργή</string>
@@ -652,6 +654,7 @@
     <string name="pref_camera_zoom_mode_entry_high_pixel">ΧΑΜΗΛΟΥ ΦΩΤΙΣΜΟΥ</string>
     <string name="pref_camera_zoom_mode_entry_standard">ΚΑΝΟΝΙΚΟ</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ΥΠΕΡ ΕΥΡΕΙΑ</string>
     <string name="pref_camera_zoom_mode_entry_wide">Ευρεία</string>
 	<string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
@@ -841,12 +844,12 @@
     <string name="wideselfie_rotate_to_left_slowly">Περιστρέψτε προς τα αριστερά</string>
     <string name="wideselfie_rotate_to_right_slowly">Περιστρέψτε προς τα δεξιά</string>
 	<string name="live_sticker_tab_name">TikTok Μαγικό αυτοκόλλητο</string>
-	<string name="macro_mode_use_hint_text_body">"Ενεργοποιήστε τη λειτουργία μακροεντολών για να καταγράψετε έναν πιο μικροσκοπικό κόσμο για εσάς
-Εξερευνήστε την ομορφιά των περισσότερων λεπτομερειών"</string>
-	<string name="macro_mode_use_hint_text_title">Λειτουργία μακροεντολών</string>
-	<string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
-	<string name="recommend_macro_mode">Συνιστάται η ενεργοποίηση της μακροεντολής</string>
+	<string name="macro_mode_use_hint_text_body">"Ενεργοποιήστε τη λειτουργία Macro για να καταγράψετε έναν πιο μικροσκοπικό κόσμο για εσάς
+Εξερευνήστε την ομορφιά περισσότερων λεπτομερειών"</string>
+	<string name="macro_mode_use_hint_text_title">Λειτουργία Macro</string>
+	<string name="recommend_macro_mode">Συνιστάται η ενεργοποίηση Macro</string>
 	<string name="recommend_portrait">Συνιστώμενη λειτουργία πορτρέτου</string>
+    <string name="recommend_soft_light_tip">Χρήση φλάς  σε λειτουργία απαλού φωτισμού</string>
 	<string name="recommend_super_night">Προτεινόμενη λειτουργία νυχτερινής προβολής</string>
 	<string name="super_night_hint">Βελτιστοποίηση ποιότητας εικόνας</string>
 	<string name="ultra_pixel_portrait_hint">Σούπερ καθαρό πορτρέτο</string>

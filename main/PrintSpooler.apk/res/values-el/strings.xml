@@ -90,6 +90,7 @@
 	<string name="search_brand">Αναζήτηση</string>
 	<string name="start_print">Εκτύπωση</string>
 	<string name="summary_template">Σύνοψη, αντίγραφα %1$s, μέγεθος χαρτιού %2$s</string>
+    <string name="system_print_service_help">Σχετικά με εκτύπωση</string>
 	<string name="template_all_pages">Και οι %1$s σελίδες</string>
 	<string name="template_page_range">Εύρος σελίδων από %1$s</string>
 	<string name="wifi_direct">WLAN Direct</string>

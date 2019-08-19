@@ -179,6 +179,6 @@
     </string-array>
     <string-array name="backup_automatically_key_words">
         <item>Αντίγραφα φωτογραφιών</item>
-        <item>Συγχρονισμός φωτογραφιών στο Mi Cloud</item>
+        <item>Συγχρονισμός φωτογραφιών στο Cloud</item>
     </string-array>
 </resources>

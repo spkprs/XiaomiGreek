@@ -203,7 +203,7 @@
      <string name="grant_confirm_question">Θέλετε να χορηγηθούν τα ακόλουθα δικαιώματα; Θα έχει πρόσβαση σε:</string>
      <string name="grant_dialog_button_allow">Αποδοχή</string>
      <string name="grant_dialog_button_deny">Απόρριψη</string>
-     <string name="grant_dialog_button_deny_anyway">Deny anyway</string>
+     <string name="grant_dialog_button_deny_anyway">Άρνηση</string>
      <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
      <string name="hdcp_checking_title">HDCP checking</string>
      <string name="help_app_permissions" />

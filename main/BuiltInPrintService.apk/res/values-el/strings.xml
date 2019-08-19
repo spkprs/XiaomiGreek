@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Προεπιλεγμένη υπηρεσία εκτύπωσης</string>
+    <string name="app_name">Υπηρεσία εκτύπωσης συστήματος</string>
     <string name="printer_busy">Απασχολημένος</string>
     <string name="printer_out_of_paper">Τελείωσε το χαρτί</string>
     <string name="printer_out_of_ink">Τελείωσε το μελάνι</string>

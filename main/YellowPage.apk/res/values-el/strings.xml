@@ -26,7 +26,6 @@
      <string name="antispam_network_remind_summary">Λήψη ενημερώσεων με χρήση δεδομένων κινητής?</string>
      <string name="antispam_network_remind_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="antispam_pull_newest">Ενημερώθηκε σε έκδοση %d επιτυχώς</string>
-     <string name="antispam_update_version">Έλεγχος ενημερώσεων</string>
      <string name="app_label">Κατάλογος</string>
      <string name="app_recommendation_install">Εγκατάσταση</string>
      <string name="average_price">Μέσος όρος %d RMB</string>
@@ -36,7 +35,6 @@
      <string name="balance_inquiry_send_sms_summmary">Έλεγχος υπολοίπου</string>
      <string name="balance_inquiry_title">Ερώτηση υπολοίπου</string>
      <string name="call">Κλήση</string>
-     <string name="callNoAnswerTimeFormat">Ήχησε %s φορές</string>
      <string name="callrecordview_item_newcontact">Νέα επαφή</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d λεπτά %2$d δευτ.</string>
      <string name="callrecordview_item_op_time_missed">Χωρίς σύνδεση</string>
@@ -197,7 +195,6 @@
      <string name="payment_unknown_status_summary">Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</string>
      <string name="payment_unknown_status_title">Δεν ήταν δυνατή η επιβεβαίωση της κατάστασης πληρωμής</string>
      <string name="phone_event_setting_notice_text">Η αναγνώριση άγνωστων αριθμών, σας βοηθά να καταλάβετε ποιος πάροχος υπηρεσιών σας κάλεσε ή σας έστειλε μήνυμα. Ένα μήνυμα με τις πληροφορίες του παρόχου υπηρεσιών θα αποσταλεί στο τηλέφωνό σας, αφού επιβεβαιωθεί από την Xiaomi. Θα πρέπει να διαβάσετε και να συμφωνήσετε με τα %1$s και %2$s για να χρησιμοποιήσετε αυτή την λειτουργία.</string>
-     <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d συνολικά</string>
      <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
@@ -271,9 +268,11 @@
      <string name="turn_off_hint_title">Σημείωση</string>
      <string name="turn_off_phone_event_hint">Εάν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα είστε σε θέση να την χρησιμοποιήσετε αφού τερματίσετε την κλήση.</string>
      <string name="turn_off_smart_antispam_hint">Απενεργοποίηση προστασίας κλήσεων από αγνώστους;</string>
-     <string name="turn_on_online_antispam_enable">Turn on</string>
-     <string name="turn_on_online_antispam_summary">Turn on Caller ID to recognize unknown numbers.</string>
-     <string name="turn_on_online_antispam_title">Turn on Caller ID</string>
+    <string name="turn_on_auto_update_antispam_data_summary">Ενημερώθηκε %s</string>
+    <string name="turn_on_auto_update_antispam_data_title">Αυτόματη ενημέρωση ορισμών</string>
+     <string name="turn_on_online_antispam_enable">Ενεργοποίηση</string>
+     <string name="turn_on_online_antispam_summary">Ενεργοποιήστε την αναγνώριση καλούντος για να αναγνωρίσετε άγνωστους αριθμούς.</string>
+     <string name="turn_on_online_antispam_title">Ενεργοποίηση αναγνωριστικού καλούντος</string>
      <string name="turn_on_phone_event_dialog_title">Ενημέρωση βάσης δεδομένων αναγνώρισης αριθμών</string>
      <string name="turn_on_phone_event_summary">Αποστολή κατάστασης τηλεφώνου και αριθμών υπηρεσιών</string>
      <string name="turn_on_phone_event_title">Λήψη πληροφοριών υπηρεσίας</string>
@@ -299,4 +298,6 @@
      <string name="yellowpage_navigation_network_location_enabled">Η πρόσβαση στην τοποθεσία σας είναι ενεργή. Μπορείτε να την απενεργοποιήσετε ανά πάσα στιγμή στις Ρυθμίσεις.</string>
      <string name="yellowpage_navigation_network_location_not_enabled_summary">Βελτίωση των αποτελεσμάτων αναζήτησης, επιτρέποντας στον Χρυσό Οδηγό την πρόσβαση σε πληροφορίες για την τοποθεσίας σας.</string>
      <string name="yellowpage_navigation_network_location_not_enabled_title">Πρόσβαση στην τοποθεσία</string>
+     <string name="antispam_update_low_storage">"Δεν ήταν δυνατή η ενημέρωση. Δεν υπάρχει αρκετός χώρος αποθήκευσης."</string>
+     <string name="antispam_update_version">Ενημέρωση τώρα</string>
 </resources>

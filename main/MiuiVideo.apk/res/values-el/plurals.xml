@@ -20,6 +20,10 @@
     <item quantity="other">Επιλεγμένα %1$s στοιχεία</item>
     <item quantity="one">Επιλεγμένο %1$s στοιχείο</item>
   </plurals>
+    <plurals name="feedback_select_items">
+        <item quantity="other">Υποβολή %d στοιχείων</item>
+        <item quantity="one">Υποβολή %d στοιχείου</item>
+    </plurals>
   <plurals name="finish_item_all_counts">
     <item quantity="other">%1$s βίντεο</item>
     <item quantity="one">%1$s βίντεο</item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Ακουστικά και Εφέ ήχου</string>
+  <string name="app_name">Ακουστικά</string>
   <string name="eq_auto">Προσαρμογή</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Ακύρωση</string>
@@ -62,7 +62,7 @@
   <string name="music_headset_mode_settings">Ασύρμ χειριστ. ακουστικών</string>
   <string name="music_headset_mode_volume">Ρύθμιση επιπέδου έντασης</string>
   <string name="music_headset_no_contected">Δεν ανιχνεύτηκαν ακουστικά</string>
-  <string name="music_headset_settings">Ακουστικά και Εφέ ήχου</string>
+  <string name="music_headset_settings">Ακουστικά</string>
   <string name="music_hifi_summary">Μειώστε το θόρυβο και την παραμόρφωση και αυξήστε την ποιότητα του ήχου. Το χαρακτηριστικό αυτό αυξάνει την κατανάλωση της μπαταρίας.</string>
   <string name="music_hifi_title">Ήχος Hi-Fi</string>
   <string name="music_mi_effect_summary">Χρησιμοποιήστε τον Ενισχυτή ήχου Mi όταν χρησιμοποιείτε ηχεία</string>

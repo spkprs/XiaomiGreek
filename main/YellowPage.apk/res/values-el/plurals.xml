@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Κουδούνισε %d φορές</item>
+        <item quantity="one">Κουδούνισε %d φορά</item>
+    </plurals>
     <plurals name="more_coupons_count">
         <item quantity="other">%d κουπόνια</item>
         <item quantity="one">1 κουπόνι</item>

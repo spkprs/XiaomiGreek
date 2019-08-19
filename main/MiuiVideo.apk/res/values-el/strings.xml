@@ -69,6 +69,8 @@
   <string name="buffering_video_netplay_label_v5">Φόρτωση …</string>
   <string name="buy_vip">Αγορά συνδρομής</string>
   <string name="cannot_support_speed">Αδύνατη η αλλαγή της ταχύτητας αναπαραγωγής αυτού του βίντεο, δοκιμάστε διαφορετική</string>
+  <string name="channel_guide_hot_long_video">Δείτε δημοφιλή βίντεο</string>
+  <string name="channel_guide_hot_short_video">Δημοφιλή βίντεο μετακινήθηκαν εδώ!</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_plugin_loading">Φόρτωση πρόσθετου βίντεο HD…</string>
   <string name="check_plugin_message">Εγκατάσταση πρόσθετου βίντεο HD…</string>
@@ -100,6 +102,10 @@
   <string name="debug_mode">Λειτουργία εντοπισμού σφαλμάτων</string>
   <string name="debug_mode_desc">Ενεργοποιήστε το για να εμφανίσετε το ID στο εικονίδιο</string>
   <string name="derail_continue_play">Συνέχεια αναπαραγωγής</string>
+  <string name="declare_get_accounts">Λογαριασμοί πρόσβασης</string>
+  <string name="declare_info">Streaming βίντεο σε απευθείας σύνδεση και αναπαραγωγή αρχείων βίντεο στη συσκευή σας</string>
+  <string name="declare_read_phone_state">Πληροφορίες συσκευής πρόσβασης</string>
+  <string name="declare_storage">Πρόσβαση και αλλαγή αρχείων στην εσωτερική αποθήκευση</string>
   <string name="detail_collect">Προσθήκη στα αγαπημένα</string>
   <string name="detail_comment">Σχόλιο</string>
   <string name="detail_cp">Πηγή</string>
@@ -147,11 +153,17 @@
   <string name="favor_week_video">Αυτή την εβδομάδα</string>
   <string name="favorite">Προσθήκη στα αγαπημένα</string>
   <string name="feedback_activity_title">Ανατροφοδότηση</string>
+  <string name="feedback_check_network">Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
   <string name="feedback_contact_title">Πληροφορίες επαφής</string>
+  <string name="feedback_dialog_button_dislike">Δεν ενδιαφέρομαι</string>
+  <string name="feedback_dialog_label">"Γιατί δεν είναι αυτό το βίντεο ενδιαφέρον για εσάς;"</string>
   <string name="feedback_hint_contact">Τηλέφωνο/QQ/Email</string>
   <string name="feedback_hint_text">Περιγράψτε το ζήτημα που αντιμετωπίζετε</string>
   <string name="feedback_net_error">Δεν ήταν δυνατή η αποστολή. Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά.</string>
+  <string name="feedback_post_failed">"Δεν ήταν δυνατή η υποβολή"</string>
+  <string name="feedback_post_success">"Υποβλήθηκε με επιτυχία. Θα δείτε λιγότερα αντικείμενα αυτού του είδους."</string>
   <string name="feedback_sent">Αποστολή</string>
+  <string name="feedback_short_video_more_dislike">Δεν ενδιαφέρομαι</string>
   <string name="feedback_success_toast">Απεστάλη επιτυχώς. Ευχαριστούμε για την ανταπόκριση σας!</string>
   <string name="feedback_tag_title">Επιλέξτε Κατηγορία</string>
   <string name="feedback_text_empty_toast">Εισάγετε σχόλια</string>
@@ -484,8 +496,11 @@
   <string name="reload_sub_title">Πατήστε για επανάληψη</string>
   <string name="reload_title">Αδυναμία σύνδεσης στο δίκτυο</string>
   <string name="replay">Επανάληψη</string>
+  <string name="remove_card_tips">"Θα δείτε λιγότερα αντικείμενα αυτού του είδους"</string>
+  <string name="remove_card_withdraw">Αναίρεση</string>
   <string name="reply_comment_title">Προώθηση: %s</string>
   <string name="resumedownload">Συνέχεια</string>
+  <string name="resume_download">Συνέχεια λήψης</string>
   <string name="save_cancel_toast">Αγγίξτε ξανά \"Επιστροφή\" για να ακυρώσετε την αποθήκευση βίντεο</string>
   <string name="score">Αξιολόγηση </string>
   <string name="screen_shot_failure">Αποτυχία στιγμιοτύπου!</string>
@@ -582,19 +597,24 @@
   <string name="to_be_play_label_v5">Επόμενο:</string>
   <string name="toast_add_collect">Προστέθηκε στα αγαπημένα</string>
   <string name="toast_back_key_pressed_notice">Πατήστε επιστροφή για έξοδο.</string>
+  <string name="toast_can_not_withdraw">"Δεν είναι δυνατή η αναίρεση μετά από 1 λεπτό που πέρασε"</string>
   <string name="toast_cancel_collect">Αφαιρέθηκε από τα αγαπημένα</string>
+  <string name="toast_close_engine_mode">Οι επιλογές Developer είναι ανενεργές</string>
   <string name="toast_downloading">Άνοιγμα %1s…</string>
   <string name="toast_gprs_network">Χρήση δεδομένων για τη ροή βίντεο…</string>
   <string name="toast_login_success">Έγινε επιτυχής σύνδεση</string>
   <string name="toast_message_continue_play_from">Συνέχεια αναπαραγωγής από</string>
   <string name="toast_message_continue_play_hour">ώρ</string>
   <string name="toast_message_continue_play_minute">λεπτά</string>
+  <string name="toast_message_continue_play_second_and_play">%1$ss</string>
+  <string name="toast_open_engine_mode">Οι επιλογές Developer είναι ενεργές</string>
   <string name="toast_operate_message_delete_success">Διαγράφηκε με επιτυχία</string>
   <string name="toast_remind_clean_room">Ελευθερώστε χώρο και δοκιμάστε ξανά</string>
   <string name="toast_remind_no_enough_room_and_stop_task">Δεν υπάρχει αρκετός χώρος αποθήκευσης. Διακοπή λήψης σε εξέλιξη.</string>
   <string name="toast_remind_path_invalid">Παρουσιάστηκε σφάλμα. Διαγράψτε τις τρέχουσες λήψεις και δοκιμάστε ξανά.</string>
   <string name="toast_start_download">Σχετικά με το άνοιγμα %1s…</string>
   <string name="toast_user_info_error">Παρουσιάστηκε σφάλμα προφίλ, συνδεθείτε ξανά.</string>
+  <string name="toast_vid_copied">Η αντιγραφή του ID βίντεο ολοκληρώθηκε με επιτυχία</string>
   <string name="top_status_local_media">Τοπικά πολυμέσα</string>
   <string name="top_status_offline_media">Offline</string>
   <string name="top_status_online_media">Πολυμέσα δικτύου</string>
@@ -824,7 +844,11 @@
   <string name="vp_airplay_failed_to_connect">"Δεν ήταν δυνατή η σύνδεση"</string>
   <string name="vp_app_download">Λήψη εφαρμογής</string>
   <string name="vp_app_name">Βίντεο</string>
+  <string name="vp_app_plugin_load_error">"Δεν ήταν δυνατή η φόρτωση της προσθήκης. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά."</string>
+  <string name="vp_app_plugin_load_retry">"Δεν ήταν δυνατή η φόρτωση της προσθήκης. Προσπάθησε ξανά."</string>
   <string name="vp_audio">Ένταση</string>
+  <string name="vp_auto_change_resolution_suggestion">Η σύνδεση δικτύου είναι κακή. Μεταβείτε στο &lt;font color=#0F99FF>%1$s&lt;/font></string>
+  <string name="vp_auto_change_resolution_switch">Η σύνδεση δικτύου είναι κακή. Μεταβείτε στο &lt;font color=#0F99FF>%1$s&lt;/font></string>
   <string name="vp_auto_select">Αυτόματη επιλογή</string>
   <string name="vp_back">Πίσω</string>
   <string name="vp_brightness">Φωτεινότητα</string>
@@ -916,6 +940,8 @@
   <string name="vp_using_4_3">Εξαναγκασμός 4:3</string>
   <string name="vp_using_16_9">Εξαναγκασμός 16:9</string>
   <string name="vp_video_play_loading">Φόρτωση player…</string>
+  <string name="vp_video_player_play_text">Άγγιγμα να παίξει \"%1$s\"</string>
+  <string name="vp_video_plugin_install_text">Προετοιμασία %s…</string>
   <string name="vp_video_bad_network_condition">Κακή κατάσταση δικτύου. Δοκιμάστε ξανά αργότερα</string>
   <string name="vp_video_create_video_error_info">Δεν ήταν δυνατή η προετοιμασία της προσθήκης. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
   <string name="vp_video_invalid_cp_info">Λανθασμένες πληροφορίες σχετικά με το βίντεο. Παρακαλώ επανεκκινήστε την εφαρμογή</string>
@@ -966,6 +992,7 @@
   <string name="small_video_guide_slide_left_right">Δείτε περισσότερα βίντεο από αυτόν τον λογαριασμό</string>
   <string name="small_video_guide_slide_top_bottom">Σύρετε για να δείτε περισσότερα</string>
   <string name="small_video_last_video_tip">"Αυτά για τωρα."</string>
+  <string name="small_video_mobile_network_toast">Χρήση δεδομένων κινητής για ροή βίντεο…</string>
   <string name="small_video_no_interested">Δεν ενδιαφέρομαι</string>
   <string name="small_video_no_interested_msg">Πατήστε για να εμφανίσετε τέτοια βίντεο λιγότερο συχνά</string>
   <string name="small_video_no_interested_success">Αυτά τα βίντεο θα εμφανίζονται λιγότερο συχνά</string>

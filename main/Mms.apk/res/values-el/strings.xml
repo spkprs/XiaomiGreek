@@ -82,8 +82,8 @@
      <string name="class_0_message_activity">Κατηγορία 0 μηνύματος</string>
      <string name="click_to_update">Αγγίξτε για έλεγχο ενημερώσεων</string>
      <string name="close">Κλείσιμο</string>
-     <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
-     <string name="cloud_state_sync_finished">Συγχρονισμένο με Mi Cloud</string>
+     <string name="cloud_state_disabled">Ο συγχρονισμός με το Xiaomi Cloud είναι ανενεργός</string>
+     <string name="cloud_state_sync_finished">Συγχρονισμένο με Xiaomi Cloud</string>
      <string name="cloud_state_syncing">Συγχρονισμός με Mi Cloud…</string>
      <string name="cm_privacy_dialog_allow">Συμφωνώ</string>
      <string name="cm_privacy_dialog_cancel">Ακύρωση</string>
@@ -232,8 +232,8 @@
      <string name="forward_prefix">"Προώθηση: "</string>
      <string name="found_old_messages">Μεταφόρτωση μηνυμάτων από %1$s στο %2$s;</string>
      <string name="found_old_messages_title">Μεταφόρτωση μηνυμάτων από τις άλλες σας κάρτες SIM;</string>
-     <string name="found_wild_messages_guide_cloud_desc">Για να συγχρονίσετε τα μηνύματα από το Mi Cloud, συνδεθείτε στο Mi λογαριασμό σας και ενεργοποιήστε το συγχρονισμό SMS.</string>
-     <string name="found_wild_messages_guide_settings_desc">Συγχρονισμός μηνυμάτων SMS από Mi Cloud στις Ρυθμίσεις Μηνυμάτων.</string>
+     <string name="found_wild_messages_guide_cloud_desc">Για να συγχρονίσετε τα μηνύματα από το Xiaomi Cloud, συνδεθείτε στο Mi λογαριασμό σας και ενεργοποιήστε το συγχρονισμό SMS.</string>
+     <string name="found_wild_messages_guide_settings_desc">Συγχρονισμός μηνυμάτων SMS από Xiaomi Cloud στις Ρυθμίσεις Μηνυμάτων.</string>
      <string name="found_wild_messages_guide_sync_not_started">Ο συγχρονισμός δεν έχει ξεκινήσει ακόμα</string>
      <string name="found_wild_messages_title">Λήψη μηνυμάτων</string>
      <string name="from_label">"Από: "</string>
@@ -326,6 +326,12 @@
      <string name="messaging">Μηνύματα</string>
      <string name="millionbyte">MB</string>
      <string name="mms">MMS</string>
+     <string name="mms_block_alert_message">Όλα τα μηνύματα MMS εκτός από τα μηνύματα που αποστέλλονται από εξουσιοδοτημένους αποστολείς θα αποκλειστούν. Οι εξουσιοδοτημένοι αποστολείς περιλαμβάνουν μεταφορείς δικτύου, εθνικά συστήματα κρατήσεων σιδηροδρόμων κ.λπ.</string>
+     <string name="mms_block_alert_ok">Αποκλεισμός</string>
+     <string name="mms_block_alert_title">Αποκλεισμός MMS</string>
+     <string name="mms_block_hint">"Αυτός ο αποστολέας δεν βρίσκεται στις επαφές σας.
+Αυτό το μήνυμα μπορεί να είναι ανεπιθύμητο."</string>
+     <string name="mms_block_hint_highlight">Αποκλεισμός MMS</string>
      <string name="more">Περισσότερα</string>
      <string name="move_down">Μετακίνηση προς τα κάτω</string>
      <string name="move_up">Μετακίνηση προς τα πάνω</string>
@@ -687,7 +693,9 @@
      <string name="service_not_activated">Η υπηρεσία δεν είναι ενεργοποιημένη στο δίκτυο</string>
      <string name="set">Ορισμός</string>
      <string name="share_img">Κοινή χρήση</string>
-     <string name="show_all_messages">Δείτε όλα τα μηνύματα</string>
+     <string name="shortcut_new_msg">Νέο μήνυμα</string>
+     <string name="shortcut_setting">Ρυθμίσεις</string>
+     <string name="show_all_messages">Προβολή όλων</string>
      <string name="show_delivery_status">Εμφάνιση κατάσταση παράδοσης</string>
      <string name="show_sender">Εμφάνιση πληροφοριών αποστολέα</string>
      <string name="sim1">Sim 1</string>
