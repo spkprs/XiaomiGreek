@@ -184,22 +184,22 @@
         <item quantity="other">%d άλλοι χρήστες σημείωσαν ως</item>
         <item quantity="one">%d χρήστης σημείωσε ως</item>
      </plurals>
-     <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d στοιχεία</item>
-        <item quantity="one">%d στοιχείο</item>
-     </plurals>
-     <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d στοιχεία</item>
-        <item quantity="one">%d στοιχείο</item>
-     </plurals>
-     <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d ημέρες</item>
-        <item quantity="one">%d ημέρα</item>
-     </plurals>
-     <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d εφαρμογές</item>
-        <item quantity="one">%d εφαρμογή</item>
-     </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d μηνύματα και κλήσεις μπλοκαρίστηκαν</item>
+        <item quantity="one">%d μηνύμα και κλήση μπλοκαρίστηκε</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d εφαρμ. περιέχουν ιούς ή κακόβουλο λογισμικό</item>
+        <item quantity="one">%d εφαρμ. περιέχουν ιούς ή κακόβουλο λογισμικό</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">"Δεν έχει γίνει σάρωση της συσκευής %d ημ."</item>
+        <item quantity="one">"Δεν έχει γίνει σάρωση της συσκευής %d ημ."</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d διαθέσιμες ενημερώσεις</item>
+        <item quantity="one">%d διαθέσιμη ενημερώση</item>
+    </plurals>
      <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Εισάγετε τουλάχιστον %d χαρακτήρες</item>
         <item quantity="one">Εισάγετε τουλάχιστον %d χαρακτήρα</item>

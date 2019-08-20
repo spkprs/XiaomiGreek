@@ -118,7 +118,7 @@
      <string name="antivirus_privacy_dialog_summary">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές των AVL και Tencent (%s).</string>
      <string name="antivirus_privacy_dialog_summary_link">Πολιτική Απορρήτου</string>
      <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
-     <string name="antivirus_sec_network_unavailable">Η εφαρμογή Ασφαλείας δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
+     <string name="antivirus_sec_network_unavailable">Η Ασφαλεία δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
      <string name="antivirus_toast_already_update">Ενημερωμένο</string>
      <string name="antivirus_toast_network_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="antivirus_toast_update_failed">Αδυναμία ενημέρωσης</string>
@@ -593,16 +593,6 @@
      <string name="cpu_usage_process_run_time_little_time">Λιγότερο από 1 λεπτό</string>
      <string name="cpu_usage_view_action_btn_text">Πατήστε για προβολή</string>
      <string name="create_shortcut">Δημιουργία συντόμευσης στην αρχική οθόνη της ενίσχυσης ταχύτητας</string>
-     <string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
-     <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
-     <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT DEFAULT NULL, state TEXT DEFAULT NULL );</string>
-     <string name="create_table_oaid">CREATE TABLE OAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, oaid TEXT NOT NULL );</string>
-     <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
-     <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
-     <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
-     <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
-     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
-     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
      <string name="cta_dialog_msg">&lt;Data&gt;Πρέπει να συμφωνείσετε με την &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt; πριν χρησιμοποιήσετε την Ασφάλεια. Η Ασφάλεια χρειάζεται πρόσβαση στο διαδίκτυο και στην τοποθεσία σας για την κανονική λειτουργία της και για να διατηρεί ενημερωμένους τους ορισμούς των ιών. Συμφωνείτε?&lt;/Data&gt;</string>
      <string name="cta_dialog_title">Σύνδεση Internet</string>
      <string name="cta_settings">Πρόσβαση στο Internet</string>
@@ -732,7 +722,7 @@
      <string name="dlg_remove_whitelist">Αφαίρεση αυτών των αριθμών από τις εξαιρέσεις;</string>
      <string name="dlg_remove_whitelist_ing">Αφαίρεση…</string>
      <string name="dlg_remove_whitelist_title">Αφαίρεση</string>
-     <string name="dlg_sec_network_unavailable">Η εφαρμογή δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο διαδίκτυο. Να επιτρέπεται η σύνδεση στο Διαδίκτυο;</string>
+     <string name="dlg_sec_network_unavailable">Η Ασφάλεια δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο διαδίκτυο. Να επιτρέπεται η σύνδεση στο Διαδίκτυο;</string>
      <string name="dlg_title_not_open_stranger_identify">Ενεργοποίηση αναγνώρισης κλήσης αγνώστων αριθμών</string>
      <string name="dlg_update_btn_contiue">Συνέχεια</string>
      <string name="dlg_update_btn_open">Αποδοχή</string>
@@ -1360,15 +1350,10 @@
      <string name="menu_setting_traffic">Ρύθμιση χειροκίνητα</string>
      <string name="menu_sms">Αποστολή μηνύματος</string>
      <string name="menu_summary_antispam">Αποκλεισμός κλήσεων και μηνυμάτων</string>
-     <string name="menu_summary_antispam_2">Αποκλεισμένες κλήσεις και μηνύματα</string>
      <string name="menu_summary_antivirus">Αναζήτηση για ιούς</string>
-     <string name="menu_summary_antivirus_2">Εντοπίστηκαν πιθανοί κίνδυνοι</string>
-     <string name="menu_summary_antivirus_3">Δεν σαρώσατε τη συσκευή</string>
      <string name="menu_summary_app_manager">Ενημέρωση/Απεγκατάσταση</string>
-     <string name="menu_summary_app_manager_2">Διαθέσιμες ενημερώσεις</string>
      <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν απορρίματα</string>
-     <string name="menu_summary_garbage_cleanup_2">Μέγεθος απορριμμάτων</string>
-     <string name="menu_summary_garbage_cleanup_3">Καθαρίστε τα απορρίματα τώρα</string>
+     <string name="menu_summary_garbage_cleanup_ex">Καθαρισμός %s των απορριμμάτων</string>
      <string name="menu_summary_networkassistants">Διαχ. σχεδίου δεδομένων</string>
      <string name="menu_summary_networkassistants_2">Περάσατε το όριο</string>
      <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
@@ -1393,7 +1378,7 @@
      <string name="menu_text_networkassistants_unit_kb">KB</string>
      <string name="menu_text_networkassistants_unit_mb">MB</string>
      <string name="menu_text_optimize_manage">Ενίσχυση ταχύτητας</string>
-     <string name="menu_text_power_manager">Βελτιστοποίηση μπαταρίας</string>
+     <string name="menu_text_power_manager">Μπαταρία &amp; Απόδοση</string>
      <string name="menu_text_power_percent">Μπαταρία | %s</string>
      <string name="menu_text_power_percent_title">" %s"</string>
      <string name="menu_wh_remove">Αφαίρεση από τις εξαιρέσεις</string>
@@ -1663,6 +1648,18 @@
      <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
      <string name="person_hotpot">Hotspot κινητής</string>
      <string name="phone">Τηλέφωνο</string>
+	<string name="phone_manage">Χρήσιμα</string>
+	<string name="phone_manage_app_manager_summary">Διαχείρηση εφαρμογών στη συσκευή σας</string>
+	<string name="phone_manage_clean_summary">Απελευθερώστε χώρο αποθήκευσης</string>
+	<string name="phone_manage_clean_title">Καθαριστής</string>
+	<string name="phone_manage_electric_summary">Βελτιστοποιήστε τη συσκευή σας για εξοικονόμηση μπαταρίας</string>
+	<string name="phone_manage_electric_title">Μπαταρία</string>
+	<string name="phone_manage_special_summary">Εξερευνήστε τις πρόσθετες λειτουργίες μας</string>
+	<string name="phone_manage_special_title">Ειδικά χαρακτηριστικά</string>
+	<string name="phone_manage_system_tool_summary">Χρήσιμα εργαλεία σε επίπεδο συστήματος</string>
+	<string name="phone_manage_system_tool_title">Εργαλεία</string>
+	<string name="power_save_mode">Εξοικονόμηση μπαταρίας</string>
+	<string name="power_save_settings">Ρυθμίσεις μπαταρίας</string>
      <string name="pkg_traffic">Ορισμός ορίου δεδομένων</string>
      <string name="pm_auto_start_by_other">Έμμεση έναρξη</string>
      <string name="pm_auto_start_by_other_app">Επιτρέψτε την εκκίνηση της εφαρμογής από άλλες εφαρμογές</string>
@@ -2076,7 +2073,7 @@
      <string name="sp_empty_title_sign_exception">Κρατήστε την εφαρμογή για να την προσθέσετε στις εξαιρέσεις</string>
      <string name="sp_monitored_apps_count_zero">Καμία εφαρμογή πληρωμών δεν προστατεύεται</string>
      <string name="sp_monitored_apps_list_title">Ρυθμίσεις παρακολούθησης</string>
-     <string name="sp_network_privacy_dialog_message">Η εφαρμογή Ασφάλεια, δεν μπορεί να ελέγξει τις πληρωμές επειδή έχετε περιορίσει την πρόσβαση στο Internet. Επιτρέπετε την πρόσβαση στο Internet;</string>
+     <string name="sp_network_privacy_dialog_message">Η Ασφάλεια, δεν μπορεί να ελέγξει τις πληρωμές επειδή έχετε περιορίσει την πρόσβαση στο Internet. Επιτρέπετε την πρόσβαση στο Internet;</string>
      <string name="sp_network_privacy_dialog_title">Αδυναμία ελέγχου πληρωμών</string>
      <string name="sp_scan_item_monitor">Παρακολούθηση πληρωμών</string>
      <string name="sp_scan_item_url_antispam">Προστασία κακόβουλων URL</string>
@@ -2686,7 +2683,8 @@
     <string name="notify_diving_mode_exception_open_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας Καθήλωσης."</string>
     <string name="notify_diving_mode_exception_close_fail">"Παρουσιάστηκε σφάλμα κάρτας SIM. Δεν ήταν δυνατή η απενεργοποίηση της λειτουργίας Καθήλωσης."</string>
     <string name="gamebox_recent_task_expand_fail">"Οι εφαρμογές που λειτουργούν με συντομεύσεις δεν έχουν εγκατασταθεί"</string>
-	<string name="security_center_slogan">Ασφάλεια. Πάντα σε επιφυλακή.</string>
+	<string name="security_center_slogan">Διατηρήστε τη συσκευή σας γρήγορη και ασφαλή</string>
+    <string name="securitycenter_tab_title">Ασφάλεια</string>
 	<string name="third_desktop_dialog_content">Όπως οι εφαρμογή Εκκινητή τρίτων, ενδέχεται να υπάρχει διαρροή δεδομένων, άδειασμα μπαταρίας, καθυστέρηση, κλπ. Μόνο οι επαληθευμένες εφαρμ. από το MIUI μπορούν να οριστούν ως προεπιλεγμένες εφαρμ. Εκκινητή.</string>
 	<string name="third_desktop_dialog_ok">Κατάλαβα</string>
 	<string name="third_desktop_dialog_title">Σφάλμα</string>
@@ -2821,7 +2819,9 @@
 	<string name="system_permission_declare_privacy_no_permission">"Σημειώστε ότι η %1s πρέπει να συλλέγει τα δεδομένα σας για να λειτουργήσει κανονικά.
 Σεβόμαστε και προστατεύουμε τα Προσωπικά σας Δεδομένα."</string>
 	<string name="system_permission_declare_use_network_no_permission">Σύνδεση στο δίκτυο</string>
-	<string name="system_permission_declare_revoke_uninstallable">Μπορείτε να απεγκαταστήσετε αυτήν την εφαρμογή ή να διαχειριστείτε τα δικαιώματα και την άδειά σας στην Ασφάλεια > Διαχείρηση Εφαρμογών > Δικαιώματα > Άλλα Δικαιώματα.</string>
+	<string name="system_permission_declare_revoke_uninstallable">Μπορείτε να αποσυνδεθείτε, να απεγκαταστήσετε αυτήν την εφαρμογή ή να ανακαλέσετε την εξουσιοδότησή σας στην Ασφάλεια &gt; Διαχείρηση Εφαρμογών &gt; Δικαιώματα &gt; Δικαιώματα.</string>
+    <string name="system_tool_green_guard">Οικογενειακή Προστασία</string>
+    <string name="system_tool_sos">Έκτακτη ανάγκη SOS</string>
 	<string name="system_permission_declare_revoke_system">Μπορείτε να βγείτε από αυτήν την Εφαρμογή.</string>
 	<string name="system_permission_declare_user_agreement"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
     <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
@@ -2944,4 +2944,7 @@
   <string name="ew_safe_place_no_maps_tips">Δεν είναι δυνατή η αναζήτηση τώρα. Εγκαταστήστε τους χάρτες Baidu ή το Amap πρώτα.</string>
   <string name="system_permission_declare_analytics_declare">Σας ευχαριστούμε για την εγγραφή σας στο πρόγραμμα εμπειρίας χρήστη. Η συσκευή σας πρέπει να είναι συνδεδεμένη στο διαδίκτυο, ώστε να επιτρέπεται αυτή η λειτουργία να λειτουργεί κανονικά. Απαιτείται επίσης να χορηγήσετε τα ακόλουθα δικαιώματα για να μας επιτρέψετε να συλλέξουμε τα δεδομένα που θα μας βοηθήσουν να βελτιώσουμε τα προϊόντα και τις υπηρεσίες μας. Αυτά τα δεδομένα συλλέγονται μόνο για στατιστικούς σκοπούς. Δεν θα μπορέσουμε να χρησιμοποιήσουμε αυτά τα δεδομένα για να σας προσδιορίσουμε προσωπικά.</string>
   <string name="system_permission_declare_no_say_no_analytics">Αν δεν θέλετε να εκχωρήσετε αυτά τα δικαιώματα, μπορείτε να καταργήσετε την επιλογή του Ρυθμίσεις&gt; Πρόσθετες ρυθμίσεις&gt; Απόρρητο&gt; Πρόγραμμα εμπειρίας χρήστη.</string>
+  <string name="banner_optimizemanage_summary">Ελευθερώστε μνήμη</string>
+  <string name="banner_red_money_assist_button">Ενεργοποίηση</string>
+  <string name="banner_red_money_assist_summary">Ανοίξτε τους κόκκινους φακέλους γρηγορότερα</string>
 </resources>
