@@ -1607,7 +1607,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
 	  <string name="cta_old_not_use">Όχι τώρα</string>
 	  <string name="cta_old_start">Έναρξη</string>
 	  <string name="cta_start">Έναρξη</string>
-	  <string name="display_weather_default">Πατήστε για να λάβετε πληροφορίες καιρού</string>
+	  <string name="display_weather_default">Αγγίξτε για ενημέρωση καιρού</string>
 	  <string name="load_more_error">Παρουσιάστηκε σφάλμα δικτύου. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
 	  <string name="load_no_more">"Αυτά για τώρα.."</string>
 	  <string name="mifare_card">Εξομοιωτής κάρτας</string>

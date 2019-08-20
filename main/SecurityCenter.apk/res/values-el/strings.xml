@@ -2773,9 +2773,9 @@
     <string name="power_ambient_display">Οθόνη Περιβάλλοντος</string>
     <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την Οθόνη Περιβάλλοντος</string>
     <string name="st_antispam_title_mms">MMS</string>
-    <string name="system_permission_declare_main_purpose" formatted="false">Καλώς ήλθατε στη %1s! Αυτή η εφαρμογή σάς επιτρέπει να χρησιμοποιήσετε την παρακάτω λειτουργία: %2s.</string>
-    <string name="system_permission_declare_privacy_declare">"Σεβόμαστε και προστατεύουμε το απόρρητό σας.
-Έχετε υπόψη ότι η %1s χρειάζεται να συλλέξει τα δεδομένα σας και απαιτεί τα ακόλουθα δικαιώματα για κανονική λειτουργία: "</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">Καλώς ήλθατε στον %1s! Επιτρέπετε να χρησιμοποιήσει τις παρακάτω λειτουργίες: %2s</string>
+    <string name="system_permission_declare_privacy_declare">"Σεβόμαστε και προστατεύουμε το απόρρητό σας. Έχετε υπόψη ότι την
+%1s χρειάζεται για να συλλέξει τα δεδομένα σας και απαιτεί τα ακόλουθα δικαιώματα για κανονική λειτουργία: "</string>
     <string name="system_permission_declare_use_network">Σύνδεση στο δίκτυο</string>
     <string name="system_permission_declare_no_say_no">"Αν επιλέξετε να μην δώσετε τα απαιτούμενα δικαιώματα ή δεν μας επιτρέψετε να συλλέξουμε και να χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα είναι σε θέση να λειτουργήσει κανονικά."</string>
     <string name="system_permission_declare_revoke_path">Μπορείτε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής, να αποσυνδεθείτε από το λογαριασμό σας ή να διαχειριστείτε τα δικαιώματα και τις εξουσιοδοτήσεις σας στην ενότητα Ασφάλεια> Διαχείριση εφαρμογών> Δικαιώματα> Άλλα δικαιώματα.</string>

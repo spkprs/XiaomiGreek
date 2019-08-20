@@ -22,7 +22,7 @@
 	<string name="app_not_installed_toast">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας.</string>
 	<string name="app_select_title">Προσθήκη εφαρμογών συχνής χρήσης</string>
 	<string name="cancel_button">Ακύρωση</string>
-	<string name="dual_animation">Έναρξη κινήσεων</string> 
+	<string name="dual_animation">Προβολή κινήσεων</string> 
 	<string name="dual_animation_description">Εμφάνιση κινήσεων κατά την έναρξη Διπλών εφαρμογών</string>
 	<string name="dual_app_title">Διπλές εφαρμογές</string>
 	<string name="dual_app_words">Κάθε λογαριασμός αξίζει τη δική του εφαρμογή</string>

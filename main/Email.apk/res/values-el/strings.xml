@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_cache_provider">Λογαριασμό Cache Provider</string>
+  <string name="account_add_title">Επιλέξτε μια υπηρεσία email</string>
   <string name="account_duplicate_dlg_message_fmt">Χρησιμοποιείτε ήδη το όνομα χρήστη για τον λογαριασμό \"%s\".</string>
   <string name="account_duplicate_dlg_title">Διπλότυπος λογαριασμός</string>
   <string name="account_failure">Η συνεδρία έληξε</string>
@@ -771,7 +772,7 @@
   <string name="open_notification_kingagent">Ανοίξτε την ειδοποίηση για το σημείο ταφής</string>
   <string name="optimization_suggestion">Προτάσεις βελτιστοποιήσεων</string>
   <string name="others_mail">Άλλοι Λογαριασμοί</string>
-  <string name="others_mail_des">(Συμβατό με πάνω από 600K Υπηρ. Mails)</string>
+  <string name="others_mail_des">Άλλες υπηρεσίες Email ή Εταιρικής υπηρεσίας Email</string>
   <string name="outbox_alert_button_no_resend">Χωρίς Αποστολή</string>
   <string name="outbox_alert_button_resend">Αποστολή ξανά</string>
   <string name="outbox_alert_certificate_error">Το πιστοποιητικό email εξαιρέθηκε. Παρακαλώ να το ενημερώσετε</string>
