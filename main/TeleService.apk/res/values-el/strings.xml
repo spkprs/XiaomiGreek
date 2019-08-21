@@ -1180,6 +1180,7 @@
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G(CDMA) Προτίμηση</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">4G Προτίμηση</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G(CDMA) Προτίμηση</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G Προτίμηση</string>
   <string name="preferred_network_type_pref_entries_auto">Αυτόματο</string>
   <string name="preferred_network_type_pref_entries_global">Παγκόσμια</string>
   <string name="preferred_network_type_pref_entries_only_2g">2G Μόνο (εξοικονομεί μπαταρία)</string>

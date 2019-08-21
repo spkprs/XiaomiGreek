@@ -481,7 +481,7 @@
 	  <string name="warning_bar_action_upgrade_vip">Αναβάθμιση σχεδίου Mi cloud</string>
 	  <string name="warning_bar_add_short_cut_success">Προστέθηκε επιτυχώς</string>
 	  <string name="warning_bar_title_cloud_space_already_full">Ο αποθ. χώρος του Xiaomi Cloud εξαντλείται. Οι φωτογραφίες σας ενδέχεται να μην είναι συγχρονισμένες.</string>
-	  <string name="warning_bar_title_cloud_space_full">Ο αποθ. χώρος του Xiaomi Cloud είναι πλήρης. Ο συγχρονισμός διακόπηκε.</string>
+	  <string name="warning_bar_title_cloud_space_full">Ο αποθ. χώρος του Xiaomi Cloud είναι πλήρης. Αδύνατος ο Συγχρονισμός φωτογραφιών, ιστορικού κλήσεων και άλλων στοιχείων.</string>
 	  <string name="warning_bar_title_master_sync_off">Ο αυτόμ. συγχρ. είναι ανενεργός</string>
 	  <string name="warning_bar_title_network_unconnected">"Αδυναμία σύνδεσης στο δίκτυο"</string>
 	  <string name="warning_bar_title_short_cut">Προσθήκη συντόμευσης του Mi cloud στην αρχική οθόνη?</string>
@@ -508,4 +508,19 @@
       <string name="pay_info_dialog_mibi_balance_prefix">Χρήση υπό[ολοίπων Πιστώσεις Mi: %s</string>
       <string name="pay_info_dialog_confirm_to_pay">Πληρωμή %s</string>
       <string name="pay_info_dialog_title">Επιλέξτε τρόπο πληρωμής</string>
+	  <string name="micloud_setting_calllog_summary">Ιστορικό κλήσεων</string>
+	  <string name="micloud_setting_recorder_summary">Εγγραφές ήχου και κλήσεων</string>
+	  <string name="micloud_setting_notes_summary">Σημειώσεις</string>
+	  <string name="micloud_setting_calendar_summary">Εκδηλώσεις</string>
+	  <string name="micloud_setting_personal_assistant_summary">Κάρτες και χαρακτηριστικά Προσωπικού βοηθού</string>
+	  <string name="micloud_setting_phrase_summary">Συχνές φράσεις</string>
+	  <string name="micloud_main_head_menu_cloud_backup_summary">Διάταξη αρχικής οθόνης, εφαρμογές και ρυθμίσεις συστήματος</string>
+	  <string name="micloud_main_head_menu_finddevice_summary">"Εντοπίστε και κλειδώστε τη συσκευή σας αν χαθεί"</string>
+      <string name="storage_manage_upgrade">Αναβάθμιση</string>
+      <string name="storage_manage_expansion">Περισσότερα</string>
+      <string name="storage_manage_renewal">Ανανέωση</string>
+      <string name="storage_manage_list_title">Δεδομένα Cloud</string>
+      <string name="storage_manage_list_title_action">Προβολή περισσότερων</string>
+      <string name="cloud_storage_info_type_drive">Mi Drive</string>
+      <string name="cloud_storage_info_type_pdc">Ρυθμίσεις συστήματος</string>
 </resources>
