@@ -661,7 +661,7 @@
      <string name="menu_set_ring_tone">Ορισμός ήχου κλήσης</string>
      <string name="menu_settings">Ρυθμίσεις</string>
      <string name="menu_share">Κοινή χρήση</string>
-     <string name="menu_show_all_calls">Δείτε όλες τις κλήσεις</string>
+     <string name="menu_show_all_calls">Προβολή όλων των κλήσεων</string>
      <string name="menu_show_voicemails_only">Εμφάνιση μόνο φωνητικών μηνυμάτων</string>
      <string name="menu_splitAggregate">Διαχωρισμός</string>
      <string name="menu_sync_remove">Κατάργηση ομάδας συγχρονισμού</string>
@@ -902,7 +902,7 @@
      <string name="preference_import">Εισαγωγή</string>
      <string name="preference_import_export">Εισαγωγή/Εξαγωγή</string>
      <string name="preference_import_export_title">Εισαγωγή/Εξαγωγή επαφών</string>
-     <string name="preference_key_trash_bin_title">Δείτε αποθηκευμένες επαφές που διαγράφηκαν πρόσφατα</string>
+     <string name="preference_key_trash_bin_title">Προβολή πρόσφατων διεγραμμένων επαφών</string>
      <string name="preference_other">Άλλο</string>
      <string name="preference_others">Άλλα</string>
      <string name="preference_phone">Τηλέφωνο</string>

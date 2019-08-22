@@ -770,7 +770,7 @@
   <string name="unit_data_short_weight_us.cwt">cwt</string>
   <string name="unit_myriads">×10K</string>
   <string name="unit_percentage">%</string>
-  <string name="unit_year">Y</string>
+  <string name="unit_year">" Ε"</string>
   <string name="unit_year_format">Έτος %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="unKnow_error">Αγνωστο σφάλμα</string>
@@ -826,7 +826,7 @@
   <string name="btn_float_window_back_to_app">Μεγιστοποίηση</string>
   <string name="btn_float_window_close">Κλείσιμο Ελαχιστοποίησης</string>
   <string name="btn_float_window_resize">Αλλαγή μεγέθους Ελαχιστοποίησης</string>
-  <string name="float_window_guide_text">Πατήστε εδώ για ελαχιστοποίησης Αριθμομηχανής</string>
-  <string name="hint_floatwindow_alpha_guide_text">Πατήστε για προσαρμογή αδιαφάνειας</string>
+  <string name="float_window_guide_text">Αγγίξτε εδώ για ελαχιστοποίησης Αριθμομηχανής</string>
+  <string name="hint_floatwindow_alpha_guide_text">Αγγίξτε για προσαρμογή αδιαφάνειας</string>
   <string name="view_float_window_move">Μετακίνηση ελαχιστοποιημένης Αριθμομηχανής</string>
 </resources>

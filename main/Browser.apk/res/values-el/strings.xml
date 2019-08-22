@@ -1008,6 +1008,7 @@
   <string name="pref_notifications_title">Ειδοποιήσεις</string>
   <string name="pref_other_title">Άλλα</string>
   <string name="pref_paper_mode_title">Λειτουργία ανάγνωσης</string>
+  <string name="pref_personalized_customization">Εξατομικευμένη προσαρμογή</string>
   <string name="pref_privacy_clear_cache">Καθαρισμός cache</string>
   <string name="pref_privacy_clear_cache_dlg">Διαγραφή cached και βάσεων;</string>
   <string name="pref_privacy_clear_cache_summary">Καθαρισμός τοπικού cached περιεχομένου και βάσεων δεδομένων</string>

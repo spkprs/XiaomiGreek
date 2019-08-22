@@ -881,7 +881,7 @@
 	<string name="ft_cfs_dialog_content">"Δεν ήταν δυνατή η παράδοση αρχείων με τη χρήση του RCS. Αντί για αυτό, στείλτε ένα σύνδεσμο σε ένα μήνυμα κειμένου;"</string>
 	<string name="ft_cfs_dialog_title">Εναλλακτική μεταφορά αρχείων</string>
 	<string name="is_composing">Πληκτρολογεί...</string>
-	<string name="menu_sms_block">Λίστα μπλοκαρισμένων</string>
+	<string name="menu_sms_block">Σε Λίστα αποκλεισμού</string>
     <string name="prompt_otp">Κωδικός</string>
 	<string name="prompt_phone">Αριθμός τηλεφώνου</string>
 	<string name="prompt_summary">Το RCS σάς επιτρέπει να ανταλλάσσετε μηνύματα, φωτογραφίες, βίντεο και να δημιουργείτε δωρεάν συνομιλίες ομάδας.</string>
