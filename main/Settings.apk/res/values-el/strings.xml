@@ -976,10 +976,7 @@
      <string name="carrier_enabled">APN ενεργοποίηση/απενεργοποίηση</string>
      <string name="carrier_enabled_summaryOff">APN απενεργοποιημένο</string>
      <string name="carrier_enabled_summaryOn">APN ενεργοποιημένο</string>
-     <string name="category_key_device">com.android.settings.category.device</string>
-     <string name="category_key_personal">com.android.settings.category.personal</string>
-     <string name="category_key_system">com.android.settings.category.system</string>
-     <string name="category_key_wireless">com.android.settings.category.wireless</string>
+     <string name="carrier_provisioning">Πληροφορίες προμήθειας φορέα</string>
      <string name="category_personal">Προσωπικά</string>
      <string name="category_work">Εργασία</string>
      <string name="cdma_security_settings_summary">Ορισμός της Τοποθεσίας μου, ξεκλειδώματος οθόνης και κλειδώματος χώρου διαπιστευτηρίων</string>
@@ -1611,6 +1608,7 @@
      <string name="dump_log_summary">"Αυτή η δυνατότητα έχει σχεδιαστεί για τη δημιουργία 284 αρχείων καταγραφής σε εκδόσεις Alpha και Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
 Μπορείτε να προβάλετε την καταγραφή που δημιουργήθηκε στη Διαχείριση αρχείων."</string>
      <string name="dump_log_title">Σχετικά με αυτή τη λειτουργία</string>
+     <string name="eab_provisioned_switch_string">EAB/Προβλέψιμη παρουσία</string>
      <string name="edge_mode_back">Πίσω</string>
      <string name="edge_mode_back_summary">Διπλό χτύπημα στην άκρη του τηλεφώνου σας για να πάτε πίσω</string>
      <string name="edge_mode_clean">Καθαρισμός cache συστήματος</string>
@@ -3592,6 +3590,7 @@
      <string name="radioInfo_display_packets">pkts</string>
      <string name="radioInfo_lac">LAC</string>
      <string name="radioInfo_menu_getPDP">Get PDP List</string>
+     <string name="radioInfo_menu_getIMS">Κατάσταση υπηρεσίας IMS</string>
      <string name="radioInfo_menu_viewADN">Προβολή βιβλίου διευθύνσεων SIM</string>
      <string name="radioInfo_menu_viewFDN">Προβολή προκαθορισμένων αριθμών κλήσης</string>
      <string name="radioInfo_menu_viewSDN">Προβολή αριθμών κλήσης υπηρεσίας</string>
@@ -3622,6 +3621,12 @@
      <string name="radio_info_gsm_service_label">Υπηρεσία GSM:</string>
      <string name="radio_info_http_client_test">HTTP Δοκιμή πελάτη:</string>
      <string name="radio_info_imei_label">IMEI:</string>
+	 <string name="radio_info_ims_feature_status_available">Διαθέσιμη</string>
+	 <string name="radio_info_ims_feature_status_unavailable">Μη διαθέσιμη</string>
+	 <string name="radio_info_ims_reg_status">Εγγραφή IMS: %1$s\nΦωνή μέσω LTE: %2$s\nΦωνή μέσω δικτύου Wi-Fi: %3$s\nΒιντεοκλήσεις: %4$s\nΔιεπαφή UT: %5$s</string>
+	 <string name="radio_info_ims_reg_status_not_registered">Μη εγγεγραμμένη</string>
+	 <string name="radio_info_ims_reg_status_registered">Εγγεγραμμένη</string>
+	 <string name="radio_info_ims_reg_status_title">Κατάσταση IMS</string>
      <string name="radio_info_message_waiting_label">Μήνυμα σε αναμονή:</string>
      <string name="radio_info_neighboring_location_label">Γειτονικό CID:</string>
      <string name="radio_info_phone_number_label">Αριθμός τηλεφώνου:</string>
@@ -4908,6 +4913,7 @@
      <string name="transition_animation_scale_title">Μετάβαση κίνησης</string>
      <string name="translation_contributors_summary" />
      <string name="translation_contributors_title">Συντελεστές</string>
+     <string name="trigger_carrier_provisioning">Προμήθεια φορέα ενεργ/σης</string>
      <string name="trusted_credentials">Ασφαλή πιστοποιητικά</string>
      <string name="trusted_credentials_disable_confirmation">Απενεργοποίηση του πιστοποιητικού CA συστήματος</string>
      <string name="trusted_credentials_disable_label">Απενεργοποίηση</string>
@@ -5410,6 +5416,7 @@
      <string name="vr_listener_security_warning_summary">%1$s θα μπορούν να εκτελούνται όταν χρησιμοποιείτε εφαρμογές σε λειτουργία εικονικής πραγματικότητας.</string>
      <string name="vr_listener_security_warning_title">Αποδοχή πρόσβασης στην υπηρεσία VR για %1$s?</string>
      <string name="vr_listeners_title">Βοηθητικές υπηρεσίες Εικονικής Πραγματικότητας</string>
+     <string name="vt_provisioned_switch_string">Κλήση μέσω Βίντεο</string>
      <string name="wait_for_debugger">Αναμονή για debugger</string>
      <string name="wait_for_debugger_summary">Η εφαρμογή για αποσφαλμάτωση, περιμένει την επισύναψη του debugger πριν από την εκτέλεση</string>
      <string name="wakeup_for_keyguard_notification_title">Ενεργοποίηση οθόνης με κάθε νέα ειδοποίηση</string>
@@ -5425,6 +5432,7 @@
      <string name="wallpaper_suggestion_title">Αλλαγή ταπετσαρίας</string>
      <string name="webview_license_title">Άδεια συστήματος WebView</string>
      <string name="welcome">Καλωσορίσατε</string>
+     <string name="wfc_provisioned_switch_string">Κλήση μέσω Wi-Fi</string>
      <string name="wfd_available_devices">Διαθέσιμες συσκευές</string>
      <string name="wfd_disconnect_diag_msg">Εάν διακόψετε μια προβολή ασύρματης οθόνης η σύνδεση με το %1$s θα τερματιστεί</string>
      <string name="wfd_disconnect_diag_title">Τερματισμός προβολής?</string>
@@ -5480,7 +5488,7 @@
      <string name="wifi_assistant_explicitly_confirm_wifi_message">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο Internet. Άλλα δίκτυα Wi-Fi είναι διαθέσιμα. Εναλλαγή δικτύων?</string>
      <string name="wifi_assistant_intro_setup">"Εισαγωγή
 Βοηθός Wi-Fi"</string>
-     <string name="wifi_assistant_keep_connection">Μείνετε συνδεδεμένοι</string>
+     <string name="wifi_assistant_keep_connection">Παραμονή</string>
      <string name="wifi_assistant_off">Ανενεργό</string>
      <string name="wifi_assistant_ok">OK</string>
      <string name="wifi_assistant_on">Ενεργό</string>
@@ -6105,7 +6113,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
       <string name="power_key_start_enjoy">Μάθετε περισσότερα σχετικά με το Google Assistant</string>
 	  <string name="power_key_start_guide">Αφύπνιση του Βοηθού Google χρησιμοποιώντας το κουμπί Power σε συσκευές πλήρους προβολής</string>  
 	  <string name="the_way_of_wakeup_voice_assistant_summary">Έναρξη Βοηθού φωνής σε λειτουργία πλήρους οθόνης (χωρίς εικονικά πλήκτρα)</string>   
-	  <string name="autofill_app">Υπηρεσία αυτόματης συμπλήρωσης</string>
+	  <string name="autofill_app">Υπηρ. αυτόμ. συμπλήρωσης</string>
+      <string name="autofill_confirmation_message">"&lt;b>Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσει τι μπορεί να συμπληρωθεί αυτόματα."</string>
 	  <string name="app_permission_summary_allowed">Επιτρέπεται</string>
 	  <string name="app_permission_summary_not_allowed">Δεν επιτρέπεται</string>
 	  <string name="directory_access">Πρόσβαση στον κατάλογο</string>
@@ -6114,7 +6123,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	  <string name="screen_projection_characteristics">Ειδικά χαρακτηριστικά</string>
 	  <string name="screen_projection_characteristics_off_screen_summary">Μπορείτε να συνεχίσετε τη μετάδοση όταν η οθόνη της συσκευής σας είναι ανενεργή. Αυτό το χαρακτηριστικό μειώνει την κατανάλωση ενέργειας.</string>
 	  <string name="screen_projection_characteristics_off_screen_title">Μετάδοση σε ανενεργή οθόνη</string>
-	  <string name="screen_projection_characteristics_privacy_protect_summary">"Μην εμφανίζονται αναδυόμενες ειδοποιήσεις, εισερχόμενες κλήσεις και άλλα προσωπικά στοιχεία σε εξωτερικές οθόνες."</string>
+	  <string name="screen_projection_characteristics_privacy_protect_summary">"Χωρίς εμφάνιση αναδυόμενων ειδοποιήσεων, εισερχόμενων κλήσεων και άλλων προσωπικών στοιχείων σε εξωτερικές οθόνες."</string>
 	  <string name="screen_projection_characteristics_privacy_protect_title">Απόκρυψη ιδιωτικών στοιχείων</string>
 	  <string name="screen_projection_characteristics_small_window_summary">"Ελαχιστοποιήστε το παράθυρο μετάδοσης για να μπορείτε να χρησιμοποιήσετε άλλες λειτουργίες του τηλεφώνου σας."</string>
 	  <string name="screen_projection_characteristics_small_window_title">Ελαχιστοποίηση</string>
@@ -6640,4 +6649,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="right_function_key">Δεξιά συντόμευση</string>
     <string name="show_app_titles">Απόκρυψη τίτλων εφαρμογών</string>
     <string name="show_icon_shadows_title">Εμφάνιση σκιάς εικονιδίων</string>
+    <string name="use_new_miui_fonts_title">Χρήση νέων γραμματοσειρών MIUI</string>
+    <string name="use_new_miui_fonts_summary">Χρησιμοποιήστε τη νέα γραμματοσειρά της MIUI αντί της προεπιλεγμένης \"Roboto\". Λειτουργεί μόνο όταν χρησιμοποιείται η \"Προεπιλογή\" στα \"Θέματα\".</string>
 </resources>

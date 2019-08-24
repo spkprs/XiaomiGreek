@@ -1772,7 +1772,7 @@
 	 <string name="video_editor_download_with_metered_network_title">"Είστε συνδεδεμένοι σε ένα δίκτυο με χρέωση"</string>
 	  <string name="month_view_tip_button_text">Κατανοητό</string>
 	  <string name="month_view_tip_sub_title">Άγγιγμα στην οθόνη για μηνιαία προβολή</string>
-	  <string name="month_view_tip_title">Προβολή μήνα</string>
+	  <string name="month_view_tip_title">Μηνιαία προβολή</string>
 	  <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
 	  <string name="photo_font_cancel_download">Ακύρωση</string>
 	  <string name="photo_font_download">Λήψη</string>

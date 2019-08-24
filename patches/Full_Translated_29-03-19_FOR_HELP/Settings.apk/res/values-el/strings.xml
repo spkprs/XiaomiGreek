@@ -551,8 +551,8 @@
   <string name="auto_sync_account_title">Συγχρονισμός δεδομένων αυτόματα</string>
   <string name="auto_sync_personal_account_title">Συγχρονισμός δεδομένων προσωπικού χαρακτήρα</string>
   <string name="auto_sync_work_account_title">Συγχρονισμός δεδομένων εργασίας</string>
-  <string name="autofill_app">Υπηρεσία αυτόματης συμπλήρωσης</string>
-  <string name="autofill_confirmation_message">&lt;b&gt;Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσετε τι μπορεί να συμπληρωθεί αυτόματα.</string>
+  <string name="autofill_app">Υπηρ. αυτόμ. συμπλήρωσης</string>
+  <string name="autofill_confirmation_message">"&lt;b>Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσει τι μπορεί να συμπληρωθεί αυτόματα."</string>
   <string name="autofill_keywords">αυτόματη, πλήρωση, αυτόματη συμπλήρωση</string>
   <string name="automatic_brightness">Αυτόματη φωτεινότητα</string>
   <string name="automatic_storage_manager_activation_warning">Το αποθηκευτικό χώρο σας τώρα διαχειρίζεται ο διαχειριστής αποθήκευσης</string>

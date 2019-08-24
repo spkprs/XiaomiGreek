@@ -77,4 +77,6 @@
   <string name="ext_powermenu_title">Σύνθετη Επανεκκίνηση</string>
   <string name="two_lines_app_title">Τίτλοι Εφαρμ. σε 2 γραμμές</string>
   <string name="use_in_theme_server">Παγκόσμιος διακομιστής Θεμάτων</string>
+  <string name="use_new_miui_fonts_title">Χρήση νέων γραμματοσειρών MIUI</string>
+  <string name="use_new_miui_fonts_summary">Χρησιμοποιήστε τη νέα γραμματοσειρά της MIUI αντί της προεπιλεγμένης \"Roboto\". Λειτουργεί μόνο όταν χρησιμοποιείται η \"Προεπιλογή\" στα \"Θέματα\".</string>
 </resources>

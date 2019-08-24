@@ -907,7 +907,7 @@
      <string name="first_aid_result_feedback_button">Υποβολή</string>
      <string name="first_aid_result_feedback_summary">Η Ασφάλεια δεν βρήκε κανένα πρόβλημα. Ωστόσο, εντόπισα κάποιο.</string>
      <string name="first_aid_result_feedback_title">Σχόλια</string>
-     <string name="first_aid_result_summary_normal">Όλα φαίνονται καλά!</string>
+     <string name="first_aid_result_summary_normal">Όλα είναι τέλεια!</string>
      <string name="first_aid_result_summary_not_finished">Η Σάρωση δεν ολοκληρώθηκε. Ορισμένοι κίνδυνοι ενδέχεται να μην έχουν εντοπιστεί.</string>
      <string name="first_aid_scanning_item1">Έλεγχος για θέματα επιδόσεων…</string>
      <string name="first_aid_scanning_item2">Έλεγχος για προβλήματα δικτύου…</string>
@@ -1314,7 +1314,7 @@
      <string name="megabyte_per_second">MB/δ</string>
      <string name="memory_check_content">Ελευθερώθηκαν %s</string>
      <string name="memory_clean_memory_size_tip">Κρυφή Μνήμη/Cache</string>
-     <string name="memory_clean_no_need_clean">Όλα φαίνονται καλά</string>
+     <string name="memory_clean_no_need_clean">Όλα είναι τέλεια</string>
      <string name="memory_clear_unused">Καθαρισμός κρυφής μνήμης (%s)</string>
      <string name="menu_add">Προσθήκη</string>
      <string name="menu_bl_call_log">Προβολή αποκλεισμένων κλήσεων</string>
@@ -1576,7 +1576,7 @@
      <string name="optimize_result_summary_system_default_settings">Η χρήση των προεπιλεγμένων εφαρμογών MIUI αυξάνει το επίπεδο σταθερότητας και ασφάλειας του συστήματος.</string>
      <string name="optimize_result_title_sucurity_risk">Βρέθηκαν κίνδυνοι ασφαλείας</string>
      <string name="optimize_result_title_system_default_settings">Οι προεπιλεγμένες ρυθμίσεις έχουν αλλάξει</string>
-     <string name="optimize_result_title_uninstall_apps">Απεγκατάσταση Εφαρμ.</string>
+     <string name="optimize_result_title_uninstall_apps">Απεγκατάσταση Εφαρμογών</string>
      <string name="optimize_result_toast_system_default_settings">Έγινε επαναφορά προεπιλεγμένων ρυθμίσεων</string>
      <string name="optimize_result_toast_system_no_item_selected">Δεν έχουν επιλεγεί στοιχεία</string>
      <string name="optmizingbar_optimize_done">Βελτιστοποιήθηκε</string>
@@ -1650,10 +1650,10 @@
      <string name="person_hotpot">Hotspot κινητής</string>
      <string name="phone">Τηλέφωνο</string>
 	<string name="phone_manage">Χρήσιμα</string>
-	<string name="phone_manage_app_manager_summary">Διαχείρηση εφαρμογών στη συσκευή σας</string>
+	<string name="phone_manage_app_manager_summary">Διαχείριση εφαρμογών στη συσκευή σας</string>
 	<string name="phone_manage_clean_summary">Απελευθερώστε χώρο αποθήκευσης</string>
 	<string name="phone_manage_clean_title">Καθαριστής</string>
-	<string name="phone_manage_electric_summary">Βελτιστοποιήστε τη συσκευή σας για εξοικονόμηση μπαταρίας</string>
+	<string name="phone_manage_electric_summary">Βελτιστοποίηση για εξοικονόμηση μπαταρίας</string>
 	<string name="phone_manage_electric_title">Μπαταρία</string>
 	<string name="phone_manage_special_summary">Εξερευνήστε τις πρόσθετες λειτουργίες μας</string>
 	<string name="phone_manage_special_title">Ειδικά χαρακτηριστικά</string>
