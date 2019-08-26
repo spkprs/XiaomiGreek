@@ -4,7 +4,7 @@
      <string name="action_folder_description">Προβολή φακέλων</string>
      <string name="action_mode_switcher_grid_description">Προβολή πλέγματος</string>
      <string name="action_mode_switcher_list_description">Προβολή λίστας</string>
-     <string name="action_settings_description">Άνοιγμα Ρυθμίσεων</string>
+     <string name="action_settings_description">Ρυθμίσεις</string>
      <string name="actionbar_close_description">Κλείστε</string>
      <string name="actionbar_home_description">Πίσω</string>
      <string name="add_account_desc">Συγχρονισμός των σημειώσεων με το λογαριασμό Mi;</string>

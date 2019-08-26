@@ -369,7 +369,7 @@
   <string name="dialog_request_network_message">Καλώς ήλθατε στο Mi Mover! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταφέρετε στοιχεία από την παλιά σας συσκευή σε νέα. Το Mi Mover πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά.</string>
   <string name="dialog_tip_upgrade_summary">Φαίνεται οτι η έκδοση του Mi Mover είναι παλιά. Ενημερώστε το Mi Mover στην τελευταία του έκδοση για να μπορέσετε να μεταφέρετε αρχεία.</string>
   <string name="dialog_tip_upgrade_title">Ενημέρωση Mi Mover</string>
-  <string name="dialog_version_summary_tip">Σημειώσεις ενημέρωσης:</string>
+  <string name="dialog_version_summary_tip">"Τι Νέο: "</string>
   <string name="dialog_version_title_tip">Υπάρχει διαθέσιμη ενημέρωση</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="document">Εγγραφα</string>
@@ -547,6 +547,10 @@
   <string name="main_chooser_title">Επιλέξτε την παλιά συσκευή</string>
   <string name="message_request_package_stats_perm">Πατήστε \"Συνέχεια\" για να ανοίξετε τις Ρυθμίσεις και δώστε στο Mi Mover τα απαιτούμενα δικαιώματα.</string>
   <string name="midnight">ΜΜ</string>
+  <string name="miui_need_location_permission_summary">"Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας, προκειμένου να εντοπίσει κοντινές συσκευές. Θα είναι αδύνατη η χρήση του Mi Mover αν δεν το επιτρέψετε".</string>
+  <string name="miui_need_location_permission_title">Να επιτρέπεται η πρόσβαση στην τοποθεσία</string>
+  <string name="miui_need_open_high_accuracy_summary">"Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας σε λειτουργία Υψηλής ακρίβειας, προκειμένου να εντοπίσει κοντινές συσκευές. Θα είναι αδύνατη η χρήση του Mi Mover αν δεν το επιτρέψετε."</string>
+  <string name="miui_need_open_high_accuracy_title">Να επιτρέπεται η πρόσβαση σε ακριβείς πληροφορίες τοποθεσίας</string>
   <string name="mms">MMS</string>
   <string name="mms_contacts_calllog">Μηνύματα, επαφές και ιστορικό κλήσεων</string>
   <string name="monday">Δευτέρα</string>
@@ -592,6 +596,7 @@
   <string name="morning">ΠΜ</string>
   <string name="name">Ονομα</string>
   <string name="name_password_not_consistent">Το αναγνωριστικό και ο κωδικός πρόσβασης Apple που εισάγατε δεν ταιριάζουν</string>
+  <string name="need_location_permission_summary">Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας, προκειμένου να εντοπίσει κοντινές συσκευές.</string>
   <string name="need_more_memory_cacel">Ακύρωση</string>
   <string name="need_more_memory_confirm">Εκκαθαριστής</string>
   <string name="need_more_memory_summary">"Τα δεδομένα εφαρμογών τρίτου μέρους πρέπει να συμπιεσθούν πριν μεταφερθούν. Δεν υπάρχει αρκετός χώρος αποθήκευσης για τη δημιουργία συμπιεσμένων πακέτων.

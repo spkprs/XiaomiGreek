@@ -802,7 +802,8 @@
   <string name="read_external_dictionary_multiple_files_title">Επιλέξτε ένα αρχείο λεξικού για εγκατάσταση</string>
   <string name="read_external_dictionary_no_files_message">Κανένα λεξικό αρχεία στο φάκελο λήψεις</string>
   <string name="recommend_category_title">Αλλες ρυθμίσεις</string>
-  <string name="recommendations_switch_title">Συστάσεις</string>
+  <string name="recommendations_gp_switch_title">Αναζήτηση προτάσεων</string>
+  <string name="recommendations_switch_title">Προτάσεις</string>
   <string name="remove">Κατάργηση</string>
   <string name="save">Αποθήκευση</string>
   <string name="search_menu_title">Αναζήτηση</string>

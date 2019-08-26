@@ -9,6 +9,10 @@
         <item quantity="other">Άνοιξαν πρόσφατα, διαθέσιμες εφαρμ: %d Σύρετε επάνω για αφαίρεση, κάτω για κλείδωμα.</item>
         <item quantity="one">Άνοιξε πρόσφατα, διαθέσιμη εφαρμ: %d Σύρετε επάνω για αφαίρεση, κάτω για κλείδωμα.</item>
      </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Αναρτώμενη σε %1$d δευτ.</item>
+        <item quantity="one">Αναρτώμενη σε %1$d δευτ</item>
+    </plurals>
      <plurals name="fold_tips_title">
         <item quantity="other">%d ασήμαντες ειδοποιήσεις</item>
         <item quantity="one">%d ασήμαντη ειδοποίηση</item>

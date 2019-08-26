@@ -22,7 +22,7 @@
 	<string name="auto_start_warning_deny">Απόρριψη</string>
 	<string name="auto_start_warning_title">Να επιτρέπεται στο %s να ξεκινάει αυτόματα στο μέλλον;</string>
 	<string name="autofill">Αυτόματη συμπλήρωση</string>
-	<string name="button_text_cancel">Ματαίωση</string>
+	<string name="button_text_cancel">Ακύρωση</string>
 	<string name="button_text_delete">Απεγκατάσταση</string>
 	<string name="button_text_delete_timer">Απεγκατάσταση (%d)</string>
 	<string name="button_text_next_step">Επόμενο</string>
@@ -30,6 +30,7 @@
 	<string name="call_record_or">" ή "</string>
 	<string name="call_record_sample_prefix_miui">Εγγραφή κλήσης</string>
 	<string name="caller_info_name_delimiter">" ή "</string>
+    <string name="can_not_transfer_when_screening">"Αδύνατη η Μετάδοση κατά την μεταφορά"</string>
 	<string name="cancel_action">Ακύρωση</string>
 	<string name="close">Απενεργοποίηση</string>
 	<string name="configure_input_methods">Επιλογή πληκτρολογίου</string>
