@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="autospace_punctuation">Αυτόματο διάστημα μετά τη στίξη</string>
+  <string name="autospace_punctuation_summary">Εισαγωγή διαστήματος μετά τη στίξη</string>
   <string name="abbreviation_unit_milliseconds">%sms</string>
   <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
