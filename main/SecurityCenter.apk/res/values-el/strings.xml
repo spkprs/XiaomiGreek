@@ -595,6 +595,7 @@
      <string name="create_shortcut">Δημιουργία συντόμευσης στην αρχική οθόνη της ενίσχυσης ταχύτητας</string>
      <string name="cta_dialog_msg">&lt;Data&gt;Πρέπει να συμφωνείσετε με την &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt; πριν χρησιμοποιήσετε την Ασφάλεια. Η Ασφάλεια χρειάζεται πρόσβαση στο διαδίκτυο και στην τοποθεσία σας για την κανονική λειτουργία της και για να διατηρεί ενημερωμένους τους ορισμούς των ιών. Συμφωνείτε?&lt;/Data&gt;</string>
      <string name="cta_dialog_title">Σύνδεση Internet</string>
+     <string name="cta_HIPS_Perm_Location_Desc">απόκτηση ακριβή τοποθεσία (GPS και μέσω δικτύου)</string>
      <string name="cta_main_purpose">Καλώς ήρθατε στην Ασφάλεια! Μπορείτε να, εκκαθάριση αχρήστων, εξουδετέρωση ιών, βελτιστοποίηση απόδοσης παιχνιδιών, εξοικονόμηση μπαταρίας, διαχείρηση εφαρμογών και πολλά άλλα.</string>
      <string name="cta_settings">Πρόσβαση στο Internet</string>
      <string name="current_network_state_not_need_diagnose">Η σύνδεση στο Internet είναι φυσιολογική</string>
