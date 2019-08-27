@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="permissions_desc">
+    <item>Για πρόσβαση και αποθήκευση εικόνων, εφαρμογών και άλλων αρχείων, καθώς και τη μεταφορά τους</item>
+    <item>Για τη μεταφορά αρχείων μέσω Bluetooth και Wi-Fi</item>
+  </string-array>
+</resources>

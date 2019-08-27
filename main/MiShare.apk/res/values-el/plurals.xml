@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="file_type_detail_count">
+    <item quantity="other">%1$d αρχεία</item>
+    <item quantity="one">%1$d αρχείο</item>
+  </plurals>
+  <plurals name="send_file_success_detail_files">
+    <item quantity="other">Στάλθηκαν %1$s αρχεία με επιτυχία</item>
+    <item quantity="one">Στάλθηκε %1$s αρχείο με επιτυχία</item>
+  </plurals>
+  <plurals name="send_file_success_detail_images">
+    <item quantity="other">Στάλθηκαν %1$s εικόνες με επιτυχία</item>
+    <item quantity="one">Στάλθηκε %1$s εικόνα με επιτυχία</item>
+  </plurals>
+  <plurals name="send_files_to_device_files">
+    <item quantity="other">Προετοιμασία για αποστολή %2$d αρχεία προς %1$s…</item>
+    <item quantity="one">Προετοιμασία για αποστολή %2$d αρχείο προς %1$s…</item>
+  </plurals>
+  <plurals name="send_files_to_device_images">
+    <item quantity="other">Προετοιμασία για αποστολή %2$d εικόνες προς %1$s…</item>
+    <item quantity="one">Προετοιμασία για αποστολή %2$d εικόνα προς %1$s…</item>
+  </plurals>
+  <plurals name="someone_send_file_to_you_files">
+    <item quantity="other">το %1$s στέλνει %2$d αρχεία σε εσάς…</item>
+    <item quantity="one">το %1$s στέλνει %2$d αρχείο σε σας…</item>
+  </plurals>
+  <plurals name="someone_send_file_to_you_images">
+    <item quantity="other">το %1$s στέλνει %2$d εικόνες σε εσάς…</item>
+    <item quantity="one">το %1$s στέλνει %2$d εικόνα σε σας…</item>
+  </plurals>
+  <plurals name="someone_send_somefile_files">
+    <item quantity="other">το %1$s στέλνει %2$d αρχεία σε εσάς…</item>
+    <item quantity="one">το %1$s στέλνει %2$d αρχείο σε σας…</item>
+  </plurals>
+  <plurals name="someone_send_somefile_images">
+    <item quantity="other">το %1$s στέλνει %2$d εικόνες σε εσάς…</item>
+    <item quantity="one">το %1$s στέλνει %2$d εικόνα σε σας…</item>
+  </plurals>
+  <plurals name="start_receive_files_files">
+    <item quantity="other">Έγινε λήψη %2$d αρχεία από %1$s…</item>
+    <item quantity="one">Έγινε λήψη %2$d αρχείο από %1$s…</item>
+  </plurals>
+  <plurals name="start_receive_files_images">
+    <item quantity="other">Έγινε λήψη %2$d εικόνες από %1$s…</item>
+    <item quantity="one">Έγινε λήψη %2$d εικόνα από %1$s…</item>
+  </plurals>
+  <plurals name="start_send_files_to_device_files">
+    <item quantity="other">Αποστολή %2$d αρχεία προς %1$s…</item>
+    <item quantity="one">Αποστολή %2$d αρχείο προς %1$s…</item>
+  </plurals>
+  <plurals name="start_send_files_to_device_images">
+    <item quantity="other">Αποστολή %2$d εικόνες προς %1$s…</item>
+    <item quantity="one">Αποστολή %2$d εικόνα προς %1$s…</item>
+  </plurals>
+  <plurals name="success_receive_file_files">
+    <item quantity="other">Έγινε λήψη %2$d αρχεία από %1$s. Αγγίξτε για προβολή.</item>
+    <item quantity="one">Έγινε λήψη %2$d αρχείο από %1$s. Αγγίξτε για προβολή.</item>
+  </plurals>
+  <plurals name="success_receive_file_images">
+    <item quantity="other">Έγινε λήψη %2$d εικόνες από %1$s. Αγγίξτε για προβολή.</item>
+    <item quantity="one">Έγινε λήψη %2$d εικόνα από %1$s. Αγγίξτε για προβολή.</item>
+  </plurals>
+</resources>
