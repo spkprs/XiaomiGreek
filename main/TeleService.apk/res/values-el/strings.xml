@@ -1188,6 +1188,7 @@
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Προτιμώμενος τύπος δικτύου</string>
   <string name="preferred_phone_account">Προτιμώμενος λογαριασμός κλήσης</string>
+  <string name="preferred_wificall_roaming_title">Προτίμηση περιαγωγής</string>
   <string name="preferred_wificall_title">Προτίμηση δικτύου</string>
   <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
   <string name="private_num">Απόρρητος αριθμός</string>
