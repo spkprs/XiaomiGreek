@@ -1378,4 +1378,7 @@
   <string name="ad_exit_dialog_open_btn_name">Άνοιγμα</string>
   <string name="ad_exit_dialog_title_name">Νέα εφαρμ. άνοιγμα επιβεβαίωσης</string>
   <string name="load_error_tip">Σφάλμα φόρτωσης, επαναλάβετε</string>	
+  <string name="data_traffic_download_toast_msg">Τρέχουσα κίνηση χρήσης δεδομένων για προσωρινή αποθήκευση βίντεο</string>
+  <string name="video_download_wait_for_caching">Αναμονή για προσωρινή αποθήκευση</string>
+  <string name="video_download_wait_for_network">Αναμονή για δίκτυο</string>
 </resources>

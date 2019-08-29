@@ -23,11 +23,6 @@
         <item>Άνοιγμα</item>
         <item>Κλείσιμο</item>
      </string-array>
-    <string-array name="pref_homepage_choices_with_simplehome">
-        <item>Προεπιλεγμένη αρχική σελίδα</item>
-        <item>Κενή αρχική σελίδα</item>
-        <item>Προσαρμογή</item>
-    </string-array>
      <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>
         <item>Μικρό</item>
