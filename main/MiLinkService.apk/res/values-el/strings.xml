@@ -69,13 +69,13 @@
   <string name="help_page_text_28">Αρχικά, βεβαιωθείτε ότι η λειτουργία Miracast υποστηρίζεται στη συσκευή σας. Σε ορισμένα μοντέλα, μπορείτε να πατήσετε το κουμπί [MENU] στο τηλεχειριστήριο και στη συνέχεια να επιλέξετε Ρυθμίσεις &gt; Σύνδεση &gt; Δίκτυο &gt; Πολλαπλές οθόνες.</string>
   <string name="help_page_text_29">Υποστήριξη πελατών TPV: 400-887-8007</string>
   <string name="help_page_text_30">Hisense</string>
-  <string name="help_page_text_31">Αρχικά, βεβαιωθείτε ότι η λειτουργία Miracast υποστηρίζεται στη συσκευή σας. Σε ορισμένα μοντέλα, μπορείτε να πατήσετε το κουμπί [SMART] στο τηλεχειριστήριο και στη συνέχεια να επιλέξετε Casting (Χύτευση)&gt; Wireless Display (Οθόνη ασύρματης λειτουργίας). Ορισμένα μοντέλα μπορούν να κάνουν κλικ στο στοιχείο Hi Screen &gt; Screen Screening &gt; Android.</string>
+  <string name="help_page_text_31">Αρχικά, βεβαιωθείτε ότι η λειτουργία Miracast υποστηρίζεται στη συσκευή σας. Σε ορισμένα μοντέλα, μπορείτε να πατήσετε το κουμπί [SMART] στο τηλεχειριστήριο και στη συνέχεια να επιλέξετε Casting (Μετάδοση) &gt; Wireless Display (Οθόνη ασύρματης λειτουργίας). Ορισμένα μοντέλα μπορούν να κάνουν κλικ στο στοιχείο Hi Screen &gt; Screen Screening &gt; Android.</string>
   <string name="help_page_text_32">Υποστήριξη πελατών Hisense: 400-611-1111</string>
   <string name="help_page_text_33">Skyworth</string>
   <string name="help_page_text_34">Αρχικά, βεβαιωθείτε ότι η λειτουργία Miracast υποστηρίζεται στη συσκευή σας. Σε ορισμένα μοντέλα, μπορείτε να επιλέξετε Εφαρμογές &gt; Casting &gt; συσκευή Android &gt; Miracast.</string>
   <string name="help_page_text_35">Υποστήριξη πελατών Skyworth: 95105555</string>
   <string name="help_page_text_36">Sony</string>
-  <string name="help_page_text_37">Αρχικά, βεβαιωθείτε ότι η λειτουργία Miracast υποστηρίζεται στη συσκευή σας. Σε ορισμένα μοντέλα, μπορείτε να πατήσετε το πλήκτρο [SOURCE] στο τηλεχειριστήριο και στη συνέχεια να επιλέξετε &amp;quot;Mirroring Screen&amp;quot;. Ορισμένα μοντέλα μπορούν να επιλεγούν από το δίκτυο &gt; WIFIDirect ρύθμιση. Αυτή η λειτουργία είναι ενεργοποιημένη από προεπιλογή σε διάφορα μοντέλα.</string>
+  <string name="help_page_text_37">Αρχικά, βεβαιωθείτε ότι η λειτουργία Miracast υποστηρίζεται στη συσκευή σας. Σε ορισμένα μοντέλα, μπορείτε να πατήσετε το πλήκτρο [SOURCE] στο τηλεχειριστήριο και στη συνέχεια να επιλέξετε \"Mirroring Screen\". Ορισμένα μοντέλα μπορούν να επιλεγούν από το δίκτυο &gt; WIFIDirect ρύθμιση. Αυτή η λειτουργία είναι ενεργοποιημένη από προεπιλογή σε διάφορα μοντέλα.</string>
   <string name="help_page_text_38">Υποστήριξη πελατών της Sony: 400-810-9000</string>
   <string name="help_page_text_39">Panasonic</string>
   <string name="help_page_text_40">Αρχικά, βεβαιωθείτε ότι η λειτουργία Miracast υποστηρίζεται στη συσκευή σας. Σε ορισμένα μοντέλα, μπορείτε να επιλέξετε Εφαρμογές &gt; Οπτικοποίηση οθόνης.</string>
@@ -100,7 +100,7 @@
   <string name="notification_show_more">Δείτε περισσότερες δυνατότητες</string>
   <string name="privacy_agree">Συμφωνώ</string>
   <string name="privacy_text_1">　　Καλώς ήλθατε στη λειτουργία Μετάδοσης (Προβολής) οθόνης. Η υπηρεσία Μετάδοσης οθόνης παρέχεται από τη Milian και ορισμένες από τις λειτουργίες αυτές υποστηρίζονται από οθόνες τρίτων εταιρειών. Για να διασφαλίσετε την ιδιωτικότητά σας, βεβαιωθείτε ότι έχετε διαβάσει την <a href="http://cdn.hpplay.com.cn/xm/privacy.html ">Πολιτική απορρήτου Μετάδοσης οθόνης</a> και τους  <a href="http://cdn.hpplay.com.cn/xm/lawer.html">Όροι χρήσης Προβολής οθόνης</a> Διαβάστε τις πληροφορίες αυτές.</string>
-  <string name="privacy_text_2">　　Πατώντας στο κουμπί \"Συμφωνώ\", συμφωνείτε με τα παραπάνω <a href="http://www.miui.com/res/doc/eula/cn.html"> Συμφωνία χρήστη</a> και <a href="http://www.miui.com/res/doc/privacy/cn.html">Πολιτική απορρήτου</a> περιεχομένου και άδειας που σας χορηγήθηκε.</string>
+  <string name="privacy_text_2">　　Πατώντας στο κουμπί \"Συμφωνώ\", συμφωνείτε με τα παραπάνω και με την <a href="http://www.miui.com/res/doc/eula/cn.html"> Συμφωνία χρήστη</a> και <a href="http://www.miui.com/res/doc/privacy/cn.html">Πολιτική απορρήτου</a> περιεχομένο και άδεια που σας χορηγείται.</string>
   <string name="privacy_text_pemission">"         • Οι άδειες Wi-Fi χρειάζονται για την εύρεση και σύνδεση συσκευών.
          • Το Bluetooth χρησιμοποιείται για την εύρεση και σύνδεση συσκευών.
          • Ανάγνωση χώρου αποθήκευσης. Για προβολή σε συσκευή μεγάλης οθόνης.

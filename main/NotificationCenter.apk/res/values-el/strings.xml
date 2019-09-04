@@ -7,7 +7,7 @@
   <string name="disable_show_badge_notification">"Χωρίς ενδείξεις ειδοπ/σεων"</string>
   <string name="enable_float_notification">Με αναδυόμενες ειδοπ/σεις</string>
   <string name="enable_lockscreen_notification">Με ειδοπ/σεις οθ. κλειδ/τος</string>
-  <string name="enable_show_badge_notification">Με οι ενδείξεις ειδοπ/σεων</string>
+  <string name="enable_show_badge_notification">Με ενδείξεις ειδοπ/σεων</string>
   <string name="expand_top_notification">Ανάπτυξη πρώτης ειδοπ/σης</string>
   <string name="expandable_under_keyguard">Ειδοπ. σε Πίνακα Οθ. Κλειδ/τος</string>
   <string name="float_notifications">Αναδυόμενες</string>
