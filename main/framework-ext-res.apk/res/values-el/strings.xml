@@ -49,6 +49,7 @@
 	<string name="fc_dialog_body">Αποστολή αναφοράς σφάλματος στη Mi για ανάλυση; Αυτή η αναφορά μπορεί να περιέχει προσωπικά αναγνωρίσιμες πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για να διορθωθεί αυτό το σφάλμα και δεν πρόκειται ποτέ να μοιραστεί σε εμπορικό πλαίσιο.</string>
 	<string name="fc_dialog_jump_to_preview">Δείτε την περίληψη</string>
 	<string name="first_back_long_press_message">"Για προσαρμογή αγγίξτε παρατεταμένα την λειτουργία πλήκτρων πλοήγησης, πηγαίνετε στις Ρυθμίσεις &gt; Πρόσθετες Ρυθμίσεις &gt; Πλήκτρα"</string>
+    <string name="flip_screen_camera_tip">Περιστρέψτε την συσκευή για χρήση της Κάμερας</string>
 	<string name="fm_record_smaple_prefix_miui">Εγγραφή FM</string>
 	<string name="force_exit_message">Επιβολή τερματισμού %1$s</string>
 	<string name="force_exit_skip_message">Αδυναμία τερματισμού του %1$s γιατί είναι βασική ενότητα του συστήματος.</string>

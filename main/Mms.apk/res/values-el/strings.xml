@@ -919,4 +919,8 @@
     <string name="no_longer_recommend">"Χωρίς επανεμφάνιση"</string>
     <string name="notification_delete">Διαγραφή</string>
     <string name="notification_seen">Ετικέτα ανάγνωσης</string>
+	<string name="you_have_new_message">Έχετε νέα μηνύματα</string>
+	<string name="zero_sms_feedback_message">Τα μηνύματα που αναφέρθηκαν αποστέλλονται στους διακομιστές μας μαζί με τους αριθμούς τηλεφώνου των αποστολέων τους. Αυτά τα μηνύματα χρησιμοποιούνται μόνο για τη βελτίωση της λειτουργικότητας της λίστας Αποκλεισμού.</string>
+	<string name="zero_sms_feedback_success">Αναφέρθηκε με επιτυχία</string>
+	<string name="zero_sms_feedback_title">Αναφορά</string>
 </resources>

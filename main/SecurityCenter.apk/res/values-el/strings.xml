@@ -2949,4 +2949,15 @@
   <string name="banner_optimizemanage_summary">Ελευθερώστε μνήμη</string>
   <string name="banner_red_money_assist_button">Ενεργοποίηση</string>
   <string name="banner_red_money_assist_summary">Ανοίξτε τους κόκκινους φακέλους γρηγορότερα</string>
+	<string name="permgroupdesc_contacts">Πρόσβαση σε επαφές</string>
+	<string name="permgroupdesc_location">Πρόσβαση στη τοποθεσία σας</string>
+	<string name="permgroupdesc_calendar">Πρόσβαση σε συμβάντα ημερολογίου</string>
+	<string name="permgroupdesc_sms">Ανάγνωση ή αποστολή SMS</string>
+	<string name="permgroupdesc_storage">Πρόσβαση σε φωτογραφίες ή αρχεία</string>
+	<string name="permgroupdesc_microphone">Εγγραφή ήχου</string>
+	<string name="permgroupdesc_camera">Λήψη φωτογραφιών και βίντεο</string>
+	<string name="permgroupdesc_calllog">Πρόσβαση και αποθήκευση στοιχείων στο ιστορικό κλήσεων</string>
+	<string name="permgroupdesc_phone">Πραγματοποίηση κλήσεων και διαχείριση συνομιλιών</string>
+	<string name="permgroupdesc_sensors">Πρόσβαση δεδομένων αισθητήρα σώματος</string>
+	<string name="permgroupdesc_recognition">Πρόσβαση στα δεδομένα Υγείας και δραστηριότητας</string>
 </resources>

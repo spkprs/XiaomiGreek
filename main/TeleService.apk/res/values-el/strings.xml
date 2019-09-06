@@ -1690,5 +1690,13 @@
 	<string name="modem_setting_button_title">Είσοδος στο μενού ρυθμίσεων</string>
 	<string name="modem_setting_info">ΠΛΗΡ. ΡΥΘΜΙΣΕΩΝ MODEM</string>
 	<string name="modem_setting_text_title">έλεγχος ρρυθμίσεων ιδιοτήτων μόντεμ</string>
-	<string name="pci_num">lte pci αριθμός</string>
+	<string name="pci_num">Αριθμός lte pci</string>
+    <string name="wifi_call_notification_message">Αυτή η υπηρεσία παρέχεται από την Orange. Ενδέχεται να χρειαστούν αρκετές ώρες για την ενεργοποίηση αυτής της υπηρεσίας. Θα λάβετε ένα SMS επιβεβαίωσης μόλις αυτή είναι διαθέσιμη.</string>
+    <string name="wifi_call_available_title">Ενεργοποίηση κλήσεων Wi-Fi</string>
+    <string name="wifi_call_available_message">Μπορείτε να πραγματοποιείτε τώρα κλήσεις χρησιμοποιώντας Wi-Fi. Εάν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi, θα είστε σε θέση να μιλάτε ακόμη και όταν βρίσκεστε στις περιοχές που δεν διαθέτουν κάλυψη δικτύου κινητής τηλεφωνίας.</string>
+    <string name="wifi_call_cancel">Ακύρωση</string>
+    <string name="wifi_call_accept">OK</string>
+    <string name="wifi_call_help">Βοήθεια</string>
+    <string name="wifi_call_help_title">Βοήθεια κλήσης Wi-Fi</string>
+    <string name="wifi_call_help_message">Εάν επιλέξετε να προτιμάτε δίκτυα κινητής τηλεφωνίας, αυτά θα χρησιμοποιούνται για κλήσεις από προεπιλογή. Σε περίπτωση που δεν υπάρχει σήμα δικτύου κινητής τηλεφωνίας ή είναι πολύ ασθενές, θα χρησιμοποιηθεί αντί αυτού, το δίκτυο Wi-Fi.</string>
 </resources>
