@@ -1441,9 +1441,9 @@
         <item>key_none</item>
      </string-array>
      <string-array name="keyguard_notification_status_entries">
-        <item>Ενεργοποίηση οθόνης</item>
-        <item>Αναδυόμενη προβολή</item>
-        <item>"Χωρίς ενεργοποίηση οθόνης"</item>
+        <item>"Χωρίς αφύπνιση οθόνης"</item>
+        <item>Αφύπνιση οθόνης</item>
+        <item>Εμφάνιση κίνησης</item>
      </string-array>
      <string-array name="keyguard_notification_status_values">
         <item>1</item>

@@ -52,6 +52,10 @@
      <string name="accessibility_airplane_mode">Λειτ.πτήσης.</string>
      <string name="accessibility_ambient_display_charging">Φορτίζεται</string>
      <string name="accessibility_aspect_button">Λειτ. Πλήρους Οθόνης</string>
+	 <string name="aspect_cancel">Ακύρωση</string>
+	 <string name="aspect_message">Αυτή η εφαρμογή θα εκκινηθεί ξανά σε λειτουργία πλήρους οθόνης. Αν αντιμετωπίσετε τυχόν προβλήματα, μπορείτε να απενεργοποιήσετε τη λειτουργία πλήρους οθόνης για αυτήν την εφαρμογή στις Ρυθμίσεις &gt; Προβολή Πλήρους Οθόνης &gt; Λειτ. Πλήρους Οθόνης.</string>
+	 <string name="aspect_ok">OK</string>
+     <string name="aspect_title">Λειτ. Πλήρους Οθόνης</string>
      <string name="accessibility_assistant">Γρήγορη πρόσβαση</string>
      <string name="accessibility_back">Πίσω</string>
      <string name="accessibility_battery_details">Άνοιγμα λεπτομερειών μπαταρίας</string>
@@ -505,7 +509,8 @@
      <string name="description_direction_up">Σύρετε προς τα πάνω για %s.</string>
      <string name="description_image_button_answer">Απάντηση</string>
      <string name="description_image_button_bubble_answer">Ηχείο</string>
-    <string name="description_image_button_reject">Μείωση</string>
+     <string name="description_image_button_reject">Μείωση</string>
+     <string name="description_image_icon_sim_card">Κάρτα SIM %1$d</string>
      <string name="description_target_search">Αναζήτηση</string>
      <string name="dessert_case">Dessert Case</string>
      <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>
@@ -951,6 +956,8 @@
      <string name="lock_screen_magazine_default_content">Καθημερινό πακέτο φρέσκων εικόνων</string>
      <string name="lock_screen_magazine_default_title">Ταπετσαρίες Καρουζέλ</string>
      <string name="lock_screen_magazine_global_button_text">Περισσότερα</string>
+	 <string name="keyguard_left_music">Μουσική</string>
+	 <string name="keyguard_left_notes">Σημειώσεις</string>
      <string name="lock_screen_no_sim_card_emergency_only">Μόνο Επείγουσες Κλήσεις</string>
      <string name="lock_screen_no_sim_card_no_service">Καμμιά υπηρεσία</string>
      <string name="lock_wallpaper_enter">Εισαγωγή</string>
@@ -1451,6 +1458,7 @@
      <string name="screen_zoom_summary_large">Μεγάλο</string>
      <string name="screen_zoom_summary_small">Μικρό</string>
      <string name="screen_zoom_summary_very_large">Μεγαλύτερο</string>
+     <string name="stream_voice_assist">Φωνητικός Βοηθός</string>
      <string name="screenshot_delete">Διαγραφή</string>
      <string name="screenshot_delete_dlg_msg">Θέλετε σίγουρα να διαγράψετε αυτό το στιγμιότυπο;</string>
      <string name="screenshot_delete_dlg_title">Διαγραφή</string>
@@ -1752,6 +1760,9 @@
      <string name="usb_notification_mtp_ticker_text">Συνδεδεμένο USB (Αρχεία)</string>
      <string name="usb_notification_ptp_info">Πρόσβαση στις φωτογραφίες μέσω Η/Υ</string>
      <string name="usb_notification_ptp_ticker_text">Συνδεδεμένο USB (Φωτογρ.)</string>
+	 <string name="usb_port_overheated_dialog_content">Η θύρα φόρτισης έχει υπερθερμανθεί. Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή. Επικοινωνήστε με την υποστήριξη πελατών εάν έχετε οποιεσδήποτε ερωτήσεις.</string>
+	 <string name="usb_port_overheated_notification_content">Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή.</string>
+	 <string name="usb_port_overheated_title">Η θύρα φόρτισης έχει υπερθερμανθεί. Αποσυνδέστε το φορτιστή.</string>
      <string name="usb_preference_title">Επιλογές μεταφοράς αρχείων USB</string>
      <string name="usb_ptp_text">Φωτογραφίες</string>
      <string name="usb_share_net_info">Χρήση της σύνδεσης Internet του υπολογιστή</string>
