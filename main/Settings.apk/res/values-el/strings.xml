@@ -1237,12 +1237,12 @@
      <string name="data_usage_app_summary_title">Χρήση δεδομένων εφαρμογών</string>
      <string name="data_usage_auto_sync_off_dialog">Αυτό θα εξοικονομήσει δεδομένα και μπαταρία, αλλά θα πρέπει να συγχρονίσετε κάθε λογαριασμό χειροκίνητα για να συλλέξετε πρόσφατες πληροφορίες. Και δεν θα λαμβάνετε ειδοποιήσεις όταν πραγματοποιούνται ενημερώσεις.</string>
      <string name="data_usage_auto_sync_off_dialog_title">Απενεργ/ση αυτόμ. συγχρ/μού;</string>
-     <string name="data_usage_auto_sync_on_dialog">"Όποιες αλλαγές κάνετε στους λογαριασμούς σας στο διαδίκτυο θα αντιγραφούν αυτόματα στο τηλέφωνό σας.
+     <string name="data_usage_auto_sync_on_dialog">"Όποιες αλλαγές κάνετε στους λογαριασμούς σας μέσω διαδικτύου θα αντιγραφούν αυτόματα στο τηλέφωνό σας.
 
-Ορισμένοι λογαριασμοί μπορούν επίσης να αντιγράψουν αυτόματα όποιες αλλαγές κάνετε στο τηλέφωνο με το διαδίκτυο. Ένας Λογαριασμός Google λειτουργεί με αυτόν τον τρόπο.
+Ορισμένοι λογαριασμοί μπορούν επίσης να αντιγράψουν αυτόματα όποιες αλλαγές κάνετε στο τηλέφωνο μέσω διαδικτύου. Ο Λογαριασμός Google λειτουργεί με αυτόν τον τρόπο.
 
-Για να επιλέξετε ποια είδη πληροφοριών, να συγχρονίζεται σε κάθε λογαριασμό, μεταβείτε στις Ρυθμίσεις &gt; Λογαριασμοί."</string>
-     <string name="data_usage_auto_sync_on_dialog_title">Ενεργοποίηση δεδομένων αυτόματου συγχρονισμού;</string>
+Για να επιλέξετε ποιά στοιχεία, θα συγχρονίζονται σε κάθε λογαριασμό, μεταβείτε στις Ρυθμίσεις &gt; Λογαριασμοί."</string>
+     <string name="data_usage_auto_sync_on_dialog_title">Ενεργ δεδομ αυτόμ συγχρονισμού;</string>
      <string name="data_usage_background_label">Παρασκήνιο:</string>
      <string name="data_usage_cellular_data">Δεδομένα κινητής</string>
      <string name="data_usage_cellular_data_summary">Σε παύση λόγω ορίου</string>
@@ -3451,7 +3451,7 @@
      <string name="privacy_authorize_cloud_msg">Για να διασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com εάν θέλετε να ανακαλέσετε την εξουσιοδότηση των υπηρεσιών Mi Cloud (όπως συγχρονισμού και των αντιγράφων ασφαλείας).</string>
      <string name="privacy_authorize_dialog_agree">Συμφωνώ</string>
      <string name="privacy_authorize_dialog_exit">Έξοδος</string>
-     <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Για να χρησιμοποιήσετε τα βασικά χαρακτηριστικά αυτής της υπηρεσίας, πρέπει να συμφωνήσετε ότι η Xiaomi θα συλλέγει, επεξεργάζεται και χρησιμοποιεί τα προσωπικά σας δεδομένα. Ανατρέξτε στην πολιτική απορρήτου μας για να μάθετε πώς συλλέγουμε και επεξεργαζόμαστε προσωπικά δεδομένα. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt; και &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Συμφωνία Χρήστη&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+     <string name="privacy_authorize_dialog_message"><Data>"Για να χρησιμοποιήσετε τα βασικά χαρακτηριστικά αυτής της υπηρεσίας, πρέπει να συμφωνήσετε ότι η Xiaomi θα συλλέγει, επεξεργάζεται και χρησιμοποιεί τα προσωπικά σας δεδομένα. Ανατρέξτε στην πολιτική απορρήτου μας για να μάθετε πώς συλλέγουμε και επεξεργαζόμαστε προσωπικά δεδομένα. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Συμφωνία Χρήστη&lt;/a>."</Data></string>
      <string name="privacy_authorize_network_error">Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά.</string>
      <string name="privacy_authorize_privacy_policy">Πολιτική Απορρήτου</string>
      <string name="privacy_authorize_revoke">Ανάκληση</string>

@@ -2396,7 +2396,7 @@
      <string name="tips_message">Για να δείτε λεπτομέρειες του πακέτου δεδομένων σας, καλέστε %2$s (%1$s).</string>
      <string name="tips_of_app_manage">Διαγράψτε εφαρμογές με σπάνια χρήση για εξοικονόμηση χώρου</string>
      <string name="tips_of_auto_launch_manage">Αποτρέψτε εφαρμογές με σπάνια χρήση να ξεκινούν αυτόματα</string>
-     <string name="title_app_lock_disable">Κλειδώστε εφαρμογές</string>
+     <string name="title_app_lock_disable">Κλείδωμα εφαρμογών</string>
      <string name="title_app_update">Διαθέσιμες ενημερώσεις</string>
      <string name="title_auto_update">Αυτόματη ενημέρωση</string>
      <string name="title_background_connection">Αδύνατη η χρήση του %s στο παρασκήνιο?</string>

@@ -72,8 +72,8 @@
 	<string name="superpower_progress_left_time">%1$dω %2$dλ</string>
 	<string name="superpower_search_hint">Αναζήτηση για εφαρμογές</string>
 	<string name="superpower_select_app_title">Διάταξη Αρχικής Οθόνης</string>
-	<string name="superpower_settings">Ultra Εξοικονόμηση μπαταρίας</string>
-	<string name="superpower_system">Προτείνεται</string>
+	<string name="superpower_settings">Υπέρ Εξοικονόμηση μπαταρίας</string>
+	<string name="superpower_system">Προτείνονται</string>
 	<string name="superpower_third">Εφαρμογές τρίτων</string>
     <string name="superpower_exit_hint">Απενεργοποίηση Υπέρ εξοικ/σης…</string>
 	<string name="title_share_link">Κοινόχρηστη διεύθυνση URL</string>

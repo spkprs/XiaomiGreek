@@ -54,9 +54,9 @@
   <string name="device_offline">Η άλλη συσκευή είναι εκτός σύνδεσης. Ξεκινήσετε από την αρχή.</string>
   <string name="device_type_oppo_phone">OPPO</string>
   <string name="device_type_pc">Υπολογιστές</string>
-  <string name="device_type_realme_phone">realme</string>
-  <string name="device_type_vivo_phone">vivo</string>
-  <string name="device_type_xiaomi_phone">Xiaomi</string>
+  <string name="device_type_realme_phone">REALME</string>
+  <string name="device_type_vivo_phone">VIVO</string>
+  <string name="device_type_xiaomi_phone">XIAOMI</string>
   <string name="disconnect">ΑΠΟΣΥΝΔΕΣΗ</string>
   <string name="enable_midrop">Ενεργοποίηση</string>
   <string name="error_ap_or_screen_already_hosting">"Αδύνατη η αποστολή στοιχείων σε άλλες συσκευές κατά τη Μετάδοση ή τη χρήση φορητού hotspot."</string>
@@ -138,7 +138,7 @@
   <string name="transfer_intercept_to_remote">"Αδύνατη η αποστολή: %1$s"</string>
   <string name="transfer_to_pc_summary">Μπορείτε να χρησιμοποιήσετε το Mi Share για να στείλετε άμεσα στοιχεία σε Mi Notebooks. Σε άλλους φορητούς υπολογιστές, πρέπει να εγκαταστήσετε πρώτα το Mi Share.</string>
   <string name="transfer_to_pc_title">Αποστολή αρχείων σε υπολογιστές</string>
-  <string name="transfer_to_phone_summary">Το Mi Share σας επιτρέπει να στέλνετε εικόνες και αρχεία στα κοντινά Mi Τηλέφωνα και άλλες συμβατές συσκευές Android.</string>
+  <string name="transfer_to_phone_summary">Το Mi Share σας επιτρέπει να στέλνετε εικόνες και αρχεία σε κοντινά τηλέφωνα Mi και άλλες συμβατές συσκευές Android.</string>
   <string name="transfer_to_phone_title">Αποστολή αρχείων σε τηλέφωνα</string>
   <string name="unkonw_device">Αγνωστη συσκευή</string>
   <string name="unrecognized_manufacture">Αγνωστος</string>
