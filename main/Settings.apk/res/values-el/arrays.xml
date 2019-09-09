@@ -315,21 +315,6 @@
         <item>20 δευτ.</item>
         <item>Πάντα</item>
      </string-array>
-     <array name="bytes_picker_sizes">
-        <item>@android:string/megabyteShort</item>
-        <item>@android:string/gigabyteShort</item>
-     </array>
-     <string-array name="captioning_color_selector_titles">
-        <item>@string/color_unspecified</item>
-        <item>@string/color_white</item>
-        <item>@string/color_black</item>
-        <item>@string/color_red</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_magenta</item>
-     </string-array>
      <string-array name="captioning_edge_type_selector_titles">
         <item>Προεπιλογή</item>
         <item>Χωρίς</item>
@@ -1025,31 +1010,6 @@
         <item>Asia/Magadan</item>
         <item>Pacific/Tongatapu</item>
      </string-array>
-     <array name="click_bottom">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom08</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-     </array>
      <string-array name="color_mode_descriptions">
         <item>Βελτιωμένα χρώματα</item>
         <item>Φυσικά χρώματα όπως είναι ορατά στο μάτι</item>
@@ -1073,14 +1033,6 @@
         <item>Ροζ</item>
         <item>Κόκκινο</item>
      </string-array>
-     <string-array name="common_password_business_clickable_default">
-        <item>true</item>
-        <item>true</item>
-        <item>true</item>
-        <item>false</item>
-        <item>true</item>
-        <item>false</item>
-     </string-array>
      <string-array name="common_password_business_names">
         <item>Κλείδωμα οθόνης</item>
         <item>Κωδικός απορρήτου</item>
@@ -1103,23 +1055,6 @@
 		<item>Αργή</item>
 		<item>Κανονική</item>
 		<item>Γρήγορα</item>
-     </string-array>
-     <string-array name="crt_animation_values">
-        <item>0</item>
-        <item>1000</item>
-        <item>600</item>
-        <item>400</item>
-        <item>150</item>
-     </string-array>
-     <string-array name="ct_mcc_mnc_list">
-        <item>45507</item>
-        <item>46003</item>
-        <item>46011</item>
-        <item>46012</item>
-        <item>20404</item>
-        <item>45502</item>
-        <item>45403</item>
-        <item>45404</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Τελευταίες 30 ημέρες</item>
@@ -1152,185 +1087,6 @@
         <item>Ήχος κλήσης</item>
         <item>Πολυμέσα</item>
      </string-array>
-     <string-array name="def_audio_values">
-        <item>2</item>
-        <item>3</item>
-     </string-array>
-     <string-array name="defalut_browser_package">
-        <item>mx_telcel:com.android.chrome</item>
-     </string-array>
-     <string-array name="default_email_package">
-        <item>mx_telcel:com.google.android.gm</item>
-     </string-array>
-     <string-array name="default_gallery_package">
-        <item>mx_telcel:com.google.android.apps.photos</item>
-     </string-array>
-     <string-array name="default_mms_package">
-        <item>mx_telcel:com.google.android.apps.messaging</item>
-     </string-array>
-     <string-array name="default_video_package">
-        <item>mx_telcel:com.google.android.apps.photos</item>
-     </string-array>
-     <string-array name="device_global_support_face_facejiajia">
-        <item>jason</item>
-        <item>polaris</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>dipper</item>
-        <item>sirius</item>
-        <item>ursa</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>platina</item>
-        <item>capricorn</item>
-        <item>equuleus</item>
-        <item>natrium</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>lithium</item>
-        <item>riva</item>
-        <item>rosy</item>
-        <item>scorpio</item>
-        <item>beryllium</item>
-     </string-array>
-     <string-array name="device_global_support_face_sensetime">
-        <item>jason</item>
-        <item>polaris</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>dipper</item>
-        <item>sirius</item>
-        <item>ursa</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>platina</item>
-        <item>capricorn</item>
-        <item>equuleus</item>
-        <item>natrium</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>lithium</item>
-        <item>riva</item>
-        <item>rosy</item>
-        <item>scorpio</item>
-        <item>beryllium</item>
-     </string-array>
-     <string-array name="device_support_face">
-        <item>jason</item>
-        <item>polaris</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>dipper</item>
-        <item>sirius</item>
-        <item>ursa</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>beryllium</item>
-        <item>perseus</item>
-        <item>equuleus</item>
-        <item>lithium</item>
-        <item>scorpio</item>
-        <item>natrium</item>
-        <item>capricorn</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>tulip</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>rosy</item>
-        <item>riva</item>
-     </string-array>
-     <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>lotus</item>
-     </string-array>
-     <string-array name="device_use_cameraone">
-        <item>jason</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>lithium</item>
-        <item>scorpio</item>
-        <item>natrium</item>
-        <item>capricorn</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>tulip</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>rosy</item>
-        <item>riva</item>
-     </string-array>
-     <string-array name="dirac_equalizer_preset_names">
-        <item>@string/eq_flat</item>
-        <item>@string/eq_rock</item>
-        <item>@string/eq_jazz</item>
-        <item>@string/eq_pop</item>
-        <item>@string/eq_classical</item>
-        <item>@string/eq_hiphop</item>
-        <item>@string/eq_blues</item>
-        <item>@string/eq_electronic</item>
-        <item>@string/eq_country</item>
-        <item>@string/eq_dance</item>
-        <item>@string/eq_metal</item>
-     </string-array>
-     <string-array name="dirac_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0</item>
-        <item>4,2,-2,0,-2,-2,4</item>
-        <item>0,0,0,-2,-3,0,0</item>
-        <item>0,-3,-5,0,0,-3,0</item>
-        <item>0,0,0,0,3,6,6</item>
-        <item>3,3,-3,0,-3,0,2</item>
-        <item>2,4,-6,4,0,1,2</item>
-        <item>3,3,-1,0,-3,0,0</item>
-        <item>0,0,-2,-2,2,2,0</item>
-        <item>0,4,2,0,-2,-2,4</item>
-        <item>2,0,0,-2,-4,0,0</item>
-     </string-array>
-     <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
-     </string-array>
-     <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_all</item>
-        <item>@string/dndm_vip_list_contact</item>
-        <item>@string/dndm_vip_list_starred_contact</item>
-        <item>@string/dndm_vip_list_custom</item>
-     </string-array>
      <string-array name="dream_timeout_entries">
         <item>Ποτέ</item>
         <item>15 δευτ.</item>
@@ -1353,10 +1109,6 @@
         <item>Systrace (Γραφικά)</item>
         <item>Στοίβα Κλήσης σε glGetError</item>
      </string-array>
-     <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Native</item>
-     </string-array>
      <string-array name="entries_font_size">
         <item>Κανονική</item>
         <item>Μεσαία</item>
@@ -1374,14 +1126,6 @@
      <string-array name="fluency_mode_summaries">
         <item>Για να επιταχυνθεί η απόδοση, απόκρυψη κίνησης συστήματος</item>
         <item>Η εμφάνιση των κινήσεων, μπορεί να επιβραδύνει την απόδοση</item>
-     </string-array>
-     <string-array name="font_size_title">
-        <item>@string/layout_size_small</item>
-        <item>@string/layout_size_normal</item>
-        <item>@string/layout_size_medium</item>
-        <item>@string/layout_size_large</item>
-        <item>@string/layout_size_huge</item>
-        <item>@string/layout_size_exhuge</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5\u2033</item>
@@ -1404,11 +1148,6 @@
         <item>Έλεγχος μόνο για περιεχόμενο DRM</item>
         <item>Πάντα έλεγχος</item>
      </string-array>
-     <string-array name="hide_account_list">
-        <item>com.qualcomm.qti.RIDL</item>
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-     </string-array>
      <string-array name="hidesupl_plmn_list">
         <item>46001</item>
         <item>46003</item>
@@ -1430,15 +1169,6 @@
 		<item>iOS Στυλ</item>
 		<item>Νέα</item>
 		<item>AOSP</item>
-     </string-array>
-     <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
      </string-array>
      <string-array name="keyguard_notification_status_entries">
         <item>"Χωρίς αφύπνιση οθόνης"</item>
@@ -1497,43 +1227,6 @@
         <item>5 λεπτά</item>
         <item>Ποτέ</item>
      </string-array>
-     <array name="long_press">
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom02</item>
-        <item>@drawable/longpressbottom03</item>
-        <item>@drawable/longpressbottom04</item>
-        <item>@drawable/longpressbottom05</item>
-        <item>@drawable/longpressbottom06</item>
-        <item>@drawable/longpressbottom07</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom09</item>
-        <item>@drawable/longpressbottom10</item>
-        <item>@drawable/longpressbottom11</item>
-        <item>@drawable/longpressbottom04</item>
-        <item>@drawable/longpressbottom03</item>
-        <item>@drawable/longpressbottom02</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-     </array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Σύντομη</item>
         <item>Μέτρια</item>
@@ -1661,10 +1354,6 @@
         <item>Αργό δίκτυο λόγω αδύναμου σήματος</item>
         <item>Μεταφορά…</item>
      </string-array>
-     <string-array name="new_dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_contact</item>
-        <item>@string/dndm_vip_list_starred_contact</item>
-     </string-array>
      <string-array name="no_cache_clear_package_list">
         <item></item>
      </string-array>
@@ -1687,6 +1376,10 @@
         <item>4K (βελτιωμένο, ασφαλές)</item>
         <item>720p, 1080p (διπλή οθόνη)</item>
      </string-array>
+     <string-array name="peek_notification_styles_entries">
+        <item>Προεπιλογή</item>
+        <item>Διπλή γραμμή</item>
+     </string-array>
      <string-array name="perm_hips_action">
         <item>Επέτρεψε</item>
         <item>Ερώτηση</item>
@@ -1696,62 +1389,6 @@
         <item>Καταστολή θορύβου 1 μικρόφωνο</item>
         <item>Καταστολή θορύβου 2 μικρόφωνα</item>
      </string-array>
-     <array name="power_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </array>
-     <array name="power_double_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </array>
      <string-array name="power_mode_entries">
         <item>Υψηλή απόδοση</item>
         <item>Ισορροπημένη</item>
@@ -1917,14 +1554,6 @@
         <item>4M ανά buffer καταγραφής</item>
         <item>16M ανά buffer καταγραφής</item>
      </string-array>
-     <string-array name="select_logd_size_titles">
-        <item>Off</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
-        <item>4MB</item>
-        <item>16MB</item>
-     </string-array>
      <string-array name="select_logd_system_levels">
         <item>Off</item>
         <item>Σφάλμα</item>
@@ -1937,48 +1566,6 @@
         <item>Απενεργοποίηση</item>
         <item>Σχεδίαση μη ορθογώνιας περιοχής με μπλε χρώμα</item>
         <item>Επισήμανση ελεγμένων εντολών σχεδίασης με πράσινο χρώμα</item>
-     </string-array>
-     <string-array name="show_verification_device_list">
-        <item>land</item>
-        <item>markw</item>
-        <item>nikel</item>
-        <item>kenzo</item>
-        <item>kate</item>
-        <item>prada</item>
-        <item>helium</item>
-        <item>hydrogen</item>
-        <item>natrium</item>
-        <item>mido</item>
-        <item>capricorn</item>
-        <item>rolex</item>
-        <item>ugglite</item>
-        <item>santoni</item>
-        <item>ugg</item>
-        <item>oxygen</item>
-        <item>jason</item>
-        <item>rosy</item>
-        <item>riva</item>
-        <item>polaris</item>
-        <item>chiron</item>
-        <item>sagit</item>
-        <item>gemini</item>
-        <item>whyred</item>
-        <item>vince</item>
-        <item>lithium</item>
-        <item>scorpio</item>
-        <item>ysl</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>sakura_india</item>
-        <item>beryllium</item>
-        <item>nitrogen</item>
-        <item>dipper</item>
-        <item>tulip</item>
-        <item>equuleus</item>
-     </string-array>
-     <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
      </string-array>
      <string-array name="silent_mode_duration_text">
         <item>Πάντα</item>
@@ -2084,31 +1671,6 @@
         <item>0</item>
         <item>1</item>
      </string-array>
-     <array name="three_drop">
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop02</item>
-        <item>@drawable/threedrop03</item>
-        <item>@drawable/threedrop04</item>
-        <item>@drawable/threedrop05</item>
-        <item>@drawable/threedrop06</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-     </array>
      <string-array name="timezone_filters">
         <item>Αμερική</item>
         <item>Ευρώπη</item>
@@ -2264,28 +1826,6 @@
         <item>Παύση</item>
         <item>Χωρίς</item>
      </string-array>
-     <string-array name="volbtn_action_values">
-        <item>87</item>
-        <item>88</item>
-        <item>127</item>
-        <item>555</item>
-     </string-array>
-     <string-array name="volbtn_timeout_entries">
-        <item>2000 ms</item>
-        <item>1500 ms</item>
-        <item>1000 ms</item>
-        <item>700 ms</item>
-        <item>500 ms</item>
-        <item>300 ms</item>
-     </string-array>
-     <string-array name="volbtn_timeout_values">
-        <item>2000</item>
-        <item>1500</item>
-        <item>1000</item>
-        <item>700</item>
-        <item>500</item>
-        <item>300</item>
-     </string-array>
      <string-array name="vpn_states">
         <item>Αποσυνδέθηκε</item>
         <item>Αρχικοποίηση…</item>
@@ -2293,14 +1833,6 @@
         <item>Συνδέθηκε</item>
         <item>Λήξη χρονικού ορίου</item>
         <item>Ανεπιτυχής</item>
-     </string-array>
-     <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
      </string-array>
      <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -2323,17 +1855,6 @@
         <item>Χαμηλό</item>
         <item>Μεσαίο</item>
         <item>Υψηλό</item>
-     </string-array>
-     <string-array name="wifi_ap_band_config_2G_only">
-        <item>@string/wifi_ap_choose_2G</item>
-     </string-array>
-     <string-array name="wifi_ap_band_config_full">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-     </string-array>
-     <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa2</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi προτιμάται</item>
@@ -2422,19 +1943,6 @@
         <item>Χωρίς</item>
         <item>Χειροκίνητα</item>
         <item>Αυτόματη ρύθμιση proxy</item>
-     </string-array>
-     <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-     </string-array>
-     <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
      </string-array>
      <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>

@@ -70,7 +70,7 @@
      <string name="create_work_space">Δημιουργήστε χώρο Εργασίας</string>
      <string name="creating_app_icon">Δημιουργία εικονιδίου…</string>
      <string name="cta_declaration_agree_and_continue">Συμφωνώ</string>
-     <string name="cta_declaration_message_format" formatted="false">Θα πρέπει να συμφωνήστε με  &lt;font color=%s>&lt;a href=%s>%s &lt;/a>&lt;/font> πριν χρησιμοποιήσετε τη λειτουργία Επιχείρησης. Η συσκευή σας πρέπει να συνδεθεί στο διαδίκτυο για να ενεργοποιήσει τη λειτουργία Επιχείρησης. Συμφωνείτε?</string>
+     <string name="cta_declaration_message_format" formatted="false">Θα πρέπει να συμφωνήστε με  &lt;font color=%s>&lt;a href=%s>%s &lt;/a>&lt;/font> πριν χρησιμοποιήσετε τη λειτουργία Επιχείρησης. Η συσκευή σας πρέπει να συνδεθεί στο διαδίκτυο για να ενεργοποιηθεί. Συμφωνείτε?</string>
      <string name="cta_declaration_title">Οροι και Προϋποθέσεις</string>
      <string name="current_space">Τρέχων Χώρος</string>
      <string name="dataSafe">Με την χρήση του Δεύτερου προφίλ είναι σαν να έχετε δύο συσκευές.</string>

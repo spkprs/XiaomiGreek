@@ -353,6 +353,7 @@
      <string name="app_notification_row_sensitive">Ευαίσθητο</string>
      <string name="app_notification_visibility_override_title">Στην οθόνη κλειδώματος</string>
      <string name="app_notifications_dialog_done">Ολοκληρώθηκε</string>
+     <string name="notification_styles_title">Τύπος γραμμής κατάστασης</string>
      <string name="app_notifications_switch_label">Προβολή ειδοποιήσεων</string>
      <string name="app_notifications_title">Ειδοποιήσεις εφαρμογών</string>
      <string name="app_ops_never_used">(Δεν έχει χρησιμοποιηθεί)</string>
@@ -3794,6 +3795,7 @@
      <string name="saved_network">Αποθηκεύτηκε από %1$s</string>
      <string name="saved_wifi">Αποθηκευμένο δίκτυο</string>
      <string name="saved_wifi_delete">Διαγραφή</string>
+     <string name="sbs_show_network_speed_dual_title">Εμφάνιση στη διπλή γραμμή</string>
      <string name="scan_list_label">Αποτέλεσμα σάρωσης:</string>
      <string name="screen">Οθόνη</string>
      <string name="screen_button">Πλήκτρα οθόνης</string>
