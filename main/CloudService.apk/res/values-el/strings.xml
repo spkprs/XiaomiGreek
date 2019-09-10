@@ -364,9 +364,9 @@
      <string name="sub_sync_item_sms_summary">Συγχρονίσετε μόνο τα μηνύματα που περιέχουν φωτογραφίες, ήχο, ή άλλα πολυμέσα, όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi</string>
      <string name="sub_sync_item_sms_title_wifi_only">Χρήση μόνο Wi‑Fi για συγχρονισμό MMS</string>
      <string name="sync_dspt">Συγχρονισμός</string>
-     <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα στοιχεία που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
+     <string name="sync_dspt_entrance_provision">Συγχρονίστε τις φωτογραφίες, τις σημειώσεις και τα άλλα στοιχεία σε όλες τις συσκευές σας. Αποκτήστε πρόσβαση στα στοιχεία που συγχρονίζετε από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
      <string name="sync_dspt_entrance_provision_confirm_close">Χωρίς χρήση</string>
-     <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Xiaomi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, επαφών, σημειώσεων, καθώς και πολλά άλλα. Το Xiaomi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
+     <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Xiaomi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, μηνυμάτων, σημειώσεων, καθώς και πολλά άλλα. Το Xiaomi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
      <string name="sync_dspt_entrance_provision_confirm_open">Χρήση του Xiaomi Cloud</string>
      <string name="sync_dspt_entrance_provision_confirm_title">Χωρίς χρήση του Xiaomi Cloud?</string>
      <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Ο συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του Wi-Fi.</string>

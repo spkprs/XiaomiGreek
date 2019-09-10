@@ -3646,7 +3646,7 @@
   <string name="notification_vibrate_title">Δόνηση</string>
   <string name="notification_volume_option_title">Ένταση ειδοποίησης</string>
   <string name="notification_volume_title">Ειδοποίηση</string>
-  <string name="notifications_disabled">Φραγή</string>
+  <string name="notifications_disabled">Αποκλεισμός</string>
   <string name="notifications_enabled">Κανονικό</string>
   <string name="notifications_enabled_with_info">Ενεργές / %1$s</string>
   <string name="notifications_hidden">Χωρίς στην οθόνη κλειδώματος</string>
@@ -4360,7 +4360,7 @@
   <string name="screen_compatibility_label">Συμβατότητα οθόνης</string>
   <string name="screen_compatibility_text">Αυτή η εφαρμογή μπορεί να μην σχεδιάστηκε για την οθόνη σας Μπορείτε να ελέγξετε πώς να την προσαρμόσετε στην οθόνη σας εδώ</string>
   <string name="screen_confirm">Ενεργοποίηση</string>
-  <string name="screen_effect">Αντίθεση και Χρώματα</string>
+  <string name="screen_effect">Συνδυασμός χρωμάτων</string>
   <string name="screen_key_long_press">Παρατεταμένο πάτημα πλήκτρων οθόνης</string>
   <string name="screen_key_long_press_action">Πλήκτρα Οθόνης</string>
   <string name="screen_key_long_press_timeout">Ορισμός χρόνου πατήματος</string>
@@ -4384,7 +4384,7 @@
   <string name="screen_never_timeout_title">Ποτέ</string>
   <string name="screen_on_proximity_sensor_summary">Αυτόματο κλείδωμα όταν τοποθετηθεί σε μια τσέπη ή μαλακή θήκη</string>
   <string name="screen_on_proximity_sensor_title">Πρόληψη ατυχών κλήσεων</string>
-  <string name="screen_optimize">Αντίθεση</string>
+  <string name="screen_optimize">Χρώματα</string>
   <string name="screen_optimize_disabled">Δεν είναι δυνατή η προσαρμογή της αντίθεσης όταν η λειτουργία ανάγνωσης είναι ενεργοποιημένη</string>
   <string name="screen_paper_mode_adjust_level">Προσαρμογή λειτουργίας ανάγνωσης</string>
   <string name="screen_paper_mode_apps_loading">Φόρτωση…</string>

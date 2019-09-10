@@ -834,7 +834,7 @@ Delta μέγεθος ενημέρωσης: %2$s"</string>
     <string name="unable_connect_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="wallpaper_24h">24Ω</string>
     <string name="wallpaper_delete_all">Διαγραφή επιλεγμένων στοιχείων?</string>
-    <string name="wallpaper_dynamic">Δυναμικές</string>
+    <string name="wallpaper_dynamic">Κινούμενες</string>
     <string name="wallpaper_online">Online ταπετσαρίες</string>
     <string name="wallpaper_online_no_more">"Αυτά για τώρα."</string>
     <string name="wallpaper_online_tip">Σύνδεση στο δίκτυο για προβολή περισσότερων στοιχείων</string>

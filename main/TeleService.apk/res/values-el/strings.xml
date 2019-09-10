@@ -153,9 +153,9 @@
   <string name="bugreport_in_power">Σύντομη αναφορά σφαλμάτων</string>
   <string name="bugreport_in_power_summary">Εμφάνιση ενός κουμπιού στο μενού ενέργειας για λήψη μιας αναφοράς σφάλματος</string>
   <string name="button_convert_fbe">Σκουπίστε και μετατρέψτε…</string>
-  <string name="call_advanced_setting_title">Προχωρημένες ρυθμίσεις</string>
-  <string name="call_barring">Φραγή κλήσεων</string>
-  <string name="call_barring_sum">Ρυθμίσεις φραγής κλήσεων φωνής</string>
+  <string name="call_advanced_setting_title">Προηγμένες ρυθμίσεις</string>
+  <string name="call_barring">Αποκλεισμός κλήσεων</string>
+  <string name="call_barring_sum">Ρυθμίσεις αποκλεισμού κλήσεων</string>
   <string name="call_description_recording">Εγγραφή…</string>
   <string name="call_forward_option">Προώθηση κλήσεων</string>
   <string name="call_forwarding_number_hint">Εισάγετε τον αριθμό που θα προωθείτε τις εισερχόμενες κλήσεις</string>
@@ -300,13 +300,13 @@
   <string name="card_title_forwarded_MTcall">Προωθημένη εισερχόμενη κλήση</string>
   <string name="card_title_hanging_up">Τερματισμός</string>
   <string name="card_title_in_call">Σε κλήση</string>
-  <string name="card_title_incoming_barred">Φραγή εισερχομένων κλήσεων</string>
+  <string name="card_title_incoming_barred">Αποκλεισμός εισερχομένων κλήσεων</string>
   <string name="card_title_incoming_call">Εισερχόμενη κλήση</string>
   <string name="card_title_MOcall_forwarding">Εξερχόμενη προωθημένη κλήση</string>
   <string name="card_title_MTcall_forwarding">Η εισερχόμενη κλήση προωθείται</string>
   <string name="card_title_multipartycall">Κλήση συνδιάσκεψης</string>
   <string name="card_title_on_hold">Σε αναμονή</string>
-  <string name="card_title_outgoing_barred">Φραγή εξερχομένων κλήσεων</string>
+  <string name="card_title_outgoing_barred">Αποκλεισμός εξερχομένων κλήσεων</string>
   <string name="card_title_redialing">Επανάκληση</string>
   <string name="card_title_unconditionalCF">Η προώθηση κλήσεων άνευ όρων είναι ενεργοποιημένη</string>
   <string name="carrier_info">Πληροφορίες φορέα</string>
@@ -353,7 +353,7 @@
   <string name="change_default_data_card">Προεπιλεγμένη κάρτα SIM κινητών δεδομένων</string>
   <string name="change_default_data_card_summary">Φαίνεται πως αλλάξατε κάρτες SIM. Ορίζετε αυτήν την κάρτα ως  προεπιλεγμένη κάρτα SIM δεδομένων κινητής;</string>
   <string name="change_num">Ενημέρωση</string>
-  <string name="change_password">Αλλαγή κωδικού φραγής</string>
+  <string name="change_password">Αλλαγή κωδικού αποκλεισμού</string>
   <string name="change_pin">Αλλαγή PIN κάρτας SIM</string>
   <string name="change_pin2">Αλλαγή PIN2</string>
   <string name="charge_length_format">%1$s ago</string>
@@ -589,7 +589,7 @@
   <string name="enhanced_4g_lte_mode_on_failed">Αδυναμία ενεργοποίησης VoLTE.</string>
   <string name="enhanced_4g_lte_mode_summary">Χρήση υπηρεσιών LTE για τη βελτίωση της φωνής και άλλων επικοινωνιών (συνιστάται)</string>
   <string name="enhanced_4g_lte_mode_title">Ενισχυμένη λειτουργία 4G LTE</string>
-  <string name="enter_callbarring_password">Εισαγωγή κωδικού φραγής(4 ψηφία)</string>
+  <string name="enter_callbarring_password">Εισαγωγή κωδικού αποκλεισμού (4 ψηφία)</string>
   <string name="enter_input" formatted="false">Το μήνυμα USSD πρέπει να είναι μεταξύ %d και %d χαρακτήρες. Δοκιμάστε ξανά.</string>
   <string name="enter_pin_text">PIN κάρτας SIM:</string>
   <string name="enter_pin2_text">PIN2</string>
@@ -873,7 +873,7 @@
   <string name="new_pin2_label">Νέο PIN2</string>
   <string name="newPin2Label">Νέο PIN2</string>
   <string name="newPinLabel">Νέο PIN</string>
-  <string name="no_call_barring">Η Φραγή είναι ανενεργή</string>
+  <string name="no_call_barring">Ανενεργός αποκλεισμός</string>
   <string name="no_application">Τίποτα</string>
   <string name="no_change">Δεν έγιναν αλλαγές.</string>
   <string name="no_checked_network">Αδύνατη η σύνδεση στο δίκτυο κινητής για να πραγματοποιήσετε κλήσεις. Επιλογή άλλου δικτύου;</string>
