@@ -6674,7 +6674,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="wifi_link_turbo_off">Off</string>
     <string name="wifi_link_turbo_on">On</string>
     <string name="wifi_link_turbo_summary">Αυξήστε την ταχύτητα σύνδεσης για επιλεγμένες εφαρμογές που χρησιμοποιούν δεδομένα κινητής όταν η σύνδεση WiFi είναι ασθενής</string>
-    <string name="system_haptic_feedback">Απτική ανατροφοδότηση</string>
+    <string name="system_haptic_feedback">Απτικά σχόλια</string>
     <string name="calendar_remind">Γεγονότα</string>
     <string name="notification_remind">Ειδοποιήσεις</string>
     <string name="title_layout_current2_weight">Μέγεθος &amp; τύπος κειμένου</string>
@@ -6701,4 +6701,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="aod_notification_style_none">Καμμιά ενέργεια</string>
     <string name="aod_notification_style_screen_on">Φωτισμός οθόνης</string>
     <string name="aod_notification_style_animation">Εμφάνιση κίνησης</string>
+    <string name="wifi_generation_title">Τεχνολογία</string>
+    <string name="wifi_generation_status">"Wi-Fi %1$d"</string>
+    <string name="wifi_generation_icon_display">Εικονίδια</string>
+    <string name="wifi_generation">Χρήση εικονιδίων της συγκεκριμένης γενιάς</string>
+    <string name="wifi_generation_summary">Προσθήκη του αριθμού της γενιάς ασύρματης τεχνολογίας στο εικονίδιο Wi-Fi</string>
 </resources>

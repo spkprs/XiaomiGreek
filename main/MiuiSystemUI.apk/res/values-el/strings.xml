@@ -1019,11 +1019,11 @@
      <string name="miui_ringer_total_description">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από την Αφύπνιση</string>
      <string name="miui_screen_rotation_freeze_message">Ανενεργή Αυτ. Περιστροφή.</string>
      <string name="miui_toast_zen_dnd_to_off">Ανενεργό Μην Ενοχλείτε. Ήχοι και Δόνηση επανήλθαν κανονικά</string>
-     <string name="miui_toast_zen_standard_to_off">Ανενεργό Μην Ενοχλείτε. Οι ήχοι επανήλθαν κανονικά</string>
-     <string name="miui_toast_zen_standard_to_off_when_shield_media">Ανενεργό Μην Ενοχλείτε. Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, θα αναπαραχθούν.</string>
+     <string name="miui_toast_zen_standard_to_off">"Ανενεργή Αθόρυβη λειτουργία. Οι ήχοι επανήλθαν κανονικά."</string>
+     <string name="miui_toast_zen_standard_to_off_when_shield_media">"Ανενεργή Αθόρυβη λειτουργία. Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, θα αναπαράγονται."</string>
      <string name="miui_toast_zen_to_dnd">Μετάβαση σε Μην Ενοχλείτε. Σίγαση ήχων και απενεργ/ση Δόνησης</string>
-     <string name="miui_toast_zen_to_standard">Μετάβαση σε Μην Ενοχλείτε. Οι ήχοι κλήσεων και ειδοποιήσεων σε σίγαση</string>
-     <string name="miui_toast_zen_to_standard_when_shield_media">Μετάβαση σε Μην Ενοχλείτε. Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, θα σιγήσουν.</string>
+     <string name="miui_toast_zen_to_standard">"Μετάβαση σε Αθόρυβη λειτουργία. Οι ήχοι κλήσεων και ειδοποιήσεων σε σίγαση."</string>
+     <string name="miui_toast_zen_to_standard_when_shield_media">"Μετάβαση σε Αθόρυβη λειτουργία. Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, σε σίγαση."</string>
      <string name="mland">Marshmallow Land</string>
      <string name="mobile_data">Δεδομένα</string>
      <string name="mobile_data_always_on">Τα Δεδομένα κινητής πάντα ενεργά</string>

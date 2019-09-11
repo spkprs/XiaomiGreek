@@ -55,8 +55,11 @@
      <string name="next">Επόμενο</string>
      <string name="next_fingerprint">Επόμενο</string>
      <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
-     <string name="other_settings_ad_enable">Εξατομικευμένες προτάσεις διαφημίσεων</string>
-     <string name="other_settings_ad_enable_summary">Λήψη εξατομικευμένων διαφημίσεων βάσει των δεδομένων συμπεριφοράς σας</string>
+     <string name="other_settings_ad_enable">Εξατομικευμένες διαφημίσεις</string>
+     <string name="other_settings_ad_enable_summary">Εξατομικευμένες διαφημίσεις βάσει των ενδιαφερόντων σας</string>
+     <string name="other_settings_ad_disable_summary">Ενεργοποίηση εξατομικευμένων διαφημίσεων</string>
+     <string name="other_settings_ad_dialog_content">"Μετά την απενεργοποίηση αυτής της λειτουργίας δεν θα λαμβάνετε πλέον εξατομικευμένες διαφημίσεις. Ωστόσο, θα εξακολουθείτε να λαμβάνετε διαφημίσεις άσχετες των ενδιαφερόντων σας. Μπορείτε να μάθετε περισσότερα σχετικά με τις εξατομικευμένες διαφημίσεις στην πολιτική προστασίας προσωπικών δεδομένων της Xiaomi.
+Απενεργοποίηση εξατομικευμένων διαφημίσεων οπωσδήποτε?"</string>
      <string name="other_settings_auto_update">Αυτόματη ενημέρωση</string>
      <string name="other_settings_auto_update_summary">Το MIUI θα επιλέγει την πιο κατάλληλη στιγμή για λήψη και εγκατάσταση ενημερώσεων.</string>
      <string name="other_settings_enhanced_lockscreen_privacy_index">Πολιτική Απορρήτου</string>
