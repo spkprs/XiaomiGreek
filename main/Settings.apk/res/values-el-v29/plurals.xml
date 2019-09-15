@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="accessibility_usage_summary">
+    <item quantity="other">%1$d εφαρμογές έχουν πλήρη πρόσβαση στη συσκευή σας</item>
+    <item quantity="one">1 εφαρμογή έχει πλήρη πρόσβαση στη συσκευή σας</item>
+  </plurals>
+  <plurals name="location_app_permission_summary_location_on">
+    <item quantity="other">%1$d από %2$d εφαρμογές έχουν πρόσβαση στην τοποθεσία σας</item>
+    <item quantity="one">%1$d από %2$d εφαρμογές έχουν πρόσβαση στην τοποθεσία σας</item>
+  </plurals>
+  <plurals name="location_settings_summary_location_on">
+    <item quantity="other">Ενεργή - %1$d εφαρμογές έχουν πρόσβαση στην τοποθεσία</item>
+    <item quantity="one">Ενεργή - %1$d εφαρμογή έχει πρόσβαση στην τοποθεσία</item>
+  </plurals>
+  <plurals name="mobile_network_summary_count">
+    <item quantity="other">%1$d SIM</item>
+    <item quantity="one">%1$d SIM</item>
+  </plurals>
+  <plurals name="notification_few_channel_count_summary">
+    <item quantity="other">%1$d κανάλια ειδοποιήσεων.</item>
+    <item quantity="one">%1$d κανάλι ειδοποιήσεων.</item>
+  </plurals>
+  <plurals name="notifications_sent_daily">
+    <item quantity="other">~%d ειδοποιήσεις ανά ημέρα</item>
+    <item quantity="one">~%d ειδοποίηση ανά ημέρα</item>
+  </plurals>
+  <plurals name="notifications_sent_weekly">
+    <item quantity="other">~%d ειδοποιήσεις ανά εβδομάδα</item>
+    <item quantity="one">~%d ειδοποίηση ανά εβδομάδα</item>
+  </plurals>
+  <plurals name="permission_bar_chart_label">
+    <item quantity="other">%s εφαρμογές</item>
+    <item quantity="one">1 εφαρμογή</item>
+  </plurals>
+  <plurals name="show_bluetooth_devices">
+    <item quantity="other">%1$d συνδεδεμένες συσκευές</item>
+    <item quantity="one">%1$d συνδεδεμένη συσκευή</item>
+  </plurals>
+  <plurals name="wifi_saved_all_access_points_summary">
+    <item quantity="other">%d δίκτυα και εγγραφές</item>
+    <item quantity="one">1 δίκτυο και εγγραφή</item>
+  </plurals>
+  <plurals name="wifi_saved_passpoint_access_points_summary">
+    <item quantity="other">%d συνδρομές</item>
+    <item quantity="one">1 συνδρομή</item>
+  </plurals>
+  <plurals name="zen_mode_bypassing_apps_subtext">
+    <item quantity="other">Οι ειδοποιήσεις από %1$d εφαρμογές μπορούν να παρακάμψουν τη ρύθμιση \"Μην ενοχλείτε\"</item>
+    <item quantity="one">Οι ειδοποιήσεις από 1 εφαρμογή μπορούν να παρακάμψουν τη ρύθμιση \"Μην ενοχλείτε\"</item>
+  </plurals>
+  <plurals name="zen_mode_duration_summary_time_hours">
+    <item quantity="other">%d ώρες</item>
+    <item quantity="one">1 ώρα</item>
+  </plurals>
+</resources>

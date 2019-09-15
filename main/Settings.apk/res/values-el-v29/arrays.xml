@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ai_item_action_array">
+    <item>Χωρίς</item>
+    <item>Ενεργοποίηση Βοηθού Google</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Ανενεργό</item>
+    <item>Φίλτρο ενεργό</item>
+    <item>Φίλτρο Κεφαλίδων ενεργό</item>
+    <item>Φίλτρο πακ. Πολυμέσων ενεργό</item>
+    <item>Ενεργοποιημένη</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>Μόνο αρχική σελίδα</item>
+    <item>Αυτόματo</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Σκούρο</item>
+    <item>Ανοικτό</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item>Κανένα</item>
+    <item>Χειροκίνητα</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item>Χρήση τυχαίου MAC (προεπιλογή)</item>
+    <item>Χρήση MAC συσκευής</item>
+  </string-array>
+</resources>
