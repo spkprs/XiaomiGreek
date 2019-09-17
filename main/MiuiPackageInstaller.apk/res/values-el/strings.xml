@@ -399,4 +399,8 @@
   <string name="wifi_remembered">Αποθηκεύτηκε</string>
   <string name="wifi_security_none">Χωρίς</string>
   <string name="wifi_security_passpoint">Σημείο ελέγχου</string>
+  <string name="risk_warning_title">Εντοπίστηκαν κίνδυνοι</string>
+  <string name="risk_warning_msg">"Η υπογραφή σε αυτό το πακέτο εγκατάστασης δεν φαίνεται αυθεντική. Για να αποφύγετε πιθανούς κινδύνους, εγκαταστήστε αυτήν την εφαρμογή από το GetApps."</string>
+  <string name="risk_warning_top_button">"Μην εγκατασταθεί"</string>
+  <string name="risk_warning_bottom_button">Εγκατάσταση από GetApps</string>
 </resources>

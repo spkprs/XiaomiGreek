@@ -650,6 +650,9 @@
      <string name="face_unlock_rotated_right">Γυρίστε το κεφάλι σας προς τα αριστερά</string>
      <string name="face_unlock_sc_status">Σύρετε την οθόνη πρός τα κάτω για άνοιγμα της Κάμερας</string>
      <string name="face_unlock_stay_away_screen">Μείνετε 25 έως 40 εκατοστά μακριά από την οθόνη</string>
+     <string name="face_data_apply_for_category_title">Ξεκλείδωμα με χρήση δεδομένων Προσώπου</string>
+     <string name="face_data_apply_for_keyguard_title">Κλείδωμα οθόνης</string>
+     <string name="face_unlock_category_title">Επιλογές Κλειδώματος οθόνης</string>
      <string name="fingerprint_add_text">Η διεπαφή Δακτυλικού αποτυπώματος ενημερώθηκε. Προσθέστε ξανά το Δακτυλικό σας αποτύπωμα.</string>
      <string name="fingerprint_add_title">Προσθήκη Δακτ.αποτυπώματος</string>
      <string name="fingerprint_again_identified_msg">Το Δακτυλικό σας αποτύπωμα είναι ενεργό τώρα. Χρησιμοποιήστε το για να ξεκλειδώσετε τη συσκευή ή πληκτρολογήστε τον κωδικό πρόσβασης.</string>
