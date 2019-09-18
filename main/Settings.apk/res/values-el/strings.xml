@@ -6708,4 +6708,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="wifi_generation_summary">Προσθήκη του αριθμού της γενιάς ασύρματης τεχνολογίας στο εικονίδιο Wi-Fi</string>
     <string name="choose_lock_pattern_header_text">Ορισμός μοτίβου</string>
     <string name="confirm_lock_pattern_header_text">Σχεδιάστε το μοτίβο σας</string>
+    <string name="aod_name_wanxiang">Οθόνη Περιβάλλοντος</string>
 </resources>
