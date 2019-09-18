@@ -1699,7 +1699,7 @@
      <string name="enter_password">Πληκτρολογήστε τον κωδικό πρόσβασης για την αποκρυπτογράφηση αποθήκευσης</string>
      <string name="enter_pattern">Για να ξεκινήσετε το Android, σχεδιάσετε το μοτίβο σας</string>
      <string name="enter_pin">Για να ξεκινήσετε το Android, εισάγετε το PIN σας</string>
-     <string name="enterprise_mode">Επιχειρηματική λειτουργία</string>
+     <string name="enterprise_mode">Λειτουργία Επιχείρησης</string>
 	<string name="enterprise_privacy_always_on_vpn_device">Η λειτουργία \"Μονίμως ενεργό VPN\" είναι ενεργοποιημένη</string>
 	<string name="enterprise_privacy_always_on_vpn_personal">Η λειτουργία \"Μονίμως ενεργό VPN\" είναι ενεργοποιημένη στο προσωπικό προφίλ σας</string>
 	<string name="enterprise_privacy_always_on_vpn_work">Η λειτουργία \"Μονίμως ενεργό VPN\" είναι ενεργοποιημένη στο προφίλ εργασίας σας</string>
@@ -6123,7 +6123,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	  <string name="power_key_start_guide">Αφύπνιση του Βοηθού Google χρησιμοποιώντας το κουμπί Power σε συσκευές πλήρους προβολής</string>  
 	  <string name="the_way_of_wakeup_voice_assistant_summary">Έναρξη Βοηθού φωνής σε λειτουργία πλήρους οθόνης (χωρίς εικονικά πλήκτρα)</string>   
 	  <string name="autofill_app">Υπηρ. αυτόμ. συμπλήρωσης</string>
-      <string name="autofill_confirmation_message">"&lt;b>Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσει τι μπορεί να συμπληρωθεί αυτόματα."</string>
+      <string name="autofill_confirmation_message">"&lt;b&gt;Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή &lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσει τι μπορεί να συμπληρωθεί αυτόματα."</string>
 	  <string name="app_permission_summary_allowed">Επιτρέπεται</string>
 	  <string name="app_permission_summary_not_allowed">Δεν επιτρέπεται</string>
 	  <string name="directory_access">Πρόσβαση στον κατάλογο</string>
