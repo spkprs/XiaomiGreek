@@ -1652,11 +1652,11 @@
      <string name="phone">Τηλέφωνο</string>
 	<string name="phone_manage">Χρήσιμα</string>
 	<string name="phone_manage_app_manager_summary">Διαχείριση των εφαρμογών σας</string>
-	<string name="phone_manage_clean_summary">Απελευθερώστε χώρο αποθήκευσης</string>
+	<string name="phone_manage_clean_summary">Απελευθερώστε αποθ. χώρο</string>
 	<string name="phone_manage_clean_title">Καθαριστής</string>
-	<string name="phone_manage_electric_summary">Βελτιστοποίηση εξοικον. μπαταρίας</string>
+	<string name="phone_manage_electric_summary">Βελτιστ. εξοικον. μπαταρίας</string>
 	<string name="phone_manage_electric_title">Μπαταρία</string>
-	<string name="phone_manage_special_summary">Εξερευνήστε τις πρόσθετες λειτουργίες μας</string>
+	<string name="phone_manage_special_summary">Εξερευνήστε πρόσθετες λειτουργίες</string>
 	<string name="phone_manage_special_title">Ειδικά χαρακτηριστικά</string>
 	<string name="phone_manage_system_tool_summary">Εργαλεία σε επίπεδο συστήματος</string>
 	<string name="phone_manage_system_tool_title">Εργαλεία</string>

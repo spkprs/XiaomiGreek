@@ -4473,7 +4473,7 @@
      <string name="spellchecker_language">Γλώσσα</string>
      <string name="spellchecker_quick_settings">Ρυθμίσεις</string>
      <string name="spellchecker_security_warning">Αυτός ο ορθογράφος μπορεί να είναι σε θέση να κρατήσει όλο το κείμενο που πληκτρολογείτε, συμπεριλαμβανομένων των προσωπικών δεδομένων, όπως κωδικούς πρόσβασης και αριθμούς πιστωτικών καρτών. Προέρχεται από την εφαρμογή %1$s Θα χρησιμοποιήσετε αυτό τον ορθογράφο?</string>
-     <string name="spellchecker_switch_title">Ενεργοποιήστε τον ορθογραφικό έλεγχο</string>
+     <string name="spellchecker_switch_title">Ενεργ. ορθογραφικού ελέγχου</string>
      <string name="spellcheckers_settings_title">Διόρθωση ορθογραφίας</string>
      <string name="split_screen">Άνοιγμα Διαίρεσης Οθόνης</string>
      <string name="ssid_label">SSID:</string>
@@ -6123,7 +6123,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	  <string name="power_key_start_guide">Αφύπνιση του Βοηθού Google χρησιμοποιώντας το κουμπί Power σε συσκευές πλήρους προβολής</string>  
 	  <string name="the_way_of_wakeup_voice_assistant_summary">Έναρξη Βοηθού φωνής σε λειτουργία πλήρους οθόνης (χωρίς εικονικά πλήκτρα)</string>   
 	  <string name="autofill_app">Υπηρ. αυτόμ. συμπλήρωσης</string>
-      <string name="autofill_confirmation_message">"&lt;b&gt;Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή &lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσει τι μπορεί να συμπληρωθεί αυτόματα."</string>
+      <string name="autofill_confirmation_message">"&lt;b>Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσει τι μπορεί να συμπληρωθεί αυτόματα."</string>
 	  <string name="app_permission_summary_allowed">Επιτρέπεται</string>
 	  <string name="app_permission_summary_not_allowed">Δεν επιτρέπεται</string>
 	  <string name="directory_access">Πρόσβαση στον κατάλογο</string>
