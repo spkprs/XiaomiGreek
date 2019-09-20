@@ -1,0 +1,36 @@
+<resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
+    <string name="weather_null">Αγγίξτε για πληροφορίες καιρού</string>
+    <string name="weather_location_null">Δεν υπάρχουν πληροφορίες τοποθεσίας</string>
+    <string name="weather_type_null">'Δεν υπάρχουν δεδομένα'</string>
+    <string name="weather_type_0">Ηλιόλουστος</string>
+    <string name="weather_type_1">Συννεφιά</string>
+    <string name="weather_type_2">Νεφελώδης</string>
+    <string name="weather_type_3">Ομιχλώδης</string>
+    <string name="weather_type_4">Βαριά νεροποντή</string>
+    <string name="weather_type_5">Νεροποντή</string>
+    <string name="weather_type_6">Καταιγίδα</string>
+    <string name="weather_type_7">Θύελλα</string>
+    <string name="weather_type_8">Ψιχάλες</string>
+    <string name="weather_type_9">Έντονη βροχόπτωση</string>
+    <string name="weather_type_10">Μέτρια βροχόπτωση</string>
+    <string name="weather_type_11">Ασθενής βροχή</string>
+    <string name="weather_type_12">Χιονόνερο</string>
+    <string name="weather_type_13">Χιονοθύελλα</string>
+    <string name="weather_type_14">Χιόνι</string>
+    <string name="weather_type_15">Βαριά χιονόπτωση</string>
+    <string name="weather_type_16">Μέτρια χιονόπτωση</string>
+    <string name="weather_type_17">Ελαφριά χιονόπτωση</string>
+    <string name="weather_type_18">Ισχυρή αμμοθύελλα</string>
+    <string name="weather_type_19">Αμμοθύελλα</string>
+    <string name="weather_type_20">Άμμος</string>
+    <string name="weather_type_21">Ανεμώδης</string>
+    <string name="weather_type_22">Χαλάζι</string>
+    <string name="weather_type_23">Σκόνη</string>
+    <string name="weather_type_24">Ομίχλη</string>
+</resources>

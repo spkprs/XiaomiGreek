@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="date_time">EEEE d MMM</string>
+    <string name="date_time_12">EEEE d MMM</string>
+    <string name="language">el</string>
+    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_time">'τρέχουσα ώρα' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', διπλό πάτημα για το άνοιγμα της εφαρμογής'</string>
+    <string name="desc_time_1">'τρέχουσα ώρα' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', διπλό πάτημα για το άνοιγμα της εφαρμογής'</string>
+    <string name="weather_type_0">Ηλιόλουστος</string>
+    <string name="weather_type_1">Συννεφιά</string>
+    <string name="weather_type_2">Νεφελώδης</string>
+    <string name="weather_type_3">Ομιχλώδης</string>
+    <string name="weather_type_4">Βαριά νεροποντή</string>
+    <string name="weather_type_5">Νεροποντή</string>
+    <string name="weather_type_6">Καταιγίδα</string>
+    <string name="weather_type_7">Θύελλα</string>
+    <string name="weather_type_8">Ψιχάλες</string>
+    <string name="weather_type_9">Έντονη βροχόπτωση</string>
+    <string name="weather_type_10">Μέτρια βροχόπτωση</string>
+    <string name="weather_type_11">Ασθενής βροχή</string>
+    <string name="weather_type_12">Χιονόνερο</string>
+    <string name="weather_type_13">Χιονοθύελλα</string>
+    <string name="weather_type_14">Χιόνι</string>
+    <string name="weather_type_15">Βαριά χιονόπτωση</string>
+    <string name="weather_type_16">Μέτρια χιονόπτωση</string>
+    <string name="weather_type_17">Ελαφριά χιονόπτωση</string>
+    <string name="weather_type_18">Ισχυρή αμμοθύελλα</string>
+    <string name="weather_type_19">Αμμοθύελλα</string>
+    <string name="weather_type_20">Άμμος</string>
+    <string name="weather_type_21">Ανεμώδης</string>
+    <string name="weather_type_22">Χαλάζι</string>
+    <string name="weather_type_23">Σκόνη</string>
+    <string name="weather_type_24">Ομίχλη</string>
+    <string name="weather_type_25">Παγωμένη βροχή</string>
+</resources>
