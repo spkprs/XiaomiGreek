@@ -14,6 +14,16 @@
         <item>MSB</item>
         <item>MSA</item>
      </string-array>
+   <string-array name="ai_key_item_name">
+     	<item>Μιλήστε στο βοηθό φωνής Google</item>
+        <item>Άνοιγμα Αναζήτηση Google</item>
+        <item>Ενεργοποίηση Πίσω κάμερας</item>
+        <item>Ενεργοποίηση Εμπρός κάμερας</item>
+        <item>Άνοιγμα προηγούμενης εφαρμογής</item>
+        <item>Άνοιγμα Φακού</item>
+        <item>Ενεργοποίηση λειτουργίας Ανάγνωσης</item>
+        <item>Χωρίς</item>
+    </string-array>
      <string-array name="alarm_repeat_type">
         <item>Κάθε ημέρα</item>
         <item>Καθημερινές νύχτες</item>
