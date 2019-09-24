@@ -373,7 +373,7 @@ ID:%s
      <string name="passport_set">Προσθέστε</string>
      <string name="passport_set_password_no_phone_msg">Προσθέστε τον αριθμό τηλεφώνου σας για να προστατεύσετε το λογαριασμό σας.</string>
      <string name="passport_setting">Ρύθμιση…</string>
-     <string name="passport_skip_login">Παράλειψη σύνδεσης</string>
+     <string name="passport_skip_login">Παράλειψη</string>
      <string name="passport_skip_register">Παράλειψη Εγγραφής</string>
      <string name="passport_skip_setup_account_msg">Μπορείτε να ρυθμίσετε τον λογαριασμό σας αργότερα από τις Ρυθμίσεις.</string>
      <string name="passport_skip_setup_account_title">"Χωρίς χρήση του Mi Cloud?"</string>

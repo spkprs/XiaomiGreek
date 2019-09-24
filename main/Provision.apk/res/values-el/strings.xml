@@ -68,7 +68,7 @@
      <string name="other_settings_enhanced_lockscreen_summary_index">Όροι και Προϋποθέσεις</string>
      <string name="other_settings_location">Τοποθεσία</string>
      <string name="other_settings_location_summary">Επιτρέψτε στις εφαρμογές να έχουν πρόσβαση στην τοποθεσία σας</string>
-     <string name="other_settings_upload_debug_log_summary">Τα διαγνωστικά δεδομένα μπορεί να περιλαμβάνουν πληροφορίες σχετικά με τη χρήση του υλικού σας, το λειτουργικό σύστημα και τις εφαρμογές. Τα δεδομένα θα χρησιμοποιηθούν για τον εντοπισμό και την ανάλυση των προβλημάτων στο σύστημα και δεν πρόκειται ποτέ να χρησιμοποιηθούν για την προσωπική σας αναγνώριση.</string>
+     <string name="other_settings_upload_debug_log_summary">Τα διαγνωστικά δεδομένα ίσως περιλαμβάνουν πληροφορίες σχετικά με τη χρήση υλικού, το λειτουργικό σύστημα και τις εφαρμογές. Τα δεδομένα θα χρησιμοποιηθούν για εντοπισμό και ανάλυση προβλημάτων συστήματος και ποτέ για την προσωπική σας αναγνώριση.</string>
      <string name="other_settings_upload_debug_log_title">Αυτόματη αποστολή διαγνωστικών δεδομένων</string>
      <string name="other_settings_user_experience">Πρόγραμμα Εμπειρίας Χρηστών</string>
      <string name="other_settings_user_experience_summary">Βοηθήστε μας να βελτιώσουμε τα προϊόντα και τις υπηρεσίες μας αποστέλλοντας ανώνυμα δεδομένα χρήσης.</string>

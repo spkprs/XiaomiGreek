@@ -1601,7 +1601,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
 	  <string name="app_suggest_setting_brief">Εμφάνιση εφαρμογών που χρησιμοποιήθηκαν πρόσφατα</string>
 	  <string name="app_suggest_setting_brief_detail">"Οι προτάσεις εφαρμογών θα βασίζονται στα δεδομένα χρήσης σας "</string>
 	  <string name="app_suggest_setting_title">Προτάσεις εφαρμογών</string>
-	  <string name="cta_dialog_text_new_user">"Πριν χρησιμοποιήσετε τον Προσωπικό βοηθό, θα πρέπει να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη\"%2$s, %3$s\"Πολιτική Απορρήτου\"%4$s, της Xiaomi και την %5$s\"Πολιτική Απορρήτου του Προσ. Βοηθού\"%6$s. Ο Προσωπικός Βοηθός θα πρέπει να συνδεθεί στο ίντερνετ για να λειτουργήσει σωστά. Πατήστε \"Έναρξη\" για αποδοχή."</string>
+	  <string name="cta_dialog_text_new_user">Διαβάστε και συμφωνήστε με την %1$sΣυμφωνία Χρήστη%2$s και %3$sΠολιτική Απορρήτου%4$s.</string>
 	  <string name="cta_dialog_text_old_user">Πριν χρησιμοποιήσετε τον Προσωπικό βοηθό, θα πρέπει να συμφωνήσετε με την %1$s\"Πολιτική Απορρήτου του Προσ. Βοηθού\"%2$s. Πατήστε \"Έναρξη\" για αποδοχή.</string>
 	  <string name="cta_not_now">Όχι τώρα</string>
 	  <string name="cta_old_not_use">Όχι τώρα</string>
