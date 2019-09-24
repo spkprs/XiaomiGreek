@@ -829,4 +829,8 @@
   <string name="float_window_guide_text">Αγγίξτε εδώ για ελαχιστοποίησης Αριθμομηχανής</string>
   <string name="hint_floatwindow_alpha_guide_text">Αγγίξτε για προσαρμογή αδιαφάνειας</string>
   <string name="view_float_window_move">Μετακίνηση ελαχιστοποιημένης Αριθμομηχανής</string>
+	<string name="choose_radix">Επιλογή αριθμητικού συστήματος</string>
+	<string name="convertion_unit_radix">Αριθμητικό σύστημα</string>
+	<string name="item_title_radix">Αριθμητικό σύστημα</string>
+	<string name="network_purpose">Καλώς ορίσατε στην Αριθμομηχανή! Η Αριθμομηχανή σάς επιτρέπει να μετατρέπετε νομίσματα, να υπολογίσετε τις αποπληρωμές ενυπόθηκων δανείων και πολλά άλλα.</string>
 </resources>

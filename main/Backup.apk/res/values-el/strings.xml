@@ -391,7 +391,6 @@
   <string name="trans_calculating_media_description">Αρχεία πολυμέσων</string>
   <string name="trans_calculating_tip">Υπολογισμός %s…</string>
   <string name="trans_cancel_confirm">Μεταφορά σε εξέλιξη. Ακύρωση τώρα;</string>
-  <string name="trans_cancel_dialog_survey_title">Γιατί διακόψατε τη μεταφορά;</string>
   <string name="trans_cancel_selection_message">Αν εξέλθετε από το Mi Mover, η μεταφορά σε εξέλιξη θα διακοπεί. Περιμένετε έως ότου ολοκληρωθεί η μεταφορά.</string>
   <string name="trans_cancel_selection_title">Παραμονή στο Mi Mover</string>
   <string name="trans_cancelling">Ακύρωση…</string>

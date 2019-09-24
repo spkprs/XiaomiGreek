@@ -320,4 +320,19 @@
         <item>Για όλα τα γεγονότα</item>
         <item>Για ευαίσθητα χρονικά γεγονότα</item>
     </string-array>
+     <string-array name="response_labels2">
+        <item>"Χωρίς ανταπόκριση"</item>
+        <item>Αποδοχή</item>
+        <item>Άρνηση αργότερα</item>
+        <item>Άρνηση</item>
+     </string-array>
+     <string-array name="year_view_week_header_name">
+        <item>Κ</item>
+        <item>Δ</item>
+        <item>Τ</item>
+        <item>Τ</item>
+        <item>Π</item>
+        <item>Π</item>
+        <item>Σ</item>
+     </string-array>
 </resources>

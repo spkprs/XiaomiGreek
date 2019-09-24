@@ -150,4 +150,16 @@
      <string name="upload_succ_line5">Το αρχείο εστάλει</string>
      <string name="upload_succ_ok">ΟΚ</string>
      <string name="upload_success">%1$s Η αποστολή ολοκληρώθηκε</string>
+     <string name="a2dp_sink_mbs_label">Bluetooth Ήχος</string>
+     <string name="avrcp_cover_art_default_image_type">εικόνα</string>
+     <string name="avrcp_cover_art_default_mimetype">JPEG</string>
+     <string name="bluetooth_advanced_feat_description">Προηγμένη Δυνατότητα Περιήγησης Bluetooth</string>
+     <string name="bluetooth_opp_file_limit_exceeded">Αδύνατη η μεταφορά αρχείων μεγαλύτερων από 4 GB</string>
+     <string name="bluetooth_rc_feat_content">Το ομότιμο υποστηρίζει προηγμένες δυνατότητες</string>
+     <string name="bluetooth_rc_feat_subtext">Επανασυνδέστε από το ομότιμο για να το ενεργοποιήσετε</string>
+     <string name="bluetooth_rc_feat_title">Bluetooth περιήγηση σε πολυμέσα</string>
+     <string name="opp_notification_group">Bluetooth Κοινή χρήση</string>
+     <string name="pairing_ui_package">com.android.settings</string>
+     <string name="pbap_notification_group">Bluetooth Κοινή χρήση επαφών</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

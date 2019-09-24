@@ -1265,5 +1265,9 @@
     <string name="menu_share_vcard_file">Αρχείο</string>
     <string name="share_contact_as">Κοινή χρήση επαφής ως</string>
     <string name="share_qrcode">Κοινή χρήση Κωδικού QR</string>
+    <string name="callrecordview_menu_identify_numbers">Αναγνώριση αριθμών</string>
+    <string name="contact_detail_more_calllog">Περισσότερα</string>
+     <string name="yellowpage_address_tag">Διεύθυνση</string>
+     <string name="yellowpage_provider_label">Παρέχεται από</string>
 </resources>
 

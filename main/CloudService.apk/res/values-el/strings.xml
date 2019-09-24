@@ -523,4 +523,5 @@
       <string name="storage_manage_list_title_action">Προβολή περισσότερων</string>
       <string name="cloud_storage_info_type_drive">Mi Drive</string>
       <string name="cloud_storage_info_type_pdc">Ρυθμίσεις συστήματος</string>
+     <string name="storage_manage_title">Αλλαγή σχεδίου αποθήκευσης στο cloud</string>
 </resources>

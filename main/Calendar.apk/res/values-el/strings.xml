@@ -911,4 +911,8 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="setting_title_import_todo">Εισαγωγή εργασιών</string>
     <string name="todo_audio_event">"[Φωνητική εργασία] "</string>
     <string name="todo_event">Επερχόμενες εργασίες</string>
+	<string name="permission_accounts">Για είσοδο και διαχείριση του λογαριασμού συστήματος και συσχέτιση στοιχείων με αυτόν</string>
+	<string name="permission_contacts">Για συγχρονισμό των γενεθλίων των επαφών σας και αποστολή υπενθυμίσεων</string>
+	<string name="permission_main_purpose">Προβολή και διαχείριση συμβάντων ημερολογίου, ταξίδια σχεδιασμού, λήψη υπενθυμίσεων και εγγραφή σε υπηρεσίες</string>
+	<string name="permission_storage">Για αποθήκευση υπενθυμίσεων και ήχων κουδουνίσματος</string>
 </resources>

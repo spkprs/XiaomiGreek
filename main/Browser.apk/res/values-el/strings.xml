@@ -1381,4 +1381,14 @@
   <string name="data_traffic_download_toast_msg">Τρέχουσα κίνηση χρήσης δεδομένων για προσωρινή αποθήκευση βίντεο</string>
   <string name="video_download_wait_for_caching">Αναμονή για προσωρινή αποθήκευση</string>
   <string name="video_download_wait_for_network">Αναμονή για δίκτυο</string>
+	<string name="ad_download_continue">Συνέχεια</string>
+	<string name="ad_download_downloading">Λήψη..</string>
+	<string name="ad_download_error">Σφάλμα</string>
+	<string name="ad_download_immediately">Λήψη</string>
+	<string name="ad_download_open">Άνοιγμα</string>
+	<string name="document_open_txt_message">Για να βελτιώσετε την εμπειρία ανάγνωσης και να διασφαλίσετε την ασφάλεια, χρησιμοποιήστε το Bookshelf</string>
+	<string name="document_open_txt_start_read">Έναρξη ανάγνωσης</string>
+	<string name="for_diagnosis_usage_only">Χρησιμοποιήστε αυτές τις πληροφορίες μόνο για διάγνωση.</string>
+	<string name="multi_window_max_tips">Ο αριθμός των παραθύρων έφτασε στο ανώτερο όριο</string>
+	<string name="mw_add_to_dictionary">Προσθήκη στο λεξικό</string>
 </resources>

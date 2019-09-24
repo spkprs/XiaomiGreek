@@ -42,4 +42,5 @@
   <string name="request_permission">Αυτό το δείγμα χρειάζεται άδεια κάμερας.</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="calibration_hint_usage">Η κάμερα δεν έχει βαθμονομηθεί. Παρακαλώ ολοκληρώστε τη βαθμονόμηση.</string>
 </resources>
