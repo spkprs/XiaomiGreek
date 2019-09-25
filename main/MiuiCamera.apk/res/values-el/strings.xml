@@ -854,4 +854,12 @@
 	<string name="super_night_hint">Βελτιστοποίηση ποιότητας εικόνας</string>
 	<string name="ultra_pixel_portrait_hint">Σούπερ καθαρό πορτρέτο</string>
 	<string name="vv_start">Ξεκινήστε τη λήψη VV</string>
+    <string name="accessibility_mimovie_off">Η λειτουργία Ταινίας είναι ανενεργή</string>
+    <string name="accessibility_mimovie_on">Η λειτουργία Ταινίας είναι ενεργή</string>
+    <string name="color_effect_entry_classic">Τυπικό</string>
+    <string name="config_name_mimovie">Λειτουργία Ταινίας</string>
+    <string name="confirm_reset_manually_parameter_message">Επαναφορά όλων των παραμέτρων στις προεπιλεγμένες τιμές τους;</string>
+    <string name="hint_mimovie">Λήψη σε λειτουργία τοπίου για καλύτερο εφέ</string>
+    <string name="reset_manually_parameter_confirmed">OK</string>
+    <string name="reset_manually_parameter_hint">Επαναφορά</string>
 </resources>

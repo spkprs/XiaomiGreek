@@ -1077,7 +1077,7 @@
      <string name="permlab_disableKeyguard">απενεργοποίηση κλειδώματος οθόνης</string>
      <string name="permlab_enableCarMode">ενεργοποίηση λειτουργίας αυτοκινήτου</string>
      <string name="permlab_expandStatusBar">Ανάπτυξη/σύμπτυξη γραμμής κατάστασης</string>
-     <string name="permlab_getAccounts">εύρεση λογαριασμών στη συσκευή</string>
+     <string name="permlab_getAccounts">Εύρεση λογαριασμών στη συσκευή</string>
      <string name="permlab_getPackageSize">μέτρηση χώρου αποθήκευσης εφαρμογής</string>
      <string name="permlab_getTasks">Ανάκτηση εκτελούμενων εφαρμογών</string>
      <string name="permlab_handoverStatus">Λήψη κατάστασης μεταφοράς Android Beam</string>

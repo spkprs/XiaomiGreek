@@ -198,7 +198,7 @@
      <string name="home_apply_success">Ταπετσαρία στην Αρχική οθόνη εφαρμόστηκε</string>
      <string name="in_the_end">Δεν υπάρχουν άλλα στοιχεία για προβολή</string>
      <string name="incompatible_dialog_cancel">Να μην γίνει εφαρμογή</string>
-     <string name="incompatible_dialog_message">Αυτό το θέμα δεν είναι πλήρως συμβατό με την έκδοση MIUI της συσκεύης σας. Ορισμένα στοιχεία μπορεί να μην εμφανίζονται σωστά.</string>
+     <string name="incompatible_dialog_message">"Αυτό το θέμα δεν είναι πλήρως συμβατό με το MIUI 11 ακόμα. Ορισμένες σελίδες ενδέχεται να μην λειτουργούν σωστά."</string>
      <string name="incompatible_dialog_ok">Το κατάλαβα</string>
      <string name="incompatible_dialog_title">Θέματα συμβατότητας</string>
      <string name="is_setting_wallpaper_message">Ρύθμιση ταπετσαρίας…</string>
@@ -676,7 +676,8 @@
     <string name="resource_trial_end_jump_hint">Ανακατεύθυνση…</string>
     <string name="theme_staggered_item_text">Λήψη πιστώσεων Mi</string>
     <string name="transparent_wallpaper">Διάφανη ταπετσαρία</string>
-    <string name="transparent_wallpaper_apply_success">Ορίστηκε με επιτυχία.  Μετάβαση σε Θέματα &gt; Προφίλ &gt; Θεματικό εργαστήριο για περισσότερες λειτουργίες.</string>
+    <string name="transparent_wallpaper_apply_success">"Ορίστηκε με επιτυχία.
+Μετάβαση σε Θέματα &gt; Προφίλ &gt; Θεματικό εργαστήριο για περισσότερες λειτουργίες."</string>
     <string name="transparent_wallpaper_enable_success">Ενεργοποιήθηκε με επιτυχία</string>
     <string name="transparent_wallpaper_guide">Μετάβαση στα Θέματα</string>
     <string name="transparent_wallpaper_guide_tip">Μπορείτε να επιλέξετε μια διαφανή ταπετσαρία στα Θέματα τώρα.</string>
@@ -839,4 +840,8 @@ Delta μέγεθος ενημέρωσης: %2$s"</string>
     <string name="wallpaper_online_no_more">"Αυτά για τώρα."</string>
     <string name="wallpaper_online_tip">Σύνδεση στο δίκτυο για προβολή περισσότερων στοιχείων</string>
     <string name="wallpaper_static">Στατικές</string>
+    <string name="current_using">Τρέχον</string>
+    <string name="recommend_trigger">Εξατομικευμένες συστάσεις</string>
+    <string name="recommend_trigger_summary">Ενεργοποιήστε την για να λαμβάνετε προτάσεις βάσει των προτιμήσεών σας</string>
+    <string name="update_flag">Ενημέρωση</string>
 </resources>

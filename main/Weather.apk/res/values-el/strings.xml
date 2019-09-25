@@ -313,4 +313,8 @@
     <string name="feedback">Αναφορά εσφαλμένων πληροφοριών καιρού</string>
     <string name="warning_weather_day_and_night_settings_summary">Λάβετε ημερήσιες περιλήψεις πληροφοριών καιρικών συνθηκών από 7:00 έως 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">Καθημερινές περιλήψεις</string>
+    <string name="request_permission_location_dialog_content">Για την εμφάνιση των μετεωρολογικών πληροφοριών που σχετίζονται με την τρέχουσα θέση σας</string>
+    <string name="request_permission_main_purpose">Εμφάνιση πληροφοριών καιρού</string>
+    <string name="request_permission_read_phone_state_dialog_content">Για την αναγνώριση της συσκευής σας</string>
+    <string name="request_permission_storage_dialog_content">Για κοινή χρήση μετεωρολογικών πληροφοριών σε μορφή εικόνας</string>
 </resources>

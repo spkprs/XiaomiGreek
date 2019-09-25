@@ -65,7 +65,7 @@
 	<string name="color_change_with_time_description">Αυτόματη αλλαγή χρώματος κειμένου ανάλογα την ώρα</string>
 	<string name="color_change_with_time_title">Αυτόματη αλλαγή χρώματος</string>
 	<string name="deep_space_planet">Απώτερο διάστημα</string>
-	<string name="deep_space_planet_des">Το \"Απώτερο διάστημα\" αντανακλά τις αλλαγές φωτός που συμβαίνουν γύρω σας κατά τη διάρκεια της ημέρας. Η Ανατολή και η Δύση σε αυτό το θέμα συγχρονίζονται με την τοποθεσία σας.</string>
+    <string name="deep_space_planet_des">Αυτό το θέμα απεικονίζει τις αλλαγές φωτός που συμβαίνουν γύρω σας κατά τη διάρκεια της ημέρας. Η Ανατολή και το Ηλιοβασίλεμα είναι επίσης συγχρονισμένα με την τοποθεσία σας.</string>
 	<string name="large_time">Μεγάλο ρολόι</string>
 	<string name="mini_time">Μικρό ρολόι</string>
 	<string name="only_show_bg_description">"Χωρίς εμφάνιση ώρας, ημερομηνίας και άλλων στοιχείων"</string>
