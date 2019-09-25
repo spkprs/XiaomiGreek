@@ -912,4 +912,21 @@
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
   <string name="yesterday">Χθές</string>
+     <string name="close_vpn_summary">Φαίνεται ότι η συσκευή σας είναι συνδεδεμένη σε VPN τώρα. Απενεργοποιήστε το VPN για να μπορείτε να συνδεθείτε με άλλες συσκευές.</string>
+     <string name="close_vpn_title">Απενεργοποίηση VPN</string>
+     <string name="date_picker_label_day" />
+     <string name="date_picker_label_month" />
+     <string name="date_picker_label_year" />
+     <string name="dialog_forbidden_use_tips">"Το Mi Mover δεν υποστηρίζει τη μεταφορά δεδομένων από ή προς τα tablets."</string>
+     <string name="dialog_rating_desc_ask">Πώς νιώθεις για το Mi Mover?</string>
+     <string name="dialog_rating_desc_less">Δώστε μας κάποιες προτάσεις για να βελτιώσουμε την εφαρμογή μας?</string>
+     <string name="dialog_rating_desc_perfect">Ευχαριστώ! Βαθμολογήστε το Mi Mover στο GetApps?</string>
+     <string name="dialog_rating_title">Βαθμολογήστε το Mi Mover</string>
+     <string name="empty" />
+     <string name="need_location_permission_confirm">ρυθμίσεις</string>
+     <string name="need_location_permission_title">Απαιτούνται δικαιώματα</string>
+     <string name="ok">OK</string>
+     <string name="qq_data_external">QQ SD card data</string>
+     <string name="time_concentrator" />
+     <string name="trans_detail_item_app_skip_data">"Αδύνατη η μεταφορά αυτής της εφαρμογής"</string>
 </resources>

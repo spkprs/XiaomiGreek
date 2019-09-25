@@ -359,4 +359,13 @@
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
   <string name="year">Ετος</string>
   <string name="zero">0</string>
+     <string name="auto_start_fail">"Δεν ήταν δυνατή η εκχώρηση δικαιώματος"</string>
+     <string name="auto_start_success">Η εκχώρηση δικαιωμάτων ολοκληρώθηκε με επιτυχία</string>
+     <string name="dialog_auto_start_detail">"Να επιτρέπεται στην υπηρεσία Mi Health η αυτόματη εκκίνηση να μπορεί να λαμβάνει ειδοποιήσεις.
+Το Mi Health θα σας ειδοποιεί μόνο για σημαντικά στοιχεία."</string>
+     <string name="dialog_auto_start_title2">Να επιτρέπεται η αυτόματη εκκίνηση του Mi Health</string>
+     <string name="dialog_no_more_prompt">"Να μην εμφανιστεί ξανά"</string>
+     <string name="dialog_open">Επιτρέπεται</string>
+     <string name="menses_auto_start_description">Η ενεργοποίηση υπενθυμίσεων θα επιτρέψει την αυτόματη εκκίνηση της λειτουργίας Mi Health.</string>
+     <string name="remind_open_tips">Να επιτρέπεται στο Mi Health να σας υπενθυμίζει τις επερχόμενες περιόδους</string>
 </resources>

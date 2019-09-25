@@ -52,4 +52,20 @@
     <item quantity="other">%1$d ετών</item>
     <item quantity="one">%1$d ετών</item>
   </plurals>
+     <plurals name="step_num_format">
+        <item quantity="other">%1$d βήματα</item>
+        <item quantity="one">%1$d βήμα</item>
+     </plurals>
+     <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+     </plurals>
+     <plurals name="times_format">
+        <item quantity="other">%1$d φορές</item>
+        <item quantity="one">%1$d φορά</item>
+     </plurals>
+     <plurals name="unit_days">
+        <item quantity="other">" ημέρες"</item>
+        <item quantity="one">" ημέρα"</item>
+     </plurals>
 </resources>

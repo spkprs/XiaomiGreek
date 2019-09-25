@@ -167,4 +167,9 @@
   <string name="xiaomi_note_3">Mi Note 3</string>
   <string name="xiaomi_phone">小米手机</string>
   <string name="xiaomi_poco_f1">POCO F1</string>
+     <string name="can_not_transfer_when_screening">"Δεν είναι δυνατή η Μετάδοση κατά τη μεταφορά"</string>
+     <string name="mishare_state_protection">Ενεργοποιήστε αυτόματα το Mi Share</string>
+     <string name="mishare_state_protection_summary">Ενεργοποίηση του Mi Share αυτόματα όταν το Bluetooth ή το Wi-Fi είναι ενεργοποιημένα</string>
+     <string name="scanning_only_xiaomi_device">Μπορείτε να στείλετε αυτό το στοιχείο μόνο σε μια συσκευή Xiaomi</string>
+     <string name="wifi_is_not_enabled">Ενεργοποίηση του Wi-Fi πρώτα</string>
 </resources>

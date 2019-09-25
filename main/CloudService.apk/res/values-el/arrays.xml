@@ -130,4 +130,16 @@
         <item>Προβολή συγχ/μένων στοιχείων</item>
         <item>Λεπτομέριες Αποθήκευσης</item>
     </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Για συγχρονισμό συμβάντων</item>
+        <item>Για συγχρονισμό μηνυμάτων</item>
+        <item>Για συγχρονισμό μηνυμάτων</item>
+        <item>Για συγχρονισμό επαφών</item>
+        <item>Για συγχρονισμό επαφών</item>
+        <item>Για την αποθήκευση αντικειμένων στη συσκευή σας (π.χ. εικόνες, βίντεο, τραγούδια)</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Για την αναγνώριση της συσκευής σας</item>
+        <item>Για να εντοπίσετε τη συσκευή σας και να μεταβείτε στη λειτουργία Εύρεση συσκευής</item>
+    </string-array>
 </resources>

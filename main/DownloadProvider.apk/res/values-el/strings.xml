@@ -95,4 +95,5 @@
   <string name="xl_speedup_notify_button_member">Γίνετε μέλος</string>
  <string name="download_filesize_unknown">Άγνωστο</string>
  <string name="notification_dld_msg">Διαχείριση εφαρμογών που έχουν ληφθεί</string>
+ <string name="path_no_available">"Αυτή η διαδρομή δεν είναι διαθέσιμη"</string>
 </resources>

@@ -67,7 +67,7 @@
 	<string name="HIPS_Perm_process_nfc">NFC</string>
 	<string name="HIPS_Perm_process_nfc_Desc">πρόσβαση στο υλικό (NFC)</string>
 	<string name="HIPS_Perm_process_outgoing_calls">Πρόσβαση στην εφαρμογή Τηλέφωνο</string>
-	<string name="HIPS_Perm_process_outgoing_calls_Desc">να παρακολουθεί και να τερματίζει τις κλήσεις</string>
+	<string name="HIPS_Perm_process_outgoing_calls_Desc">παρακολούθηση εισερχόμενων κλήσεων</string>
 	<string name="HIPS_Perm_read_notification_sms">Υπηρεσία SMS</string>
 	<string name="HIPS_Perm_read_notification_sms_Desc">να κάνει χρήση της υπηρεσίας SMS</string>
 	<string name="HIPS_Perm_service_foreground">Προσκήνιο υπηρεσίες</string>
@@ -104,7 +104,7 @@
 	<string name="permgroupdesc_contacts">Πρόσβαση στις επαφές</string>
 	<string name="permgroupdesc_location">Πρόσβαση σε πληροφορίες τοποθεσίας</string>
 	<string name="permgroupdesc_microphone">Εγγραφή ήχου</string>
-	<string name="permgroupdesc_phone">Πραγματοποίηση κλήσεων και διαχείριση συνομιλιών</string>
+	<string name="permgroupdesc_phone">Πραγματοποίηση κλήσεων και πρόσβαση στις πληροφορίες συσκευής</string>
 	<string name="permgroupdesc_recognition">Πρόσβαση στην Υγεία &amp; στα δεδομένα δραστηριότητας</string>
 	<string name="permgroupdesc_sensors">Πρόσβαση δεδομένων αισθητήρα σώματος</string>
 	<string name="permgroupdesc_sms">Ανάγνωση ή αποστολή SMS</string>

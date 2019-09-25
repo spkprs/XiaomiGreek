@@ -94,4 +94,13 @@
     <item>Αποποίηση ευθυνών</item>
     <item>Αποποίηση ευθυνών Email</item>
   </string-array>
+     <string-array name="signature_special_string_array">
+        <item>Αποποίηση:</item>
+        <item>Αποποίηση Email</item>
+        <item>Αποστολή μέσω WPSMail</item>
+        <item>Αποστολή από</item>
+        <item>Αποστολή με</item>
+        <item>Ευχαριστώ,</item>
+        <item>Με εκτίμηση</item>
+     </string-array>
 </resources>

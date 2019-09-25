@@ -6709,4 +6709,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="choose_lock_pattern_header_text">Ορισμός μοτίβου</string>
     <string name="confirm_lock_pattern_header_text">Σχεδιάστε το μοτίβο σας</string>
     <string name="aod_name_wanxiang">Οθόνη Περιβάλλοντος</string>
+    <string name="speaker_clean">Καθαρισμός Ηχείου</string> 
 </resources>
