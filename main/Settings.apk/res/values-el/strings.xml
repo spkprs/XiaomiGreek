@@ -2778,8 +2778,8 @@
      <string name="miui_lab_ai_cloud_closed">Η AI προφόρτωση δεν είναι ακόμα διαθέσιμη.</string>
      <string name="miui_lab_ai_preload_desc">Η AI προφόρτωση αυξάνει την ταχύτητα εκκίνησης της εφαρμογής</string>
      <string name="miui_lab_ai_preload_title">AI προφορτώνεται</string>
-     <string name="miui_lab_aiasst_call_screen_desc">Σύνδεση με συμβουλές</string>
-     <string name="miui_lab_aiasst_call_screen_title">Συμβουλές Κλήσης</string>
+     <string name="miui_lab_aiasst_call_screen_desc">Μετατροπή φωνής σε κείμενο για σιωπηλή απάντηση κλήσεων</string>
+     <string name="miui_lab_aiasst_call_screen_title">Βοηθός Κλήσεων AI</string>
      <string name="miui_lab_drive_mode_desc">Χρήση ελέγχου φωνής &amp; ακούστε τα μηνύματα WeChat</string>
      <string name="miui_lab_drive_mode_title">Λειτουργία αυτοκινήτου</string>
      <string name="miui_lab_feature_applied">Εφαρμόστηκε</string>
