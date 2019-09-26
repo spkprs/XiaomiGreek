@@ -282,7 +282,7 @@
      <string name="card_expand_note_toast_clear_null">Επιτυχής Καθαρισμός</string>
      <string name="card_expand_note_toast_save_done">Η σημείωση αποθηκεύτηκε</string>
      <string name="card_expand_note_toast_save_dup">Επιτυχής αποθήκευση</string>
-     <string name="card_hint_noteboard">Αγγίξτε εδώ να γράψετε μια σημείωση.</string>
+     <string name="card_hint_noteboard">Γράψτε μια σημείωση εδώ.</string>
      <string name="card_menu_edit">Επεξεργασία</string>
      <string name="card_menu_setting">Ρυθμίσεις</string>
      <string name="card_note_finish">Ολοκλήρωση</string>
@@ -359,7 +359,7 @@
      <string name="detail_action_open_in_browser">Άνοιγμα σε πρόγραμμα Περιήγησης</string>
      <string name="detail_action_report_format_problem">Η μορφή δεν είναι έγκυρη</string>
      <string name="detail_action_settings">Άνοιγμα ρυθμίσεων</string>
-     <string name="detail_action_share">Μοίρασε</string>
+     <string name="detail_action_share">Κοινή χρήση</string>
      <string name="detail_title">Αγαπημένα</string>
      <string name="dialog_cancel_like">Διαγράφηκε επιτυχώς το σήμα</string>
      <string name="dialog_delete_cancel">Ακύρωση</string>
@@ -646,7 +646,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="fav_category_video">Βίντεο</string>
      <string name="fav_detail_nodata">Δεν μπόρεσε να λάβει πληροφορίες</string>
      <string name="fav_download">Λήψη και εγκατάσταση αυτής της εφαρμογής;</string>
-     <string name="fav_init_guide_title">Σχετικά με τα αγαπημένα</string>
+     <string name="fav_init_guide_title">Σχετικά με Αγαπημένα</string>
      <string name="fav_label">Αγαπημένα</string>
      <string name="fav_more">Όλα τα Αγαπημένα</string>
      <string name="fav_network_error">Σφάλμα δικτύου</string>
@@ -886,6 +886,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="map_suggestion_positive">Προσθήκη</string>
      <string name="map_suggestion_title">Προτάσεις χάρτη</string>
      <string name="map_title">Πληροφορίες κυκλοφορίας</string>
+     <string name="location_permission_desc">Για τη δημιουργία διαδρομών πλοήγησης και την υπηρεσίας ζεύξης αυτοκινήτου</string>
      <string name="map_title_around">Nearby</string>
      <string name="map_title_baidu_middle">约有</string>
      <string name="map_title_blocked">有异常拥堵</string>
@@ -1635,14 +1636,14 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
       <string name="announce_for_drag">Σύρετε ένα στοιχείο</string>
   	  <string name="preference_privacy_settings">Ρυθμίσεις απορρήτου</string>
 	  <string name="send_express">Γρήγορη παράδοση</string>
-	  <string name="setting_cancel_sticky">Ξεκαρφίτσωμα</string>
+	  <string name="setting_cancel_sticky">Κάτω</string>
 	  <string name="setting_commute_brief">Προσαρμόστε την καθημερινή σας μετακίνηση στην τρέχουσα κίνηση</string>
 	  <string name="setting_commute_label">Μετακίνηση</string>
 	  <string name="setting_office_lable">Προσθήκη διεύθυνσης εργασίας</string>
-	  <string name="setting_sticky">Καρφίτσωμα στην κορυφή</string>
-	  <string name="setting_sticky_canceled">Ξεκαρφίτσωμα</string>
-	  <string name="setting_sticky_done">Καρφίτσωμα στην κορυφή</string>
-	  <string name="sport_headline">"Η σημερινή δραστηριότητα"</string>
+	  <string name="setting_sticky">Πάνω</string>
+	  <string name="setting_sticky_canceled">Κάτω</string>
+	  <string name="setting_sticky_done">Πάνω</string>
+	  <string name="sport_headline">"Η δραστηριότητά σας"</string>
 	  <string name="timeline_headline">Επερχόμενα</string>
 	  <string name="vertical_separator">|</string>
 </resources>

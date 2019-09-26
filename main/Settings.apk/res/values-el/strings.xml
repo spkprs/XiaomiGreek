@@ -6596,7 +6596,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="settings_new_version_btn">Ενημέρωση</string>
     <string name="status_bar_title">Γραμμή κατάστασης</string>
     <string name="unlock_mode_title">Οθόνη Κλειδώματος</string>
-    <string name="volume_launch_camera_summary">Διπλό πάτημα του κουμπιού [Έντασης - ] για εκκίνηση της Κάμερας σε κλειδωμένη οθόνη</string>
+    <string name="volume_launch_camera_summary">Διπλό πάτημα πλήκτρου [Έντασης - ] για εκκίνηση της Κάμερας σε κλειδωμένη οθόνη</string>
 	<string name="wakeup_and_sleep_settings_category_name">Ρυθμίσεις Οθόνης Κλειδώματος</string>
     <string name="gesture_wakeup_summary">Διπλό άγγιγμα για απενεργ/ση οθόνης όταν εφαρμοστεί το Προεπιλεγμένο ή το Κλασικό θέμα</string>
     <string name="notch_style_mod_description">Ρυθμίσεις εμφάνισης Εγκοπής και Γραμμής κατάστασης</string>
