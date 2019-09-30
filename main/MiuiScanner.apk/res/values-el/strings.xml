@@ -319,7 +319,7 @@
      <string name="business_card_with_qr_code">Τοποθετήστε την κάρτα ή τον κωδικό QR μέσα στο πλαίσιο</string>
      <string name="wifi_psd_toolong">Ο κωδικός είναι πολύ μεγάλος. Πληκτρολογήστε τον κωδικό χειροκίνητα.</string>
      <string name="wx_not_installed_toast">Αυτή η λειτουργία χρησιμοποιεί το WeChat. Εγκαταστήστε πρώτα το WeChat.</string>
-	<string name="agree_app_use">Σάρωση κωδικών QR και αναγνώριση τους σε άλλες εικόνες</string>
+	<string name="agree_app_use">Σάρωση κωδικών QR και αναγνώριση τους από άλλες εφαρμογές</string>
 	<string name="agree_camera_permission">Για τη λήψη φωτογραφιών και εγγραφή βίντεο</string>
 	<string name="agree_storage_permission">Για την πρόσβαση σε φωτογραφίες και αρχεία αποθηκευμένα στη συσκευή σας</string>
 	<string name="always">Πάντα</string>

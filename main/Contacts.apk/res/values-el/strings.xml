@@ -6,7 +6,7 @@
      <string name="account_container_title">Εισήχθη από</string>
      <string name="account_dual_sim">Κάρτα SIM %s</string>
      <string name="account_default">Τηλέφωνο</string>
-     <string name="account_phone">Μόνο στο τηλέφωνο, χωρίς συγχρονισμό</string>
+     <string name="account_phone">Τοπικά, χωρίς συγχρ/σμό</string>
      <string name="account_sdn">SDN</string>
      <string name="account_sdn2">SDN %d</string>
      <string name="account_sim">Κάρτα SIM</string>
@@ -20,8 +20,8 @@
      <string name="addPeopleToGroup">Για προσθήκη περισσοτέρων, επεξεργαστείτε την ομάδα</string>
      <string name="add_2sec_pause">Προσθήκη παύσης 2 δευτ.</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
-     <string name="add_blacklist">Φραγή</string>
-     <string name="add_blacklist_dialog_message">Φραγή αυτού του αριθμού;</string>
+     <string name="add_blacklist">Αποκλεισμός</string>
+     <string name="add_blacklist_dialog_message">Αποκλεισμός αυτού του αριθμού?</string>
      <string name="add_blacklist_dialog_title">Προσθήκη στη λίστα αποκλεισμών?</string>
      <string name="add_connection_button">Προσθήκη σύνδεσης</string>
      <string name="add_contact_dlg_message_fmt">Προσθήκη \"%s\" στις επαφές;</string>
@@ -123,9 +123,9 @@
      <string name="callrecordview_menu_batch_delete">Ομαδική διαγραφή</string>
      <string name="callrecordview_menu_blocklist">Λίστα αποκλεισμών</string>
      <string name="callrecordview_menu_conference">Κλήση συνδιάσκεψης</string>
-     <string name="callrecordview_menu_delete">Εκκαθάριση ιστορικού</string>
+     <string name="callrecordview_menu_delete">Εκκαθ. ιστορικού</string>
      <string name="callrecordview_menu_delete_accepted">Εκκαθάριση απαντημένων</string>
-     <string name="callrecordview_menu_delete_all">Εκκαθάριση ιστορικού</string>
+     <string name="callrecordview_menu_delete_all">Εκκαθ. ιστορικού</string>
      <string name="callrecordview_menu_delete_called">Εκκαθάριση εξερχόμενων κλήσεων</string>
      <string name="callrecordview_menu_delete_confirm">%s?</string>
      <string name="callrecordview_menu_delete_missed">Εκκαθάριση αναπάντητων κλήσεων</string>
@@ -142,10 +142,10 @@
      <string name="callrecordview_menu_recharge">Φόρτωση</string>
      <string name="callrecordview_menu_settings">Ρυθμίσεις</string>
      <string name="callrecordview_menu_show">Φίλτρο</string>
-     <string name="callrecordview_menu_show_accepted">Απαντημένες κλήσεις</string>
+     <string name="callrecordview_menu_show_accepted">Απαντημένες</string>
      <string name="callrecordview_menu_show_all">Όλες οι κλήσεις</string>
-     <string name="callrecordview_menu_show_called">Εξερχόμενες κλήσεις</string>
-     <string name="callrecordview_menu_show_missed">Αναπάντητες κλήσεις</string>
+     <string name="callrecordview_menu_show_called">Εξερχόμενες</string>
+     <string name="callrecordview_menu_show_missed">Αναπάντητες</string>
      <string name="callrecordview_menu_show_new">Νέες επαφές</string>
      <string name="callrecordview_menu_show_sim">%s κλήσεις</string>
      <string name="callrecordview_menu_show_stranger">Άγνωστοι αριθμοί</string>
@@ -300,7 +300,7 @@
      <string name="deleteConfirmation_title">Διαγραφή της επαφής?</string>
      <string name="delete_call_log_message">Διαγραφή ιστορικού κλήσεων;</string>
      <string name="delete_call_log_selected_title">Διαγραφή επιλεγμένου αρχείου ιστορικού κλήσεων;</string>
-     <string name="delete_call_log_title">Καθαρισμός ιστορικού κλήσεων</string>
+     <string name="delete_call_log_title">Διαγραφή ιστορικού κλήσεων</string>
      <string name="delete_contact_calllog_title">Διαγραφή ιστορικού κλήσεων;</string>
      <string name="delete_dial_input">Διαγραφή</string>
      <string name="delete_duplicate">Συγχώνευση</string>
@@ -629,7 +629,7 @@
      <string name="menu_contacts_filter">Επαφές που θα εμφανίζονται</string>
      <string name="menu_copy">Αντιγραφή</string>
      <string name="menu_copyContact">Αντιγραφή στις Επαφές μου</string>
-     <string name="menu_create_contact_shortcut">Συντόμευση στην Αρχική οθόνη</string>
+     <string name="menu_create_contact_shortcut">Συντόμ σε Αρχική οθόνη</string>
      <string name="menu_deleteContact">Διαγραφή</string>
      <string name="menu_deleteGroup">Διαγραφή</string>
      <string name="menu_dial_ip_number">Κλήση IP κλήσης</string>
@@ -650,8 +650,8 @@
      <string name="menu_new_contact_action_bar">Νέο</string>
      <string name="menu_new_favorite_action_bar">Νέα</string>
      <string name="menu_new_group_action_bar">Νέο</string>
-     <string name="menu_not_redirect_calls_to_vm">Ανενεργός Αυτόμ. τηλεφωνητής</string>
-     <string name="menu_redirect_calls_to_vm">Ενενεργός Αυτόμ. τηλεφωνητής</string>
+     <string name="menu_not_redirect_calls_to_vm">Ανενεργός Αυτ τηλ/τής</string>
+     <string name="menu_redirect_calls_to_vm">Ενεργός Αυτ τηλ/τής</string>
      <string name="menu_removeStar">Αφαίρεση/Αγαπημένα</string>
      <string name="menu_search">Αναζήτηση</string>
      <string name="menu_select_all">Επιλογή όλων</string>
@@ -743,8 +743,8 @@
      <string name="name_phonetic_family">Φωνητικό επώνυμο</string>
      <string name="name_phonetic_given">Φωνητικό όνομα</string>
      <string name="name_phonetic_middle">Φωνητικό μεσαίο όνομα</string>
-     <string name="name_prefix">Πρόθεμα ονόματος</string>
-     <string name="name_suffix">Κατάληξη ονόματος</string>
+     <string name="name_prefix">Πρόθεμα</string>
+     <string name="name_suffix">Κατάληξη</string>
      <string name="next">Επόμενο</string>
      <string name="next_birthday">Επόμενα γενέθλια: %s</string>
      <string name="nfc_vcard_file_name">Λήψη επαφής μέσω NFC</string>

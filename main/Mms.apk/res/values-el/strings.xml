@@ -488,7 +488,7 @@
      <string name="pref_summary_notification_body_enabled">Εμφάνιση μηνυμάτων στην οθόνη κλειδώματος και τη γραμμή κατάστασης</string>
      <string name="pref_summary_off_system_mms_priority">Χρησιμοποιήστε εφαρμογές τρίτων για αποστολή και λήψη MMS</string>
      <string name="pref_summary_on_system_mms_priority">Ορίστε την εφαρμογή μηνυμάτων MIUI ως προεπιλεγμένη για αποστολή και λήψη MMS</string>
-     <string name="pref_title_msg_blocked">Μπλοκαρισμένα</string>
+     <string name="pref_title_msg_blocked">Αποκλεισμένα</string>
     <string name="pref_title_privacy_authority">Εξουσιοδότηση</string>
     <string name="pref_title_privacy_policy_detail">Πολιτική Απορρήτου</string>
      <string name="pref_summary_privacy_authority">Εναλλαγή αυτού του διακόπτη για τη χορήγηση ή την ανάκληση της εξουσιοδότησής σας</string>

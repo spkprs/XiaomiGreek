@@ -26,7 +26,7 @@
      <string name="antispam_network_remind_summary">Λήψη ενημερώσεων με χρήση δεδομένων κινητής?</string>
      <string name="antispam_network_remind_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="antispam_pull_newest">Ενημερώθηκε σε έκδοση %d επιτυχώς</string>
-     <string name="app_label">Κατάλογος</string>
+     <string name="app_label">Τηλ. Κατάλογος</string>
      <string name="app_recommendation_install">Εγκατάσταση</string>
      <string name="average_price">Μέσος όρος %d RMB</string>
      <string name="back">Επιστροφή</string>
@@ -300,4 +300,14 @@
      <string name="yellowpage_navigation_network_location_not_enabled_title">Πρόσβαση στην τοποθεσία</string>
      <string name="antispam_update_low_storage">"Δεν ήταν δυνατή η ενημέρωση. Δεν υπάρχει αρκετός χώρος αποθήκευσης."</string>
      <string name="antispam_update_version">Ενημέρωση τώρα</string>
+    <string name="user_notice_main_purpose_yellowpage">Για την αναγνώριση τηλεφωνικών αριθμών</string>
+    <string name="user_notice_permission_desc_location">Για σύσταση τοπικών υπηρεσιών παρόχων από τις Κίτρινες Σελίδες</string>
+    <string name="user_notice_permission_desc_read_call_log">Για προβολή ιστορικού κλήσεων στις λεπτομέρειες επαφής ή στις Κίτρινες Σελίδες</string>
+    <string name="user_notice_permission_desc_read_phone_state">Για πρόσβαση σε IMEI και IMSI</string>
+    <string name="user_notice_permission_desc_read_sms">Για ανώνυμη επισήμανση μηνυμάτων για την βελτίωση αποτελεσματικότητας αναγνώρισης</string>
+    <string name="user_notice_permission_desc_send_sms">Για αποστολή SMS σε επαφές στις Κίτρινες Σέλίδες</string>
+    <string name="user_notice_permission_desc_storage_heduohao">Για αποστολή φωτογραφιών ID σε υπηρεσίες CMCC</string>
+    <string name="user_notice_permission_desc_storage_yellowpage">Για ενημέρωση τοπικών βάσεων δεδομένων αναγνώρισης κλήσης</string>
+    <string name="user_notice_permission_desc_write_call_log">Για ενημέρωση βάσης δεδομένων αναγνώρισης κλήσης</string>
+    <string name="user_notice_permission_desc_write_contacts">Για προσθήκη επαφών από τις Κίτρινες Σελίδες</string>
 </resources>

@@ -2132,7 +2132,7 @@
      <string name="st_antispam_title_null_incoming">Απόρρητοι αριθμοί</string>
      <string name="st_antispam_title_service_sms">Ειδοποιήσεις παρόχου</string>
      <string name="st_antispam_title_whitelist">Εξαιρέσεις</string>
-     <string name="st_call_backsound_group">Λίστα ήχου αποκλεισμού</string>
+     <string name="st_call_backsound_group">Ήχος λίστας αποκλεισμού</string>
      <string name="st_call_intercept_contacts">Αποκλεισμός κλήσεων από επαφές</string>
      <string name="st_call_intercept_forwarding">Αποκλεισμός προωθημένων κλήσεων</string>
      <string name="st_call_intercept_oversea">Αποκλεισμός κλήσεων από το εξωτερικό</string>
@@ -2202,7 +2202,7 @@
      <string name="st_title_man_head_addwhitelist">Προσθήκη προθέματος στις εξαιρέσεις</string>
      <string name="st_title_markednumber_group">Αναφορά αριθμού για αποκλεισμό</string>
      <string name="st_title_mode_choose_group">Επιλέξτε προφίλ</string>
-     <string name="st_title_not_sim">Κενό</string>
+     <string name="st_title_not_sim">Χωρίς</string>
      <string name="st_title_open_antispam">Λίστα αποκλεισμών</string>
      <string name="st_title_other_group">Άλλα</string>
      <string name="st_title_settings_other_group">Επιπλέον ρυθμίσεις</string>
@@ -2824,7 +2824,7 @@
 	<string name="system_permission_declare_revoke_uninstallable">Μπορείτε να αποσυνδεθείτε, να απεγκαταστήσετε αυτήν την εφαρμογή ή να ανακαλέσετε την εξουσιοδότησή σας στην Ασφάλεια &gt; Διαχείρηση Εφαρμογών &gt; Δικαιώματα &gt; Δικαιώματα.</string>
     <string name="system_tool_green_guard">Οικογενειακή Προστασία</string>
     <string name="system_tool_sos">Έκτακτη ανάγκη SOS</string>
-	<string name="system_permission_declare_revoke_system">Μπορείτε να βγείτε από αυτήν την Εφαρμογή.</string>
+	<string name="system_permission_declare_revoke_system">Μπορείτε να εξέλθετε από την Εφαρμογή.</string>
 	<string name="system_permission_declare_user_agreement"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
     <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</Data></string>
     <string name="system_permission_declare_disagree">Διαφωνώ</string>
