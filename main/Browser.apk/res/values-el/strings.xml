@@ -1391,4 +1391,8 @@
 	<string name="for_diagnosis_usage_only">Χρησιμοποιήστε αυτές τις πληροφορίες μόνο για διάγνωση.</string>
 	<string name="multi_window_max_tips">Ο αριθμός των παραθύρων έφτασε στο ανώτερο όριο</string>
 	<string name="mw_add_to_dictionary">Προσθήκη στο λεξικό</string>
+  <string name="system_permission_accounts_purpose">Χρησιμοποιείται για σύνδεση και διαχείριση λογαριασμού συστήματος</string>
+  <string name="system_permission_main_purpose">Περιήγηση ιστού, αναζήτηση πληροφοριών, ανάγνωση ειδήσεων, παρακολούθηση βίντεο, κλπ.</string>
+  <string name="system_permission_phone_state_purpose">Χρησιμοποιείται για την απόκτηση του αναγνωριστικού IMEI της συσκευής για την παροχή της αντίστοιχης υπηρεσίας</string>
+  <string name="system_permission_storage_purpose">Χρησιμοποιείται για την ανάγνωση και εγγραφή αρχείων όπως αποθηκευμένες εικόνες και για την ενεργοποίηση λειτουργιών αποστολής/λήψης αρχείων</string>
 </resources>

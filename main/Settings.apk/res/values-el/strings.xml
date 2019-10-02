@@ -6710,4 +6710,17 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="confirm_lock_pattern_header_text">Σχεδιάστε το μοτίβο σας</string>
     <string name="aod_name_wanxiang">Οθόνη Περιβάλλοντος</string>
     <string name="speaker_clean">Καθαρισμός Ηχείου</string> 
+    <string name="timer">Χρονόμετρο ασύρματου δικτύου</string>
+    <string name="timer_setting">Χρονόμετρο σύνδεσης</string>
+    <string name="smarttimer">Χρονόμετρο σύνδεσης</string>
+    <string name="smartscreen">Σε κατάσταση αδράνειας</string>
+    <string name="smartscreen_on">Το χρονόμετρο είναι ενεργό μόνο όταν η οθόνη είναι ανενεργή</string>
+    <string name="smartscreen_off">Το χρονόμετρο είναι πάντα ενεργό</string>
+    <string name="smartpower">Χωρίς σύνδεση</string>
+    <string name="smartpower_off">Το χρονόμετρο είναι ενεργό μόνο όταν το τηλέφωνο λειτουργεί με μπαταρία ή φορτίζει</string>
+    <string name="smartpower_on">Το χρονόμετρο είναι ενεργό μόνο όταν το τηλέφωνο λειτουργεί με μπαταρία</string>
+    <string name="smartreturn">Ενεργοποίηση κατά την αφύπνιση</string>
+    <string name="smartreturn_on">Αν οι συνδέσεις διακόπηκαν από ένα χρονόμετρο. Επαναφέρονται όταν αλλάζει η οθόνη.</string>
+    <string name="smartreturn_off">Αδύνατη η επαναφορά των συνδέσεων</string>
+    <string name="show_only_app_icons_title">Απόκρυψη κάθετου ρολογιού</string>
 </resources>

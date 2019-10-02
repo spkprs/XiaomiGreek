@@ -156,7 +156,6 @@
      <string name="provision_error_connect_title">Δεν μπορείτε να συνδεθείτε</string>
      <string name="query_restore_description">Επαναφέρετε τις εφαρμογές και τις ρυθμίσεις της αρχικής οθόνης χρησιμοποιώντας αυτό το αντίγραφο. Αυτό θα αντικαταστήσει τα δεδομένα για διπλές εφαρμογές που έχουν ήδη εγκατασταθεί σε αυτήν τη συσκευή. Οι εφαρμογές που δεν περιλαμβάνονται στο αντίγραφο ασφαλείας θα μετακινηθούν στην τελευταία Αρχική οθόνη.</string>
      <string name="query_restore_summary">Βρέθηκε ένα αντίγραφο ασφαλείας Xiaomi Cloud για αυτή τη συσκευή. Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων ή θα την χρησιμοποιήσετε ως μια νέα συσκευή και θα διαγράψετε τα προηγούμενα αντίγραφα ασφαλείας Xiaomi Cloud;</string>
-     <string name="recover_from_micloud">"Επαναφορά από αντίγραφο  Xiaomi Cloud"</string>
      <string name="recover_home_settings">Επαναφορά ρυθμίσεων Αρχικής οθόνης</string>
      <string name="recover_miui_settings">Επαναφορά ρυθμίσεων συστήματος</string>
      <string name="recover_settings_description">Κρατήστε τη συσκευή σας σε λειτουργία</string>
