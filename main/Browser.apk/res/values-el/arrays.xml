@@ -93,4 +93,8 @@
         <item>Σελιδοδείκτης</item>
         <item>Ιστορικό</item>
     </string-array>
+     <string-array name="suggestion_topic_tips">
+        <item>Παρακολούθηση Εστίαση</item>
+        <item>Κεντρικό θέμα</item>
+     </string-array>
 </resources>
