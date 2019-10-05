@@ -545,4 +545,9 @@
         <item>5</item>
         <item>10</item>
      </string-array>
+     <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Προχωρημένη Κλήση</item>
+        <item>4G Κλήση</item>
+     </string-array>
 </resources>
