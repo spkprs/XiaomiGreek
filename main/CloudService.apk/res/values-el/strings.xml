@@ -259,7 +259,7 @@
      <string name="micloud_privacy_cloud_off">Συγχρονισμός Ανενεργός</string>
      <string name="micloud_privacy_cloud_sync">Ενεργοποιήστε τις υπηρεσίες Xiaomi Cloud</string>
      <string name="micloud_privacy_explanation">Χορήγηση άδειας για την ενεργοποίηση των υπηρεσιών Xiaomi Cloud</string>
-     <string name="micloud_privacy_licence_agreed">Συμφωνείτε με του Xiaomi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license><u>&lt;u><u> Πολιτική Απορρήτου&lt;/u><u>&lt;/a><u>.</string>
+     <string name="micloud_privacy_licence_agreed">Συμφωνείτε με του Xiaomi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u> Πολιτική Απορρήτου &lt;/u>&lt;/a>.</string>
      <string name="micloud_privacy_licence_privacy_policy">Πολιτική Απορρήτου</string>
      <string name="micloud_privacy_progress_content">Χορήγηση εξουσιοδότησης…</string>
      <string name="micloud_privacy_warning_button">Πίσω</string>
