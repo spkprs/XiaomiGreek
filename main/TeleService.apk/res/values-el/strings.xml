@@ -1699,4 +1699,14 @@
     <string name="wifi_call_help">Βοήθεια</string>
     <string name="wifi_call_help_title">Βοήθεια κλήσης Wi-Fi</string>
     <string name="wifi_call_help_message">Εάν επιλέξετε να προτιμάτε δίκτυα κινητής τηλεφωνίας, αυτά θα χρησιμοποιούνται για κλήσεις από προεπιλογή. Σε περίπτωση που δεν υπάρχει σήμα δικτύου κινητής τηλεφωνίας ή είναι πολύ ασθενές, θα χρησιμοποιηθεί αντί αυτού, το δίκτυο Wi-Fi.</string>
+    <string name="call_backlight_mode">Φωτισμός οθόνης στην Κλήση</string>
+    <string name="call_backlight_title">Μέγιστη φωτεινότητα</string>
+    <string name="call_backlight_night_title">Νυχτερινή λειτουργία</string>
+    <string name="call_backlight_night_summary">Χωρίς αλλαγή της στάθμης φωτισμού στο καθορισμένο χρονικό διάστημα</string>
+    <string name="call_backlight_night_start">Έναρξη</string>
+    <string name="night_start_summary">Ώρα: %s:00 ωρ.</string>
+    <string name="call_backlight_night_start_summary">Έναρξη νυχτερινής λειτουργίας (σε ώρες)</string>
+    <string name="call_backlight_night_end">Λήξη</string>
+    <string name="night_end_summary">Ώρα: %s:00 ωρ.</string>
+    <string name="call_backlight_night_end_summary">Η ολοκλήρωση της νυχτερινής υπηρεσίας (σε ώρες)</string>
 </resources>
