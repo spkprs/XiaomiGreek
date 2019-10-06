@@ -65,6 +65,8 @@
      <string name="btn_text_quick_cleanup_video">Διαγραφή επιλεγμένων βίντεο %1$s</string>
      <string name="btn_text_quick_scan">Σάρωση</string>
      <string name="btn_text_stop">Διακοπή</string>
+     <string name="button_agree">Αποδοχή</string>
+     <string name="button_deny">"Απόρριψη"</string>
      <string name="button_optimizer">OK</string>
      <string name="button_text_add_to_white_list">Εξαίρεση</string>
      <string name="button_text_backup_uninstall">Δημιουργήστε αντίγραφα πρώτα</string>

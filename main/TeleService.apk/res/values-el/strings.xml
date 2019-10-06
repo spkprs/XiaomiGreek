@@ -853,7 +853,7 @@
   <string name="network_settings_auto_select_title">Χωρίς αυτόματη επιλογή δικτύου</string>
   <string name="network_settings_automatically_option">Αυτόματη επιλογή προτιμώμενου παρόχου (%s)</string>
   <string name="network_settings_confirm_message">Δίκτυο ίσως μη διαθέσιμο.</string>
-  <string name="network_settings_data_connected_change">Αδύνατη η αλλαγή δικτύου κατά τη χρήση δεδομένων. Σταμάτημα χρήσης δεδομένων και αλλαγή παρόχου;</string>
+  <string name="network_settings_data_connected_change">Αδύνατη η αλλαγή δικτύου κατά τη χρήση δεδομένων. Απενεργοποίηση χρήσης δεδομένων και αλλαγή παρόχου;</string>
   <string name="network_settings_duringcall">Η λειτουργία δεν επιτρέπεται κατά τη διάρκεια κλήσης</string>
   <string name="network_settings_forbidden">%s (απαγορευμένο)</string>
   <string name="network_settings_information">Απενεργοποίηση δεδομένων κινητής τηλεφωνίας;</string>
@@ -1221,7 +1221,7 @@
   <string name="regional_enable">Περιφερειακές ειδήσεις ενεργοποιημένες</string>
   <string name="register_automatically">Αυτόματη καταχώριση…</string>
   <string name="register_on_network">Εγγραφή σε %s…</string>
-  <string name="registration_done">Δηλωμένος στο δίκτυο.</string>
+  <string name="registration_done">Δηλωμένο στο δίκτυο.</string>
   <string name="registration_status_checking_status">Έλεγχος κατάστασης…</string>
   <string name="registration_status_done">Λήψη κλήσεων.</string>
   <string name="registration_status_failed_try_later">Αποτυχία εγγραφής λογαριασμού: (%s); Προσπαθήστε αργότερα</string>
