@@ -1269,5 +1269,27 @@
     <string name="contact_detail_more_calllog">Περισσότερα</string>
      <string name="yellowpage_address_tag">Διεύθυνση</string>
      <string name="yellowpage_provider_label">Παρέχεται από</string>
+     <string name="nine">9</string>
+     <string name="nine_letter">ΧΨΩ</string>
+     <string name="one">1</string>
+     <string name="pound">\#</string>
+     <string name="seven">7</string>
+     <string name="seven_letter">ΠΡΣ</string>
+     <string name="six">6</string>
+     <string name="six_letter">ΝΞΟ</string>
+     <string name="star">*</string>
+     <string name="star_letter">,</string>
+     <string name="three">3</string>
+     <string name="three_letter">ΔΕΖ</string>
+     <string name="two">2</string>
+     <string name="two_letter">ΑΒΓ</string>
+     <string name="zero">0</string>
+     <string name="zero_letter">+</string>
+     <string name="eight">8</string>
+     <string name="eight_letter">ΤΥΦ</string>
+     <string name="five">5</string>
+     <string name="five_letter">ΚΛΜ</string>
+     <string name="four">4</string>
+     <string name="four_letter">ΗΘΙ</string>
 </resources>
 

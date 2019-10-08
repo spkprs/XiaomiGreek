@@ -2772,8 +2772,8 @@
     <string name="pc_main_power_manager_hour_minute">%1$s Ωρ %2$s Λεπ έως την πλήρη φόρτιση</string>
     <string name="sms_delete_all_hint">Διαγραφή όλων των αποκλεισμένων μηνυμάτων?</string>
     <string name="delete_all_sms">Διαγραφή όλων</string>
-    <string name="power_ambient_display">Οθόνη Περιβάλλοντος</string>
-    <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την Οθόνη Περιβάλλοντος</string>
+    <string name="power_ambient_display">Πάντα Ενεργή οθόνη</string>
+    <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την \"Πάντα Ενεργή\"</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Καλώς ήλθατε στον %1s! Επιτρέπετε να χρησιμοποιήσει τις παρακάτω λειτουργίες: %2s</string>
     <string name="system_permission_declare_privacy_declare">"Σεβόμαστε και προστατεύουμε το απόρρητό σας. Έχετε υπόψη ότι την
@@ -2793,7 +2793,7 @@
     <string name="superpower_notification_hint_enter">Ενεργό</string>
     <string name="superpower_savemode_limit1">Σκοτεινό θέμα</string>
     <string name="superpower_savemode_limit2">Περιορισμός δραστηριότητας παρασκηνίου</string>
-    <string name="superpower_savemode_limit3">Περιορισμός δραστηριότητας που καταναλώνει ενέργεια (συγχρονισμός, GPS, δόνηση, οθόνη περιβάλλοντος κ.λπ.)</string>
+    <string name="superpower_savemode_limit3">Περιορισμός δραστηριότητας που καταναλώνει ενέργεια (συγχρονισμός, GPS, δόνηση, Πάντα Ενεργή οθόνη κ.λπ.)</string>
     <string name="superpower_savemode_limit4">Επιτρέψτε στις επιλεγμένες εφαρμογές την κανονική λειτουργία</string>
     <string name="superpower_settins_switch_summary">Περιορίζει τις πιο απαιτητικές λειτουργίες ώστε να παραμείνουν διαθέσιμες περισσότερες βασικές λειτουργίες (π.χ. κλήσεις, SMS και επιλεγμένες εφαρμογές)</string>
     <string name="superpower_settins_autoleave_title">Αυτόματη απενεργοποίηση</string>
@@ -2960,4 +2960,10 @@
 	<string name="permgroupdesc_phone">Πραγματοποίηση κλήσεων και διαχείριση συνομιλιών</string>
 	<string name="permgroupdesc_sensors">Πρόσβαση δεδομένων αισθητήρα σώματος</string>
 	<string name="permgroupdesc_recognition">Πρόσβαση στα δεδομένα Υγείας και δραστηριότητας</string>
+	<string name="power_center_5g_save_close_detail">Η 5G εξοικονόμηση αυξάνει τη διάρκεια ζωής της μπαταρίας χωρίς να επηρεάζεται η συνδεσιμότητα 5 G. Κλείσιμο οπωσδήποτε;</string>
+	<string name="power_center_5g_save_close_later">"Χωρίς απενεργοποίηση"</string>
+	<string name="power_center_5g_save_close_title">Απενεργοποίηση εξοικονόμησης μπαταρίας 5G</string>
+	<string name="power_center_5g_save_summary_text">Μειώστε την κατανάλωση ενέργειας στη συνδεσιμότητα 5G σε ορισμένα σενάρια</string>
+	<string name="power_center_5g_save_title_text">5G εξοικονόμηση μπαταρίας</string>
+	<string name="process_vpnsdkmanager_label">Game Turbo</string>
 </resources>

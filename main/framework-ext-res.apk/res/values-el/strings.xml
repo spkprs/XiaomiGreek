@@ -58,6 +58,7 @@
 	<string name="fp_nav_center_action_choose_dlg_negative_btn_text">Όχι ευχαριστώ</string>
 	<string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ενεργοποιήστε</string>
 	<string name="fp_nav_center_action_choose_dlg_title">Προσαρμογή πλήκτρου Home</string>
+    <string name="frequent_email">Συχνά email</string>
 	<string name="frequent_phrases">Συχνές φράσεις</string>
 	<string name="global_actions_airplane_mode">Λειτουργία πτήσης</string>
 	<string name="global_actions_reboot">Επανεκκίνηση</string>

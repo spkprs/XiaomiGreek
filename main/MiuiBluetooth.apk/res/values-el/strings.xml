@@ -26,6 +26,7 @@
      <string name="fast_connect_device_connect_retry">Επανάληψη</string>
      <string name="fast_connect_device_connect_setup">Ρυθμίσεις</string>
      <string name="fast_connect_device_connect_success">Ολοκληρώθηκε</string>
+     <string name="fast_connect_device_headset">Μπαταρία</string>
      <string name="fast_connect_device_headset_l">Αριστερό</string>
      <string name="fast_connect_device_headset_r">Δεξιό</string>
      <string name="fast_connect_device_headset_reset">Παρατετ. πάτημα κουμπιού στο box</string>

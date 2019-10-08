@@ -1525,12 +1525,12 @@
      <string-array name="screen_optimize_summary">
         <item>Προσαρμογή χρωμάτων βάσει τρέχοντος φωτισμού</item>
         <item>Πάντα έντονα χρώματα</item>
-        <item>Η αντίθεση θα παραμείνει σταθερή</item>
+        <item>Επαναφορά του αρχικού χρώματος με βαθμονόμηση</item>
      </string-array>
      <string-array name="screen_optimize_title">
         <item>Αυτόματη (προτείνεται)</item>
         <item>Αυξημένα</item>
-        <item>Τυπικά</item>
+        <item>Αρχικό χρώμα</item>
      </string-array>
      <string-array name="screen_saturation_title">
         <item>Έντονο</item>

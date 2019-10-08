@@ -136,4 +136,8 @@
         <item quantity="other">" λεπτά"</item>
         <item quantity="one">" λεπτό"</item>
     </plurals>
+     <plurals name="repeat_custom_prompt">
+        <item quantity="other">κάθε %1$s την %2$s</item>
+        <item quantity="one">κάθε %1$s την %2$s</item>
+     </plurals>
 </resources>

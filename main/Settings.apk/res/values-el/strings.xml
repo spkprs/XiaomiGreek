@@ -5722,7 +5722,6 @@
      <string name="wifi_security">Ασφάλεια</string>
      <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
      <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-     <string name="wifi_security_eap">802.1x EAP</string>
      <string name="wifi_security_none">Χωρίς</string>
      <string name="wifi_security_passpoint">Σημείο ελέγχου</string>
      <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -6438,7 +6437,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="choose_unlock_fingerprint_msg">Ορισμός κλειδώματος οθόνης πριν από την προσθήκη Δακτ. αποτυπώματος.</string>
 	<string name="miui_lab_gesture_title">Χειρονομίες πλήρους οθόνης</string>
 	<string name="miui_lab_gesture_desc">Χρήση Χειρονομιών αντί Πλήκτρων πλοήγησης</string>
-	<string name="search_ambient_display_screen_title">Οθόνη περιβάλλοντος</string>
+	<string name="search_ambient_display_screen_title">Οθόνη Περιβάλλοντος;Πάντα Ενεργή οθόνη;Πάντα Ενεργή οθόνη</string>
 	<string name="search_doze_always_on_title">Πάντα Ενεργή</string>
 	<string name="usage_state_date">d MMM</string>
     <string name="popup_title">Εφέ εμπρός Κάμερας</string>

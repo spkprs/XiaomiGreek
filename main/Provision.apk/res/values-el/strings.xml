@@ -6,7 +6,7 @@
      <string name="agree_terms">Έχω διαβάσει και συμφωνώ με την Συμφωνία Χρήστη και την Πολιτική Απορρήτου.</string>
      <string name="agree_terms_input_method_facemoji">"Έχω διαβάσει και συμφωνώ με την Πολιτική Απορρήτου Facemoji."</string>
      <string name="agree_terms_input_method_kika">"Έχω διαβάσει και συμφωνώ με την πολιτική προστασίας προσωπικών δεδομένων της Kika."</string>
-     <string name="ai_button_desc">Χρησιμοποιήστε αυτό το κουμπί για ενεργοποίηση το Mi AI για ολοκλήρωση εργασιών στο τηλέφωνό σας χρησιμοποιώντας τη φωνή σας</string>
+     <string name="ai_button_desc">Το κουμπί AI σάς επιτρέπει να ενεργοποιήσετε το Mi AI και να χρησιμοποιήσετε συντομεύσεις Mi AI.</string>
      <string name="ai_button_double_press">Διπλό πάτημα</string>
      <string name="ai_button_double_press_desc">Ρυθμίσεις χαρακτηριστικών του Mi AI</string>
      <string name="ai_button_long_press">Πατήστε και κρατήστε</string>

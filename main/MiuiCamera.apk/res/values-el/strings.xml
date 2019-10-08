@@ -378,12 +378,9 @@
     <string name="module_name_video">Βίντεο</string>
 	<string name="multi_window_mode_not_supported">Η Κάμερα δεν λειτουργεί σε Διαχωρισμό οθόνης</string>
     <string name="network_access_user_notice_agree">Συμφωνώ</string>
-    <string name="network_access_user_notice_message_live_video">"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει εφέ, μουσική και άλλα χαρακτηριστικά για σύντομα βίντεο.
-
-Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Συμφωνία Χρήστη</a> και <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Πολιτική Απορρήτου</a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</string>
-    <string name="network_access_user_notice_message_voice_caption">"Η Κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει λειτουργικότητα εξόδου από ομιλία σε κείμενο.
-
-Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Συμφωνία Χρήστη</a> και <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Πολιτική Απορρήτου</a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει εφέ, μουσική και άλλα χαρακτηριστικά για σύντομα βίντεο.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt; Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &amp;lt;a href =%1$s&amp;gt; Συμφωνία Χρήστη &amp;lt;/a&amp;gt;  και &amp;lt;a href =%2$s&amp;gt; Πολιτική Απορρήτου&amp;lt;/a&amp;gt;, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει αυτοκόλλητα για αυτό το χαρακτηριστικό.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt; Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &amp;lt;a href =%1$s&amp;gt; Συμφωνία Χρήστη &amp;lt;/a&amp;gt;  και &amp;lt;a href =%2$s&amp;gt; Πολιτική Απορρήτου&amp;lt;/a&amp;gt;, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Η Κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει λειτουργικότητα εξόδου από ομιλία σε κείμενο. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt; Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &amp;lt;a href =%1$s&amp;gt; Συμφωνία Χρήστη &amp;lt;/a&amp;gt; και &amp;lt;a href =%2$s&amp;gt; Πολιτική Απορρήτου&amp;lt;/a&amp;gt;, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Σύνδεση στο Internet</string>
     <string name="network_exception">Εξαίρεση δικτύου</string>
     <string name="no_storage">Εισαγωγή κάρτας SD πριν από τη χρήση κάμερας</string>
@@ -664,7 +661,6 @@
     <string name="pref_camera_zoom_mode_entry_high_pixel">ΧΑΜΗΛΟΥ ΦΩΤΙΣΜΟΥ</string>
     <string name="pref_camera_zoom_mode_entry_standard">ΚΑΝΟΝΙΚΟ</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ΥΠΕΡ ΕΥΡΕΙΑ</string>
     <string name="pref_camera_zoom_mode_entry_wide">Ευρεία</string>
 	<string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
@@ -826,7 +822,7 @@
     <string name="ultra_wide_open_tip">Λειτουργία Υπέρ Ευρείας Γωνίας</string>
     <string name="ultra_wide_open_tip_sat">0.6X Υπέρ ευρεία γωνία</string>
     <string name="ultra_wide_recommend_tip_hint">Δοκιμάστε την Υπέρ ευρεία γωνία</string>
-	<string name="ultra_wide_recommend_tip_hint_sat">Δοκιμάστε την Υπέρ Ευρεία γωνία 0.6Χ</string>
+	<string name="ultra_wide_recommend_tip_hint_sat">Εναλλαγή σε Υπέρ Ευρεία γωνία 0.6Χ</string>
     <string name="ultra_widem_mode_use_hint_text">"Ενεργοποιήστε την Υπέρ Ευρεία λειτουργία για καταγραφή μιας ευρύτερης προβολής για εσάς. Εξερευνήστε περισσότερη συναρπαστική ομορφιά."</string>
     <string name="user_agree">Συμφωνώ</string>
     <string name="user_agreement2">Όροι υπηρεσίας</string>
@@ -857,13 +853,12 @@
 	<string name="macro_mode_use_hint_text_body">"Ενεργοποιήστε τη λειτουργία Macro για να καταγράψετε έναν πιο μικροσκοπικό κόσμο για εσάς
 Εξερευνήστε την ομορφιά περισσότερων λεπτομερειών"</string>
 	<string name="macro_mode_use_hint_text_title">Λειτουργία Macro</string>
-	<string name="recommend_macro_mode">Συνιστάται η ενεργοποίηση Macro</string>
-	<string name="recommend_portrait">Συνιστώμενη λειτουργία πορτρέτου</string>
-    <string name="recommend_soft_light_tip">Χρήση φλάς  σε λειτουργία απαλού φωτισμού</string>
-	<string name="recommend_super_night">Προτεινόμενη λειτουργία νυχτερινής προβολής</string>
-	<string name="super_night_hint">Βελτιστοποίηση ποιότητας εικόνας</string>
-	<string name="ultra_pixel_portrait_hint">Σούπερ καθαρό πορτρέτο</string>
-	<string name="vv_start">Ξεκινήστε τη λήψη VV</string>
+	<string name="recommend_portrait">Δοκιμάστε τη λειτουργία πορτρέτου</string>
+    <string name="recommend_soft_light_tip">Ενεργοποίηση Φλάς</string>
+	<string name="recommend_super_night">Δοκιμάστε τη Νυχτερινή λειτουργία</string>
+	<string name="super_night_hint">Βελτιστοποίηση εικόνας... Κρατήστε σταθερά τη συσκευή</string>
+	<string name="ultra_pixel_portrait_hint">HD πορτρέτο</string>
+	<string name="vv_start">Λήψη vlog</string>
     <string name="accessibility_mimovie_off">Η λειτουργία Ταινίας είναι ανενεργή</string>
     <string name="accessibility_mimovie_on">Η λειτουργία Ταινίας είναι ενεργή</string>
     <string name="color_effect_entry_classic">Τυπικό</string>
@@ -872,4 +867,19 @@
     <string name="hint_mimovie">Λήψη σε λειτουργία τοπίου για καλύτερο εφέ</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Επαναφορά</string>
+  <string name="pref_lens_dirty_detect_summary">Λήψη ειδοποίησης όταν ο φακός είναι βρώμικος</string>
+  <string name="pref_lens_dirty_detect_title">Ειδοποίηση για βρώμικο φακό</string>
+  <string name="pref_photo_assistance_tips_off">Off</string>
+  <string name="pref_photo_assistance_tips_on">On</string>
+  <string name="recommend_macro_mode">Δοκιμάστε τη λειτουργία Macro</string>
+  <string name="super_eis">Super σταθεροποίηση</string>
+  <string name="super_eis_disabled_hint">Κλειστή Super σταθεροποίηση</string>
+  <string name="ultra_tele_use_hint_text_body">"Χρήση zoom 50X για την αποτύπωση απομακρυσμένων 
+αντικειμένων με περισσότερες λεπτομέρειες"</string>
+  <string name="vv_duartion_hint">%1$s | Τμήμα %2$d | %3$ss</string>
+  <string name="vv_hint">Μπορείτε τη λήψη vlogs μόνο στη λειτουργία τοπίου</string>
+  <string name="vv_stability_hint">Κρατήστε τη συσκευή σας σταθερή</string>
+  <string name="vv_use_hint_text_body">"Η λειτουργία Vlog σας επιτρέπει
+την εγγραφή και επεξεργασία βίντεο εν κινήσει"</string>
+  <string name="vv_use_hint_text_title">VLOG</string>
 </resources>

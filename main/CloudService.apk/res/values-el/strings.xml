@@ -20,6 +20,9 @@
      <string name="cloud_find_device_off">Off</string>
      <string name="cloud_find_device_on">On</string>
      <string name="cloud_storage_full">Η αποθήκη του Cloud είναι πλήρης</string>
+     <string name="cloud_storage_already_full">Πλήρης η αποθ. Cloud: %1$s/%2$s</string>
+     <string name="cloud_storage_default_title">Αποθήκευση Cloud</string>
+     <string name="cloud_storage_loading_data">Μισό λεπτό…</string>
      <string name="cloudservice_new_sync">Συγχρονισμός %s με το Xiaomi Cloud</string>
      <string name="confirm_delete">Διαγραφή</string>
      <string name="confirm_save">Διατήρηση</string>

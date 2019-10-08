@@ -1709,4 +1709,5 @@
     <string name="call_backlight_night_end">Λήξη</string>
     <string name="night_end_summary">Ώρα: %s:00 ωρ.</string>
     <string name="call_backlight_night_end_summary">Η ολοκλήρωση της νυχτερινής υπηρεσίας (σε ώρες)</string>
+    <string name="fiveg_power_secret_code_tip">λειτουργήστε το μέσω της εφαρμ. Ασφάλεια - Μπαταρία - 5G Εξοικονόμιση</string>
 </resources>

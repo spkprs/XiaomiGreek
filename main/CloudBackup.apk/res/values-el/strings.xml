@@ -65,10 +65,7 @@
      <string name="cloud_back_up_no_network_warn">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="cloud_back_up_ok_btn">OK</string>
      <string name="cloud_back_up_opening">Μισό λεπτό…</string>
-     <string name="cloud_back_up_share_activity_confirm">Upgrade</string>
-     <string name="cloud_back_up_share_activity_discription">Get more storage space, daily backups, and more.</string>
-     <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
-     <string name="cloud_back_up_task">Δημ. αντιγράφου…</string>
+    <string name="cloud_back_up_task">Δημ. αντιγράφου…</string>
      <string name="cloud_backup">Αντίγραφα Xiaomi Cloud</string>
      <string name="cloud_backup_derail_size_summary">Μέγεθος: %s</string>
      <string name="cloud_backup_detail_frequence">Χρονοδιάγραμμα αντιγράφων</string>

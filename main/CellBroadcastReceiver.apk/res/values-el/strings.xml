@@ -2,7 +2,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="add_channel">Προσθήκη καναλιού</string>
   <string name="alert_reminder_interval_title">Υπενθύμιση ειδοποίησης</string>
-  <string name="alert_sound_duration_title">Διάρκεια ειδοποίησης ήχου</string>
   <string name="app_label">Κυψέλες εκπομπής</string>
   <string name="button_cancel">Ακύρωση</string>
   <string name="button_delete">Διαγραφή</string>
