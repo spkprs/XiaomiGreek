@@ -4,7 +4,6 @@
      <string name="access_change_text" formatted="false">Το επιλεγμένο στοιχείο είναι %d και αλλάζει με το %d..</string>
      <string name="access_select">Επιλεγμένο %s</string>
      <string name="access_unselect">Δεν έχει επιλεγεί %s</string>
-     <string name="accessibility_title">Προσωπικός βοηθός</string>
      <string name="accessibilty_back_button">επιστροφή</string>
      <string name="accessibilty_move_down">μετακίνηση κάτω</string>
      <string name="accessibilty_move_up">μετακίνηση επάνω</string>
@@ -28,8 +27,6 @@
      <string name="agenda_assistant_payment_day">Ημέρα πληρωμής</string>
      <string name="agenda_assistant_repayment_day">Ημέρα πληρωμής</string>
      <string name="agenda_assistant_tail_num">Αριθμός</string>
-     <string name="agenda_disclaimer">Αποποίηση</string>
-     <string name="agenda_disclaimer_content">Αυτή η υπηρεσία παρέχεται από Alipay. Οι σχετικές υπηρεσίες και ευθύνες θα βαρύνουν τρίτους. Αν έχετε οποιαδήποτε απορία, επικοινωνήστε με την εξυπηρέτηση πελατών της εταιρείας.</string>
      <string name="agenda_i_known">Το γνωρίζω</string>
      <string name="agenda_need_install_alipay">Αυτή η λειτουργία πρέπει να εγκατασταθεί μετά τη χρήση του Alipay</string>
      <string name="agenda_no_title">Χωρίς τίτλο</string>
@@ -510,13 +507,11 @@
      <string name="express_mi_shop">Mi Store</string>
      <string name="express_more_service">Περισσότερες υπηρεσίες</string>
      <string name="express_no_address">Άδειο</string>
-     <string name="express_no_info">Δεν υπάρχουν πληροφορίες</string>
      <string name="express_no_order">Δεν υπάρχουν εντολές</string>
      <string name="express_no_order_info">Δεν υπάρχουν πληροφορίες για τις παραγγελίες</string>
      <string name="express_not_authorized">Περιορισμένο</string>
      <string name="express_num_setting_des">Λάβετε αριθμούς παραγγελίας από τις εφαρμογές παράδοσης που είναι εγκατεστημένες στο τηλέφωνό σας.</string>
      <string name="express_num_setting_title">Πληροφορίες παραγγελίας πρόσβασης</string>
-     <string name="express_number_txt">Αριθμός παραγγελίας:</string>
      <string name="express_open">Εμφάνιση καρτών παρακολούθησης παράδοσης</string>
      <string name="express_open_locker">Ανοιξτε</string>
      <string name="express_open_txt">Άνοιγμα</string>
@@ -540,7 +535,6 @@
      <string name="express_order_state_unknown">Αγνωστο</string>
      <string name="express_order_state_wait_picking">Αναμονή επιλογής</string>
      <string name="express_order_succeeded">Ολοκληρώθηκε το</string>
-     <string name="express_origin_prev">Από</string>
      <string name="express_other_app">Επιτρέψτε στο MIUI να αποκτήσει πρόσβαση στις πληροφορίες παραγγελίας από άλλες εφαρμογές.</string>
      <string name="express_phone">Τηλέφωνο</string>
      <string name="express_phone_tip">Παράδοση, μείνετε συντονισμένοι</string>
@@ -988,16 +982,12 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="miot_device_cancel">Ακύρωση</string>
      <string name="miot_device_card_title">Συσκευές Mi Home</string>
      <string name="miot_device_click_show_detail">" Αγγίξτε να μάθετε περισσότερα σχετικά για τις Έξυπνες συσκευές"</string>
-     <string name="miot_device_click_show_img">Αγγίξτε για προβολή εικόνας</string>
      <string name="miot_device_cta_and"> και </string>
-     <string name="miot_device_cta_end">. (</string>
      <string name="miot_device_cta_message">"Προσθέστε τις έξυπνες συσκευές σας ώστε να μπορείτε να τις ελέγχετε μέσω Προσωπικού Βοηθού. Πατώντας   \"Συμφωνώ\" παρακάτω, συμφωνείτε με "</string>
      <string name="miot_device_cta_priv">Πολιτική Απορρήτου</string>
      <string name="miot_device_cta_use_info">Mi Home Συμφωνία Χρήστη</string>
      <string name="miot_device_edit">Επεξεργασία</string>
-     <string name="miot_device_empty_device_hint">Προσθέστε έξυπνες συσκευές όπως συσκευές καθαρισμού αέρα, κάμερες και ρομπότ για γρήγορο έλεγχο</string>
      <string name="miot_device_empty_text">"Προσθέστε τον ιονιστή, τη φωτογραφική μηχανή, την σκούπα ρομπότ και άλλες έξυπνες συσκευές για να τις χρησιμοποιήσετε κατά προτίμηση. "</string>
-     <string name="miot_device_hide_frame_toast">Απόκρυψη εικόνας</string>
      <string name="miot_device_install_mijia">Λήψη</string>
      <string name="miot_device_introduction">Σαρώστε προς τα κάτω τον Προσ. Βοηθό για να δείτε τα διαθέσιμα έξυπνα χειριστήρια σπιτιού</string>
      <string name="miot_device_loading">Φόρτωση...</string>
@@ -1007,9 +997,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="miot_device_mijia_uninstall_message">Η εφαρμογή Mi Home δεν είναι εγκατεστημένη. Θέλετε να την λάβετε χρησιμοποιώντας το κατάστημα εφαρμογών σας;</string>
      <string name="miot_device_mijia_uninstall_title">Δεν εγκαταστάθηκε</string>
      <string name="miot_device_network_error">Χωρίς σύνδεση</string>
-     <string name="miot_device_no_recent_frame">Αγγίξτε για προβολή</string>
-     <string name="miot_device_show_frame_toast">Εμφάνιση εικόνας</string>
-     <string name="miot_device_shrink_list">Σύμπτυξη</string>
      <string name="miuishare_account_activate_confirmation">Χρειάζεται ενεργοποίηση</string>
      <string name="miuishare_account_activate_ok">Ενεργό</string>
      <string name="miuishare_account_login_cancel">Ακύρωση</string>
@@ -1175,7 +1162,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="notification_content_fail_stay_longer">Μείνετε στη σελίδα πληρωμής για τουλάχιστον 1 δευτ.</string>
      <string name="notification_content_success">%2$s Πληρωμή CNY σε %1$s</string>
      <string name="notification_express_app_open">Ενεργοποιήστε</string>
-     <string name="notification_express_content">Παρακολουθήστε τις παραγγελίες χρησιμοποιώντας το Smart assistant</string>
      <string name="notification_express_title">Ενεργοποιήστε τις κάρτες από τις εφαρμογές ψώνια</string>
      <string name="notification_title">Προστέθηκε στα αγαπημένα</string>
      <string name="notification_title_fail">Δεν ήταν δυνατή η προσθήκη πληρωμής</string>
@@ -1230,7 +1216,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="payment_pref_source_wechat_summary">Λάβετε πληροφορίες πληρωμής από τη WeChat</string>
      <string name="payment_pref_source_wechat_title">WeChat</string>
      <string name="payment_privacy_dialog_cancel">Έξοδος</string>
-     <string name="payment_privacy_dialog_message">οι &amp;quot;πληρωμές μου&amp;quot; σας επιτρέπουν να συλλέγετε λογαριασμούς από μεγάλες εφαρμογές πληρωμών σε ένα μέρος. Όλες οι πληροφορίες πληρωμής θα κρυπτογραφηθούν και θα αποθηκευτούν με ασφάλεια στη συσκευή σας. Δεν θα συγχρονιστεί με το Mi Cloud ούτε θα μεταφορτωθεί σε οποιονδήποτε άλλο διακομιστή. Μπορείτε να απενεργοποιήσετε τις &amp;quot;Οι πληρωμές μου&amp;quot; στις Ρυθμίσεις ή απλώς να αφαιρέσετε αυτήν την κάρτα από το σεμινάριο εφαρμογής για να σταματήσετε να χρησιμοποιείτε αυτήν την υπηρεσία. Συμφωνώ?</string>
      <string name="payment_privacy_dialog_ok">Συμφωνώ</string>
      <string name="payment_privacy_dialog_title">&amp;quot;Οι πληρωμές μου&amp;quot; Πολιτική Απορρήτου</string>
      <string name="payment_record_add">Προσθήκη πληρωμής</string>
@@ -1546,7 +1531,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="upgrade_log_default">"1. Improved performance.
 2. Fixed bugs."</string>
      <string name="upgrade_log_subtitle">(Downloaded using Wi-Fi)</string>
-     <string name="upgrade_log_title">App vault update</string>
      <string name="upgrade_now">Install now</string>
      <string name="upgrade_now_bottom">Install now</string>
      <string name="uploads_disabled">Δεν είναι δυνατή η μεταφόρτωση αρχείων</string>
@@ -1578,9 +1562,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="year_month_day_format">MM/dd/yyyy</string>
      <string name="yesterday">Χθές</string>
 	  <string name="favorite_title_modify_failed">"Αδυναμία αλλαγής τίτλου"</string>
-	  <string name="miot_device_personal_assistant_eula">Συμφωνία Χρήστη</string>
-	  <string name="miot_device_personal_assistant_eula_priv">" και Βοηθού εφαρμογών "</string>
-	  <string name="miot_device_personal_assistant_priv">Πολιτική Απορρήτου</string>
 	  <string name="notification_channel_default_description">Άλλες ειδοποιήσεις</string>
 	  <string name="notification_channel_favorite_description">Ειδοποιήσεις σχετικά με τα στοιχεία που προστέθηκαν στα αγαπημένα σε διαφορετικές εφαρμογές</string>
 	  <string name="notification_channel_payment_description">Ειδοποιήσεις σχετικά με  Πληρωμές</string>
