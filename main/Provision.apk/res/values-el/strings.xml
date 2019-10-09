@@ -93,7 +93,7 @@
      <string name="sim_redetection">Ελέγξτε ξανά</string>
      <string name="sim_scard_detecting_check_mobile_not_available">"Your SIM card couldn't connect to a valid carrier network. Make sure you have sufficient funds on your balance and try to connect again."</string>
      <string name="skip_underline">Παράλειψη εκμάθησης</string>
-     <string name="start_up_slogan">Ενισχύει την παραγωγικότητα</string>
+     <string name="start_up_slogan">Η ζωή γίνεται ευκολότερη</string>
      <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
      <string name="summary_not_set">Χωρίς ορισμό</string>
      <string name="system_navigation_mode">Λειτουργία πλοήγησης Συστήματος</string>

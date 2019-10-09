@@ -3988,7 +3988,7 @@
      <string name="search_children_mode_title">Λειτουργία Παιδιού</string>
      <string name="search_choose_timezone">Επιλογή Ζώνης ώρας</string>
      <string name="search_cloud_backup_settings_section_title">Ρυθμίσεις αντιγράφων</string>
-     <string name="search_cloud_restore_section_title">Επαναφορά από Mi Cloud</string>
+     <string name="search_cloud_restore_section_title">Επαναφορά από Mi Cloud;Mi Cloud;Cloud backups;Xiaomi Cloud;Επαναφορά από Xiaomi Cloud</string>
      <string name="search_connection_and_sharing">Άλλα;Ασύρματο</string>
      <string name="search_copyright_title">Πνευματική ιδιοκτησία</string>
      <string name="search_credentials_install">Εγκατάσταση από χώρο αποθήκευσης</string>
@@ -4034,7 +4034,7 @@
      <string name="search_manage_notification_access_title">Πρόσβαση στις ειδοποιήσεις</string>
      <string name="search_master_clear_title">Επαναφορά εργοστασιακών ρυθμίσεων</string>
      <string name="search_menu">Αναζήτηση</string>
-     <string name="search_micloud">Συγχρονισμός, Mi Cloud</string>
+     <string name="search_micloud">Συγχρονισμός Mi Cloud;Mi Cloud;Xiaomi Cloud;Cloud sync;Συγχρονισμός cloud;Συγχρονισμός Xiaomi Cloud</string>
      <string name="search_music_audio_effect_optimize">Ρυθμίσεις ήχου</string>
      <string name="search_music_equalizer">Ισοσταθμιστής</string>
      <string name="search_music_headset_calibrate">Βαθμονόμηση κουμπιών</string>
