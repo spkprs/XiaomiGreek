@@ -41,4 +41,15 @@
 	<string name="searching">Αναζήτηση…</string>
 	<string name="wifi_direct">Wi-Fi Direct</string>
 	<string name="wifi_direct_printers">Εκτυπωτές Wi-Fi Direct</string>
+     <string name="accept">Αποδοχή</string>
+     <string name="certificate_update_request">Αυτός ο εκτυπωτής έδωσε ένα νέο πιστοποιητικό ασφαλείας ή μια άλλη συσκευή τον κωδικοποιεί. Αποδοχή του νέου πιστοποιητικού;</string>
+     <string name="connections">Συνδέσεις</string>
+     <string name="fix">Αναθεώρηση άδειας</string>
+     <string name="not_encrypted_request">Αυτός ο εκτυπωτής δεν δέχεται πλέον κρυπτογραφημένες εργασίες. Να συνεχιστεί η εκτύπωση;</string>
+     <string name="printer_bad_certificate">Εσφαλμένο πιστοποιητικό</string>
+     <string name="printer_not_encrypted">Χωρίς κρυπτογράφηση</string>
+     <string name="reject">Απόρριψη</string>
+     <string name="security">Ασφάλεια</string>
+     <string name="wifi_direct_permission_rationale">Η προεπιλεγμένη υπηρεσία εκτύπωσης χρειάζεται άδεια τοποθεσίας για την εύρεση κοντινών συσκευών.</string>
+     <string name="wifi_direct_printing">Άμεση εκτύπωση WiFi</string>
 </resources>

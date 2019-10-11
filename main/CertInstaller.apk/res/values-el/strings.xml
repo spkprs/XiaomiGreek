@@ -66,4 +66,7 @@ Realm: %4$s
 "</string>
      <string name="wifi_ttls_config_text">"Όνομα χρήστη: %s
 "</string>
+     <string name="action_missing_private_key">Απαιτείται ιδιωτικό κλειδί για την εγκατάσταση πιστοποιητικού</string>
+     <string name="action_missing_user_cert">Απαιτείται πιστοποιητικό για την εγκατάσταση ιδιωτικού κλειδιού</string>
+     <string name="userkey_type">Αλγόριθμος:</string>
 </resources>
