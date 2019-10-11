@@ -413,5 +413,10 @@
 	<string name="widget_global_search">Παγκόσμια αναζήτηση</string>
 	<string name="widget_quick_function">Γρήγορες λειτουργίες</string>
 	<string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
+    <string name="launcher_minus_screen_title">Μείον μία οθόνη</string>  
+    <string name="mi_wallpaper">MIUI Θέματα</string>
+    <string name="minus_one_screen">Προσωπικός Βοηθός</string>
+    <string name="minus_one_screen_google">Google</string>
+    <string name="minus_one_screen_none">Χωρίς</string>
 </resources>
 
