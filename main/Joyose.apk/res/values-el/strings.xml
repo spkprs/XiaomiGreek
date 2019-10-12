@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Πάροχος Βημάτων</string>
     <string name="permstep_label">Πρόσβαση μέτρησης βημάτων</string>
-    <string name="permstep_description">"Επιτρέψτε σε αυτήν την εφαρμογή να αποκτήσει πρόσβαση στον αριθμό των βημάτων σας"</string>
+    <string name="permstep_description">"Επιτρέψτε στην εφαρμογή να αποκτήσει πρόσβαση στον αριθμό των βημάτων σας"</string>
     <string name="joyose_name">Joyose Πάροχος Βημάτων</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Ρυθμίσεις</string>

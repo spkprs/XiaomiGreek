@@ -83,6 +83,7 @@
   <string name="file_transfer_progress">Πρόοδος: %1$d%%</string>
   <string name="functions_are_being_developed">Αυτή η λειτουργία θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
   <string name="hide">Απόκρυψη</string>
+  <string name="location_enabled">Ενεργοποίηση υπηρεσίας τοποθεσίας για εύρεση κοντινών συσκευών</string>
   <string name="mi_9t">Mi 9T</string>
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_a3">Mi A3</string>

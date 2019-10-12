@@ -30,6 +30,7 @@
     <string name="accessibility_filter_open_panel">Ενεργό μενού φίλτρου</string>
     <string name="accessibility_filter_pad_close">Το μενού φίλτρου είναι κρυφό</string>
     <string name="accessibility_flash_auto">Αυτόματο φλας είναι ενεργό</string>
+    <string name="accessibility_flash_back_soft_light">Το φλας λειτουργεί στη λειτουργία απαλού φωτισμού</string>
 	<string name="accessibility_flash_off">Ανενεργό Φλας</string>
 	<string name="accessibility_flash_on">Ενεργό Φλας</string>
 	<string name="accessibility_flash_torch">Το Φλας είναι ενεργό, λειτουργία φακού</string>

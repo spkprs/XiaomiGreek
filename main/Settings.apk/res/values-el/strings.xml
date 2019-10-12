@@ -3329,7 +3329,7 @@
      <string name="pointer_settings_category">Ποντίκι/Δείκτης</string>
      <string name="pointer_speed">Ταχύτητα δείκτη</string>
      <string name="popup_gesture_title">Σηκώστε για άνοιγμα εμπρός Κάμερας </string>
-     <string name="popup_gesture_summary">Κρατήστε το τηλέφωνό σας μπροστά σας και σηκώστε το γρήγορα κατά 20 cm για να ανοίξετε την μπροστινή Κάμερα</string>
+     <string name="popup_gesture_summary">Επιστρέψτε στην αρχική οθόνη, σηκώστε το τηλέφωνο και κοιτάξτε την οθόνη για να ανοίξετε αυτόματα την μπροστινή Κάμερα</string>
      <string name="popup_window">Περιορισμός αναδυόμενων ειδοποιήσεων</string>
      <string name="power_autorun_apps_empty">Δεν υπάρχουν εφαρμογές αυτόματης εκκίνησης</string>
      <string name="power_autorun_empty">Καμία από τις εφαρμογές σας δεν μπορεί να προστεθεί</string>
@@ -3808,6 +3808,9 @@
      <string name="screen_compatibility_text">Αυτή η εφαρμογή μπορεί να μην σχεδιάστηκε για την οθόνη σας Μπορείτε να ελέγξετε πώς να την προσαρμόσετε στην οθόνη σας εδώ</string>
      <string name="screen_dark_mode_time_title">Χρονοδιάγραμμα</string>
      <string name="screen_effect">Συνδυασμός χρωμάτων</string>
+     <string name="screen_fps_summary">Με υψηλότερο ρυθμό ανανέωσης, η εικόνα γίνεται ομαλότερη, ενώ με χαμηλότερο ρυθμό ανανέωσης εξοικονομείται η μπαταρία</string>
+     <string name="screen_fps_title">Ρυθμός ανανέωσης</string>
+     <string name="screen_fps_unit">%dHz</string>
      <string name="screen_key_long_press">Παρατεταμένο πάτημα πλήκτρων οθόνης</string>
      <string name="screen_key_long_press_action">Πλήκτρα Οθόνης</string>
      <string name="screen_key_long_press_timeout">Ορισμός χρόνου πατήματος</string>
@@ -4043,7 +4046,7 @@
      <string name="search_music_mi_effect_title">Βελτίωση ήχου Mi</string>
      <string name="search_networks_title">Δίκτυα κινητής</string>
      <string name="search_nfc_quick_toggle_title">NFC</string>
-     <string name="search_nfc_se_route_title">Θέση ασφαλούς στοιχείου</string>
+     <string name="search_nfc_se_route_title">Ασφαλής θέση στοιχείου</string>
      <string name="search_notification_sound_title">Προεπιλεγμένος ήχος ειδοποίησης, ήχος ειδοποίησης</string>
      <string name="search_ntts_settings_title">TTS, ρυθμίσεις TTS</string>
      <string name="search_oldman_mode_entry_name">Λειτουργία Lite, λειτουργία Oldman, Litemode</string>

@@ -4587,7 +4587,7 @@
   <string name="search_music_mi_effect_title">Βελτίωση ήχου Mi</string>
   <string name="search_networks_title">Δίκτυα κινητής</string>
   <string name="search_nfc_quick_toggle_title">NFC</string>
-  <string name="search_nfc_se_route_title">Θέση ασφαλούς στοιχείου</string>
+  <string name="search_nfc_se_route_title">Ασφαλής θέση στοιχείου</string>
   <string name="search_notification_sound_title">Προεπιλεγμένος ήχος ειδοποίησης, ήχος ειδοποίησης</string>
   <string name="search_ntts_settings_title">TTS, ρυθμίσεις TTS</string>
   <string name="search_oldman_mode_entry_name">Λειτουργία Lite, λειτουργία Oldman, Litemode</string>
