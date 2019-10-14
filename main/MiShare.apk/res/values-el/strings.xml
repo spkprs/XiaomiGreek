@@ -137,9 +137,10 @@
   <string name="throwing_screen">Μετάδοση</string>
   <string name="tips_prompt_enable_midrop">Κοινή χρήση αρχείων με κοντινές συσκευές</string>
   <string name="transfer_intercept_to_remote">"Αδύνατη η αποστολή: %1$s"</string>
-  <string name="transfer_to_pc_summary">Μπορείτε να χρησιμοποιήσετε το Mi Share για να στείλετε άμεσα στοιχεία σε Mi Notebooks. Σε άλλους φορητούς υπολογιστές, πρέπει να εγκαταστήσετε πρώτα το Mi Share.</string>
+  <string name="transfer_to_pc_summary">"Μπορείτε να χρησιμοποιήσετε το Mi Share για να στείλετε άμεσα στοιχεία σε Mi Notebooks ή από έναν φορητό υπολογιστή σε έναν άλλο.
+Μπορείτε να βρείτε τη λίστα των συμβατών συσκευών στην τοποθεσία μας στο web. Εάν ο φορητός σας υπολογιστής βρίσκεται στη λίστα, αλλά η Mi Share δεν είναι εγκατεστημένη σε αυτόν, ενημερώστε το BIOS και το πρόγραμμα οδήγησης προσαρμογέα δικτύου του φορητού υπολογιστή σας και κάντε λήψη της Mi Share."</string>
   <string name="transfer_to_pc_title">Αποστολή αρχείων σε υπολογιστές</string>
-  <string name="transfer_to_phone_summary">Το Mi Share σας επιτρέπει να στέλνετε εικόνες και αρχεία σε κοντινά τηλέφωνα Mi και άλλες συμβατές συσκευές Android.</string>
+  <string name="transfer_to_phone_summary">Το Mi Share σας επιτρέπει να στέλνετε εικόνες και αρχεία σε κοντινά τηλέφωνα Mi και άλλες συμβατές συσκευές.</string>
   <string name="transfer_to_phone_title">Αποστολή αρχείων σε τηλέφωνα</string>
   <string name="unkonw_device">Αγνωστη συσκευή</string>
   <string name="unrecognized_manufacture">Αγνωστος</string>

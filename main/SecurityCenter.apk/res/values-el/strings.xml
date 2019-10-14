@@ -597,7 +597,11 @@
      <string name="cta_dialog_title">Σύνδεση Internet</string>
      <string name="cta_HIPS_Perm_Location_Desc">απόκτηση ακριβή τοποθεσία (GPS και μέσω δικτύου)</string>
      <string name="cta_main_purpose">Καλώς ήρθατε στην Ασφάλεια! Μπορείτε να, εκκαθάριση αχρήστων, εξουδετέρωση ιών, βελτιστοποίηση απόδοσης παιχνιδιών, εξοικονόμηση μπαταρίας, διαχείρηση εφαρμογών και πολλά άλλα.</string>
-     <string name="cta_settings">Πρόσβαση στο Internet</string>
+     <string name="cta_settings">Πρόσβαση στο Internet και θέσης</string>
+     <string name="cta_close_dialog_cancel">Ακύρωση</string>
+     <string name="cta_close_dialog_content">"Εάν περιορίσετε την πρόσβαση της Ασφάλειας στο Internet και τις πληροφορίες τοποθεσίας σας, δεν θα μπορείτε να λαμβάνετε προειδοποιήσεις για σεισμούς, να ενημερώνετε ορισμούς ιών και πληροφορίες λίστας αποκλεισμού. Η συσκευή σας θα γίνει λιγότερο ασφαλής. Περιοριορισμός;"</string>
+     <string name="cta_close_dialog_ok">Περιορισμός</string>
+     <string name="cta_close_dialog_title">Περιορισμός πρόσβασης</string>
      <string name="current_network_state_not_need_diagnose">Η σύνδεση στο Internet είναι φυσιολογική</string>
      <string name="customize_limit_pkg">%s (Προσαρμογή)</string>
      <string name="customizer_mode_user_define_name">Οι κανόνες μου</string>
@@ -1396,7 +1400,7 @@
      <string name="mixed_password_confirmed_header_confirm">Επιτυχής εισαγωγή. Αγγίξτε για επιβεβαίωση.</string>
      <string name="mixed_password_confirmed_header_continue">Επιτυχής εισαγωγή. Αγγίξτε \"Επόμενο\".</string>
      <string name="mixed_pattern_entered_header">Επιτυχής εισαγωγή κωδικού</string>
-     <string name="mixed_recording_intro_header">Εισάγετε τουλάχιστον 4 χαρακτήρες</string>
+     <string name="mixed_recording_intro_header">Εισάγετε %1$s-%2$s χαρακτήρες</string>
      <string name="mixed_retry_button_text">Ακύρωση</string>
      <string name="mixed_settings_help_how_to_record">Πώς να ορίσετε κωδικό</string>
      <string name="modify_password_mode"><u>Αλλαγή τύπου κωδικού</u></string>

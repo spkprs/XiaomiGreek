@@ -32,8 +32,8 @@
      <string name="fast_connect_device_headset_reset">Παρατετ. πάτημα κουμπιού στο box</string>
      <string name="fast_connect_device_title_connect_fail">"Αποτυχία σύνδεσης του %1$s"</string>
      <string name="fast_connect_device_title_connecting">Σύνδεση...</string>
-     <string name="fast_connect_device_title_find_headset">Βρέθηκαν ακουστικά %1$s</string>
-     <string name="fast_connect_device_title_find_headset_others">Βρέθηκαν άλλα ακουστικά %1$s</string>
+     <string name="fast_connect_device_title_find_headset">Βρέθηκαν %1$s συσκευές</string>
+     <string name="fast_connect_device_title_find_headset_others">Βρέθηκαν άλλες %1$s συσκευές</string>
      <string name="goto_package">Άνοιγμα %1$s</string>
      <string name="install_package">Εγκατάσταση %1$s για περισσότερες λειτουργίες</string>
      <string name="mi_band_vibrate_alarm">Δόνηση κατά την αφύπνιση</string>

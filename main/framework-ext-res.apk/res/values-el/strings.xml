@@ -73,6 +73,7 @@
 	<string name="handy_mode_summary">Για να κλείσετε, πατήστε τη σκοτεινή περιοχή</string>
 	<string name="handy_mode_title">Λειτουργία με ένα χέρι</string>
 	<string name="ignore_home_when_fingerprint_enrolling_msg">Τοποθετήστε το δάχτυλό σας στο κουμπί Home</string>
+    <string name="input_method_clipboard_tips">Τα αντιγραμμένα στοιχεία θα διαγραφούν από το πρόχειρο μετά από 48 ώρες</string>
 	<string name="internal_livetalk_enable">Χρήση πακέτων top-up για τις εγχώριες κλήσεις</string>
 	<string name="international_livetalk_enable">Χρήση πακέτων top-up για διεθνείς κλήσεις</string>
 	<string name="key_btn_ok">OK</string>

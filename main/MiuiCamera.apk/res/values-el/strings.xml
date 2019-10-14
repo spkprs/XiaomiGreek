@@ -122,6 +122,8 @@
     <string name="cannot_connect_camera_volte_call">Η Βίντεο-κλήση είναι σε εξέλιξη. Παρακαλώ δοκιμάστε αργότερα.</string>
     <string name="cannot_move_warning_message">Λήψη φωτογραφίας, εστιάστε περισσότερο</string>
     <string name="capture_back_pressed_hint">Αγγίξτε ξανά για Έξοδο</string>
+    <string name="ccc_temperature_warning_msg">Η συσκευή σας έχει υπερθερμανθεί. Η κάμερα θα κλείσει σε %d δευτερόλεπτα. Οι φωτογραφίες ή τα βίντεό σας θα αποθηκευτούν αυτόματα.</string>
+    <string name="ccc_temperature_warning_title">Η συσκευή έχει υπερθερμανθεί</string>
     <string name="change_bgm">Αλλαγή ήχου</string>
     <string name="close_back_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
     <string name="close_front_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
@@ -246,6 +248,7 @@
 	<string name="hint_groupshot">Η κάμερα θα λάβει πολλές φωτογραφίες\nκαι στη συνέχεια θα δημιουργηθεί μια, όπου όλοι θα φαίνονται καλύτερα.</string>
     <string name="hint_groupshot_beauty">Αδύνατη η χρήση Αισθητικής σε ομαδική φωτογραφία</string>
     <string name="hint_slow_motion">Το βίντεο που εγγράφετε θα αναπαράγεται πιο αργά.</string>
+    <string name="hint_subtitle_prompt">Μπορείτε να υπαγορεύσετε υπότιτλους τώρα</string>
     <string name="hot_music">Δημοφιλή</string>
 	<string name="hunt_dual_water_mark">Το διπλό Υδατογράφημα θα προστεθεί αυτόματα.</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -796,6 +799,7 @@
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Χαριτωμένο</string>
     <string name="sticker_tab2">Αστείο</string>
+    <string name="subtitle_network_exception_tips">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Δεν είναι δυνατή η μεταγραφή τώρα."</string>
     <string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
 	<string name="tap_to_exposure">Αγγίξτε για χειροκίνητη προσαρμογή έκθεσης</string>
     <string name="tap_to_focus">Αγγίξτε για εστίαση</string>
@@ -858,7 +862,7 @@
     <string name="recommend_soft_light_tip">Ενεργοποίηση Φλάς</string>
 	<string name="recommend_super_night">Δοκιμάστε τη Νυχτερινή λειτουργία</string>
 	<string name="super_night_hint">Βελτιστοποίηση εικόνας... Κρατήστε σταθερά τη συσκευή</string>
-	<string name="ultra_pixel_portrait_hint">HD πορτρέτο</string>
+	<string name="ultra_pixel_portrait_hint">Πορτρέτο χαμηλού φωτισμού</string>
 	<string name="vv_start">Λήψη vlog</string>
     <string name="accessibility_mimovie_off">Η λειτουργία Ταινίας είναι ανενεργή</string>
     <string name="accessibility_mimovie_on">Η λειτουργία Ταινίας είναι ενεργή</string>

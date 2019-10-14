@@ -120,7 +120,7 @@
 	<string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
 	<string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις&gt;Εφαρμογές</string>
 	<string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
-     <string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση στον αριθμό τηλεφώνου και στο IMSI</string>
+     <string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση στον αριθμό και κατάστασης τηλεφώνου</string>
      <string name="permdesc_camera">Λήψη φωτογραφιών και βίντεο</string>
      <string name="permdesc_in_calls">Παρακολούθηση εισερχόμενων κλήσεων</string>
      <string name="permdesc_location">Πρόσβαση σε πληροφορίες τοποθεσίας</string>
