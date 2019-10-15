@@ -6149,7 +6149,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	  <string name="screen_projection_sample_title">Επίδειξη</string>
 	  <string name="screen_projection_title">Μετάδοση</string>
 	  <string name="screen_reader_category_title">Αναγνώστες οθόνης</string>
-	  <string name="accessibility_disable_animations">Κατάργηση κινούμενων εικόνων</string>
+	  <string name="accessibility_disable_animations">Κατάργηση κινήσεων</string>
 	  <string name="audio_and_captions_category_title">Ήχος και κείμενο στην οθόνη</string>
 	  <string name="winscope_trace_quick_settings_title">Ίχνος Winscope</string>
 	  <string name="enable_gnss_raw_meas_full_tracking">Αναγκαστικές πλήρεις μετρήσεις GNSS</string>
@@ -6725,4 +6725,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="smartreturn_on">Αν οι συνδέσεις διακόπηκαν από ένα χρονόμετρο. Επαναφέρονται όταν αλλάζει η οθόνη.</string>
     <string name="smartreturn_off">Αδύνατη η επαναφορά των συνδέσεων</string>
     <string name="show_only_app_icons_title">Απόκρυψη κάθετου ρολογιού</string>
+    <string name="fingerprint_wakeup_summary">Αφύπνιση οθόνης όταν δεν έχουν εγγραφεί δακτυλικά αποτυπώματα.</string>
+    <string name="fingerprint_wakeup_title">Άγγιγμα αισθητήρα δακτυλικών αποτυπωμάτων για αφύπνιση</string>
 </resources>
