@@ -245,7 +245,7 @@
      <string name="event_info_reminders_label">Υπενθυμίσεις</string>
      <string name="event_info_reminders_label_1">Υπενθύμιση</string>
      <string name="event_info_repeat">"Επανάληψη: "</string>
-     <string name="event_info_title">Προβολή γεγονότος</string>
+     <string name="event_info_title">Λεπτομέρειες</string>
      <string name="event_info_title_anniversary">Επέτειος</string>
      <string name="event_info_title_birthday">Γενέθλια</string>
      <string name="event_info_title_countdown">Αντίστροφη μέτρηση</string>
@@ -523,8 +523,8 @@
      <string name="month_medium_september">Σεπ</string>
      <string name="month_view">Μήνας</string>
      <string name="monthly">Μηνιαία</string>
-     <string name="monthly_on_day">Μηνιαίως (την ίδια ημέρα κάθε μήνα)</string>
-     <string name="monthly_on_day_count">Μηνιαίως (%1$s κάθε μήνα)</string>
+     <string name="monthly_on_day">Μηνιαίως (την ίδια ημέρα)</string>
+     <string name="monthly_on_day_count">Μηνιαίως (%1$s)</string>
      <string name="more_match">更多赛事</string>
      <string name="more_string">+%1$s</string>
      <string name="movie_event_delete_successfully">Διαγράφηκε επιτυχώς το εισιτήριο ταινίας</string>
@@ -695,6 +695,7 @@
      <string name="setting_features_title">Ρυθμίσεις λειτουργιών</string>
      <string name="setting_holiday_display_desc">Οι κάρτες Αργιών βρίσκονται στην αρχική σελίδα του ημερολογίου</string>
      <string name="setting_holiday_reminder">Υπενθύμιση Αργιών</string>
+     <string name="setting_show_reject_agenda">Εμφάνιση απορριφθέντων συμβάντων</string>
      <string name="setting_others">Άλλα</string>
      <string name="setting_recommend">功能推荐</string>
      <string name="setting_recommend_summary">首页订阅推荐入口</string>
@@ -858,7 +859,6 @@
      <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
      <string name="travel_item_weather_forecast">Πρόγνωση προορισμού</string>
      <string name="travel_item_weather_now">Καιρικές συνθήκες προορισμού</string>
-     <string name="travel_load_failed">Αδυναμία φόρτωσης</string>
      <string name="travel_loaded">Υποστηρίζεται από Veryzhun</string>
      <string name="travel_loading">Μισό λεπτό…</string>
      <string name="travel_local">Προορισμός</string>
