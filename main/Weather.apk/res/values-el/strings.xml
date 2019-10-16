@@ -159,6 +159,8 @@
      <string name="international_details_wind_connect">%1$s %2$s</string>
      <string name="international_details_wind_title">ΑΝΕΜΟΣ</string>
      <string name="it_is_going_to_rain">Θα βρέξει</string>
+     <string name="life_index_title">Δείκτης Καιρού</string>
+     <string name="q_version_location_provider_btn_text">Ενεργοποίηση πρόσβασης τοποθεσίας και βελτίωση ακρίβειας</string>
      <string name="locate_fail_detail_err">"Αδυναμία εντοπισμού συσκευής
 Αγγίξτε στην οθόνη για προσθήκη ή επανατοποθέτηση της πόλης μόνοι σας"</string>
      <string name="location_provider_btn_text">Ενεργοποίηση υπηρεσιών τοποθεσίας</string>
@@ -222,6 +224,7 @@
      <string name="realtime_wind_default_title">Άνεμος</string>
      <string name="receive_net_mock_success">Net mock receive success</string>
      <string name="refresh_fail">Αδυναμία σύνδεσης σε δίκτυο</string>
+     <string name="refresh_empty_data">"Δεν ήταν δυνατή η φόρτωση δεδομένων. Δοκιμάστε ξανά σε λίγο."</string>
      <string name="reminder_from_xiaomi_weather_app">Προειδοποίηση Mi Καιρού</string>
      <string name="retry">Προσπαθήστε ξανά</string>
      <string name="search_weather">Καιρός</string>
@@ -281,6 +284,7 @@
      <string name="video_dialog_title" />
      <string name="view_forecast_item_yesterday">Χθες</string>
      <string name="view_indexes_item_today">Σήμερα</string>
+     <string name="view_indexes_item_day_after_tommorrow">Σε 2 ημέρες</string>
      <string name="view_indexes_item_tommorrow">Αύριο</string>
      <string name="wind_direction_no_data">Άνεμος</string>
      <string name="wind_power_unit_default">0</string>
