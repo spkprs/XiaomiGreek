@@ -109,8 +109,8 @@
 	<string name="permdesc_manageLocationPolicy">Επιτρέπει στην εφαρμογή να διαχειρίζεται τις πολιτικές σχετικά με την τοποθεσία και να καθορίζει ειδικούς κανόνες εφαρμογών.</string>
 	<string name="permlab_manageLocationPolicy">Πρόσβαση στην τοποθεσία</string>
 	<string name="reboot_confirm_title">Το τηλέφωνό σας θα επανεκκινήσει.</string>
-	<string name="reboot_info_auto_boot">Το τηλέφωνό σας θα ενεργοποιηθεί στις %s λόγω του χρονοδιαγράμματος αυτόματης εκκίνησης</string>
-	<string name="reboot_info_shutdown_alarm">Το τηλέφωνό σας θα ενεργοποιηθεί και θα ηχήσει η Αφύπνιση στις %s</string>
+	<string name="reboot_info_auto_boot">Το τηλέφωνό σας θα ενεργοποιηθεί %s λόγω του χρονοδιαγράμματος αυτόματης εκκίνησης</string>
+	<string name="reboot_info_shutdown_alarm">Το τηλέφωνό σας θα ενεργοποιηθεί και θα ηχήσει η Αφύπνιση %s</string>
 	<string name="reboot_progress">Επανεκκίνηση…</string>
 	<string name="remain">Απομένουν: %s</string>
 	<string name="replace">Αντικατάσταση</string>
