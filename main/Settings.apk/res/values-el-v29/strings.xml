@@ -583,10 +583,10 @@
   <string name="theme_customization_font_title">Γραμματοσειρά επικεφαλίδας/σώματος κειμένου</string>
   <string name="theme_customization_icon_shape_title">Σχήμα εικονιδίου</string>
   <string name="time_format_category_title">Μορφή ώρας</string>
-  <string name="trust_agents_extend_unlock_summary">Αν ενεργοποιήσετε την επιλογή, οι παράγοντες εμπιστοσύνης θα διατηρούν τη συσκευή ξεκλείδωτη για μεγαλύτερο χρονικό διάστημα, αλλά δεν θα μπορούν να ξεκλειδώνουν πλέον μια κλειδωμένη συσκευή.</string>
-  <string name="trust_agents_extend_unlock_title">Οι παράγ. εμπιστοσ. μόνο επεκτ. το ξεκλ.</string>
-  <string name="trust_lost_locks_screen_summary">Εάν ενεργοποιηθεί, η συσκευή θα κλειδωθεί όταν χαθεί η εμπιστοσύνη για τον τελευταίο παράγοντα εμπιστοσύνης</string>
-  <string name="trust_lost_locks_screen_title">Κλείδωμα οθόνης όταν χαθεί η εμπιστοσύνη</string>
+  <string name="trust_agents_extend_unlock_summary">Αν ενεργοποιηθεί, οι αξιόπιστοι παράγοντες θα κρατήσουν τη συσκευή σας ξεκλείδωτη για περισσότερο, αλλά δεν μπορούν πλέον να ξεκλειδώσουν μια κλειδωμένη συσκευή.</string>
+  <string name="trust_agents_extend_unlock_title">Οι αξιόπιστοι παράγοντες επεκτείνουν μόνο το ξεκλείδωμα</string>
+  <string name="trust_lost_locks_screen_summary">Εάν ενεργοποιηθεί, η συσκευή θα κλειδώνει όταν ο τελευταίος αξιόπιστος παράγοντας χάσει την αξιοπιστία του</string>
+  <string name="trust_lost_locks_screen_title">Κλείδωμα οθόνης όταν χαθεί η αξιοπιστία</string>
   <string name="tx_link_speed">%1$d Mbps</string>
   <string name="tx_link_speed_label">Ταχύτητα σύνδεσης μετάδοσης:</string>
   <string name="tx_wifi_speed">Ταχύτητα μετάδοσης συνδέσμου</string>

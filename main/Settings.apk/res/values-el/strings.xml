@@ -362,8 +362,7 @@
      <string name="app_ops_settings">Ρυθμίσεις εφαρμογών</string>
      <string name="app_overlay_permission_preference">Άδεια επικάλυψης οθόνης από την εφαρμογή</string>
      <string name="app_permissions">Δικαιώματα εφαρμογής</string>
-     <string name="app_permissions_group_summary" formatted="false">%d of %d apps allowed</string>
-     <string name="app_permissions_summary" formatted="false">%d απο %d εφαρμογές επιτρέπεται πρόσθετη πρόσβαση</string>
+     <string name="app_permissions_summary">Εφαρμογές που χρησιμοποιούν %1$s</string>
      <string name="app_process_limit_title">Όριο εφαρμογών παρασκηνίου</string>
      <string name="app_restrictions_custom_label">Ορισμός περιορισμών εφαρμογής</string>
      <string name="app_sees_restricted_accounts">Αυτή η εφαρμογή μπορεί να έχει πρόσβαση στους λογαριασμούς σας</string>
@@ -1780,8 +1779,17 @@
      <string name="external_data_size_label">Δεδομένα συσκευής USB</string>
      <string name="extreme_threats_summary">Λήψη ειδοποιήσεων για ακραίες απειλές για τη ζωή και την περιουσία</string>
      <string name="extreme_threats_title">Ακραίες απειλές</string>
+    <string name="face_add_max">Μπορείτε να προσθέσετε έως %d πρόσωπα</string>
+    <string name="face_intro_error_max">Προσθέσατε τον μέγιστο αριθμό προσώπων</string>
+    <string name="face_intro_error_unknown">Αδύνατη η προσθήκη περισσότερων προσώπων</string>
+    <string name="face_lock_screen_setup_skip_dialog_text">Προστατεύστε το τηλέφωνό σας με μια επιλογή κλειδώματος οθόνης, ώστε να μην μπορεί να το χρησιμοποιήσει κανείς εάν χαθεί ή κλαπεί. Χρειάζεστε επίσης μια επιλογή κλειδώματος οθόνης για να ρυθμίσετε τον έλεγχο ταυτότητας προσώπου. Πατήστε Άκυρο και, στη συνέχεια, ορίστε ένα PIN, μοτίβο ή κωδικό πρόσβασης.</string>
      <string name="face_unlock_disable">Ξεκλείδωμα μέσω προσώπου ανενεργό</string>
      <string name="face_unlock_enable">Ξεκλείδωμα μέσω προσώπου ενεργό</string>
+    <string name="face_unlock_set_unlock_password">Έλεγχος ταυτότητας προσώπου + Κωδικός</string>
+    <string name="face_unlock_set_unlock_pattern">Έλεγχος ταυτότητας προσώπου + Μοτίβο</string>
+    <string name="face_unlock_set_unlock_pin">Έλεγχος ταυτότητας προσώπου + PIN</string>
+    <string name="face_unlock_skip_face">Συνέχεια χωρίς έλεγχο ταυτότητας προσώπου</string>
+    <string name="face_unlock_title">Μπορείτε να ξεκλειδώσετε το τηλέφωνό σας χρησιμοποιώντας το πρόσωπό σας. Για ασφάλεια, απαιτείται αντίγραφο κλειδώματος οθόνης.</string>
      <string name="factory_reset_summary">Διαγραφή όλων των δεδομένων από την εσωτερική μνήμη του τηλεφώνου σας</string>
      <string name="failed_to_check_find_device_status_content">Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής. Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="failed_to_check_find_device_status_title">Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής</string>
@@ -5948,7 +5956,7 @@ VK: vk.com/mi_room_ru"</string>
      <string name="write_settings_off">Όχι</string>
      <string name="write_settings_on">Ναι</string>
      <string name="write_settings_preference">Να επιτρέπεται στην εφαρμογή να τροποποιεί τις ρυθμίσεις συστήματος</string>
-     <string name="write_settings_summary" formatted="false">%d από %d εφαρμογές επιτρέπεται να τροποποιούν τις ρυθμίσεις συστήματος</string>
+     <string name="write_settings_summary" formatted="false">%1$d από %2$d εφαρμογές επιτρέπεται να τροποποιούν τις ρυθμίσεις συστήματος</string>
      <string name="write_settings_title">Δυνατότητα τροποποίησης</string>
      <string name="write_system_settings">Τροποποίηση ρυθμίσεων συστήματος</string>
      <string name="write_tag">Εγγραφή</string>
@@ -6727,4 +6735,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="show_only_app_icons_title">Απόκρυψη κάθετου ρολογιού</string>
     <string name="fingerprint_wakeup_summary">Αφύπνιση οθόνης όταν δεν έχουν εγγραφεί δακτυλικά αποτυπώματα.</string>
     <string name="fingerprint_wakeup_title">Άγγιγμα αισθητήρα δακτυλικών αποτυπωμάτων για αφύπνιση</string>
+    <string name="use_google_feed_title">Προβολή τροφοδοσίας Google</string>
+    <string name="use_google_feed_summary">Χρήση τροφοδοσίας (Feed) Google αντί του Mi Βοηθού. Απαιτείται εφαρμογή Google.</string>
 </resources>
