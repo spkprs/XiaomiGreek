@@ -1506,8 +1506,8 @@
      <string name="display_settings_title">Οθόνη</string>
      <string name="display_summary_off">Η προσαρμοστική φωτεινότητα είναι ανενεργή</string>
      <string name="display_summary_on">Η προσαρμοστική φωτεινότητα είναι ενεργή</string>
-     <string name="display_vr_pref_low_persistence">Χρήση θόλωσης χαμηλής κίνησης</string>
-     <string name="display_vr_pref_off">Μην κάνεις τίποτα</string>
+     <string name="display_vr_pref_low_persistence">Μείωση θολώματος (συνιστάται)</string>
+     <string name="display_vr_pref_off">Μείωση τρεμοπαίγματος</string>
      <string name="display_vr_pref_title">Όταν η συσκευή βρίσκεται σε λειτουργία VR</string>
      <string name="dlg_cancel">Άκυρο</string>
      <string name="dlg_close">Κλείσιμο</string>

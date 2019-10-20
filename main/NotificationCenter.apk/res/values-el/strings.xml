@@ -12,8 +12,8 @@
   <string name="expandable_under_keyguard">Ειδοπ. σε Πίνακα Οθ. Κλειδ/τος</string>
   <string name="float_notifications">Αναδυόμενες</string>
   <string name="hint_search_all">Αναζήτηση εφαρμογών</string>
-  <string name="hint_search_in_disabled_apps">"Αναζήτηση εφαρμογών χωρίς εμφάνιση ειδοπ/σεων"</string>
-  <string name="hint_search_in_enabled_apps">Αναζήτηση εφαρμογών με εμφάνιση ειδοπ/σεων</string>
+  <string name="hint_search_in_disabled_apps">"Αναζήτηση χωρίς εμφάνιση ειδοπ/σεων"</string>
+  <string name="hint_search_in_enabled_apps">Αναζήτηση με εμφάνιση ειδοπ/σεων</string>
   <string name="list_title_disable_notification">"Οι ειδοπ/σεις δεν επιτρέπονται"</string>
   <string name="loading">Μισό λεπτό.…</string>
   <string name="lock_screen_display_rules">Τύπος</string>

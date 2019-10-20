@@ -35,7 +35,7 @@
   <string name="account_settings_enforced_summary">Κανένα</string>
   <string name="account_settings_incoming_summary">Όνομα, κωδικός, και άλλες ρυθμίσεις διακομιστή εισερχόμενων</string>
   <string name="account_settings_login_dialog_content_fmt">Το όνομα και κωδικός για %s είναι λάθος. Θέλετε να τα ενημερώσετε τώρα;</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">Η σύνδεσή σας στο %s απέτυχε, ο διακομιστής απάντησε: %s Θέλετε να ενημερώσετε το όνομα χρήστη ή/και τον κωδικό σας;</string>
+  <string name="account_settings_login_dialog_reason_fmt">"Η σύνδεσή σας στο %1$s απέτυχε, ο διακομιστής απάντησε: %2$ ."</string>
   <string name="account_settings_login_dialog_title">Αδύνατη η σύνδεση</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Πρέπει να ανανεώσετε μόνοι σας το Mail για συγχρονισμό των emails σας</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">Θα πρέπει να συγχρονίσετε την Αλληλογραφία χειροκίνητα για να μπορείτε να συγχρονίσετε μηνύματα και συμβάντα ημερολογίου.</string>
