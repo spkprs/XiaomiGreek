@@ -50,8 +50,8 @@
      <string name="open">Ενεργοποιήστε</string>
      <string name="open_print_service">Ενεργοποίηση εκτύπωσης</string>
      <string name="open_print_service_tips">Για να μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία, ενεργοποιήστε πρώτα την εκτύπωση από τις Ρυθμίσεις.</string>
-     <string name="open_wlan">Ενεργοποιήστε το WLAN</string>
-     <string name="open_wlan_tips">Ενεργοποιήστε το WLAN για να βρείτε εκτυπωτές πιο γρήγορα.</string>
+     <string name="open_wlan">Ενεργοποιήστε το WiFi</string>
+     <string name="open_wlan_tips">Ενεργοποιήστε το WiFi για να βρείτε εκτυπωτές πιο γρήγορα.</string>
      <string name="other_printer">Άλλοι εκτυπωτές</string>
      <string name="page_description_template">Σελίδα %1$d από %2$d</string>
      <string name="pages_range_example">π.χ. 1-5,8,11-13</string>
@@ -68,7 +68,7 @@
      <string name="print_fail_network_error">Δεν ήταν δυνατή η εκτύπωση. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
      <string name="print_forget_printer">Διαγραφή εκτυπωτή</string>
      <string name="print_help_label">Βοήθεια</string>
-     <string name="print_help_tip">Βεβαιωθείτε ότι τόσο το τηλέφωνο όσο και ο εκτυπωτής είναι συνδεδεμένοι στο ίδιο δίκτυο WLAN ή είναι ενεργοποιημένο το WLAN Direct. %1$s.</string>
+     <string name="print_help_tip">Βεβαιωθείτε ότι τόσο το τηλέφωνο όσο και ο εκτυπωτής είναι συνδεδεμένοι στο ίδιο δίκτυο WiFi ή είναι ενεργοποιημένο το WiFi Direct. %1$s.</string>
      <string name="print_help_tip_reg">\"Βοήθεια\"</string>
      <string name="print_no_print_services">Δεν έχουν ενεργοποιηθεί υπηρεσίες εκτύπωσης</string>
      <string name="print_no_printers">Δεν βρέθηκαν εκτυπωτές</string>
@@ -112,9 +112,11 @@
      <string name="start_print">Εκτύπωση</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="summary_template">Σύνοψη, αντίγραφα %1$s, μέγεθος χαρτιού %2$s</string>
-     <string name="system_print_service_help">Σχετικά με εκτύπωση</string>
+     <string name="system_print_service_help">Σχετικά με την εκτύπωση</string>
      <string name="template_all_pages">Και οι %1$s σελίδες</string>
      <string name="template_page_range">Εύρος σελίδων από %1$s</string>
      <string name="uri_package_details">market://details?id=%1$s</string>
-     <string name="wifi_direct">WLAN Direct</string>
+     <string name="wifi_direct">Άμεσα σε WifI</string>
+     <string name="copies_decrease">Μείον ένα αντίγραφο</string>
+     <string name="copies_increase">Συν ένα αντίγραφο</string>
 </resources>

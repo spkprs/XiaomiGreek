@@ -6737,4 +6737,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="fingerprint_wakeup_title">Άγγιγμα αισθητήρα δακτυλικών αποτυπωμάτων για αφύπνιση</string>
     <string name="use_google_feed_title">Προβολή τροφοδοσίας Google</string>
     <string name="use_google_feed_summary">Χρήση τροφοδοσίας (Feed) Google αντί του Mi Βοηθού. Απαιτείται εφαρμογή Google.</string>
+	<string name="network_alarm">"Χωρίς σίγαση κλήσεων διαδικτύου"</string>
+	<string name="network_alarm_summary">"Σημείωση: Ορισμένες εφαρμογές δεν είναι συμβατές με αυτήν τη λειτουργία. %1$s"</string>
+	<string name="network_alarm_summary_reg">Προβολή υποστηριζόμενων εφαρμογών</string>
+	<string name="network_alarm_support_apps">Υποστηριζόμενες εφαρμογές</string>
 </resources>

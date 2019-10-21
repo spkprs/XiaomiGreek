@@ -475,4 +475,9 @@
 	 <string name="xspace_instagram_title">Instagram</string>
 	 <string name="instagram_send">Αποστολή με Instagram</string>
 	 <string name="use_google_open">Αφύπνιση με χρήση του Βοηθού Google</string>
+	<string name="xspace_disable">Δεν δημιουργήθηκε</string>
+	<string name="xspace_enable">Δημιουργήθηκε</string>
+	<string name="xspace_notification">Ειδοποιήσεις διπλής εφαρμογής</string>
+	<string name="xspace_notification_error">Συνδεθείτε σε διπλό WeChat και δοκιμάστε ξανά</string>
+	<string name="xspace_settins">Ορισμός</string>
 </resources>
