@@ -24,4 +24,8 @@
         <item quantity="other">%d στοιχείων</item>
         <item quantity="one">%d στοιχείο</item>
     </plurals>	 
+    <plurals name="search_result">
+        <item quantity="other">Βρέθηκαν %d εγγραφές</item>
+        <item quantity="one">Βρέθηκε %d εγγραφή</item>
+    </plurals>
 </resources>

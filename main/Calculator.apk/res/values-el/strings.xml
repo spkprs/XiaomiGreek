@@ -348,6 +348,10 @@
   <string name="preference_settings">Ρυθμίσεις</string>
   <string name="preference_use_degress_summary">Αντικατάσταση ακτινίων με μοίρες στις τριγωνομετρικές συναρτήσεις</string>
   <string name="preference_use_degress_title">Χρήση μοιρών</string>
+  <string name="preference_use_voice_summary">Ενεργοποίηση για χρήση της εξόδου ομιλίας κατά τους υπολογισμούς</string>
+  <string name="preference_use_voice_title">Έξοδος ομιλίας</string>
+  <string name="preference_user_feedback_title">Σχόλια</string>
+  <string name="voice_guide_text">Μπορείτε να ενεργοποιήσετε την έξοδο ομιλίας εδώ</string>
   <string name="privacy_policy">Πολιτική Απορρήτου</string>
   <string name="radDesc">Ακτίνιο</string>
   <string name="radian">rad</string>
