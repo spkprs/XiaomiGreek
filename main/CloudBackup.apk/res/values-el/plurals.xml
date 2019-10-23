@@ -13,12 +13,12 @@
          <item quantity="one">%1$s αντίγραφο, μέγεθος:%2$s</item>
      </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">Υψηλής προτερ/τας: %d στοιχεία</item>
-        <item quantity="one">Υψηλής προτερ/τας: %d στοιχείο</item>
+        <item quantity="other">Υψηλής προτερ/τας: %d εφαρμ.</item>
+        <item quantity="one">Υψηλής προτερ/τας: %d εφαρμ.</item>
     </plurals>
     <plurals name="restore_app_order_normal">
-        <item quantity="other">Κανονικής προτερ/τας: %d στοιχεία</item>
-        <item quantity="one">Κανονικής προτερ/τας: %d στοιχείο</item>
+        <item quantity="other">Κανονικής προτερ/τας: %d εφαρμ.</item>
+        <item quantity="one">Κανονικής προτερ/τας: %d εφαρμ.</item>
     </plurals>
     <plurals name="restore_app_order_installed">
         <item quantity="other">%d εφαρμ. σε αυτήν τη συσκευή</item>
