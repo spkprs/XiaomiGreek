@@ -105,7 +105,7 @@
      <string name="auth_sdk_message_15_message">接口异常，错误消息为： {0}, 请使用 LogCat 查看更多细节</string>
      <string name="auth_sdk_message_15_name">SERVER_REQUEST_ERROR</string>
      <string name="auth_sdk_message_15_type">I</string>
-     <string name="back">Back</string>
+     <string name="back">Πίσω</string>
      <string name="barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
      <string name="birthday">Γενέθλια:</string>
      <string name="blog">Weibo</string>
@@ -158,19 +158,16 @@
      <string name="document_ocr_result_title">Φωτογραφία εγγράφου</string>
      <string name="document_ocr_tip_msg">ανάγνωση…</string>
      <string name="document_recognize_fail_tip">Αδυναμία ανάγνωσης εγγράφου</string>
-     <string name="document_recognize_null_tip">"Couldn't recognize document"</string>
      <string name="document_rectify">Προσαρμογή</string>
      <string name="document_rectify_tip_msg">Προσαρμογή…</string>
      <string name="document_save_succeed_tip">Το έγγραφο αποθηκεύτηκε στο %1$s</string>
      <string name="document_title">Λήψη φωτογραφίας ενός εγγράφου</string>
      <string name="document_top_panel_title">Φωτογραφία εγγράφου</string>
      <string name="done">Ολοκληρώθηκε</string>
-     <string name="drag_barcode_into_frame">Drag the frame to fit the code</string>
      <string name="drag_crop_to_business_card">Μετακίνηση προς περικοπή</string>
      <string name="email">Email:</string>
      <string name="error_camera_disabled">Η πρόσβαση στην Κάμερα απορρίφθηκε για λόγους ασφαλείας</string>
      <string name="error_cannot_connect_camera">Αδυναμία σύνδεσης στην Κάμερα</string>
-     <string name="error_get_image">"Couldn't get image"</string>
      <string name="error_media_storage_failure">Αδυναμία αποθήκευσης φωτογραφίας</string>
      <string name="error_permissions">Ο Σαρωτής δεν έχει τα δικαιώματα που απαιτούνται για να λειτουργήσει κανονικά. Πηγαίνετε στις Ρυθμίσεις και ελέγξτε τα δικαιώματα για να συνεχίσετε.</string>
      <string name="fax">Fax</string>
@@ -324,4 +321,11 @@
 	<string name="once">Μόνο μια φορά</string>
 	<string name="to_install_title">Αυτός ο κώδικας QR σας ανακατευθύνει σε μια μη εγκατεστημένη εφαρμογή. Άμεση λήψη αυτής της εφαρμογής?</string>
 	<string name="toinstall">Λήψη</string>
+     <string name="close_hotspot_when_connecting_to_wifi">Hotspot είναι ενεργοποιημένο. Ενεργοποίηση Wi-Fi.</string>
+     <string name="document_recognize_null_tip">"Δεν ήταν δυνατή η αναγνώριση του εγγράφου"</string>
+     <string name="drag_barcode_into_frame">Σύρετε το πλαίσιο για να ταιριάζει στον κώδικα</string>
+     <string name="error_get_image">"Δεν ήταν δυνατή η λήψη εικόνας"</string>
+     <string name="pay_no_tip">"Να μην εμφανιστεί ξανά"</string>
+     <string name="pay_save_this_choose">Απομνημόνευση της επιλογής μου</string>
+     <string name="setting_function_sort">Αναδιάταξη δυνατοτήτων</string>
 </resources>

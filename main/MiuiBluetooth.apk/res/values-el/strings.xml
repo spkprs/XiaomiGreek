@@ -73,4 +73,8 @@
 	 <string name="notify_fast_connect_device_text">Ξεκλειδώστε την οθόνη και προσπαθήστε να συνδεθείτε</string>
 	 <string name="notify_fast_connect_device_title">Βρέθηκαν ακουστικά %1$s</string>
      <string name="fast_connect_headset_reset">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ</string>
+     <string name="copy">Αντιγραφή</string>
+     <string name="not_set">Δεν έχει οριστεί</string>
+     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
+     <string name="search_menu_title">Αναζήτηση</string>
 </resources>

@@ -416,5 +416,7 @@
     <string name="launcher_minus_screen_title">Μείον μία οθόνη</string>  
     <string name="mi_wallpaper">MIUI Θέματα</string>
     <string name="minus_one_screen">Προσωπικός Βοηθός</string>
+     <string name="double_tap_to_lock_title">Πατήστε δύο φορές για κλείδωμα της οθόνης</string>
+     <string name="system_text">Σύστημα</string>
 </resources>
 

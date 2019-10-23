@@ -541,4 +541,24 @@
   <string name="feedback_choose_occurrence_time">Ώρα</string>
   <string name="feedback_hint_optional">Επιλογή</string>
   <string name="feedback_title_occurrence_time">Επιλογή ώρας</string>
+     <string name="feedback_detail_copy_toast">Αντιγράφηκε στο πρόχειρο</string>
+     <string name="feedback_detail_feedback_attach">Συνημμένα</string>
+     <string name="feedback_detail_feedback_attach_upload_failed">"Δεν ήταν δυνατή η αποστολή"</string>
+     <string name="feedback_detail_feedback_attach_uploading">Αποστολή…</string>
+     <string name="feedback_detail_feedback_category">Κατηγορία</string>
+     <string name="feedback_detail_feedback_id">Αναφορά ID: %d</string>
+     <string name="feedback_detail_feedback_reply_hint">Απάντηση</string>
+     <string name="feedback_detail_feedback_summary">Σχόλια</string>
+     <string name="feedback_detail_need_content">Εισαγωγή περιεχομένου πρώτα</string>
+     <string name="feedback_detail_title">Λεπτομέρειες</string>
+     <string name="feedback_detail_upload_generate_log">Δημιουργία αρχείων καταγραφής</string>
+     <string name="feedback_detail_upload_image">Αποστολή εικόνων/βίντεο</string>
+     <string name="feedback_detail_upload_local_log">Αποστολή αρχείου</string>
+     <string name="feedback_detail_upload_log">Αποστολή αρχείων καταγραφής</string>
+     <string name="feedback_detail_waiting">Δημιουργία…</string>
+     <string name="kr_authorization_function">Υποβολή σχολίων, δημιουργία αρχείων καταγραφής, προβολή συχνών ερωτήσεων</string>
+     <string name="mi_service_dialog_cancel">Έξοδος</string>
+     <string name="mi_service_dialog_confirm">Άνοιγμα</string>
+     <string name="mi_service_dialog_content">Όλες οι λειτουργίες σχολίων μετακινήθηκαν στη νέα εφαρμογή \"Υπηρεσίες &amp; Σχόλια\". Η εφαρμογή θα αφαιρεθεί από την Αρχική οθόνη. Άγγίξτε \"Άνοιγμα\" να δοκιμάσετε την \"Υπηρεσίες &amp; Σχόλια\".</string>
+     <string name="mi_service_dialog_title">Παρουσίαση \"Υπηρεσίες &amp; Σχόλια\"</string>
 </resources>

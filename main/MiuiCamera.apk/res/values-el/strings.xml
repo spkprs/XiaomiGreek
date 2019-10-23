@@ -887,4 +887,6 @@
   <string name="vv_use_hint_text_body">"Η λειτουργία Vlog σας επιτρέπει
 την εγγραφή και επεξεργασία βίντεο εν κινήσει"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
+  <string name="dirty_tip_toast">Ο φακός είναι βρώμικος. Καθαρίστε τον.</string>
+  <string name="hint_subtitle">"Υπαγόρευση υπότιτλων κατά τη λήψη βίντεο"</string>
 </resources>

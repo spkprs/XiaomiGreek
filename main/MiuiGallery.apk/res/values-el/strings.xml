@@ -1577,6 +1577,11 @@
     <string name="month_september">Σεπτέμβριος</string>
     <string name="month_september_short">Σεπ</string>
     <string name="month_september_shortest">Σ</string>
-  <string name="cloud_privacy_with_ai_album">Δήλωση απορρήτου σχετικά με τα αυτόματα αντίγραφα ασφαλείας και την επεξεργασία εικόνων</string>
-  <string name="cloud_privacy_with_face">Δήλωση απορρήτου σχετικά με τα αυτόματα αντίγραφα ασφαλείας και την αναγνώριση προσώπου</string>
+    <string name="btn_cancel">Ακύρωση</string>
+    <string name="cloud_privacy_with_ai_album">Δήλωση απορρήτου σχετικά με τα αυτόματα αντίγραφα ασφαλείας και την επεξεργασία εικόνων</string>
+    <string name="cloud_privacy_with_face">Δήλωση απορρήτου σχετικά με τα αυτόματα αντίγραφα ασφαλείας και την αναγνώριση προσώπου</string>
+    <string name="file_cannot_print">"Δεν είναι δυνατή η εκτύπωση αυτού του στοιχείου."</string>
+    <string name="file_cannot_screen_throw">"Δεν είναι δυνατή η μετάδοση αυτού του στοιχείου."</string>
+    <string name="file_sending">Μεταφορά αρχείων…</string>
+    <string name="functions_are_being_developed">Αυτή η δυνατότητα θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
 </resources>

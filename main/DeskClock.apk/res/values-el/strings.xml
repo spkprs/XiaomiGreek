@@ -151,6 +151,7 @@
 	<string name="module_download_data_msg_replace">Διατίθεται ενημέρωση ήχου έξυπνων ειδοποιήσεων MIUI. ≈ 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Λήψη τώρα;</string>
 	<string name="module_download_data_msg_timer">Το ρολόι χρειάζεται να κάνει λήψη αρχείων ήχων περιβάλλοντος για τα χρονόμετρα. Για την λήψη αυτή απαιτούνται 20MB δεδομένων κινητής τηλεφωνίας. Λήψη τώρα?</string>
 	<string name="module_download_fail">"Δεν ήταν δυνατή η λήψη πρόσθετου ήχου"</string>
+    <string name="module_unzipping">Αποσυμπίεση ήχου…</string>
 	<string name="module_download_failure">"Αδυναμία λήψης ήχου. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
 	<string name="module_download_msg">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Οι έξυπνες αφυπνίσεις περιέχουν ειδικούς ήχους για τρέχουσες πληροφορίες καιρού. Λήψη τώρα?</string>
 	<string name="module_download_msg_golbal">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Αποδοχή?</string>
