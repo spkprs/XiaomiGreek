@@ -6,7 +6,7 @@
         <item quantity="one">Βρέθηκε %1$s εκτυπωτής</item>
      </plurals>
      <plurals name="print_services_recommendation_subtitle">
-        <item quantity="other">Install to discover %1$s printers</item>
-        <item quantity="one">Install to discover %1$s printer</item>
+        <item quantity="other">Εγκατάσταση για τον εντοπισμό %1$s εκτυπωτών</item>
+        <item quantity="one">Εγκατάσταση για τον εντοπισμό %1$s εκτυπωτή</item>
      </plurals>
 </resources>

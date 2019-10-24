@@ -6,9 +6,9 @@
         <item>Έγχρωμο</item>
      </string-array>
      <string-array name="duplex_mode_labels">
-        <item>None</item>
-        <item>Long edge</item>
-        <item>Short edge</item>
+        <item>Χωρίς</item>
+        <item>Μακριά άκρη</item>
+        <item>Μικρή άκρη</item>
      </string-array>
      <string-array name="orientation_labels">
         <item>Κάθετα</item>
