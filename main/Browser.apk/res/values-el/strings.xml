@@ -782,6 +782,7 @@
   <string name="pref_content_night_read_mode">Λειτουργία νυκτός</string>
   <string name="pref_content_search_engine">Αναζήτηση στη γραμμή μέσω</string>
   <string name="pref_content_search_engine_summary">Επιλέξτε μια μηχανή αναζήτησης</string>
+  <string name="pref_content_simple_homepage">Απλοποιημένη αρχική σελίδα</string>
   <string name="pref_data_preload_value_always">ΠΑΝΤΑ</string>
   <string name="pref_data_preload_value_never">ΠΟΤΕ</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ΜΟΝΟ</string>

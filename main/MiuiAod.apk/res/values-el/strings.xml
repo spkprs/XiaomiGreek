@@ -43,7 +43,7 @@
 	<string name="aod_mode_summary">Εμφάνιση ρολογιού, ημερομηνίας, ειδοποιήσεων και εικόνων φόντου όταν η οθόνη είναι ανενεργή</string>
 	<string name="aod_mode_time_summary">Χρόνος προγραμματισμού για ενεργοποίηση και απενεργοποίηση της λειτουργίας Πάντα σε λειτουργία</string>
 	<string name="aod_mode_time_title">Χρονοδιάγραμμα</string>
-	<string name="aod_mode_title">Πάντα σε λειτουργία</string>
+	<string name="aod_mode_title">Πάντα στην οθόνη</string>
 	<string name="aod_show_style_title">Εμφάνιση στοιχείων</string>
 	<string name="aod_to_close">Απενεργοποίηση</string>
 	<string name="cancel">Ακύρωση</string>
@@ -107,4 +107,10 @@
      <string name="text_size">Μέγεθος κειμένου</string>
      <string name="time_style">Στυλ</string>
      <string name="time_style_layout">Διάταξη</string>
+    <string name="above_image">Πάνω</string>
+    <string name="aod_show_date_and_time">Εμφάνιση ημερ/νίας και ώρας</string>
+    <string name="below_image">Κάτω</string>
+    <string name="custom_image">Προσαρμοσμένη εικόνα</string>
+    <string name="shownone_arround_image">Χωρίς</string>
+    <string name="time_location">Θέση ρολογιού</string>
 </resources>

@@ -1584,4 +1584,15 @@
     <string name="file_cannot_screen_throw">"Δεν είναι δυνατή η μετάδοση αυτού του στοιχείου."</string>
     <string name="file_sending">Μεταφορά αρχείων…</string>
     <string name="functions_are_being_developed">Αυτή η δυνατότητα θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
+    <string name="cleaner_raw_action">Καθαρισμός</string>
+    <string name="cleaner_raw_description">Ελευθερώστε χώρο αποθήκευσης διαγράφοντας μεγάλες εικόνες RAW</string>
+    <string name="cleaner_raw_title">Καθαρισμός RAW αρχείων</string>
+    <string name="filter_film_classic">Κλασικό</string>
+    <string name="main_save_origin">Αποθήκευση αρχικού αρχείου</string>
+    <string name="main_save_cancel">Ακύρωση</string>
+    <string name="main_save_compress">Συμπίεση και Αποθήκευση</string>
+    <string name="thumbnail_build_error">"Αδύνατη η λήψη μικρογραφίας"</string>
+    <string name="thumbnail_error_log_cleared">Επιτυχής εκκαθάριση</string>
+    <string name="unsupport_raw">"%s δεν λειτουργεί με εικόνες RAW"</string>
+    <string name="unsupport_raw_and_video">"%s δεν λειτουργεί με βίντεο και εικόνες RAW"</string>
 </resources>

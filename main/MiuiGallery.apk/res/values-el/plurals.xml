@@ -324,4 +324,8 @@
         <item quantity="other">%1$d δευτ.</item>
         <item quantity="one">%1$d δευτ.</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="one">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων στοιχείων με το cloud για %d λεπτό.</item>
+        <item quantity="other">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων στοιχείων με το cloud για %d λεπτά.</item>
+    </plurals>
 </resources>

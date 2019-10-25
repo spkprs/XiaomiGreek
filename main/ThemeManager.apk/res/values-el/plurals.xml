@@ -60,4 +60,16 @@
         <item quantity="other">Εφαρμόστηκε σε %1$d συσκευές</item>
         <item quantity="one">Εφαρμόστηκε σε %1$d συσκευή</item>
     </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="one">%1$d θαυμαστής</item>
+        <item quantity="other">%1$d θαυμαστές</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="one">%1$d στοιχείο</item>
+        <item quantity="other">%1$d στοιχεία</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="one">%1$d περισσότερα σχόλια</item>
+        <item quantity="other">%1$d περισσότερα σχόλια</item>
+    </plurals>
 </resources>
