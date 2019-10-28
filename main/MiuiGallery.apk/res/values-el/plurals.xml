@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Σύντομα</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Σε %d λεπτά</item>
+        <item quantity="one">Σε %d λεπτό</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">%d λεπτό πριν</item>
+    </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Απόκρυψη αυτών των αρχείων;</item>
         <item quantity="one">Απόκρυψη αυτού του αρχείου;</item>
@@ -61,8 +75,8 @@
         <item quantity="one">Επανάληψη αντιγράφων σε %d ώρα</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d φωτογραφίες και βίντεο | Παύση</item>
-        <item quantity="one">%d φωτογραφία ή βίντεο | Παύση</item>
+        <item quantity="other">Θα συνεχιστεί σε %d λεπτά</item>
+        <item quantity="one">Θα συνεχιστεί σε %d λεπτό</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d φωτογραφίες και βίντεο | %2$s</item>
@@ -146,7 +160,7 @@
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d στοιχεία σε αναμονή συγχρονισμού</item>
-        <item quantity="one">1 στοιχείο σε αναμονή συγχρονισμού</item>
+        <item quantity="one">%1$d στοιχείο σε αναμονή συγχρονισμού</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d φωτογραφίες</item>
@@ -154,19 +168,19 @@
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d φωτογραφίες σε αναμονή συγχρονισμού</item>
-        <item quantity="one">1 φωτογραφία σε αναμονή συγχρονισμού</item>
+        <item quantity="one">%1$d φωτογραφία σε αναμονή συγχρονισμού</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Συγχρονισμός %1$d φωτογραφιών…</item>
-        <item quantity="one">Συγχρονισμός μιας φωτογραφίας…</item>
+        <item quantity="one">Συγχρονισμός %1$d φωτογραφίας…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Συγχρονισμός %1$d στοιχείων…</item>
-        <item quantity="one">Συγχρονισμός ενός στοιχείου…</item>
+        <item quantity="one">Συγχρονισμός %1$d στοιχείου…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Συγχρονισμός %1$d βίντεο…</item>
-        <item quantity="one">Συγχρονισμός ενός βίντεο…</item>
+        <item quantity="one">Συγχρονισμός %1$d βίντεο…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d βίντεο</item>
@@ -174,7 +188,7 @@
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d βίντεο σε αναμονή συγχρονισμού</item>
-        <item quantity="one">1 βίντεο σε αναμονή συγχρονισμού</item>
+        <item quantity="one">%1$d βίντεο σε αναμονή συγχρονισμού</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Οι επιλεγμένες φωτογραφίες δεν είναι στη συσκευή. Κατεβάστε τις με χρήση κινητής?</item>

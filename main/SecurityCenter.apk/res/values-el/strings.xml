@@ -2782,8 +2782,7 @@
     <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την \"Πάντα Ενεργή\"</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Καλώς ήλθατε στον %1s! Επιτρέπετε να χρησιμοποιήσει τις παρακάτω λειτουργίες: %2s</string>
-    <string name="system_permission_declare_privacy_declare">"Σεβόμαστε και προστατεύουμε το απόρρητό σας. Έχετε υπόψη ότι την
-%1s χρειάζεται για να συλλέξει τα δεδομένα σας και απαιτεί τα ακόλουθα δικαιώματα για κανονική λειτουργία: "</string>
+    <string name="system_permission_declare_privacy_declare">Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές νομοθετικές, κανονιστικές και πολιτικές απορρήτου. Σημειώστε ότι η Ασφάλεια πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για τη συλλογή των προσωπικών σας στοιχείων:</string>
     <string name="system_permission_declare_use_network">Σύνδεση στο δίκτυο</string>
     <string name="system_permission_declare_no_say_no">"Αν επιλέξετε να μην δώσετε τα απαιτούμενα δικαιώματα ή δεν μας επιτρέψετε να συλλέξουμε και να χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα είναι σε θέση να λειτουργήσει κανονικά."</string>
     <string name="system_permission_declare_revoke_path">Μπορείτε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής, να αποσυνδεθείτε από το λογαριασμό σας ή να διαχειριστείτε τα δικαιώματα και τις εξουσιοδοτήσεις σας στην ενότητα Ασφάλεια> Διαχείριση εφαρμογών> Δικαιώματα> Άλλα δικαιώματα.</string>
@@ -2824,8 +2823,7 @@
     <string name="stop_milink_connect">Παύση Μετάδοσης</string>
     <string name="other_milink_connect">"Αδύνατη η Μετάδοση. Μια άλλη λειτουργία είναι σε προβολή."</string>
     <string name="alert_back_milink_hangup_tips_content">"Η Μετάδοση δεν θα διακοπεί κατά τη λήξη μιας κλήσης. Μπορείτε να πατήσετε το κουμπί POWER για ενεργοποίηση οθόνης."</string>
-	<string name="system_permission_declare_privacy_no_permission">"Σημειώστε ότι η %1s πρέπει να συλλέγει τα δεδομένα σας για να λειτουργήσει κανονικά.
-Σεβόμαστε και προστατεύουμε τα Προσωπικά σας Δεδομένα."</string>
+	<string name="system_permission_declare_privacy_no_permission">Σημειώστε ότι η Ασφάλεια πρέπει να συνδεθεί στο Internet και να συλλέξει τις απαιτούμενες προσωπικές πληροφορίες προκειμένου να σας παρέχει υπηρεσίες.Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές νομοθετικές, κανονιστικές και πολιτικές απορρήτου.</string>
 	<string name="system_permission_declare_use_network_no_permission">Σύνδεση στο δίκτυο</string>
 	<string name="system_permission_declare_revoke_uninstallable">Μπορείτε να αποσυνδεθείτε, να απεγκαταστήσετε αυτήν την εφαρμογή ή να ανακαλέσετε την εξουσιοδότησή σας στην Ασφάλεια &gt; Διαχείρηση Εφαρμογών &gt; Δικαιώματα &gt; Δικαιώματα.</string>
     <string name="system_tool_green_guard">Οικογενειακή Προστασία</string>
@@ -2972,4 +2970,8 @@
 	<string name="power_center_5g_save_summary_text">Μειώστε την κατανάλωση ενέργειας στη συνδεσιμότητα 5G σε ορισμένα σενάρια</string>
 	<string name="power_center_5g_save_title_text">5G εξοικονόμηση μπαταρίας</string>
 	<string name="process_vpnsdkmanager_label">Game Turbo</string>
+    <string name="applock_go_to">Ρυθμίσεις</string>
+    <string name="applock_settings_unlock_all_toast">Ξεκλείδωμα όλων των εφαρμογών</string>
+    <string name="lock_all_title">Κλείδωμα όλων των εφαρμογών</string>
+    <string name="power_center_list_item_set_lockscreen_time_holder">Κλείδωμα συσκευής μετά από %d δευτ. αδράνειας</string>
 </resources>

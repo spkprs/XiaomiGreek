@@ -177,7 +177,7 @@
   <string name="service_name_screen_recording">Εγγραφή οθόνης</string>
   <string name="service_name_security">Ασφάλεια</string>
   <string name="service_name_service_framework">Πλαίσιο υπηρεσιών mi</string>
-  <string name="service_policy"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=%1$s> Πολιτική Απορρήτου &lt;/a > μας.</Data></string>
+  <string name="service_policy">&lt;Data&gt; Διαβάστε και συμφωνήστε με την &amp;lt;a href=%1$s&amp;gt; Πολιτική Απορρήτου &amp;lt;/a &amp;gt; μας.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Πολιτική Απορρήτου</string>
   <string name="servicestate_title">Δήλωση σχετικά με τις βασικές υπηρεσίες</string>
   <string name="setting_locale">Ρύθμιση τοποθεσίας…</string>

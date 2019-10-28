@@ -51,7 +51,7 @@
      <string name="open_print_service">Ενεργοποίηση εκτύπωσης</string>
      <string name="open_print_service_tips">Για να μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία, ενεργοποιήστε πρώτα την εκτύπωση από τις Ρυθμίσεις.</string>
      <string name="open_wlan">Ενεργοποιήστε το WiFi</string>
-     <string name="open_wlan_tips">Ενεργοποιήστε το WiFi για να βρείτε εκτυπωτές πιο γρήγορα.</string>
+     <string name="open_wlan_tips">Ενεργοποιήστε το WiFi για αναζήτηση εκτυπωτών.</string>
      <string name="other_printer">Άλλοι εκτυπωτές</string>
      <string name="page_description_template">Σελίδα %1$d από %2$d</string>
      <string name="pages_range_example">π.χ. 1-5,8,11-13</string>

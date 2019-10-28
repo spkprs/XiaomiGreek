@@ -1185,13 +1185,11 @@
      <string name="phone_locked_foget_password">Ξεχάσατε τον κωδικό;</string>
      <string name="phone_locked_foget_password_mehod_back">Πίσω</string>
      <string name="phone_locked_foget_password_method">Ξεχάσατε τον κωδικό;</string>
-     <string name="phone_locked_foget_password_method_content">" \"&lt;Data&gt;Πρέπει να &lt;font color=#a5220e&gt;διαγράφούν όλα τα δεδομένα &lt;/font&gt; από τη συσκευή σας, συμπεριλαμβανομένων των φωτογραφιών και των επαφών και μετά να ορίσετε ένα νέο κωδικό κλειδώματος Οθόνης.&lt;/Data&gt;\" "</string>
+     <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Πρέπει να &amp;lt;font color=#a5220e&amp;gt; διαγράφούν όλα τα δεδομένα &amp;lt;/font&amp;gt; από τη συσκευή σας, συμπεριλαμβανομένων των φωτογραφιών και των επαφών και μετά να ορίσετε ένα νέο κωδικό κλειδώματος Οθόνης.&lt;/Data&gt;</string>
      <string name="phone_locked_foget_password_method_next">Επόμενο</string>
      <string name="phone_locked_foget_password_ok">Το κατάλαβα</string>
-     <string name="phone_locked_forget_password_suggesstion_one_content">" \"&lt;Data&gt;Απενεργοποιήστε τη συσκευή σας και πατήστε παρατεταμένα το &lt;font color=#a5220e&gt;κουμπί Λειτουργίας &lt;/font&gt; και το &lt;font color=#a5220e&gt;κουμπί αύξησης Έντασης &lt;/font&gt;ταυτόχρονα μέχρι να δείτε το Mi logo.&lt;/Data&gt;\" 
-"</string>
-     <string name="phone_locked_forget_password_suggesstion_two_content">" \"&lt;Data&gt;Επιλέξτε &lt;font color=#a5220e&gt;\"Καθαρισμό &amp;amp; Επαναφορά\"&lt;/font&gt; και περιμένετε μέχρι η συσκευή να επανεκκινήσει.&lt;/Data&gt;\" 
-"</string>
+     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Απενεργοποιήστε τη συσκευή σας και πατήστε παρατεταμένα το &amp;lt;font color=#a5220e&amp;gt; Κουμπί Λειτουργίας &amp;lt;/font&amp;gt; και το &amp;lt;font color=#a5220e&amp;gt; Κουμπί αύξησης Έντασης &amp;lt;/font&amp;gt; ταυτόχρονα μέχρι να δείτε το Mi logo.&lt;/Data&gt;</string>
+     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Επιλέξτε &amp;lt;font color=#a5220e&amp;gt; \"Καθαρισμό και Επαναφορά\" &amp;lt;/font&amp;gt; και περιμένετε μέχρι η συσκευή να επανεκκινήσει.&lt;/Data&gt;</string>
      <string name="phone_locked_forget_password_suggesstions_title">Πως διαγράφονται τα δεδομένα;</string>
      <string name="phone_locked_string">Το τηλέφωνο έχει κλειδωθεί</string>
      <string name="picture_color_mode">Λειτουργία χρώματος εικόνας</string>

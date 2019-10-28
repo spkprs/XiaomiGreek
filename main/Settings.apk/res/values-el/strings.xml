@@ -3818,7 +3818,6 @@
      <string name="screen_compatibility_text">Αυτή η εφαρμογή μπορεί να μην σχεδιάστηκε για την οθόνη σας Μπορείτε να ελέγξετε πώς να την προσαρμόσετε στην οθόνη σας εδώ</string>
      <string name="screen_dark_mode_time_title">Χρονοδιάγραμμα</string>
      <string name="screen_effect">Συνδυασμός χρωμάτων</string>
-     <string name="screen_fps_summary">Με υψηλότερο ρυθμό ανανέωσης, η εικόνα γίνεται ομαλότερη, ενώ με χαμηλότερο ρυθμό ανανέωσης εξοικονομείται η μπαταρία</string>
      <string name="screen_fps_title">Ρυθμός ανανέωσης</string>
      <string name="screen_fps_unit">%dHz</string>
      <string name="screen_key_long_press">Παρατεταμένο πάτημα πλήκτρων οθόνης</string>
@@ -6743,4 +6742,13 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="network_alarm_summary">"Σημείωση: Ορισμένες εφαρμογές δεν είναι συμβατές με αυτήν τη λειτουργία. %1$s"</string>
 	<string name="network_alarm_summary_reg">Προβολή υποστηριζόμενων εφαρμογών</string>
 	<string name="network_alarm_support_apps">Υποστηριζόμενες εφαρμογές</string>
+	<string name="fingerprint_unlock_press_type">Πατήστε</string>
+	<string name="fingerprint_unlock_touch_type">Αγγίξτε</string>
+	<string name="fingerprint_unlock_type">Μέθοδος αναγνώρισης δακτ. αποτυπωμάτων</string>
+	<string name="screen_fps_summary_power_save">Η χρήση σταθερού ρυθμού καταναλώνει λιγότερη ενέργεια</string>
+	<string name="screen_fps_summary_smooth">Ορισμένες εφαρμογές θα αυξήσουν αυτόματα το ρυθμό ανανέωσης για να βελτιώσουν την ποιότητα εικόνας</string>
+	<string name="screen_fps_unit_power_save">%dHz (Εξοικονομεί μπαταρία)</string>
+	<string name="screen_fps_unit_smooth">%dHz (Καλύτερη ποιότητα)</string>
+	<string name="unlock_type_category_title">Μέθοδος αναγνώρισης</string>
+	<string name="wellbing_title">Digital wellbeing &amp; Γονικός έλεγχος</string>
 </resources>
