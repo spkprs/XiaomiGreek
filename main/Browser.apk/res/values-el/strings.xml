@@ -201,6 +201,8 @@
   <string name="channel_header_title">Το κανάλι μου</string>
   <string name="channel_more_description">Κάντε κλικ για να προσθέσετε κανάλι</string>
   <string name="channel_more_title">Περισσότερα κανάλια</string>
+  <string name="character_counter_content_description">Υπέρβαση ορίου χαρακτήρων κατά %1$d από %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_security_tip_privacy_policy">Πολιτική Απορρήτου</string>
   <string name="check_security_tip_user_agreement">Συμφωνία Χρήστη</string>
   <string name="checking_now">Ελεγχος...</string>
@@ -511,6 +513,7 @@
   <string name="more_option">Περισσότερες επιλογές</string>
   <string name="movie_player_3g_tip_retry">Συνεχίστε</string>
   <string name="multi_window_max_tips">Ο αριθμός των παραθύρων έφτασε στο ανώτερο όριο</string>
+  <string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
   <string name="mw_accessibility_date_picker_month">Μήνας</string>
   <string name="mw_accessibility_date_picker_week">Εβδομάδα</string>
   <string name="mw_accessibility_date_picker_year">Έτος</string>
@@ -730,6 +733,7 @@
   <string name="page_info_view">Προβολή πληροφοριών σελίδας</string>
   <string name="passport_oauth_sucess_tip">Εξουσιοδοτήθηκε επιτυχώς</string>
   <string name="password">Κωδικός</string>
+  <string name="password_toggle_content_description">Εμφάνιση κωδικού</string>
   <string name="pause_download">Σε παύση</string>
   <string name="paused_queued_for_wifi">Αναμονή για σύνδεση…</string>
   <string name="paused_unknown">Σε παύση</string>

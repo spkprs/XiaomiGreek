@@ -1747,6 +1747,16 @@
         <item>"Χρήση  Κινητής "</item>
         <item>"Χρήση Wi-Fi "</item>
      </string-array>
+     <string-array name="true_color_screen_optimize_summary">
+        <item>Ρύθμιση χρωμάτων βάσει τρέχοντος φωτισμού</item>
+        <item>Πάντα βελτίωση χρωμάτων</item>
+        <item>Επαναφορά τυπικού χρώματος περιεχομένου οθόνης με βαθμονόμηση χρώματος</item>
+     </string-array>
+     <string-array name="true_color_screen_optimize_title">
+        <item>Αυτόματα (προτείνεται)</item>
+        <item>Ενισχυμένα</item>
+        <item>Αρχικό χρώμα</item>
+     </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Κίνηση ανενεργή</item>
         <item>Κλίμακα κίνησης 0.5x</item>
