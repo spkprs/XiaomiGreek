@@ -796,6 +796,7 @@
   <string name="pref_enable_news">Ειδήσεις</string>
   <string name="pref_enable_novels">Βιβλία</string>
   <string name="pref_enable_videos">Βίντεο</string>
+  <string name="pref_extras_devopt">Επιλογές προγραμματιστή</string>
   <string name="pref_extras_reset_default">Επαναφορά προεπιλογών</string>
   <string name="pref_extras_reset_default_dlg">Επαναφορά ρυθμίσεων στις προεπιλεγμένες τιμές;</string>
   <string name="pref_extras_reset_default_summary">Επαναφορά προεπιλεγμένων ρυθμίσεων</string>
