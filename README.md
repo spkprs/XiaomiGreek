@@ -1,4 +1,4 @@
 # XiaomiGreek 
 ...is a repository for test ONLY!
 
-...specialized for dipper for now (beryllium known until when ;-)
+...specialized for dipper for now (beryllium dev unknown until when ;-)
