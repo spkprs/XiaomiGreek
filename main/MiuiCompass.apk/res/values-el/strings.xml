@@ -24,7 +24,7 @@
      <string name="cancel">Ακύρωση</string>
      <string name="cannot_get_location">--</string>
      <string name="compass_settings">Ρυθμίσεις</string>
-     <string name="cta_v2_app_purpose">Εμφάνιση γεωμαγνητικού νότου, γεωγραφικού πλάτους και μήκους, ατμοσφαιρικής πίεσης και υπολογισμός του υψομέτρου της οθόνης</string>
+     <string name="cta_v2_app_purpose">Εμφάνιση κατευθύνσεων, συντεταγμένων, ατμοσφαιρικής πίεσης και τρέχοντος υψομέτρου</string>
      <string name="dialog_body_no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="dialog_calibrat_altitude">Βαθμονόμηση...</string>
      <string name="dialog_title_no_network">Ενεργοποιήστε το Δίκτυο</string>
