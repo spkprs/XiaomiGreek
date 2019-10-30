@@ -550,6 +550,7 @@
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Φακός Google</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Κλείδωμα AE/AF</string>
     <string name="pref_camera_magic_mirror_title">Μαγικός καθρέφτης</string>
+    <string name="pref_camera_manually_exposure_value">Έκθεση</string>
     <string name="pref_camera_manual_mode_title">Χειροκίνητα</string>
     <string name="pref_camera_mfnr_sat_enable_title">Ενεργοποίηση MFNR</string>
     <string name="pref_camera_movie_solid_title">Σταθεροποίηση εικόνας</string>
