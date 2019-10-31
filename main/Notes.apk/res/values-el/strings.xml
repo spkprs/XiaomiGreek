@@ -313,4 +313,10 @@
 	  <string name="todo_menu_cancel">Ακύρωση</string>
 	  <string name="todo_user_guide_fw_pop">Προσθήκη συντόμευσης στην Αρχική Οθόνη</string>
 	  <string name="todo_user_guide_tip5">Μείνετε στην κορυφή του παιχνιδιού σας και μην χάσετε ποτέ τίποτα σημαντικό!</string>
+     <string name="audio_create_normal_state">Απελευθερώστε για δημιουργία. Σύρετε επάνω για ακύρωση.</string>
+     <string name="audio_create_will_cancel_state">Απελευθερώστε για ακύρωση</string>
+     <string name="new_audio_create_cancel_talkback_des">Ακυρώθηκε</string>
+     <string name="new_audio_create_done_talkback_des">Δημιουργήθηκε</string>
+     <string name="new_audio_create_guide_tip">Πατήστε παρατεταμένα για να δημιουργήσετε μια Φωνητική σημείωση</string>
+     <string name="new_audio_create_talkback_des">Πατήστε για να δημιουργήσετε μια σημείωση κειμένου. Παρατεταμένα για μια φωνητική σημείωση. Αφήστε το κουμπί για διακοπή εγγραφής και δημιουργία σημείωσης ή σύρετε επάνω για ακύρωση.</string>
 </resources>

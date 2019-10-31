@@ -918,4 +918,12 @@
      <string name="yearly">Ετησίως (κάθε %s)</string>
      <string name="yearly_plain">Ετησίως</string>
      <string name="yiji_app_download_card_lebal">Πρέπει</string>
+     <string name="edit_event_title_create_agenda">Προσθήκη συμβάντος</string>
+     <string name="edit_event_title_create_anniversary">Προσθήκη επετείου</string>
+     <string name="edit_event_title_create_birthday">Προσθήκη γενεθλίων</string>
+     <string name="edit_event_title_create_countdown">Προσθ. αντίστρ. μέτρησης</string>
+     <string name="edit_event_title_edit_agenda">Επεξεργασία συμβάντος</string>
+     <string name="edit_event_title_edit_anniversary">Επεξεργασία επετείου</string>
+     <string name="edit_event_title_edit_birthday">Επεξεργασία γενεθλίων</string>
+     <string name="edit_event_title_edit_countdown">Επεξ. αντίστρ. μέτρησης</string>
 </resources>
