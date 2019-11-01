@@ -159,7 +159,7 @@
      <string name="app_manager_clear_cache">Καθαρισμός Cache</string>
      <string name="app_manager_clear_data_dlg_message">Όλα τα δεδομένα αυτής της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, ρυθμίσεις, λογαριασμούς, βάσεις δεδομένων κλπ.</string>
      <string name="app_manager_clear_data_dlg_title">Διαγραφή δεδομένων εφαρμογής;</string>
-     <string name="app_manager_clear_dlg_title">Καθαρισμός δεδομ</string>
+     <string name="app_manager_clear_dlg_title">Καθαρισμός δεδομένων</string>
      <string name="app_manager_clear_failed_dlg_message">Αδυναμία καθαρισμού δεδομένων εφαρμογής.</string>
      <string name="app_manager_code_size">Μέγεθος εφαρμογής</string>
      <string name="app_manager_comuting_size">Υπολογισμός…</string>
@@ -171,7 +171,7 @@
      <string name="app_manager_default_open_title">Καθαρισμός προεπιλογών</string>
      <string name="app_manager_defaults_setting">Προεπιλογές</string>
      <string name="app_manager_details_electric_title">Μπαταρία</string>
-     <string name="app_manager_details_storage_title">Αποθηκευτικός Χώρος</string>
+     <string name="app_manager_details_storage_title">Αποθήκευση</string>
      <string name="app_manager_details_title">Πληροφορίες Εφαρμογής</string>
      <string name="app_manager_details_traffic_title">Χρήση δεδομένων μηνιαία</string>
      <string name="app_manager_disable">Να μην επιτρέπεται</string>
@@ -189,7 +189,7 @@
      <string name="app_manager_factory_reset_dlg_msg">Όλες οι ενημερώσεις αυτής της εφαρμογής συστήματος Android θα απεγκατασταθούν.</string>
      <string name="app_manager_factory_reset_dlg_title">Απεγκατάσταση ενημερώσεων;</string>
      <string name="app_manager_force_stop_dlg_text">Εάν κάνετε αναγκαστική διακοπή σε μία εφαρμογή, ίσως να μην συμπεριφέρεται σωστά.</string>
-     <string name="app_manager_force_stop_dlg_title">Αναγκαστική διακοπή;</string>
+     <string name="app_manager_force_stop_dlg_title">Αναγκ διακοπή;</string>
      <string name="app_manager_full_screen_summary">Επιτρέπει στις επιλεγμένες εφαρμογές την Λειτουργία Πλήρους Οθόνης</string>
      <string name="app_manager_full_screen_title">" Λειτουργία Πλήρους Οθόνης"</string>
      <string name="app_manager_globel_other_perm_title">Άλλα δικαιώματα</string>
@@ -397,7 +397,7 @@
      <string name="back_sound_support">Οι τρέχοντες φορείς δικτύων δεν το υποστηρίζουν!</string>
      <string name="background_restrict_app_dialog_message">Ο περιορισμός της πρόσβασης δικτύου στο παρασκήνιο για αυτήν την εφαρμογή μπορεί να καταστήσει αδύνατη την κανονική λειτουργία της εφαρμογής, τη λήψη μηνυμάτων, τη λήψη περιεχομένου κ.λπ.. Περιορίστε ούτως ή άλλως;</string>
      <string name="background_traffic">Παρασκήνιο %s</string>
-     <string name="backsound_set_hint">Ρύθμιση ήχου επιστροφής σε %s;</string>
+     <string name="backsound_set_hint">Ρύθμιση ήχου επιστροφής ως \"%s;\"</string>
      <string name="battery_capacity_title">Χωρητικότητα</string>
      <string name="battery_charge_estimating">Υπολογισμός</string>
      <string name="battery_charge_full">Φορτίστηκε</string>
@@ -1336,7 +1336,7 @@
      <string name="menu_item_app_details">Λεπτομέρειες</string>
      <string name="menu_item_app_permissions_control">Διαχείριση δικαιωμάτων</string>
      <string name="menu_item_control_app_permissions">Να ζητείται η άδεια σας, πριν επιτραπεί σε εφαρμογές να διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής</string>
-     <string name="menu_item_force_stop">Αναγκαστική διακοπή</string>
+     <string name="menu_item_force_stop">Αναγκ διακοπή</string>
      <string name="menu_item_install_debug_package">Εγκατάσταση πακέτου εντοπισμού σφαλμάτων</string>
      <string name="menu_item_notification_antispam_text_avail">Spam</string>
      <string name="menu_item_notification_antispam_text_normal">Spam</string>
@@ -1463,7 +1463,7 @@
  2. Αν χρησιμοποιείτε δύο κάρτες SIM, δοκιμάστε να επιλέξετε την άλλη κάρτα και δείτε αν μπορείτε να συνδεθείτε κανονικά.\u000d
 \u000d
  3. Βεβαιωθείτε ότι η κάρτα SIM και η υποδοχή κάρτας SIM της συσκευής σας δεν έχουν υποστεί ζημιά. Επιβεβαιώστε ότι η κάρτα SIM που χρησιμοποιείτε είναι σωστά τοποθετημένη στην υποδοχή SIM της συσκευής σας."</string>
-     <string name="network_speed_for_apps_close">Αναγκαστική διακοπή</string>
+     <string name="network_speed_for_apps_close">Αναγκ διακοπή</string>
      <string name="network_speed_for_apps_close_app_dlg_msg">Αναγκαστική διακοπή εφαρμογής;</string>
      <string name="network_speed_for_apps_close_system_app_dlg_msg">Δεν είναι δυνατή η αναγκαστική διακοπή εφαρμογών συστήματος.</string>
      <string name="network_speed_for_apps_others">Άλλα</string>
@@ -2155,7 +2155,7 @@
      <string name="st_call_other_group">Αλλα</string>
      <string name="st_call_settings">Λίστα αποκλεισμού κλήσεων</string>
      <string name="st_call_stranger_group">Αποκλεισμός κλήσεων από αγνώστους</string>
-     <string name="st_confirm_dialog_btn_open">Ανοιξτε</string>
+     <string name="st_confirm_dialog_btn_open">Άνοιγμα</string>
      <string name="st_confirm_dialog_summary_contact_call">Όλες οι κλήσεις από τις επαφές θα αποκλειστούν.</string>
      <string name="st_confirm_dialog_summary_oversea_call">Ενεργοποίηση αποκλεισμού όλων των εισερχόμενων κλήσεων από άγνωστους αριθμούς τηλεφώνου.</string>
      <string name="st_confirm_dialog_summary_stranger_call">Όλες οι κλήσεις από άγνωστους θα αποκλειστούν.</string>

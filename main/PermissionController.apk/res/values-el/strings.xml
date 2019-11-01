@@ -124,9 +124,9 @@
     <string name="filter_by_time">Φιλτράρισμα κατά χρόνο</string>
     <string name="filter_by_title">Φιλτράρισμα κατά</string>
     <string name="grant_dialog_button_allow">Να επιτρέπεται</string>
-    <string name="grant_dialog_button_allow_always">Να επιτρέπεται πάντα</string>
-    <string name="grant_dialog_button_allow_background">Να επιτρέπεται πάντα</string>
-    <string name="grant_dialog_button_allow_foreground">Μόνο με τη χρήση της εφαρμογής</string>
+    <string name="grant_dialog_button_allow_always">Αποδοχή πάντα</string>
+    <string name="grant_dialog_button_allow_background">Αποδοχή πάντα</string>
+    <string name="grant_dialog_button_allow_foreground">Αποδοχή μόνο κατά τη χρήση της</string>
     <string name="grant_dialog_button_deny">Απόρριψη</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Απόρριψη και να μην ερωτηθώ ξανά</string>
     <string name="grant_dialog_button_deny_anyway">Απόρριψη</string>

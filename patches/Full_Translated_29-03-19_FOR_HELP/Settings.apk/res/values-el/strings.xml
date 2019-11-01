@@ -2822,7 +2822,7 @@
   <string name="location_neighborhood_level">Οι εφαρμογές μπορούν να κάνουν χρήση του Wi-Fi και του κινητού δικτύου για να ορίσουν την τοποθεσίας σας</string>
   <string name="location_neighborhood_level_wifi">Η τοποθεσία καθορίζεται από το Wi-Fi</string>
   <string name="location_network_based">Wi-Fi και Κινητής για τοποθεσία</string>
-  <string name="location_no_recent_apps">Καμία εφαρμογή δεν ζήτησε πρόσφατα την τοποθεσία σας.</string>
+  <string name="location_no_recent_apps">Δεν ζητήθηκε πρόσφατα</string>
   <string name="location_off_summary">Ανενεργή</string>
   <string name="location_on_summary">Ενεργή</string>
   <string name="location_recent_location_requests_see_all">Προβολή όλων</string>
@@ -4775,7 +4775,7 @@
   <string name="select_logd_size_title">Μέγεθος buffer καταγραφής</string>
   <string name="select_logpersist_dialog_title">Επιλέξτε αποθηκευτικά ημερολόγια για να αποθηκεύσετε επίμονα στη συσκευή</string>
   <string name="select_logpersist_title">Αποθηκεύστε τα δεδομένα καταγραφής σε συσκευή συνεχώς</string>
-  <string name="select_private_dns_configuration_dialog_title">Επιλέξτε τη λειτουργία ιδιωτικού DNS</string>
+  <string name="select_private_dns_configuration_dialog_title">Επιλογή λειτ.  ιδιωτικού DNS</string>
   <string name="select_private_dns_configuration_title">Ιδιωτικό DNS</string>
   <string name="select_sim_card">Επιλέξτε κάρτα SIM</string>
   <string name="select_sim_for_calls">Κλήση με</string>
@@ -4943,8 +4943,8 @@
   <string name="sim_lock_settings_summary_off">Off</string>
   <string name="sim_lock_settings_summary_on">Κλειδωμένο</string>
   <string name="sim_lock_settings_title">Κλείδωμα κάρτας SIM</string>
-  <string name="sim_management_title">Κάρτες SIM και Δίκτυα</string>
-  <string name="sim_management_title_singlesim">Κάρτα SIM και Δίκτυα κινητής</string>
+  <string name="sim_management_title">Κάρτες SIM &amp; Δίκτυα</string>
+  <string name="sim_management_title_singlesim">Κάρτα SIM &amp; Δίκτυα κινητής</string>
   <string name="sim_multi_sims_summary">Επιλέξτε την SIM που προτιμάτε για δεδομένα κινητής.</string>
   <string name="sim_multi_sims_title">Βρέθηκαν πολλαπλές κάρτες SIM</string>
   <string name="sim_name_hint">Εισάγετε το όνομα της SIM</string>

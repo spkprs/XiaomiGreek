@@ -2432,7 +2432,7 @@
      <string name="location_neighborhood_level">Οι εφαρμογές μπορούν να κάνουν χρήση του Wi-Fi και του κινητού δικτύου για να ορίσουν την τοποθεσίας σας</string>
      <string name="location_neighborhood_level_wifi">Η τοποθεσία καθορίζεται από το Wi-Fi</string>
      <string name="location_network_based">Wi-Fi και Κινητής για τοποθεσία</string>
-     <string name="location_no_recent_apps">Καμία εφαρμογή δεν ζήτησε πρόσφατα την τοποθεσία σας.</string>
+     <string name="location_no_recent_apps">Δεν ζητήθηκε πρόσφατα</string>
      <string name="location_off_summary">Ανενεργή</string>
      <string name="location_on_summary">Ενεργή</string>
      <string name="location_scanning_bluetooth_always_scanning_description">Επιτρέπει στις εφαρμογές και στις υπηρεσίες τον εντοπισμό συσκευών Bluetooth ακόμη και όταν είναι ανενεργό. Για βελτίωση υπηρεσιών βάσει της θέσης σας.</string>
@@ -2998,7 +2998,7 @@
      <string name="navigation_guide_dialog_title">Εκμάθηση χειρονομιών</string>
      <string name="navigation_guide_home_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης</string>
      <string name="navigation_guide_home_title">Μετάβαση στην Αρχική οθόνη</string>
-     <string name="navigation_guide_recent_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης και σταματήστε</string>
+     <string name="navigation_guide_recent_summary">Σύρετε επάνω από κάτω και σταματήστε</string>
      <string name="navigation_guide_recent_title">Άνοιγμα των πρόσφατων</string>
      <string name="navigation_guide_settings">Δείγματα χειρονομιών</string>
      <string name="navigation_type_radio_text_full_screen">"Χειρονομίες Πλήρους οθόνης "</string>
@@ -4394,8 +4394,8 @@
      <string name="sim_lock_settings">Ρυθμίσεις κλειδώματος SIM</string>
      <string name="sim_lock_settings_category">Ρύθμιση κλειδώματος SIM</string>
      <string name="sim_lock_settings_title">Κλείδωμα κάρτας SIM</string>
-     <string name="sim_management_title">Κάρτες SIM και Δίκτυα</string>
-     <string name="sim_management_title_singlesim">Κάρτα SIM και Δίκτυα κινητής</string>
+     <string name="sim_management_title">Κάρτες SIM &amp; Δίκτυα</string>
+     <string name="sim_management_title_singlesim">Κάρτα SIM &amp; Δίκτυα κινητής</string>
      <string name="sim_multi_sims_summary">Επιλέξτε την SIM που προτιμάτε για δεδομένα κινητής.</string>
      <string name="sim_multi_sims_title">Βρέθηκαν πολλαπλές κάρτες SIM</string>
      <string name="sim_name_hint">Εισάγετε το όνομα της SIM</string>

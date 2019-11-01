@@ -1483,8 +1483,8 @@
 	  <string name="filter_sky_rainbow">Ουράνιο τόξο</string>
 	  <string name="filter_sky_sunny">Ηλιόλουστος</string>
 	  <string name="filter_sky_sunset">Ηλιοβασίλεμα</string>
-      <string name="fmt_time_12hour">"h 'ώρες'"</string>
-      <string name="fmt_time_24hour">"H 'ώρες'"</string>
+      <string name="fmt_time_12hour">"h 'ώρα'"</string>
+      <string name="fmt_time_24hour">"H 'ώρα'"</string>
 	  <string name="trash_bin_key_word">Διαγραμμένες φωτογραφίες</string>
 	  <string name="clear_dup_medias">Εκκαθάριση διπλότυπων φωτογραφιών</string>
       <string name="clear_dup_success">Επιτυχής εκκαθάριση</string>

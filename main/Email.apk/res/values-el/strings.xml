@@ -717,7 +717,7 @@
   <string name="need_get_qq_mail">Χρειάζεσθε QQ Mail</string>
   <string name="network_error">Χωρίς σύνδεση</string>
   <string name="network_invaild">Αδυναμία σύνδεσης στο δίκτυο</string>
-  <string name="network_not_available">Η σύνδεση δικτύου δεν είναι διαθέσιμη. Δοκιμάστε ξανά αργότερα</string>
+  <string name="network_not_available">Δεν είναι διαθέσιμο δίκτυο. Δοκιμάστε ξανά αργότερα</string>
   <string name="network_tip">Ο έλεγχος ταυτότητας απέτυχε, ελέγξτε τη σύνδεση δικτύου</string>
   <string name="network_try_again">Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά</string>
   <string name="network_unavailable">Το δίκτυο δεν είναι διαθέσιμο</string>

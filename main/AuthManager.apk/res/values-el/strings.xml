@@ -87,9 +87,9 @@
 	<string name="current_permission_template">%1$s από %2$s</string>
 	<string name="default_permission_description">επιτρέπει την εκτέλεση μιας άγνωστης ενέργειας</string>
 	<string name="grant_dialog_button_allow">Αποδοχή</string>
-	<string name="grant_dialog_button_allow_always">Αποδοχή όλες τις ώρες</string>
-	<string name="grant_dialog_button_allow_background">Αποδοχή όλες τις ώρες</string>
-	<string name="grant_dialog_button_allow_foreground">Αποδοχή μόνο κατά τη χρήση της εφαρμογής</string>
+	<string name="grant_dialog_button_allow_always">Αποδοχή πάντα</string>
+	<string name="grant_dialog_button_allow_background">Αποδοχή πάντα</string>
+	<string name="grant_dialog_button_allow_foreground">Αποδοχή μόνο κατά τη χρήση της</string>
 	<string name="grant_dialog_button_deny">Απόρριψη</string>
 	<string name="grant_dialog_button_deny_and_dont_ask_again">Άρνηση &amp; μην ξαναερωτηθώ</string>
 	<string name="grant_dialog_button_deny_background">Μόνο κατά τη χρήση της εφαρμογής</string>
@@ -114,8 +114,8 @@
 	<string name="permission_group_title_privacy_related">Ιδιωτικότητα</string>
 	<string name="permission_group_title_settings_related">Ρυθμίσεις</string>
 	<string name="permission_reminders">Υπενθυμίσεις δικαιωμάτων</string>
-	<string name="permission_warning_template">Επιτρέπετε στο %1$s να %2$s;</string>
-	<string name="permission_warning_template_ask">Επιτρέπετε στο %1$s τα ακόλουθα δικαιώματα;</string>
+	<string name="permission_warning_template">Επιτρέπετε στην %1$s να %2$s;</string>
+	<string name="permission_warning_template_ask">Επιτρέπετε στην %1$s τα ακόλουθα δικαιώματα;</string>
 	<string name="permisson_reject_notice_toast_text2">δεν έχει δικαίωμα να %1$s.</string>
 	<string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
 	<string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις&gt;Εφαρμογές</string>

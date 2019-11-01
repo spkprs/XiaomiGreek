@@ -64,13 +64,13 @@
      <string name="resolution">Ανάλυση</string>
      <string name="resolution_summary">Βίντεο με υψηλότερη ανάλυση έχουν μεγαλύτερη ευκρίνεια</string>
      <string name="screen_orientation">Προσανατολισμός</string>
-     <string name="screen_orientation_summary">Προσανατολισμός καταγεγραμμένων βίντεο</string>
+     <string name="screen_orientation_summary">Προσανατολισμός εγγραφής βίντεο</string>
      <string name="screen_record_option">Επιλογές εγγραφής</string>
      <string name="screen_record_params">Παράμετροι εγγραφής</string>
      <string name="select_all">Επιλογή όλων</string>
      <string name="settings">Ρυθμίσεις</string>
      <string name="show_hard_key">Οπτικοποίηση κουμπιών πλοήγησης</string>
-     <string name="show_hard_key_summary">Εμφάνιση επιλογών κατά το πάτημα των πλήκτρων Home, Μενού και Πίσω</string>
+     <string name="show_hard_key_summary">Εμφάνιση κατά το πάτημα επιλογής των πλήκτρων Home, Μενού και Πίσω</string>
      <string name="show_screen_touch">Προβολή χειρονομιών αφής</string>
      <string name="show_screen_touch_summary">Οπτικοποίηση χειρονομιών μέσω λευκής τελείας</string>
      <string name="sound_source">Πηγή ήχου</string>

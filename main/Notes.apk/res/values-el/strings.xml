@@ -7,7 +7,7 @@
      <string name="action_settings_description">Ρυθμίσεις</string>
      <string name="actionbar_close_description">Κλείστε</string>
      <string name="actionbar_home_description">Πίσω</string>
-     <string name="add_account_desc">Συγχρονισμός των σημειώσεων με το λογαριασμό Mi;</string>
+     <string name="add_account_desc">Είσοδος &amp; Συγχρονισμός των σημειώσεων με το λογαριασμό Mi;</string>
      <string name="alarm_bar_title">Υπενθύμιση</string>
      <string name="alert_action_edit_anyway">Συνέχιση επεξεργασίας</string>
      <string name="alert_message_delete">Διαγραφή %1$s;</string>
@@ -96,7 +96,7 @@
      <string name="hint_foler_name">Όνομα</string>
      <string name="info_note_enter_desktop">Η σημείωση προστέθηκε στην αρχική οθόνη</string>
      <string name="loading_text">Φόρτωση…</string>
-     <string name="login_sync">Είσοδος &amp; συγχρονισμός</string>
+     <string name="login_sync">Αποδοχή</string>
      <string name="menu_add_audio_description">Φωνητική σημείωση</string>
      <string name="menu_add_description">Σημείωση</string>
      <string name="menu_add_folder">Add to folder</string>

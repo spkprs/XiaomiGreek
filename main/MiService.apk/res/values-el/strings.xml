@@ -104,7 +104,7 @@
   <string name="miui_main_update_start">Ενημέρωση τώρα</string>
   <string name="miui_main_update_success_sub_title">Γνωρίστε το νέο MIUI</string>
   <string name="miui_main_update_success_title">Η ζωή γίνεται ευκολότερη</string>
-  <string name="permission_china_version_msg">&lt;Data&gt;Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &amp;lt;a href=%1$s&amp;gt;Συμφωνία χρήσης&amp;lt;/a&amp;gt; και &amp;lt;a href=%2$s&amp;gt;Πολιτική απορρήτου&amp;lt;/a&amp;gt;. Αυτή η εφαρμογή πρέπει επίσης να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά.&lt;/Data&gt;</string>
+  <string name="permission_china_version_msg"><Data>Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s>Συμφωνία χρήσης&lt;/a> και &lt;a href=%2$s>Πολιτική απορρήτου&lt;/a> Αυτή η εφαρμογή πρέπει επίσης να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά.</Data></string>
   <string name="permission_complete">Εγινε</string>
   <string name="permission_contacts_info">Πληροφορίες πρόσβασης λογαριασμού</string>
   <string name="permission_contacts_introduce">Για τη σύνδεση με το λογαριασμό Mi</string>
@@ -114,7 +114,7 @@
   <string name="permission_first_start_network_title">Οροι και Προϋποθέσεις</string>
   <string name="permission_main_purpose">Εμφάνιση επίδειξης χαρακτηριστικών MIUI, υποβολή σχολίων και υποβολή αίτησης για υπηρεσίες μετά την πώληση.</string>
   <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτική)</string>
-  <string name="permission_region_version_msg">&lt;Data&gt;Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &amp;lt;a href=%1$s&amp;gt;Συμφωνία χρήσης&amp;lt;/a&amp;gt; και &amp;lt;a href=%2$s&amp;gt;Πολιτική απορρήτου&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_region_version_msg"><Data>Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s>Συμφωνία χρήσης&lt;/a> και &lt;a href=%2$s>Πολιτική απορρήτου&lt;/a>.</Data></string>
   <string name="permission_select_all">Επιλογή όλων</string>
   <string name="permission_storage">Αποθήκευση</string>
   <string name="permission_storage_introduce">Για την αποθήκευση στοιχείων στη συσκευή σας</string>
