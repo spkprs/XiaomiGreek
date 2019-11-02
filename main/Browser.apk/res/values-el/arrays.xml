@@ -19,7 +19,7 @@
         <item>Οριζόντια προβολή</item>
      </string-array>
      <string-array name="pref_tab_restore_array">
-        <item>Ερώτηση πάντα</item>
+        <item>Ερώτηση</item>
         <item>Άνοιγμα</item>
         <item>Κλείσιμο</item>
      </string-array>

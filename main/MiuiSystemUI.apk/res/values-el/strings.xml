@@ -1210,7 +1210,7 @@
      <string name="pip_settings_bounds">662 756 1142 1026</string>
      <string name="pip_skip_to_next">Μετάβαση στην επόμενη</string>
      <string name="pip_skip_to_prev">Μετάβαση στην προηγούμενη</string>
-     <string name="please_slide_agian">Σύρετε πάλι</string>
+     <string name="please_slide_agian">Σύρετε ξανά</string>
      <string name="plugins">Πρόσθετα</string>
      <string name="pointer_location">Θέση δείκτη</string>
      <string name="pointer_location_summary">Επικάλυψη οθόνης που προβάλει τα τρέχοντα δεδομένα αφής</string>

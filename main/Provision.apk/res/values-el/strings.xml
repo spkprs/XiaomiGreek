@@ -196,7 +196,7 @@
   <string name="skip_gesture_guide_dialog_negative_btn">Ακύρωση</string>
   <string name="skip_gesture_guide_dialog_positive_btn">Εντάξει</string>
   <string name="skip_gesture_guide_dialog_title">Χειρονομίες πλήρους οθόνης</string>
-  <string name="skip_underline">Παράλειψη εκμάθησης</string>
+  <string name="skip_underline">Παράλειψη</string>
   <string name="start_up_slogan">Η ζωή γίνεται ευκολότερη</string>
   <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
   <string name="summary_not_set">Χωρίς ρύθμιση</string>

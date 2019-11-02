@@ -700,14 +700,14 @@
   <string name="v_feedback_title">Επιλέξτε λόγους για τους οποίους δεν θέλετε πλέον να βλέπετε αυτό.</string>
   <string name="v_filter_empty">Δεν ήταν δυνατή η εύρεση αποτελεσμάτων.\nΔοκιμάστε να αναζητήσετε κάτι άλλο.</string>
   <string name="v_find_new_version">Υπάρχει διαθέσιμη μια ενημέρωση</string>
-  <string name="v_find_videos">Αναζήτηση για βίντεο και πάλι</string>
+  <string name="v_find_videos">Αναζήτηση για βίντεο ξανά</string>
   <string name="v_finish">Τέλος</string>
   <string name="v_folder_null">Άγνωστος φάκελος</string>
   <string name="v_get_cash">Πάρτε μετρητά</string>
   <string name="v_get_coin">Λάβετε νομίσματα</string>
   <string name="v_gong_count_ge">Συνολικά: %d</string>
   <string name="v_hide_folder">Κρυφά βίντεο</string>
-  <string name="v_hide_prompt">Ρυθμίστηκε με επιτυχία. Προβολή κρυφών στοιχείων στο φάκελο &amp;quot;Κρυμμένα βίντεο&amp;quot;.</string>
+  <string name="v_hide_prompt">Επιτυχής ρύθμιση. Δείτε κρυφά αντικείμενα στον φάκελο \"Κρυφά βίντεο\".</string>
   <string name="v_history">Ιστορικό</string>
   <string name="v_history_null">Δεν υπάρχουν στοιχεία εδώ</string>
   <string name="v_home_favorites">Αγαπημένα</string>

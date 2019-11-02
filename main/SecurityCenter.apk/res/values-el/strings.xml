@@ -1067,7 +1067,7 @@
      <string name="gs_performance_mode_detail">Βελτιστοποίηση συστήματος για gaming</string>
      <string name="gs_sign_notification">Υπενθυμίστε να κάνετε check in στις 8 μ.μ. καθημερινά</string>
      <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό ή σύρετε από την επάνω πλευρά της οθόνης για να εμφανιστεί ο πίνακας συντομεύσεων</string>
-     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Εσφαλμένος πάροχος;&lt;/U>&lt;/font>"</string>
+     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;u&gt;>Εσφαλμένος πάροχος;&lt;/u&gt;&lt;/font&gt;"</string>
      <string name="guide_operator_text">Ο τρέχων φορέας σας:</string>
      <string name="guide_quck_open">Ενεργοποιήστε</string>
      <string name="guide_second_text">Αφού ορίσετε τον φορέα σας, το MIUI θα παρακολουθεί καθημερινά τη χρήση δεδομένων κινητής τηλεφωνίας καθημερινά στέλνοντας δωρεάν SMS. Όταν το MIUI εντοπίσει ότι έχετε υπερβεί το όριο δεδομένων σας, θα αποσυνδεθεί από το δίκτυο και θα σας ειδοποιήσει.</string>

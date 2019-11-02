@@ -162,7 +162,7 @@
   <string name="flash_drive_connection_failed">Η μονάδα USB αποσυνδέθηκε</string>
   <string name="flash_drive_restore_btn">Επαναφορά από μονάδα USB</string>
   <string name="flash_drive_search_backup_files">Αναζήτηση για αντίγραφο ασφαλείας USB…\nΜην αλλάζετε ή μετονομάζετε αρχεία αντιγράφων ασφαλείας.</string>
-  <string name="gallery_summary">Ρυθμίσεις Συλλογής (δεν συμπεριλαμβανονται φωτό)</string>
+  <string name="gallery_summary">Ρυθμίσεις Συλλογής (χωρίς τις φωτογραφίες)</string>
   <string name="guarded_mode_dialog_backup_message">Αδύνατη η λήψη αντιγράφου σε λειτουργία Επισκέπτη.</string>
   <string name="guarded_mode_dialog_title">Είστε σε λειτουργία Επισκέπτη</string>
   <string name="guarded_mode_dialog_transfer_message">Δεν μπορείτε να χρησιμοποιήσετε Mi Mover σε λειτουργία Επισκέπτη.</string>
@@ -332,7 +332,7 @@
   <string name="select_item_summary_wait">Αναμονή…</string>
   <string name="select_storage_location">"Επιλέξτε τη θέση αντιγράφων "</string>
   <string name="service_stoped">Η υπηρεσία σταμάτησε</string>
-  <string name="settings_summary">Αντίγραφο ρυθμίσεων μηνυμάτων και τηλεφώνου</string>
+  <string name="settings_summary">Αντίγραφο ρυθμίσεων μηνυμάτων και συσκευής</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
@@ -410,7 +410,7 @@
   <string name="trans_detail_category_account">Λογαριασμοί και Επαφές</string>
   <string name="trans_detail_category_audio_video_doc">Ήχος, βίντεο, και αρχεία</string>
   <string name="trans_detail_category_files">Αρχεία</string>
-  <string name="trans_detail_category_sysdata">Δεδομένα συστήματος (και μηνυμάτων, επαφών και ιστορικού κλήσεων)</string>
+  <string name="trans_detail_category_sysdata">Δεδομ συστ/τος μηνύματα, επαφές ιστορικό κλήσεων</string>
   <string name="trans_detail_category_user_app_data">Δεδομένα εφαρμογής</string>
   <string name="trans_detail_category_userdata">Εφαρμογές</string>
   <string name="trans_detail_category_wechat_qq">Δεδομένα WeChat και QQ (συμπεριλαμβάνεται και το ιστορικό συνομιλιών)</string>
@@ -525,9 +525,9 @@
   <string name="trans_security_tips_title">Mi Mover συμβατό</string>
   <string name="trans_select_data">Επιλέξτε στοιχεία για αποστολή</string>
   <string name="trans_select_data_no_space">Δεν υπάρχει αρκετός χώρος αποθήκευσης στην νέα συσκευή (%s διαθέσιμα). \u000d\nΑπελευθερώστε χώρο ή μεταφέρετε μόνο σημαντικά αντικείμενα.</string>
-  <string name="trans_select_data_tips">"Επιλογή στοιχείων προς μεταφορά.
-Παρόμοια στοιχεία στη νέα συσκευή θα αντικατασταθούν.
-(Το μέγεθος των μεταφερθέντων στοιχείων που βλέπετε τώρα είναι μια πρόχειρη εκτίμηση.)"</string>
+  <string name="trans_select_data_tips">"Επιλογή προς μεταφορά. Ίδια στοιχεία
+στη νέα συσκευή θα αντικατασταθούν.
+Το μέγεθος είναι πρόχειρη εκτίμηση."</string>
   <string name="trans_select_data_too_large">Tα δεδομένα είναι πολύ μεγάλα, η αντικατάσταση\u000d\u000d\nθα είναι χρονοβόρα, συνιστάται να μεταφέρετε μόνο τα δεδομένα που είναι σημαντικά για εσάς</string>
   <string name="trans_select_device_receive">Επιλέξτε μια συσκευή για λήψη δεδομένων.</string>
   <string name="trans_select_device_send">Επιλέξτε μια συσκευή για μεταφορά δεδομένων.</string>

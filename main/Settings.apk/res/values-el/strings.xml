@@ -467,7 +467,7 @@
      <string name="backup_data_summary">Αντίγραφα δεδομένων εφαρμογών κωδικών Wi-Fi και άλλων ρυθμίσεων στους servers της Google</string>
      <string name="backup_data_title">Αντίγραφα των δεδομένων μου</string>
      <string name="backup_disabled">Αντίγραφα ανενεργά</string>
-     <string name="backup_erase_dialog_message">Σταματάτε τη δημιουργία αντιγράφων ασφαλείας για τους Wi-Fi κωδικούς πρόσβασης , τους σελιδοδείκτες, άλλες ρυθμίσεις και των δεδομένων εφαρμογών καθώς και να διαγράψετε όλα τα αντίγραφα από τους διακομιστές της Google?</string>
+     <string name="backup_erase_dialog_message">Σταματάτε τη δημιουργία αντιγράφων ασφαλείας για τους Wi-Fi κωδικούς , σελιδοδεικτών, άλλων ρυθμίσεων και δεδομένων εφαρμογών καθώς και την διαγραφή όλων των αντιγράφων από τους διακομιστές της Google?</string>
      <string name="backup_erase_dialog_title" />
      <string name="backup_inactive_title">Η υπηρεσία αντ.ασφαλείας είναι ανενεργή.</string>
      <string name="backup_pw_cancel_button_text">Άκυρο</string>
@@ -1883,7 +1883,7 @@
      <string name="firewall_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">Η εγκατεστημένη εφαρμογή δεν θα μπορέσει να συνδεθεί στο διαδίκτυο χρησιμοποιώντας Wi-Fi όταν αυτός ο διακόπτης είναι απενεργοποιημένος.</string>
      <string name="firmware_version">Έκδοση Android</string>
-     <string name="flash_drive_backup_restore">Δημιουργία αντιγράφων ή επαναφορά μέσω USB</string>
+     <string name="flash_drive_backup_restore">Δημιουργία αντιγρ ή επαναφ σε USB</string>
      <string name="flash_drive_backup_restore_summary">Συνδέστε μια μονάδα USB</string>
      <string name="floating_window_switch_label">Εμφάνιση αναδυόμενων παράθυρων</string>
      <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
