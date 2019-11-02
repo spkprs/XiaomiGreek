@@ -50,7 +50,7 @@
         <item>Σημείο πρόσβασης</item>
      </string-array>
      <string-array name="apn_auth_entries">
-        <item>Κανένα</item>
+        <item>Χωρίς</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP ή CHAP</item>
@@ -1243,7 +1243,7 @@
         <item>Μεγάλη</item>
      </string-array>
      <string-array name="long_press_volume_down_action">
-        <item>Κανένα</item>
+        <item>Χωρίς</item>
         <item>Λειτουργία γρήγορης λήψης (φωτογραφία)</item>
         <item>Λειτουργία γρήγορης λήψης (βίντεο)</item>
         <item>Συντομεύσεις δημόσιων συγκοινωνιών</item>
@@ -1350,7 +1350,7 @@
         <item>2</item>
      </string-array>
      <string-array name="mvno_type_entries">
-        <item>Κανένα</item>
+        <item>Χωρίς</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -1373,7 +1373,7 @@
         <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
-        <item>Κανένα</item>
+        <item>Χωρίς</item>
         <item>480p</item>
         <item>480p (ασφαλές)</item>
         <item>720p</item>
@@ -1948,12 +1948,12 @@
         <item>PIN από αυτή την συσκευή</item>
      </string-array>
      <string-array name="wifi_peap_phase2_entries">
-        <item>Κανένα</item>
+        <item>Χωρίς</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
      </string-array>
      <string-array name="wifi_phase2_entries">
-        <item>Κανένα</item>
+        <item>Χωρίς</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>

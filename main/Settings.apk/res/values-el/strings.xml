@@ -104,25 +104,25 @@
   <string name="accessibility_screen_magnification_gestures_title">Μεγέθυνση με τριπλό πάτημα</string>
   <string name="accessibility_screen_magnification_navbar_configuration_warning">Το κουμπί Προσβασιμότητας έχει οριστεί σε %1$s. Για να χρησιμοποιήσετε τη μεγέθυνση, αγγίξτε παρατεταμένα το κουμπί Προσβασιμότητας και έπειτα επιλέξτε να κάνετε μεγέθυνση.</string>
   <string name="accessibility_screen_magnification_navbar_short_summary">Πατήστε ένα κουμπί για εστίαση</string>
-    <string name="accessibility_screen_magnification_navbar_summary">"Όταν είναι ενεργοποιημένη η μεγέθυνση, χρησιμοποιήστε το κουμπί Προσβασιμότητας που βρίσκεται στο κάτω τμήμα της οθόνης, για να κάνετε γρήγορη μεγέθυνση.
+  <string name="accessibility_screen_magnification_navbar_summary">"Όταν είναι ενεργή η εστίαση, μπορείτε να κάνετε μεγέθυνση στην οθόνη σας.
 
-"<b>Για να κάνετε εστίαση</b>", πατήστε το κουμπί Προσβασιμότητας και έπειτα πατήστε οπουδήποτε στην οθόνη.
-"<ul> <li>Σύρετε 2 ή περισσότερα δάχτυλα για να κάνετε κύλιση</li>"
-"<li>Πλησιάστε 2 ή περισσότερα δάχτυλα για να προσαρμόσετε την εστίαση</li> </ul>"
+"<b>Μεγέθυνση</b>", έναρξη μεγέθυνσης και, στη συνέχεια, πατήστε οπουδήποτε στην οθόνη.
+"<ul> <li>• Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση</li>"
+"<li>• Ενώστε 2 ή περισσότερα δάχτυλα για ρύθμιση του ζουμ</li> </ul>"
 
-"<b>Για προσωρινή εστίαση</b>", πατήστε το εικονίδιο Προσβασιμότητας και έπειτα αγγίξτε παρατεταμένα οπουδήποτε στην οθόνη.
-"<ul> <li>Σύρετε για να την μετακινήσετε σε οποιοδήποτε σημείο της οθόνης</li>"
-"<li>Ανασηκώστε το δάχτυλο για να κάνετε σμίκρυνση</li> </ul>"
+"<b>Προσωρινή Μεγέθυνση</b>", μεγέθυνση και, στη συνέχεια, αγγίξτε &amp; κρατήστε οπουδήποτε στην οθόνη.
+"<ul> <li>• Σύρετε για μετακίνηση στην οθόνη</li>"
+"<li>• Σηκώστε το δάχτυλο για σμίκρυνση</li> </ul>"
 
-Δεν είναι δυνατή η μεγέθυνση στο πληκτρολόγιο ή στη γραμμή πλοήγησης."</string>
-  <string name="accessibility_screen_magnification_navbar_title">Μεγέθυνση με κουμπί</string>
-      <string name="accessibility_screen_magnification_short_summary">Αγγίξτε 3 φορές για μεγέθυνση</string>
-  <string name="accessibility_screen_magnification_state_navbar_gesture">Μεγέθυνση με κουμπί και τριπλό πάτημα</string>
+Δεν μπορείτε να κάνετε μεγέθυνση στο πληκτρολόγιο ή στη γραμμή πλοήγησης."</string>
+  <string name="accessibility_screen_magnification_navbar_title">Μεγέθυνση με συντόμευση</string>
+  <string name="accessibility_screen_magnification_short_summary">Αγγίξτε 3 φορές για μεγέθυνση</string>
+  <string name="accessibility_screen_magnification_state_navbar_gesture">Μεγέθυνση με συντόμευση &amp; τριπλό πάτημα</string>
   <string name="accessibility_screen_magnification_summary">" "<b>Για μεγέθυνση</b>", αγγίξτε γρήγορα την οθόνη 3 φορές.
 "<ul> <li>Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση.</li>"
 "<li>Ανοίξτε 2 ή περισσότερα δάχτυλα για μεγέθυνση.</li> </ul>"
 
-"<b>Για προσωρινή μεγέθυνση :</b>", αγγίξτε γρήγορα την οθόνη 3 φορές και κρατήστε πατημένο το δάχτυλό σας στο τρίτο πάτημα.
+"<b>Για προσωρινή μεγέθυνση</b>", αγγίξτε γρήγορα την οθόνη 3 φορές και κρατήστε πατημένο το δάχτυλό σας στο τρίτο πάτημα.
 "<ul> <li> Σύρετε το δάχτυλό σας για να μετακινηθείτε στην οθόνη.</li>" 
 "<li>Σηκώστε το δάχτυλό σας για να σμικρύνετε.</li> </ul>"
 
@@ -277,7 +277,7 @@
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Τύπος ταυτοποίησης</string>
      <string name="apn_auth_type_chap">CHAP</string>
-     <string name="apn_auth_type_none">Κανένα</string>
+     <string name="apn_auth_type_none">Χωρίς</string>
      <string name="apn_auth_type_pap">PAP</string>
      <string name="apn_auth_type_pap_chap">PAP ή CHAP</string>
      <string name="apn_chinaunicom_3gnet_general">Wal-3G σύνδεση στο Internet</string>
@@ -1054,7 +1054,7 @@
      <string name="color_gray">Γκρι</string>
      <string name="color_green">Πράσινο</string>
      <string name="color_magenta">Πορφυρό</string>
-     <string name="color_none">Κανένα</string>
+     <string name="color_none">Χωρίς</string>
      <string name="color_orange">Πορτοκαλί</string>
      <string name="color_purple">Μοβ</string>
      <string name="color_red">Κόκκινο</string>
@@ -1272,7 +1272,7 @@
      <string name="data_usage_limit_dialog_title">Περιορισμός της χρήσης δεδομένων</string>
      <string name="data_usage_limit_editor_title">Όριο που ορίζεται για τη χρήση δεδομένων</string>
      <string name="data_usage_list_mobile">Κινητή</string>
-     <string name="data_usage_list_none">Κανένα</string>
+     <string name="data_usage_list_none">Χωρίς</string>
      <string name="data_usage_menu_allow_background">Αποδοχή δεδομένων παρασκηνίου</string>
      <string name="data_usage_menu_auto_sync">Αυτόματος συγχρονισμός δεδομένων</string>
      <string name="data_usage_menu_cellular_networks">Δίκτυα κινητής</string>
@@ -1645,7 +1645,7 @@
      <string name="enable_service_password_reason">Επειδή η ενεργοποίηση του %1$s επηρεάζει την κρυπτογράφηση δεδομένων, θα πρέπει να επιβεβαιώσετε τον κωδικό πρόσβασή σας.</string>
      <string name="enable_service_pattern_reason">Επειδή η ενεργοποίηση του %1$s επηρεάζει την κρυπτογράφηση δεδομένων, θα πρέπει να επιβεβαιώσετε το μοτίβο σας.</string>
      <string name="enable_service_pin_reason">Επειδή η ενεργοποίηση του %1$s επηρεάζει την κρυπτογράφηση δεδομένων, θα πρέπει να επιβεβαιώσετε το PIN σας.</string>
-     <string name="enable_service_title">Η υπηρ θα εκτελ τις ενέργειες:</string>
+     <string name="enable_service_title">Η υπηρ θα εκτελ τις παρακάτω ενέργειες:</string>
      <string name="enable_snapshot_screenlock">Πατήστε παρατεταμένα το Back για λήψη φωτογραφίας</string>
      <string name="enable_tcp_rtt_support">Προβολή TCP RTT</string>
      <string name="enable_tcp_rtt_support_summary">Αξιολόγηση απόδοσης ποιότητας επικοινωνίας δικτύου</string>
@@ -1917,7 +1917,7 @@
      <string name="font_size_summary1">Αν το κείμενο του συστήματός σας είναι ακόμα πολύ μικρό, δοκιμάστε</string>
      <string name="font_size_summary2">Λειτουργία Lite</string>
      <string name="forbidden_switch_apn_string">Οι επιλεγμένες ρυθμίσεις APN δεν ταιριάζουν με τον τύπο του τρέχοντος δικτύου</string>
-     <string name="force_allow_on_external">Δυνατότητα εφαρμογών για εγγραφή σε εξωτερικό αποθηκευτικό χώρο</string>
+     <string name="force_allow_on_external">Δυνατότητα εφαρμ. για εγγραφή σε εξωτ. αποθήκευση</string>
      <string name="force_allow_on_external_summary">Κάνει οποιαδήποτε εφαρμογή κατάλληλη για εγγραφή σε εξωτερικό αποθηκευτικό χώρο, ανεξάρτητα από τις δηλωμένες τιμές</string>
      <string name="force_hw_ui">Εξαναγκασμένη απόδοση GPU</string>
      <string name="force_hw_ui_summary">Χρησιμοποιήστε 2D επιτάχυνση υλικού σε εφαρμογές</string>
@@ -2238,7 +2238,7 @@
      <string name="key_gesture_function_optional">Προαιρετικές χειρονομίες και κουμπιά</string>
      <string name="key_gesture_function_preview">Προεπισκοπήσεις κουμπιού και χειρονομίας</string>
      <string name="key_gesture_function_shortcut">Συντομεύσεις λειτουργιών</string>
-     <string name="key_none">Κανένα</string>
+     <string name="key_none">Χωρίς</string>
      <string name="key_operation_diagram">Διάγραμμα λειτουργίας</string>
      <string name="key_position_cat">Διάταξη πλήκτρων</string>
      <string name="key_settings">Πλήκτρα και χειρονομίες</string>
@@ -5069,14 +5069,14 @@
      <string name="unlock_set_unlock_launch_picker_title">Κλείδωμα οθόνης</string>
      <string name="unlock_set_unlock_launch_picker_title_profile">Κλείδ. προφίλ εργασίας</string>
      <string name="unlock_set_unlock_mode_none">Κύλιση</string>
-     <string name="unlock_set_unlock_mode_off">Κανένα</string>
+     <string name="unlock_set_unlock_mode_off">Χωρίς</string>
      <string name="unlock_set_unlock_mode_password">Κωδικός</string>
      <string name="unlock_set_unlock_mode_pattern">Μοτίβο</string>
      <string name="unlock_set_unlock_mode_pin">PIN</string>
      <string name="unlock_set_unlock_none_summary">Χωρίς ασφάλεια</string>
-     <string name="unlock_set_unlock_none_title">Κανένα</string>
+     <string name="unlock_set_unlock_none_title">Χωρίς</string>
      <string name="unlock_set_unlock_off_summary" />
-     <string name="unlock_set_unlock_off_title">Κανένα</string>
+     <string name="unlock_set_unlock_off_title">Χωρίς</string>
      <string name="unlock_set_unlock_password_none">Χωρίς</string>
      <string name="unlock_set_unlock_password_summary">Εισάγετε 4 ή περισσότερα γράμματα ή αριθμούς για να ξεκλειδώσετε τη συσκευή</string>
      <string name="unlock_set_unlock_password_title">Κωδικός</string>
@@ -5396,7 +5396,7 @@
      <string name="vpn_ipsec_user_cert">Πιστοποιητικό χρήστη IPSec</string>
      <string name="vpn_l2tp_secret">L2TP κρυφό</string>
      <string name="vpn_lockdown_config_error">Το Always-on VPN απαιτεί μια διεύθυνση IP για δύο server και DNS.</string>
-     <string name="vpn_lockdown_none">Κανένα</string>
+     <string name="vpn_lockdown_none">Χωρίς</string>
      <string name="vpn_lockdown_summary">Επιλέξτε ένα προφίλ VPN στο οποίο θα παραμένετε πάντα συνδεδεμένοι. Θα επιτρέπεται κίνηση στο δίκτυο μόνο όταν συνδέεστε με αυτό το VPN.</string>
      <string name="vpn_menu_delete">Διαγραφή δικτύου</string>
      <string name="vpn_menu_edit">Επεξεργασία δικτύου</string>
@@ -6014,7 +6014,7 @@ VK: vk.com/mi_room_ru"</string>
      <string name="zen_mode_from_anyone">Οποιονδήποτε</string>
      <string name="zen_mode_from_call">"Κλήσεις από "</string>
      <string name="zen_mode_from_contacts">Μόνο απο επαφές</string>
-     <string name="zen_mode_from_none">Κανένα</string>
+     <string name="zen_mode_from_none">Χωρίς</string>
      <string name="zen_mode_from_sms">"Μηνύματα από "</string>
      <string name="zen_mode_from_starred">Μόνο αγαπημένες επαφές</string>
      <string name="zen_mode_important_category">Ρυθμίσεις</string>
@@ -6164,7 +6164,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	  <string name="enable_gnss_raw_meas_full_tracking">Αναγκαστικές πλήρεις μετρήσεις GNSS</string>
 	  <string name="enable_gnss_raw_meas_full_tracking_summary">Παρακολούθηση όλων των πανοραμικών συνθέσεων και των συχνοτήτων GNSS χωρίς κύκλο λειτουργιών</string>
 	  <string name="feature_flags_dashboard_title">Σημαίες λειτουργίών</string>
-	  <string name="enable_gpu_debug_layers">Ενεργ. επιπ. εντοπ. σφαλμάτων GPU</string>
+	  <string name="enable_gpu_debug_layers">Ενεργοποίηση επιπέδων αποσφαλμάτωσης GPU</string>
 	  <string name="enable_gpu_debug_layers_summary">Φόρτωση επιπέδου σφαλμάτων GPU για εφαρμ. εντοπισμού σφαλμάτων</string>
 	  <string name="tethering_hardware_offload">Σύνδεση επιτάχυνσης υλικού</string>
 	  <string name="tethering_hardware_offload_summary">Χρήση της σύνδεσης επιτάχυνσης υλικού εάν υπάρχει</string>
@@ -6173,7 +6173,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	  <string name="usb_summary_tether">Σύνδεση με USB</string>
 	  <string name="bluetooth_show_devices_without_names">Εμφάνιση συσκευών Bluetooth χωρίς ονόματα</string>
 	  <string name="bluetooth_show_devices_without_names_summary">Θα εμφανιστούν οι συσκευές Bluetooth χωρίς ονόματα (μόνο διευθύνσεις MAC)</string>
-	  <string name="bluetooth_disable_a2dp_hw_offload">Απεν. μείωσ. φόρτ. εξοπλ. Bluetooth A2DP</string>
+	  <string name="bluetooth_disable_a2dp_hw_offload">Απενεργοποίηση μείωσης φόρτου υλικού B/T A2DP</string>
 	  <string name="display_cutout_emulation">Προσομοίωση οθόνης με εγκοπή</string>
 	  <string name="display_cutout_emulation_none">Καμία</string>
 	  <string name="bluetooth_select_avrcp_version_string">Έκδοση AVRCP Bluetooth</string>

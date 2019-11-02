@@ -20,7 +20,7 @@
     <item>Ανοικτό</item>
   </string-array>
   <string-array name="vpn_proxy_settings">
-    <item>Κανένα</item>
+    <item>Χωρίς</item>
     <item>Χειροκίνητα</item>
   </string-array>
   <string-array name="wifi_privacy_entries">
