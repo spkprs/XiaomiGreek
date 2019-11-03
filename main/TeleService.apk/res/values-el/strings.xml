@@ -72,7 +72,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Μόνο Aκουστικό</string>
   <string name="auto_answer_scenario_title">Συνθήκες αυτόματης απάντησης</string>
   <string name="auto_answer_setting_title">Ρυθμίσεις Αυτόματης απάντησης</string>
-  <string name="auto_answer_summary_not_enabled">Απενεργοποιημένη</string>
+  <string name="auto_answer_summary_not_enabled">Ανενεργή</string>
   <string name="auto_record_yellowpage">Κατάλογος</string>
   <string name="auto_redial_pref_summary">Επανάκληση αυτόματα εάν η γραμμή είναι κατειλημμένη</string>
   <string name="auto_redial_pref_title">Αυτόματη επανάκληση</string>
@@ -1249,7 +1249,7 @@
   <string name="respond_via_sms_cannot_empty">Το μήνυμα δεν μπορεί να είναι κενό</string>
   <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη σε %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Επαναφορά προεπιλογών</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Προεπιλογή</string>
   <string name="respond_via_sms_setting_summary">Επεξεργασία προεπιλεγμένων απαντήσεων κειμένου</string>
   <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
   <string name="response_error">Απροσδόκητη ανταπόκριση από το δίκτυο.</string>

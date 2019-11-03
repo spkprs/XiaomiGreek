@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string name="status_bar_notification_info_overflow">999+</string>
+	<string name="activity_not_found">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
+	<string name="allow_network_hint">Ενεργοποιήστε την \"Ενημέρωση πληροφοριών αυτόματα\" ή ελέγξτε τη σύνδεση δικτύου</string>
+	<string name="already_updated">Ενημερωμένο</string>
+	<string name="back_to_message_list">Πίσω στη λίστα μηνυμάτων</string>
+	<string name="click_to_update">Αγγίξτε για έλεγχο ενημέρωσης</string>
+	<string name="cm_privacy_dialog_allow">Αποδοχή</string>
+	<string name="cm_privacy_dialog_cancel">Ακύρωση</string>
+	<string name="cm_privacy_dialog_spannable_tips">Το πρωτόκολλο απορρήτου του φορέα κινητής</string>
+	<string name="cm_privacy_dialog_tips">Η έξυπνη υπηρεσία SMS προσαρμόζεται από τον φορέα. Αν διαβάσετε και συμφωνήσετε με το %1s, συμφωνείτε να ανοίξετε την υπηρεσία, πρέπει να συνδεθείτε και να εντοπίσετε την υπηρεσία στη διαδικασία χρήσης. Συμφωνείτε?</string>
+	<string name="cm_privacy_dialog_title">Προσοχή</string>
+	<string name="confirm_delete_all_conversations">Διαγραφή όλων των συζητήσεων;</string>
+	<string name="confirm_delete_conversation">Διαγραφή αυτού του νήματος;</string>
+	<string name="confirm_delete_group_message">Διαγραφή μηνυμάτων της ομάδας;</string>
+	<string name="confirm_delete_locked_message">Διαγραφή αυτού του κλειδωμένου μηνύματος;</string>
+	<string name="confirm_delete_message">Διαγραφή αυτού του μηνύματος;</string>
+	<string name="confirm_dialog_locked_title">Διαγραφή κλειδωμένου μηνύματος;</string>
+	<string name="confirm_dialog_title">Διαγραφή;</string>
+	<string name="copy_message_text">Αντιγραφή</string>
+	<string name="copy_message_text_success">Αντιγράφηκε επιτυχώς</string>
+	<string name="current_data_version">Έκδοση Mi Μήνυμα</string>
+	<string name="delete">Διαγραφή</string>
+	<string name="delete_message">Διαγραφή</string>
+	<string name="from_label">"Από: "</string>
+	<string name="menu_forward">Προώθηση</string>
+	<string name="menu_lock">Σε Αγαπημένα</string>
+	<string name="menu_unlock">Διαγρ Αγαπημένου</string>
+	<string name="message_details_title">Λεπτομέρειες μηνύματος</string>
+	<string name="message_type_label">"Τύπος: "</string>
+	<string name="received_label">"Ελήφθη: "</string>
+	<string name="sent_label">"Απεστάλη: "</string>
+	<string name="summary_pref_cm_smart_sms">Παρέχει Πρότυπα καρτών, αριθμούς υπηρεσιών SMS, κ.τ.λ.</string>
+	<string name="text_message">Μήνυμα κειμένου</string>
+	<string name="updating">Ενημερώνεται...</string>
+	<string name="view_message_details">Προβολή λεπτομερειών</string>
 </resources>

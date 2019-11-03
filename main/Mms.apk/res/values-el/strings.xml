@@ -291,7 +291,7 @@
      <string name="menu_delete_messages">Διαγραφή μηνυμάτων</string>
      <string name="menu_edit">Επεξεργασία</string>
      <string name="menu_forward">Προώθηση</string>
-     <string name="menu_lock">Προσθήκη στα Αγαπημένα</string>
+     <string name="menu_lock">Σε Αγαπημένα</string>
      <string name="menu_mark">Μαρκάρισμα</string>
      <string name="menu_more">Περισσότερα</string>
      <string name="menu_new_contact">Νέα επαφή</string>
@@ -299,11 +299,11 @@
      <string name="menu_pick_from_contact">Επιλέξτε από τις επαφές</string>
      <string name="menu_preferences">Ρυθμίσεις</string>
      <string name="menu_send_as_common">Αποστολή ως SMS</string>
-     <string name="menu_unlock">Διαγραφή αγαπημένου</string>
+     <string name="menu_unlock">Διαγρ Αγαπημένου</string>
      <string name="menu_view_contact">Προβολή επαφής</string>
      <string name="message_class_label">"Κατηγορία μηνύματος: "</string>
      <string name="message_contact">Επαφή:</string>
-     <string name="message_details_title">Λεπτομέριες μηνύματος</string>
+     <string name="message_details_title">Λεπτομέρειες μηνύματος</string>
      <string name="message_download_failed_title">Το μήνυμα δεν ελήφθη</string>
      <string name="message_expired">Έληξε</string>
      <string name="message_failed">Απέτυχε</string>
@@ -687,7 +687,7 @@
      <string name="send_sms">Αποστολή μηνύματος</string>
      <string name="send_to">Προς:</string>
      <string name="send_to_index_contact">%1$s/%2$s</string>
-     <string name="sent_at_time">Αποστολή σε:% 1s</string>
+     <string name="sent_at_time">"Αποστολή σε: %1s"</string>
      <string name="sent_label">"Απεστάλη: "</string>
      <string name="service_message_not_found">Το Μήνυμα έχει λήξει ή δεν είναι διαθέσιμο</string>
      <string name="service_network_problem">Αδυναμία αποστολής λόγω σφάλματος δικτύου</string>
@@ -809,7 +809,7 @@
      <string name="unsticked_conversation">Η συνομιλία έχει ήδη ξεκαρφιτσωθεί</string>
      <string name="unsubscribe">Κατάργηση συνδρομής</string>
      <string name="unsupported_media_format">Μη υποστηριζόμενος %1$s τύπος αρχείου.</string>
-     <string name="updating">Ενημερώνεται</string>
+     <string name="updating">Ενημερώνεται...</string>
      <string name="url_fraud_dangerous_alert">"Η ιστοσελίδα που προσπαθείτε να επισκεφθείτε ενδέχεται να είναι επικίνδυνη. Πιθανόν να προκαλέσει ζημιά στη συσκευή και τα δεδομένα σας. Θα την επισκεφθείτε ούτως ή άλλως;
 %s"</string>
      <string name="url_fraud_risky_alert">"Η ιστοσελίδα που προσπαθείτε να επισκεφθείτε ενδέχεται να είναι επικίνδυνη. Θα την επισκεφθείτε ούτως ή άλλως;
