@@ -73,6 +73,7 @@
         <item quantity="one">%d ημερ.</item>
     </plurals>
     <plurals name="usage_state_focus_usage_summary">
-        <item quantity="other">Τα τελευταία %d λεπτά, πιστεύω ότι θα κερδίσετε κάτι!</item>
+         <item quantity="other">%d λεπ. είναι ένα μεγάλο βήμα προς την συνειδητότητα και τη συγκέντρωση.</item>
+         <item quantity="one">%d λεπ. είναι ένα μεγάλο βήμα προς την συνειδητότητα και τη συγκέντρωση.</item>
     </plurals>
 </resources>
