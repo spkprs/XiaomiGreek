@@ -575,7 +575,7 @@
     <string name="pref_camera_picturesize_entry_fullscreen">Πλήρης οθόνη</string>
     <string name="pref_camera_picturesize_entry_standard">Κανονική 4:3</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Απαλός φωτισμός</string>
-    <string name="pref_camera_picturesize_title_simple_mode">Πλαίσιο Κάμερας</string>
+    <string name="pref_camera_picturesize_title_simple_mode">Πλαίσιο</string>
 	<string name="pref_camera_portrait_mode_entry_off">Η λειτουργία Πορτρέτου είναι ανενεργή</string>
 	<string name="pref_camera_portrait_mode_entry_on">Η λειτουργία Πορτρέτου είναι ενεργή</string>
     <string name="pref_camera_portrait_mode_title">Λειτουργία Πορτρέτου</string>
@@ -587,7 +587,7 @@
     <string name="pref_camera_recordlocation_entry_off">Off</string>
     <string name="pref_camera_recordlocation_entry_on">On</string>
     <string name="pref_camera_recordlocation_title">Αποθήκευση πληροφοριών τοποθεσίας</string>
-    <string name="pref_camera_referenceline_title">Εμφάνιση πλέγματος</string>
+    <string name="pref_camera_referenceline_title">Πλέγμα</string>
     <string name="pref_camera_saturation_default">3</string>
     <string name="pref_camera_saturation_title">Κορεσμός</string>
 	<string name="pref_camera_scenemode_entry_auto">AUTO</string>

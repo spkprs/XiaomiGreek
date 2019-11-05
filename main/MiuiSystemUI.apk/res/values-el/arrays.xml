@@ -503,14 +503,6 @@
         <item>spa</item>
         <item>kor</item>
      </string-array>
-     <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-     </string-array>
      <string-array name="tts_rate_entries">
         <item>Πολύ αργό</item>
         <item>Αργό</item>
@@ -521,24 +513,6 @@
         <item>Ταχύ</item>
         <item>Πολύ ταχύ</item>
         <item>Ταχύτατο</item>
-     </string-array>
-     <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-     </string-array>
-     <string-array name="usa_mcc">
-        <item>310</item>
-        <item>311</item>
-        <item>312</item>
-        <item>313</item>
-        <item>316</item>
      </string-array>
      <string-array name="usb_configuration_titles">
         <item>Φόρτιση</item>
@@ -623,4 +597,30 @@
         <item>5</item>
         <item>10</item>
      </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+       <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC</item>
+        <item>Ενεργ προαιρετικών κωδικοποιητών</item>
+        <item>Απενεργ προαιρετικών κωδικοποιητών</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+       <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC</item>
+        <item>Ενεργ προαιρετικών κωδικοποιητών</item>
+        <item>Απενεργ προαιρετικών κωδικοποιητών</item>
+  </string-array>
 </resources>

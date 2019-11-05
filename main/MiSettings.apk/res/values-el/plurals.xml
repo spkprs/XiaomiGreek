@@ -68,4 +68,11 @@
     <item quantity="other">" λεπτά"</item>
     <item quantity="one">" λεπτό"</item>
   </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d ημερ.</item>
+        <item quantity="one">%d ημερ.</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">Τα τελευταία %d λεπτά, πιστεύω ότι θα κερδίσετε κάτι!</item>
+    </plurals>
 </resources>

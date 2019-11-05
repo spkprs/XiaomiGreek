@@ -103,4 +103,33 @@
         <item quantity="other">Διαγραφή %1$d στοιχείων?</item>
         <item quantity="one">Διαγραφή %1$d στοιχείο?</item>
      </plurals>
+     <plurals name="dc_group_title_normal">
+         <item quantity="other">Ακολουθήστε %1$d βήματα για να ελευθερώσετε την %2$s</item>
+         <item quantity="one">Ακολουθήστε %1$d βήμα για να ελευθερώσετε την %2$s</item>
+     </plurals>
+     <plurals name="dc_item_summary_apk">
+         <item quantity="other">Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; πακέτα εγκατάστασης</item>
+         <item quantity="one">Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; πακέτο εγκατάστασης</item>
+     </plurals>
+     <plurals name="dc_item_summary_app_data">
+         <item quantity="other">Μπορείτε να εκκαθαρίσετε τα δεδομένα για &lt;font color=#0097FF&gt;%d&lt;/font&gt; εφαρμ.</item>
+         <item quantity="one">Μπορείτε να εκκαθαρίσετε τα δεδομένα για &lt;font color=#0097FF&gt;%d&lt;/font&gt; εφαρμ.</item>
+     </plurals>
+     <plurals name="dc_item_summary_image">
+         <item quantity="other">You can delete &lt;font color=#0097FF&gt;%d&lt;/font&gt; unnecessary photos</item>
+         <item quantity="one">You can delete &lt;font color=#0097FF&gt;%d&lt;/font&gt; unnecessary photo</item>
+     </plurals>
+     <plurals name="dc_item_summary_large_file">
+         <item quantity="other">Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; μεγάλα αρχεία</item>
+         <item quantity="one">Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; μεγάλο αρχείο</item>
+     </plurals>
+     <plurals name="dc_item_summary_uninstall_app">
+         <item quantity="other">Μπορείτε να απεγκαταστήσετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; σπάνια χρησιμοποιούμενες εφαρμ.</item>
+         <item quantity="one">Μπορείτε να απεγκαταστήσετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; σπάνια χρησιμοποιούμενη εφαρμ.</item>
+     </plurals>
+     <plurals name="dc_item_summary_video">
+         <item quantity="other">Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; βίντεο</item>
+         <item quantity="one">Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; βίντεο</item>
+     </plurals>
 </resources>
+

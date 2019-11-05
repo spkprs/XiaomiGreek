@@ -1366,6 +1366,7 @@
      <string name="quick_settings_screenshot_label">Στιγμιότυπο</string>
      <string name="quick_settings_secondary_label_until">Έως %s</string>
      <string name="quick_settings_settings_label">Ρυθμίσεις</string>
+     <string name="quick_settings_sim_disabled">(Ανενεργή)</string>
      <string name="quick_settings_sync_label">Συγχρονισμός</string>
      <string name="quick_settings_tethering_label">Πρόσδεση</string>
      <string name="quick_settings_tiles">default</string>
@@ -1847,7 +1848,7 @@
      <string name="wifi_ip_address_hint">192.168.1.128</string>
      <string name="wifi_is_off">Το Wi-Fi είναι Κλειστό</string>
      <string name="wifi_network_prefix_length_hint">24</string>
-     <string name="wifi_no_internet">Δεν εντοπίστηκε πρόσβαση στο Internet. Δεν θα επανασυνδεθεί αυτόματα.</string>
+     <string name="wifi_no_internet">"Δεν είναι δυνατή η σύνδεση στο Internet"</string>
      <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
      <string name="wifi_remembered">Αποθηκεύτηκε</string>
      <string name="wifi_security_WAPI_CERT">WAPI CERT</string>

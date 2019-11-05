@@ -28,7 +28,7 @@
      <string name="find_device_error_server">Σφάλμα διακομιστή (%s)</string>
      <string name="find_device_error_unknown">Άγνωστο σφάλμα (%s)</string>
      <string name="find_device_noise_title">Ειδοποίηση Εύρεση συσκευής</string>
-     <string name="find_device_notice">Μεταβείτε στο&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />για να εντοπίσετε, κλειδώσετε ή να επαναφέρετε την Συσκευή σας.</string>
+     <string name="find_device_notice">Μεταβείτε στο&lt;br />&lt;b>&lt;font color=#0097FF>i.mi.com&lt;/font>&lt;/b>&lt;br />για να εντοπίσετε, κλειδώσετε ή να επαναφέρετε την Συσκευή σας.</string>
      <string name="find_device_notice_sms_alert">Αν αλλάξετε κάρτες SIM, μπορεί να αποσταλεί αυτόματα ένα άλλο μήνυμα SMS για να επανεργοποιηθεί αυτή η λειτουργία.</string>
      <string name="find_device_stop_noise">Πατήστε OK για σίγαση</string>
      <string name="find_device_storage_corrupted">Εύρεση συσκευής: η μνήμη του τηλεφώνου είναι κατεστραμμένη. Η συσκευή σας δεν είναι ασφαλής τώρα.</string>

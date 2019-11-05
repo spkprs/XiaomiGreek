@@ -4,7 +4,7 @@
   <string name="extra_photo_common_saving">Αποθήκευση…</string>
   <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
   <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
-  <string name="motion_photo_re_pick_title">Επιλογή καλύτερης φωτογραφίας</string>
+  <string name="motion_photo_re_pick_title">Ζωντανή φωτογραφία</string>
   <string name="motion_photo_toast_default">Προεπιλογή</string>
   <string name="motion_photo_toast_suggest">Συνιστάται</string>
   <string name="refocus_discard_confirm_message">Αποθήκευση αλλαγών;</string>
@@ -23,4 +23,13 @@
   <string name="refocus_type_relighting_small_face">Ο φωτισμός στούντιο λειτουργεί σε φωτογραφίες όπου τα πρόσωπα χρειάζονται περισσότερο διάστημα από ό, τι εδώ.</string>
   <string name="refocus_type_static">Επίπεδο θολώματος</string>
   <string name="refocus_type_video">Γραμμές φωτισμού</string>
+  <string name="motion_photo_cancel">Ακύρωση</string>
+  <string name="motion_photo_save_fail">"Δεν ήταν δυνατή η αποθήκευση"</string>
+  <string name="motion_photo_save_gif">Αποθήκευση ως GIF</string>
+  <string name="motion_photo_save_gif_ing">Αποθήκευση GIF…</string>
+  <string name="motion_photo_save_image">Αποθήκευση της καλύτερης εικόνας</string>
+  <string name="motion_photo_save_image_ing">Αποθήκευση καλύτερης εικόνας…</string>
+  <string name="motion_photo_save_video">Αποθήκευση ως βίντεο</string>
+  <string name="motion_photo_save_video_ing">Αποθήκευση βίντεο…</string>
+  <string name="motion_photo_toast_long_press_play">Αγγίξτε παρατεταμένα τη φωτογραφία για αναπαραγωγή</string>
 </resources>

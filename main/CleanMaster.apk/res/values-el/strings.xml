@@ -683,4 +683,26 @@
 	 <string name="notification_low_memory_cache_title">Εκκαθάριση Προσωρινής Μνήμης</string>
 	 <string name="notification_low_memory_deepclean_summary">Ο Υπέρ Καθαρισμός μπορεί να απελευθερώσει χώρο αποθήκευσης στη συσκευή σας</string>
 	 <string name="notification_low_memory_deepclean_title">Ο χώρος αποθήκευσης εξαντλείται</string>
+     <string name="dc_activity_title">Βαθύς Καθαρισμός</string>
+     <string name="dc_advise_delete">Ελευθέρωση χώρου</string>
+     <string name="dc_group_title_appclean">Εφαρμογές</string>
+     <string name="dc_header_can_clean">Μπορεί να καθαριστεί</string>
+     <string name="dc_header_can_not_clean">Κατειλημμένος</string>
+     <string name="dc_header_used_space_text">Κατειλημμένος αποθ. χώρος</string>
+     <string name="dc_item_summary_wechat_chat">Εκκαθάριση ιστορικού συνομιλιών μέσω chat για απελευθέρωση περισσότερου χώρου</string>
+     <string name="dc_item_title_apk">Διαγραφή πακέτων εγκατ/σης</string>
+     <string name="dc_item_title_app_data">Εκκαθ. δεδομ. εφαρμ.</string>
+     <string name="dc_item_title_image">Διαγραφή φωτογραφιών</string>
+     <string name="dc_item_title_large_file">Διαγραφή μεγάλων αρχείων</string>
+     <string name="dc_item_title_qq">QQ Cleaner</string>
+     <string name="dc_item_title_uninstall_app">Απεγκατάσταση εφαρμογών</string>
+     <string name="dc_item_title_video">Διαγραφή βίντεο</string>
+     <string name="dc_item_title_wechat">WeChat Cleaner</string>
+     <string name="dc_item_title_wechat_chat">Εκκαθ. ιστορικού WeChat</string>
+     <string name="dc_storage_cleaned">Απελευθερώθηκε %s</string>
+     <string name="dc_storage_info">Διαθέσιμα %1$s | Συνολικά %2$s</string>
+     <string name="guide_dc_dialog_message">"Απομένουν λιγότερα από 2 GB ελεύθερος χώρος. Αυτό μπορεί να επιβραδύνει τη συσκευή σας. Πραγματοποιήστε πλήρη εκκαθάριση για να ελευθερώσετε χώρο αποθήκευσης."</string>
+     <string name="guide_dc_dialog_negative">Ακύρωση</string>
+     <string name="guide_dc_dialog_positive">OK</string>
+     <string name="guide_dc_dialog_title">Ο Χώρος Αποθήκευσης εξαντλείται</string>
 </resources>
