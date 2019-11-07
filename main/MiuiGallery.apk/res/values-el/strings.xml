@@ -507,7 +507,7 @@
      <string name="ext_sdcard_first_entrance_request_failed_title">"Αδυναμία απόδοσης Αδειών"</string>
      <string name="ext_sdcard_guide_first_page_button_text">Επόμενο</string>
      <string name="ext_sdcard_guide_last_page_button_text">Απόδοση Αδειών</string>
-     <string name="ext_sdcard_guide_text">"Η Συλλογή χρειάζεται την άδειά σας για πρόσβαση στην κάρτα SD. Εδώ είναι τι μπορείτε να κάνετε:"</string>
+     <string name="ext_sdcard_guide_text">"Η Συλλογή χρειάζεται την άδειά σας για πρόσβαση στην κάρτα SD. Εδώ βλέπετε πως μπορείτε να το κάνετε:"</string>
      <string name="ext_sdcard_operation_failed_text">Η Συλλογή χρειάζεται άδεια για πρόσβαση στην κάρτα SD.</string>
      <string name="ext_sdcard_operation_failed_title">"Αδυναμία ολοκλήρωσης αυτής της ενέργειας"</string>
      <string name="ext_sdcard_permission_request_button_text">Παραχώρηση</string>

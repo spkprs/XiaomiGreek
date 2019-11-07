@@ -6752,4 +6752,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="unlock_type_category_title">Μέθοδος αναγνώρισης</string>
 	<string name="wellbing_title">Digital Wellbeing &amp; Γονικός έλεγχος</string>
     <string name="xiaomi_cloud_find_device">Εύρεση συσκευής</string>
+    <string name="call_max_brightness_title">Μέγιστη φωτεινότητα στην Κλήση</string>
+    <string name="always_show_notifications_on_lockscreen_title">Πάντα εμφάνιση ειδοπ/σεων</string>
+    <string name="always_show_notifications_on_lockscreen_summary">Πάντα εμφάνιση μη αναγνωσμένων ειδοπ/σεων στην οθόνη κλειδώματος</string>
+    <string name="replace_by_wellbeing_title">Χήση της \"Digital Wellbeing\" αντί της \"Χρόνος Οθόνης\"</string>
+    <string name="replace_by_wellbeing_summary">Απαιτείται η εγκατ/ση της εφαρμογής \"Digital Wellbeing\"</string>
 </resources>
