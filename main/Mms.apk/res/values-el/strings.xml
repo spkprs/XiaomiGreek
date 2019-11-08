@@ -951,4 +951,5 @@
      <string name="system_permission_perm_read_numbers">Ανάγνωση αριθμών τηλεφώνου</string>
      <string name="system_permission_perm_send_mms">Αποστολή MMS</string>
      <string name="mx_main_purpose_short">Το Mi Μήνυμα επιτρέπει στους χρήστες MIUI να στέλνουν και να λαμβάνουν δωρεάν μηνύματα SMS και MMS.</string>
+     <string name="contact_card_unknown_contact">Άγνωστη Επαφή</string>
 </resources>

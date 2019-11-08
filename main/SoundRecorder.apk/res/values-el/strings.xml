@@ -296,5 +296,7 @@
 	  <string name="shortcut_records">Εγγραφές</string>
 	  <string name="shortcut_start_record">Έναρξη εγγραφής</string>
 	  <string name="shortcut_stop_record">Παύση εγγραφής</string>
-    <string name="usage_description">Μεταφορά ήχου και συγχρονισμό αντικειμένων με το cloud</string>
+      <string name="usage_description">Μεταφορά ήχου και συγχρονισμό αντικειμένων με το cloud</string>
+      <string name="cancel_rename">Ακύρωση</string>
+      <string name="loading_more">Μισό λεπτό…</string>
 </resources>
