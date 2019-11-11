@@ -1537,12 +1537,12 @@
         <item>Τυπικό</item>
      </string-array>
      <string-array name="screen_timeout_entries">
-        <item>15 Δευτ.</item>
-        <item>30 Δευτ.</item>
-        <item>1 Λεπτ.</item>
-        <item>2 Λεπτ.</item>
-        <item>5 Λεπτ.</item>
-        <item>10 Λεπτ.</item>
+        <item>15δ</item>
+        <item>30δ</item>
+        <item>1λ</item>
+        <item>2λ</item>
+        <item>5λ</item>
+        <item>10λ</item>
         <item>Ποτέ</item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">

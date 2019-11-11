@@ -1,100 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="pref_fling_gesture_entries">
-        <item>Πίσω/Επόμενη</item>
-        <item>Εναλλαγή καρτελών</item>
-        <item>Χωρίς</item>
-     </string-array>
-     <string-array name="pref_homepage_choices">
-        <item>Προεπιλεγμένη</item>
-        <item>Προσαρμοσμένη URL</item>
-     </string-array>
-     <string-array name="pref_nav_mode_summary">
+    <string-array name="pref_homepage_choices">
+        <item>Προεπιλεγμένη αρχική σελίδα</item>
+        <item>Προσαρμογή</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
         <item>Τηλέφωνο</item>
-        <item>Tablet</item>
-     </string-array>
-     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Προβολή πλακιδίων</item>
-        <item>Κάθετη προβολή</item>
-        <item>Οριζόντια προβολή</item>
-     </string-array>
-     <string-array name="pref_tab_restore_array">
-        <item>Ερώτηση</item>
-        <item>Άνοιγμα</item>
-        <item>Κλείσιμο</item>
-     </string-array>
-     <string-array name="pref_text_zoom_choices">
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>
         <item>Μικρό</item>
         <item>Κανονικό</item>
         <item>Μεγάλο</item>
-        <item>Πολύ Μεγάλο</item>
-     </string-array>
-     <string-array name="pref_ua_choices">
+        <item>Τεράστιο</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Η/Υ</item>
+        <item>Επιφάνεια εργασίας</item>
         <item>iPhone</item>
         <item>iPad</item>
-     </string-array>
-     <string-array name="shortcut_dialog_delete">
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
         <item>Διαγραφή</item>
         <item>Όχι ευχαριστώ</item>
-     </string-array>
-     <string-array name="shortcut_dialog_keep">
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
         <item>OK</item>
         <item>Ακολουθήστε</item>
-     </string-array>
-     <string-array name="suggestion_weather_condition_message">
-        <item>Καθαρός</item>
-        <item>Μερικώς συννεφιασμένος</item>
-        <item>Συννεφιασμένος</item>
-        <item>Ψιλόβροχο</item>
-        <item>Καταιγίδες</item>
-        <item>Χαλάζι</item>
-        <item>Χιονόνερο</item>
-        <item>Ασθενής βροχή</item>
-        <item>Μέτρια βροχή</item>
-        <item>Δυνατή βροχή</item>
-        <item>Νεροποντή</item>
-        <item>Καταρρακτώδης βροχή</item>
-        <item>Έκτακτη καταιγίδα</item>
-        <item>Χιονόνερο</item>
-        <item>Ελαφριά χιονόπτωση</item>
-        <item>Μέτρια χιονόπτωση</item>
-        <item>Έντονη χιονόπτωση</item>
-        <item>Χιονοθύελλα</item>
-        <item>Ομίχλη</item>
-        <item>Παγωμένη βροχή</item>
-        <item>Αμμοθύελλα</item>
-        <item>Μικρή έως μέτρια βροχή</item>
-        <item>Μεσαία έως δυνατή βροχή</item>
-        <item>Έντονη έως καταρρακτώδη βροχή</item>
-        <item>Καταρρακτώδης βροχή στην κατάρρευση</item>
-        <item>Νεροποντή σε ακραία καταιγίδα</item>
-        <item>Ελαφρύ έως μέτριο χιόνι</item>
-        <item>Μέτριο έως έντονο χιόνι</item>
-        <item>Έντονο σε χιονοθύελλα</item>
-        <item>Αιωρούμενη σκόνη</item>
-        <item>Αυξημένη σκόνη</item>
-        <item>Αμμοθύελλα</item>
-        <item>Πυκνή ομίχλη</item>
-        <item>Ισχυρή ομίχλη</item>
-        <item>Ομίχλη</item>
-        <item>Μέτρια ομίχλη</item>
-        <item>Έντονη ομίχλη</item>
-        <item>Πολύ έντονη ομίχλη</item>
-        <item>Πυκνη ομιχλη</item>
-        <item>Έντονη πυκνή ομίχλη</item>
-        <item>Τίποτα</item>
-        <item>Βροχή</item>
-        <item>Χιόνι</item>
-     </string-array>
-    <string-array name="quick_link_tabs">
-        <item>Σελιδοδείκτης</item>
-        <item>Ιστορικό</item>
     </string-array>
-     <string-array name="suggestion_topic_tips">
-        <item>Παρακολούθηση Εστίαση</item>
+    <string-array name="shortcut_dialog_title">
+        <item>Μήνυμα από τον φυλλομετρητή</item>
+        <item>Συντονιστείτε με τους Ολυμπιακούς Αγώνες μέσω Mi</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Επιστροφή προς τα εμπρός</item>
+        <item>Εναλλαγή καρτελών</item>
+        <item>Χωρίς</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Προβολή πλακιδίων</item>
+        <item>Κάθετη προβολή</item>
+        <item>Οριζόντια προβολή</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Ερώτηση πάντα</item>
+        <item>Άνοιγμα</item>
+        <item>Κλείσιμο</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Παρακολούθηση εστίασης</item>
         <item>Κεντρικό θέμα</item>
-     </string-array>
+    </string-array>
 </resources>

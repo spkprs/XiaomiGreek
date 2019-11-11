@@ -514,7 +514,7 @@
   <string name="scanning_status_text_wifi_off_ble_on">Η σάρωση Bluetooth είναι ενεργή, η σάρωση Wi-Fi είναι ανενεργή</string>
   <string name="scanning_status_text_wifi_on_ble_off">Η σάρωση Wi‑Fi είναι ενεργή, η σάρωση Bluetooth είναι ανενεργή</string>
   <string name="scanning_status_text_wifi_on_ble_on">Η σάρωση Wi‑Fi και Bluetooth έχουν ενεργοποιηθεί</string>
-  <string name="search_other_settings_sync_settings">Sync;Auto;WLAN only</string>
+  <string name="search_other_settings_sync_settings">Sync;Auto;WiFi only</string>
   <string name="search_unlogin_account_title">Mi Account; Mi Account ID;Account;Account ID;Xiaomi Account;Account protection;Protect account;Account security;My account</string>
   <string name="security_dashboard_summary_face">Play Protect, κλείδωμα οθόνης, Ξεκλείδωμα προσώπου</string>
   <string name="security_settings_face_enroll_dialog_ok">ΟΚ</string>

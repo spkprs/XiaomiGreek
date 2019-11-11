@@ -677,7 +677,7 @@
      <string name="year_month_day_format">MMM dd, yyyy</string>
      <string name="yesterday">Χθές</string>
      <string name="security_center_slogan">Ασφάλεια. Πάντα σε επιφυλακή.</string>
-	 <string name="notification_garbage_cleanup_summary">Εκκαθάριση Κάδου (%s) για επιτάχυνση της συσκευής σας</string>
+	 <string name="notification_garbage_cleanup_summary">Εκκαθ. (%s) για επιτάχυνση συσκευής</string>
 	 <string name="notification_garbage_cleanup_title">Εκκαθάριση αρχείων Κάδου</string>
 	 <string name="notification_low_memory_cache_summary">Λιγότερο από 1.5GB διαθέσιμος χώρος</string>
 	 <string name="notification_low_memory_cache_title">Εκκαθάριση Προσωρινής Μνήμης</string>

@@ -6,8 +6,6 @@
      <string name="ble_device_profile_header_title">Ρυθμίσεις</string>
      <string name="ble_device_profile_title">Συνδεδεμένη συσκευή BLE</string>
      <string name="ble_device_rename">Μετονομασία</string>
-     <string name="ble_profile_1">ble_profile_mi_band</string>
-     <string name="ble_profile_2">ble_profile_mi_key</string>
      <string name="bluetooth_connected">Συνδέθηκε</string>
      <string name="bluetooth_connecting">Σύνδεση…</string>
      <string name="bluetooth_device_context_unpair">Αποσύζευξη</string>
@@ -77,4 +75,5 @@
      <string name="not_set">Δεν έχει οριστεί</string>
      <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
      <string name="search_menu_title">Αναζήτηση</string>
+     <string name="fast_connect_nzbt_reset">Κρατήστε πατημένο το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
 </resources>

@@ -299,4 +299,5 @@
     <string name="wireless_charging_notification_message2">Η μπαταρία είναι φορτισμένη λιγότερο από 30%. Η αντίστροφη ασύρματη φόρτιση είναι ανενεργή τώρα.</string>
     <string name="wireless_charging_notification_message3">Παρουσιάστηκε σφάλμα κατά τη φόρτιση. Η αντίστροφη ασύρματη φόρτιση είναι ανενεργή τώρα.</string>
     <string name="wireless_charging_notification_titile">Απενεργοποίησε την αντίστροφη ασύρματη φόρτιση</string>
+    <string name="data_usage_context">Εάν το WiFi δεν είναι ενεργό, η συσκευή σας θα συνδεθεί σε ένα δίκτυο κινητής τηλεφωνίας, το οποίο μπορεί να έχει ως αποτέλεσμα πρόσθετες χρεώσεις ανάλογα με το πρόγραμμα πληρωμής σας. Σας ευχαριστούμε!</string>
 </resources>

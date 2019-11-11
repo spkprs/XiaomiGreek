@@ -60,7 +60,7 @@
   <string name="music_headset_calibrate_wrong_key">"Λάθος κουμπί"</string>
   <string name="music_headset_mode_music">Ρύθμιση αναπαραγωγής</string>
   <string name="music_headset_mode_settings">Ασύρμ χειριστ. ακουστικών</string>
-  <string name="music_headset_mode_volume">Ρύθμιση επιπέδου έντασης</string>
+  <string name="music_headset_mode_volume">Ρύθμιση έντασης</string>
   <string name="music_headset_no_contected">Δεν ανιχνεύτηκαν ακουστικά</string>
   <string name="music_headset_settings">Ακουστικά</string>
   <string name="music_hifi_summary">Μειώστε το θόρυβο και την παραμόρφωση και αυξήστε την ποιότητα του ήχου. Το χαρακτηριστικό αυτό αυξάνει την κατανάλωση της μπαταρίας.</string>
