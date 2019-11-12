@@ -14,7 +14,7 @@
      <string name="ac_enter_applock">Είσοδος σε Κλείδωμα εφαρμογής</string>
      <string name="ac_firstUseApplock_subTitle">Ενεργοποιήστε τον για επιπλέον προστασία</string>
      <string name="ac_firstUseApplock_title">Ορίστε κωδικό για τις επιλεγμένες εφαρμογές</string>
-     <string name="ac_mask_all_apps">Απόκρυψη για όλες τις εφαρμογές</string>
+     <string name="ac_mask_all_apps">Απόκρυψη για όλες</string>
      <string name="ac_notification_contentText">Αγγίξτε για ενεργοποίηση</string>
      <string name="ac_notification_contentTitle">Προστατέψτε τις εφαρμογές με κωδικό</string>
      <string name="ac_post_notification_contentText">Αποκτήστε προστασία σε επίπεδο συστήματος</string>
@@ -23,7 +23,7 @@
      <string name="ac_pre_notification_contentTitle">Δοκιμάστε το κλείδωμα εφαρμογής</string>
      <string name="ac_summaryOff">Ανενεργό. Δεν απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
      <string name="ac_summaryOn">Εισαγωγή κωδικού για άνοιγμα προστατευμένων εφαρμογών</string>
-     <string name="ac_unmask_all_apps">Πρόσβαση σε όλες</string>
+     <string name="ac_unmask_all_apps">Προβολή σε όλες</string>
      <string name="access_control_app_is_launching">Η εφαρμογή ξεκινά</string>
      <string name="access_control_failed_need_to_unlock_nofingerprint">Εισάγετε τον κωδικό πρόσβασης πριν ξεκλειδώσετε με ένα νέο δακτυλικό αποτύπωμα</string>
      <string name="access_control_fingerprint_not_identified_msg">Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος.</string>
@@ -1490,8 +1490,8 @@
      <string name="notification_exit_power_save_mode_subtitle">Μπαταρία %s φορτισμένη.</string>
      <string name="notification_mask_summary">Απόκρυψη περιεχομένου ειδοποίησης σε προστατευμένες εφαρμογές.</string>
      <string name="notification_mask_title">Απόκρυψη περιεχομένου ειδοποιήσεων</string>
-     <string name="notification_masked_item">Απόκρυψη ειδοποιήσεων</string>
-     <string name="notification_masked_subtitle">Απόκρ. ειδοπ. Κλειδωμένων εφαρμ.</string>
+     <string name="notification_masked_item">Πώς αποκρύπτω το περιεχόμενο ειδοποίησης;</string>
+     <string name="notification_masked_subtitle">Χρήση Κλειδώμ. Εφαρμ. για απόκρυψη περιεχομένου ειδοπ. για επιλεγμένες εφαρμογές</string>
      <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="notify_channel_mipush">Προωθ. Μηνύματα Ασφάλειας</string>
      <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
@@ -2235,7 +2235,7 @@
      <string name="status_bar_network_flow_setup_data_plan">"   Ορισμός πακέτου δεδομένων >"</string>
      <string name="still_retain_btn">Διατήρηση</string>
      <string name="suggest_app_tolock">Προτάσεις</string>
-     <string name="suggest_app_tolock_masked">Κρυμμένα</string>
+     <string name="suggest_app_tolock_masked">Κρυφό περιεχόμενο</string>
      <string name="suggest_app_tolock_unmasked">Ορατές ειδοποιήσεις</string>
      <string name="suggest_scan_again">Ολοκλήρωστε τη σάρωση για αποφυγή κινδύνων ασφαλείας.</string>
      <string name="summary_app_lock_disable">Κλειδώστε εφαρμογές για την προστασία απορρήτου σας</string>
@@ -2981,4 +2981,10 @@
     <string name="applock_settings_unlock_all_toast">Ξεκλείδωμα όλων των εφαρμογών</string>
     <string name="lock_all_title">Κλείδωμα όλων των εφαρμογών</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Κλείδωμα συσκευής μετά από %d δευτ. αδράνειας</string>
+	<string name="power_center_scan_item_title_5g">Συνδεσιμότητα 5G</string>
+	<string name="power_dialog_super_save_msg_5g">Η Υπέρ Εξοικονόμηση μπαταρίας περιορίζει τις περισσότερες λειτουργίες που καταναλώνουν ενέργεια (π.χ. συνδεσιμότητα 5G) μειώνοντας την απόδοση της συσκευής σας. Δεν θα επηρεαστούν παρά μόνο οι Κλήσεις, Μηνύματα και η Συνδεσιμότητα Δικτύου. Ενεργοποίηση Υπέρ Εξοικονόμησης;</string>
+	<string name="power_optimize_disable_5g">Περιορισμός Συνδεσιμότητας 5G</string>
+	<string name="power_save_ps_close_setting_5g">Περιορίστε τις λειτουργίες που καταναλώνουν ενέργεια (Συγχρονισμός, Συνδεσιμότητα 5G, GPS)</string>
+	<string name="privacyapp_number_masked_text">Το περιεχόμενο ειδοποιήσεων είναι κρυφό</string>
+	<string name="privacyapp_number_unmasked_text">Είναι δυνατή η απόκρυψη του περιεχομένου ειδοποίησης</string>
 </resources>
