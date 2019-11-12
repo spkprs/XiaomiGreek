@@ -87,7 +87,9 @@
   <string name="intelligent_recognition_item_summary">Χρησιμοποιήστε έναν καθορισμένο ήχο κλήσης για κλήσεις από υπηρεσίες παράδοσης και ταξί. Αυτή η δυνατότητα θα λειτουργήσει όταν το %s οριστεί ως προεπιλεγμένος τόνος κουδουνίσματος.</string>
   <string name="intelligent_recognition_item_title">Προσδιορισμός υπηρεσιών</string>
   <string name="mms">Μηνύματα</string>
+  <string name="network_error">Σφάλμα δικτύου, προσπαθήστε ξανά</string>
   <string name="more_ringtone">Όλοι οι ήχοι</string>
+  <string name="retry">Επανάληψη</string>
   <string name="notification_sound">Ήχοι ειδοποίησης</string>
   <string name="ringtone_slot_setting_title">Ήχοι κλήσης διπλής SIM</string>
   <string name="ringtone_sound">Ήχοι κλήσης</string>
@@ -96,6 +98,10 @@
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Μήνυμα που παραδόθηκε</string>
   <string name="sms_received_sound_title">Εισερχόμενα μηνύματα</string>
+  <string name="stop_app_timer">Απενεργοποίηση Χρόνου οθόνης</string>
+  <string name="stop_app_timer_fail">Αδυναμία απενεργοποίησης Χρόνου οθόνης</string>
+  <string name="stop_app_timer_success">Ο Χρόνος οθόνης έχει απενεργοποιηθεί</string>
+  <string name="stop_app_timer_tip">Τα δεδομένα και δικαιώματα που σχετίζονται με το Χρόνο οθόνης θα διαγραφούν μετά την απενεργοποίηση, συμπεριλαμβανομένων των ρυθμίσεων, τοπικών και δεδομένων cloud, κ.λ.π.</string>
   <string name="thememanager_not_found">"Αδυναμία εκκίνησης Θεμάτων. Βεβαιωθείτε ότι αυτή η εφαρμογή είναι εγκατεστημένη στη συσκευή σας."</string>
   <string name="usage_state_app">Εφαρμογές</string>
   <string name="usage_state_app_remain_time">Απομένουν: %s</string>
@@ -174,4 +180,5 @@
 	<string name="usage_stats_experience_text">Πατήστε για δοκιμή (1 λ)</string>
 	<string name="usage_total_days">Συνολικές ημέρες</string>
     <string name="usage_total_times">Συνολικές περίοδοι</string>
+    <string name="wait_tip">Μισό λεπτό…</string>
 </resources>
