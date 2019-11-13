@@ -312,6 +312,8 @@
      <string name="auto_disable_screenbuttons_enable_toast_text">Πλήκτρα οθόνης ενεργά</string>
      <string name="available_via_passpoint">Διαθέσιμο μέσω %1$s</string>
      <string name="back">Πίσω</string>
+     <string name="band_24G">" (Ζώνη 2.4 GHz)"</string>
+     <string name="band_5G">" (Ζώνη 5 GHz)"</string>
      <string name="battery">Μπαταρία</string>
      <string name="battery_can_use_time">Περίπου %s απομένουν</string>
      <string name="battery_detail_charging_summary">Η Εξοικονόμηση μπαταρίας δεν είναι διαθέσιμη κατά τη διάρκεια φόρτισης</string>
