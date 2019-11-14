@@ -76,4 +76,20 @@
          <item quantity="other">%d λεπ. είναι ένα μεγάλο βήμα προς την συνειδητότητα και τη συγκέντρωση.</item>
          <item quantity="one">%d λεπ. είναι ένα μεγάλο βήμα προς την συνειδητότητα και τη συγκέντρωση.</item>
     </plurals>
+     <plurals name="last_several_days">
+         <item quantity="other">%d ημ.</item>
+         <item quantity="one">%d ημ.</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_equal">
+         <item quantity="other">Ο Χρόνος οθόνης σήμερα ισούται με το μέσο όρο των %d ημερών σας</item>
+         <item quantity="one">Ο Χρόνος οθόνης σήμερα ισούται με το μέσο όρο των %d ημερών σας</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_less">
+         <item quantity="other">%2$s λιγότερος χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
+         <item quantity="one">%2$s λιγότερος χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_more">
+         <item quantity="other">%2$s περισσότερος Χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
+         <item quantity="one">%2$s περισσότερος Χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
+     </plurals>
 </resources>

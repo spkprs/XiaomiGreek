@@ -181,4 +181,19 @@
 	<string name="usage_total_days">Συνολικές ημέρες</string>
     <string name="usage_total_times">Συνολικές περίοδοι</string>
     <string name="wait_tip">Μισό λεπτό…</string>
+	<string name="category_other">Άλλα</string>
+	<string name="first_unlock_time">"Πρώτο ξεκλείδωμα: "</string>
+	<string name="healthy_use_phone">Διαχείριση Χρόνου οθόνης</string>
+	<string name="most_unlock_week_day">"Περισσότερα ξεκλειδώματα: "</string>
+	<string name="several_days_use_time">Χρόνος οθόνης: %2$s</string>
+	<string name="today_usage_title">Σήμερα</string>
+	<string name="today_use_time">Χρόνος οθόνης: %1$s</string>
+	<string name="trend_from_yesterday_equal">Όπως χθες</string>
+	<string name="trend_from_yesterday_less">%1$s λιγότερος από χθες</string>
+	<string name="trend_from_yesterday_less_simple">%1$s λιγότερος από χθες</string>
+	<string name="trend_from_yesterday_more">%1$s περισσότερος από χθες</string>
+	<string name="trend_from_yesterday_more_simple">%1$s περισσότερος από χθες</string>
+	<string name="unlock_times_per_day">"Ημερήσιος μέσος όρος: "</string>
+	<string name="unlock_times_per_hour">"Ξεκλειδώματα ανά ώρα: "</string>
+	<string name="usage_state_focus_mode_experience_warning_message">"Η λειτουργία Εστίασης επιτρέπει μόνο τη χρήση της κάμερας και την πραγματοποίηση κλήσεων έκτακτης ανάγκης. Δεν θα μπορείτε να απενεργοποιήσετε πρόωρα τη λειτουργία εστίασης."</string>
 </resources>
