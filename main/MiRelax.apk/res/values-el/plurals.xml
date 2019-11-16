@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="second">
+        <item quantity="other">%d δευτ</item>
+        <item quantity="one">%d δευτ</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d ώρ "</item>
+        <item quantity="one">"%1$d ώρ "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d λεπ "</item>
+        <item quantity="one">"%1$d λεπ "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d δευτ</item>
+        <item quantity="one">%1$d δευτ</item>
+    </plurals>
+</resources>
