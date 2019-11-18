@@ -717,7 +717,7 @@
   <string name="need_get_qq_mail">Χρειάζεσθε QQ Mail</string>
   <string name="network_error">Χωρίς σύνδεση</string>
   <string name="network_invaild">Αδυναμία σύνδεσης στο δίκτυο</string>
-  <string name="network_not_available">Δεν είναι διαθέσιμο δίκτυο. Δοκιμάστε ξανά αργότερα</string>
+  <string name="network_not_available">Μη διαθέσιμο δίκτυο. Δοκιμάστε ξανά</string>
   <string name="network_tip">Ο έλεγχος ταυτότητας απέτυχε, ελέγξτε τη σύνδεση δικτύου</string>
   <string name="network_try_again">Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά</string>
   <string name="network_unavailable">Το δίκτυο δεν είναι διαθέσιμο</string>
@@ -1232,12 +1232,12 @@
     <string name="personal_data_collection_title">Συλλογή προσωπικών δεδομένων</string>
     <string name="privacy_setting_agree">Συμφωνώ</string>
     <string name="over_16_content">Είστε άνω από 16?</string>
-    <string name="over_sixteen">"Είμαι άνω από 16."</string>
+    <string name="over_sixteen">"Είμαι άνω από 16 ετών."</string>
     <string name="pl_select_age">Παρακαλώ επιλέξτε ηλικία.</string>
     <string name="setting_kids_subtitle">"Επιβεβαίωση ηλικίας χρήστη"</string>
     <string name="setting_kids_title">Άνω των 16 ετών.</string>
     <string name="under_16_content">Επιβεβαίωση κάτω των 16?</string>
-    <string name="under_sixteen">"Είμαι κάτω 16."</string>
+    <string name="under_sixteen">"Είμαι κάτω απο 16 ετών."</string>
     <string name="user_privacy_settings">Ρυθμίσεις απορρήτου</string>
     <string name="user_privacy_settings_agreement_authorization">"(Πατώντας \"Συμφωνώ\" εκχωρείτε στο WPS Mail όλα τα απαιτούμενα δικαιώματα)"</string>
      <string name="account_options_actionbar_title">Γενικές ρυθμίσεις</string>

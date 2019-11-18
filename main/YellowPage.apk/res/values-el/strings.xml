@@ -273,7 +273,7 @@
     <string name="turn_on_auto_update_antispam_data_title">Αυτόματη ενημέρωση ορισμών</string>
      <string name="turn_on_online_antispam_enable">Ενεργοποίηση</string>
      <string name="turn_on_online_antispam_summary">Ενεργοποιήστε την αναγνώριση καλούντος για να αναγνωρίσετε άγνωστους αριθμούς.</string>
-     <string name="turn_on_online_antispam_title">Ενεργοποίηση αναγνωριστικού καλούντος</string>
+     <string name="turn_on_online_antispam_title">Αναγνώριση καλούντος</string>
      <string name="turn_on_phone_event_dialog_title">Ενημέρωση βάσης δεδομένων αναγνώρισης αριθμών</string>
      <string name="turn_on_phone_event_summary">Αποστολή κατάστασης τηλεφώνου και αριθμών υπηρεσιών</string>
      <string name="turn_on_phone_event_title">Λήψη πληροφοριών υπηρεσίας</string>

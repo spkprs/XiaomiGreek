@@ -28,7 +28,7 @@
   <string name="accessibility_service_screen_control_title">Προβολή και έλεγχος οθόνης</string>
   <string name="accessibility_service_warning">Η υπηρεσία %1$s ζητάει πλήρη έλεγχο αυτής της συσκευής. Η υπηρεσία μπορεί να διαβάσει την οθόνη και να δράσει εκ μέρους των χρηστών με προβλήματα προσβασιμότητας. Αυτό το επίπεδο ελέγχου δεν είναι κατάλληλο για τις περισσότερες εφαρμογές.</string>
   <string name="accessibility_service_warning_description">Ο πλήρης έλεγχος είναι κατάλληλος για εφαρμογές που εξυπηρετούν τις ανάγκες προσβασιμότητάς σας, αλλά όχι για όλες τις εφαρμογές.</string>
-  <string name="accessibility_setting_item_control_timeout_title">Ώρα εκτέλ. ενεργ. (χρον. όριο προσβασιμ.)</string>
+  <string name="accessibility_setting_item_control_timeout_title">Χρόνος εκτέλεσης ενέργειας (χρον. όριο προσβασιμότητας)</string>
   <string name="accessibility_timeout_1min">1 λεπτό</string>
   <string name="accessibility_timeout_2mins">2 λεπτά</string>
   <string name="accessibility_timeout_10secs">10 δευτ.</string>
@@ -49,7 +49,7 @@
   <string name="accessibility_tutorial_dialog_title_gesture_settings">Χρήση της νέας κίνησης προσβασιμότητας</string>
   <string name="accessibility_usage_title">Χρήση προσβασιμότητας</string>
   <string name="accessibility_vibration_settings_title">Ισχύς δόνησης και απτικής ανάδρασης</string>
-  <string name="accessibility_vibration_summary">Κουδούνισμα %1$s, ειδοποίηση %2$s, αφή %3$s</string>
+  <string name="accessibility_vibration_summary">Κουδούνισμα %1$s, Ειδοποίηση %2$s, Αφή %3$s</string>
   <string name="adaptive_sleep_description">Αποτρέπει την απενεργοποίηση της οθόνης σας εάν την κοιτάτε.</string>
   <string name="adaptive_sleep_privacy">Η λειτουργία Παρακολούθηση οθόνης χρησιμοποιεί την μπροστινή κάμερα για να διαπιστώσει αν κάποιος χρήστης κοιτάζει την οθόνη. Λειτουργεί στη συσκευή και οι εικόνες δεν αποθηκεύονται ούτε αποστέλλονται στην Google.</string>
   <string name="adaptive_sleep_summary_off">Ανενεργή</string>

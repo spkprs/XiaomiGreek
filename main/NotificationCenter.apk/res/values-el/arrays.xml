@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="drop_down_menu">
-    <item>Κατά χρόνο που παραλήφθηκε</item>
+    <item>Κατά χρόνο λήψης</item>
     <item>Κατά αριθμό ειδοποιήσεων</item>
     <item>Κατά εφάνιση ειδοπ/σεων</item>
     <item>Χωρίς εφάνιση ειδοπ/σεων</item>
   </string-array>
   <string-array name="lock_screen_display_rules_no_password">
     <item>Εμφάνιση περιεχομένου ειδοποίησης</item>
-    <item>Χωρίς εμφάνιση ειδοπ/σεων Οθόνης Κλειδώματος</item>
+    <item>Απόκρυψη στην Οθόνης Κλειδ/τος</item>
   </string-array>
   <string-array name="lock_screen_display_rules_with_password">
     <item>Εμφάνιση περιεχομένου ειδοποίησης</item>
