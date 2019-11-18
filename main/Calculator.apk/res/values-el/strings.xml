@@ -199,11 +199,13 @@
   <string name="ln_mathematical_value">ln</string>
   <string name="lnDesc">φυσικός λογάριθμος</string>
   <string name="loading">Μισό λεπτό…</string>
+  <string name="loan_basic_point">Σημείο βάσης</string>
   <string name="loading_fail_message_no_network">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Αγγίξτε εδώ για να δοκιμάσετε ξανά.</string>
   <string name="loading_fail_refresh">Ανανέωση</string>
   <string name="loading_message">Φόρτωση εφαρμογής…</string>
   <string name="loading_slogan">Χρησιμοποιήστε τις εφαρμογές χωρίς να τις εγκαταστήσετε</string>
   <string name="loading_tips">Επιτυχής λήψη ρυθμίσεων. Εκκίνηση αριθμομηχανή και πάλι για εφαρμογή.</string>
+  <string name="loan_type_title">Πρότυπο επιτοκίου</string>
   <string name="loan_edittext_hint_commercial">Εισάγετε το ποσό</string>
   <string name="loan_edittext_hint_commercial_combined">Εμπορικό (×10K)</string>
   <string name="loan_edittext_hint_fund">Εισάγετε το ποσό</string>
@@ -218,6 +220,11 @@
   <string name="loan_repayment_detail_loading">Φόρτωση λεπτομερούς αποπληρωμής…</string>
   <string name="loan_repayment_detail_unit">Λεπτομερής αποπληρωμή (CNY)</string>
   <string name="loan_unit">(×10K)</string>
+  <string name="lpr_ok">Κατανοητό</string>
+  <string name="lpr_tips_msg">"Από τις 8 Οκτωβρίου 2019, το επιτόκιο των ατομικών εμπορικών στεγαστικών δανείων θα υπολογίζεται σύμφωνα με το επιτόκιο του δανείου (LPR) αντί του επιτοκίου αναφοράς 4,9% που είχε εφαρμοστεί προηγουμένως. Τώρα, ο τελικός συντελεστής θα επιβεβαιωθεί με την προσθήκη ενός σημείου βάσης LPR.
+
+Τα LPR ενός έτους και πέντε ετών θα αναφέρονται στις 20 κάθε μήνα (μπορεί να προκύψουν καθυστερήσεις λόγω τραπεζικών αργιών) στην ιστοσελίδα της Λαϊκής Τράπεζας της Κίνας."</string>
+  <string name="lpr_tips_title">LPR (Ύψος δανείου)</string>
   <string name="medical_treatment">Ιατρική περίθαλψη</string>
   <string name="menuDesc">μενού</string>
   <string name="midnight">ΠΜ</string>

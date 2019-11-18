@@ -114,6 +114,7 @@
 	<string name="camera_liveshot_on_tip">Δυναμική λήψη</string>
     <string name="camera_mode_options">Λειτουργίες</string>
     <string name="camera_setting">Κάμερα</string>
+    <string name="camera_settings_category_development">Πειραματικά χαρακτηριστικά</string>
     <string name="camera_settings_label">Κάμερα</string>
 	<string name="camera_snap_mode_title">Λειτουργία Γρήγορης λήψης</string>
 	<string name="camera_snap_mode_title_detail">Αγγίξτε για λεπτομέρειες</string>
@@ -424,7 +425,6 @@
 	<string name="portrait_mode_use_hint">Η λειτουργία Πορτρέτου θολώνει το φόντο \nκαι εστιάζει στο θέμα.</string>
 	<string name="portrait_mode_use_hint_for_bokeh">Δοκιμάστε τη λειτουργία Πορτρέτου.\nΠαραμένει το θέμα ευκρινές ενώ θολώνει το φόντο.</string>
     <string name="portrait_with_facebeauty_hint">Η Αισθητική είναι πλέον διαθέσιμη σε λειτουργία Πορτρέτου</string>
-    <string name="pref_advance_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="pref_ai_detect">Ανίχνευση AI</string>
     <string name="pref_audio_focus_default">normal</string>
     <string name="pref_audio_focus_entry_front">Εμπρός</string>
@@ -437,6 +437,7 @@
     <string name="pref_burst_shoot_title">Συνεχείς Λήψεις</string>
     <string name="pref_camcorder_settings">Βίντεο</string>
     <string name="pref_camcorder_settings_category">Ρυθμίσεις κάμερας</string>
+    <string name="pref_camera_common_settings">Γενικές ρυθμίσεις</string>
     <string name="pref_camera_ai_scene_title">Κάμερα AI</string>
     <string name="pref_camera_antibanding_default_0">Ανενεργό</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
@@ -550,7 +551,7 @@
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Φακός Google</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Κλείδωμα AE/AF</string>
     <string name="pref_camera_magic_mirror_title">Μαγικός καθρέφτης</string>
-    <string name="pref_camera_manually_exposure_value">Έκθεση</string>
+    <string name="pref_camera_manually_exposure_value_abbr">Έκθεση</string>
     <string name="pref_camera_manual_mode_title">Χειροκίνητα</string>
     <string name="pref_camera_mfnr_sat_enable_title">Ενεργοποίηση MFNR</string>
     <string name="pref_camera_movie_solid_title">Σταθεροποίηση εικόνας</string>
@@ -582,6 +583,7 @@
     <string name="pref_camera_portrait_with_facebeauty_title">Αισθητική σε λειτουργία Πορτρέτου</string>
     <string name="pref_camera_proximity_lock_summary">Η αφή κλειδώνει όταν τοποθετηθεί σε μια τσέπη</string>
     <string name="pref_camera_proximity_lock_title">Λειτουργία τσέπης</string>
+    <string name="pref_camera_quick_settings">Γρήγορες ρυθμίσεις</string>
     <string name="pref_camera_quick_shot_anim_enable_title">Ενεργοποίηση γρήγορης λήψης κίνησης</string>
     <string name="pref_camera_quick_shot_enable_title">Ενεργοποίηση γρήγορης λήψης</string>
     <string name="pref_camera_recordlocation_entry_off">Off</string>

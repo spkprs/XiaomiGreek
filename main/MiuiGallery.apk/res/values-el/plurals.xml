@@ -190,6 +190,10 @@
         <item quantity="other">%1$d βίντεο σε αναμονή συγχρονισμού</item>
         <item quantity="one">%1$d βίντεο σε αναμονή συγχρονισμού</item>
     </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d ημ</item>
+        <item quantity="one">%d ημ</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Οι επιλεγμένες φωτογραφίες δεν είναι στη συσκευή. Κατεβάστε τις με χρήση κινητής?</item>
         <item quantity="one">Η επιλεγμένη φωτογραφία δεν είναι στη συσκευή. Κατεβάστε τη με χρήση κινητής;</item>
@@ -293,6 +297,26 @@
 	 <plurals name="photo_count_format">
         <item quantity="other">Σύνολο %1$d στοιχεία</item>
         <item quantity="one">Σύνολο %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένα στοιχεία εάν τα διαγράψετε. Διαγραφή οπωσδήποτε;"</item>
+        <item quantity="one">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένο στοιχείο εάν το διαγράψετε. Διαγραφή οπωσδήποτε;"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένα στοιχεία εάν τα διαγράψετε. Διαγραφή οπωσδήποτε;"</item>
+        <item quantity="one">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένο στοιχείο εάν το διαγράψετε. Διαγραφή οπωσδήποτε;"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένα στοιχεία εάν τα διαγράψετε. Διαγραφή οπωσδήποτε;"</item>
+        <item quantity="one">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένο στοιχείο εάν το διαγράψετε. Διαγραφή οπωσδήποτε;"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Είναι δυνατή η αποθήκευση στοιχείων εδώ για έως %1$d ημ. (%2$s)</item>
+        <item quantity="one">Είναι δυνατή η αποθήκευση στοιχείων εδώ για έως %1$d ημ. (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Τα στοιχεία μπορούν να αποθηκευτούν εδώ για έως %1$d ημ. Αναβαθμίστε το σχέδιό σας για να επεκτείνετε αυτήν την περίοδο.</item>
+        <item quantity="one">Τα στοιχεία μπορούν να αποθηκευτούν εδώ για έως %1$d ημ. Αναβαθμίστε το σχέδιό σας για να επεκτείνετε αυτήν την περίοδο.</item>
     </plurals>
 	 <plurals name="video_count_format">
         <item quantity="other">%1$d αρχεία</item>
