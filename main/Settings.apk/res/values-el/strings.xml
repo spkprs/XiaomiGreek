@@ -4789,6 +4789,8 @@
      <string name="super_resolution_no_app_tips">Κατεβάστε πρώτα το WeChat και το Toutiao.</string>
      <string name="super_resolution_reboot_tips">Αυτή η λειτουργία επιτρέπει να δημιουργήσετε θολές εικόνες σε WeChat και Toutiao crisper. Εκκινήστε ξανά τις εφαρμογές αφού ενεργοποιήσετε τη λειτουργία αυτή.</string>
      <string name="super_resolution_title">Σούπερ ανάλυση</string>
+     <string name="sunlight_mode">Λειτουργία Ηλιοφάνειας</string>
+     <string name="sunlight_mode_summary">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος όταν η αυτόματη φωτεινότητα είναι ανενεργή</string>
      <string name="supl_not_set">&lt;Δεν έχει οριστεί&gt;</string>
      <string name="supplicant_state_label">Υποχρεωτική κατάσταση:</string>
      <string name="sure_sync_now">Συγχρονισμός στοιχείων τώρα;</string>

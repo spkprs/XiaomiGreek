@@ -77,12 +77,12 @@
          <item quantity="one">Ο Χρόνος οθόνης σήμερα ισούται με το μέσο όρο των %d ημερών σας</item>
      </plurals>
      <plurals name="trend_from_last_several_day_less">
-         <item quantity="other">%2$s λιγότερος χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
-         <item quantity="one">%2$s λιγότερος χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
+         <item quantity="other">%2$s λιγότερος χρόνος οθόνης σήμερα από τον μέσο όρο των %1$d ημερών σας</item>
+         <item quantity="one">%2$s λιγότερος χρόνος οθόνης σήμερα από τον μέσο όρο των %1$d ημερών σας</item>
      </plurals>
      <plurals name="trend_from_last_several_day_more">
-         <item quantity="other">%2$s περισσότερος Χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
-         <item quantity="one">%2$s περισσότερος Χρόνος οθόνης σήμερα από τον μέσο όρο των %d ημερών σας</item>
+         <item quantity="other">%2$s περισσότερος Χρόνος οθόνης σήμερα από τον μέσο όρο των %1$d ημερών σας</item>
+         <item quantity="one">%2$s περισσότερος Χρόνος οθόνης σήμερα από τον μέσο όρο των %1$d ημερών σας</item>
      </plurals>
     <plurals name="unlock_times">
         <item quantity="other">%.2f φορές</item>
