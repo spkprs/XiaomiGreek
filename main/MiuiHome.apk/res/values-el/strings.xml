@@ -4,8 +4,24 @@
 	<string name="action_add_to_workspace">Προσθήκη στο χώρο εργασίας</string>
 	<string name="activity_not_found">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας</string>
 	<string name="activity_not_unlocked">Περιμένετε μέχρι η συσκευή σας να επανεκκινηθεί πλήρως πριν ανοίξετε τις εφαρμογές</string>
+	<string name="add">Προσθήκη</string>
+	<string name="add_custom_category">Προσαρμογή</string>
 	<string name="add_screen">Προσθήκη οθόνης</string>
+	<string name="added_all_category">Προστέθηκαν επιτυχώς όλες οι εφαρμογές</string>
 	<string name="additional_settings">Πρόσθετες ρυθμίσεις</string>
+	<string name="all_app_category_all">Όλες</string>
+	<string name="all_app_category_communication">Επικοινωνία</string>
+	<string name="all_app_category_default">Κατηγορία</string>
+	<string name="all_app_category_entertainment">Ψυχαγωγία</string>
+	<string name="all_app_category_finance_business">Οικονομία &amp; Επιχειρήση</string>
+	<string name="all_app_category_games">Παιχνίδια</string>
+	<string name="all_app_category_knowledge_education">Γνώση &amp; εκπαίδευση</string>
+	<string name="all_app_category_lifestyle">Τρόπος ζωής</string>
+	<string name="all_app_category_news_reading">Νέα &amp; ανάγνωση</string>
+	<string name="all_app_category_personalization">Εξατομίκευση</string>
+	<string name="all_app_category_photography">Φωτογραφία</string>
+	<string name="all_app_category_shopping">Αγορές</string>
+	<string name="all_app_category_tools">Εργαλεία</string>
 	<string name="all_apps">Όλες οι εφαρμογές</string>
 	<string name="all_apps_no_search_results">"Χωρίς αποτελέσματα"</string>
 	<string name="all_apps_search_app">Αναζήτηση τοπικών εφαρμογών</string>
@@ -16,6 +32,7 @@
 	<string name="all_apps_setting_drawer_tips_desc">Το Συρτάρι εφαρμογών ανοίγει σαρώνοντας την Αρχική οθόνη. Η μετάβαση στη λειτουργία Αρχικής οθόνης με συρτάρι εφαρμογών, η Αναζήτηση δεν είναι πλέον διαθέσιμη. Αλλαγή ούτως ή άλλως?</string>
 	<string name="all_apps_setting_drawer_tips_title">Χρήση Συρταριού εφαρμογών</string>
 	<string name="all_apps_setting_drawer_title">Λειτουργία συρταριού</string>
+	<string name="all_apps_setting_min_category_limit">Επιλέξτε τουλάχιστον 1 κατηγορία</string>
 	<string name="all_apps_setting_title">Επιφάνεια εργασίας</string>
 	<string name="all_apps_slide_up_tips">Η σάρωση προς τα επάνω είναι αποκλειστικά για το άνοιγμα του Συρταριού εφαρμογών. Μεταβείτε στην κανονική λειτουργία Αρχικής οθόνης και δοκιμάστε ξανά.</string>
 	<string name="all_apps_suggestions">Προτάσεις εφαρμογών</string>
@@ -77,7 +94,7 @@
 	<string name="apply_as_lock_screen">Οθόνη κλειδώματος</string>
 	<string name="apply_as_wallpaper">Αρχική οθόνη</string>
 	<string name="apply_both">Και στις δύο</string>
-    <string name="apply_text">Εφαρμογή</string>
+	<string name="apply_text">Εφαρμογή</string>
 	<string name="aqi_quality_index_dangerous">Επικίνδυνος</string>
 	<string name="aqi_quality_index_good">Καλός</string>
 	<string name="aqi_quality_index_hazardous">Πολύ επικίνδυνος</string>
@@ -93,7 +110,15 @@
 	<string name="cant_remove_folder">Αδύνατη η διαγραφή του άδειου φακέλου</string>
 	<string name="cant_remove_retained_app">Αδύνατη η απεγκατάσταση διατηρητέας εφαρμογής</string>
 	<string name="cant_remove_system_app">Αδύνατη η διαγραφή εφαρμογής συστήματος</string>
-    <string name="cell_icon_size_title">Μέγεθος εικονιδίου</string>
+	<string name="cate_order_reset">Επαναφορά</string>
+	<string name="category_already_exists">Αυτή η κατηγορία υπάρχει ήδη</string>
+	<string name="category_cannot_empty">Εισαγωγή κατηγορίας πρώτα</string>
+	<string name="category_choose_no_app_select_tip">Κάθε κατηγορία πρέπει να περιέχει τουλάχιστον 1 εφαρμογή.</string>
+	<string name="category_drawer_name_hint">Εισάγετε τίτλο κατηγορίας</string>
+	<string name="category_group">Κατηγοριοποίηση εφαρμογών</string>
+	<string name="category_group_summary">Κατηγοριοποίηση στο Συρτάρι εφαρμογών</string>
+	<string name="category_not_selected">Διαθέσιμες εφαρμογές</string>
+	<string name="cell_icon_size_title">Μέγεθος εικονιδίου</string>
 	<string name="change_wallpaper">Αλλαγή</string>
 	<string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
 	<string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
@@ -121,10 +146,13 @@
 	<string name="default_folder_title_tools">Εργαλεία</string>
 	<string name="default_screen_preview_title">Ορισμός προεπιλεγμένης οθόνης</string>
 	<string name="delete">Διαγραφή</string>
+	<string name="delete_category_dialog_content">Δεν θα μπορείτε να επαναφέρετε αυτή την κατηγορία εάν τη διαγράψετε. Να διαγραφεί οπωσδήποτε;</string>
+	<string name="delete_category_dialog_title">Να διαγραφεί αυτή η κατηγορία;</string>
 	<string name="delete_screen">Διαγραφή οθόνης</string>
 	<string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
 	<string name="deselect_all">Αποεπιλογή όλων</string>
 	<string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
+	<string name="double_tap_to_lock_title">Πατήστε δύο φορές για κλείδωμα της οθόνης</string>
 	<string name="download_action">Λήψη</string>
 	<string name="drag_multiple_item_name" />
 	<string name="drag_single_item_name" />
@@ -223,13 +251,14 @@
 	<string name="home_screen_settings">Αρχική οθόνη</string>
 	<string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
 	<string name="icon_reorganize_channel">Τακτοποίηση εικονιδίων</string>
-    <string name="icon_size">Μέγεθος Εικονιδίου</string>
+	<string name="icon_size">Μέγεθος Εικονιδίου</string>
 	<string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη</string>
 	<string name="install">Εγκατάσταση</string>
 	<string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
 	<string name="is_setting_wallpaper_message">Εφαρμογή ταπετσαρίας…</string>
 	<string name="is_system_wallpaper_message">Δεν είναι δυνατή η διαγραφή πόρων του συστήματος</string>
 	<string name="launcher_auto_fill_empty_title">Συμπλήρωση κενών κελιών</string>
+	<string name="launcher_minus_screen_title">Μείον μία οθόνη</string>  
 	<string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Πηγαίνετε πίσω στην Αρχική οθόνη και δοκιμάστε ξανά.</string>
 	<string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
 	<string name="launcher_slide_up_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
@@ -246,6 +275,7 @@
 	<string name="lock_screen_failed_message">Δεν μπορεί να εφαρμοστεί</string>
 	<string name="lock_screen_success_message">Εφαρμόστηκε</string>
 	<string name="lock_screen_wallpaper">Ταπετσαρία οθόνης κλειδώματος</string>
+	<string name="manager_group_settings">Διαχείριση κατηγοριών</string>
 	<string name="memory_clear_nothing_result">Προσωρινή Μνήμη κενή</string>
 	<string name="memory_clear_result">%1$sB εκκαθαρίστηκαν</string>
 	<string name="menu_add">Προσθήκη</string>
@@ -270,6 +300,8 @@
 	<string name="menu_trans_effect">Εφέ μετάβασης</string>
 	<string name="menu_wallpaper">Ταπετσαρία</string>
 	<string name="menu_workspace_preview">Προεπισκόπηση</string>
+	<string name="mi_wallpaper">MIUI Θέματα</string>
+	<string name="minus_one_screen">Προσωπικός Βοηθός</string>
 	<string name="miui_screen_config_title">Ρυθμίσεις Αρχικής οθόνης</string>
 	<string name="mtzgadget_missing_text">Δεν είναι πλέον διαθέσιμο. Παρακαλώ προσθέστε ξανά</string>
 	<string name="multi_selecting_tips">Για να πάρετε μια εφαρμογή, πατήστε το εικονίδιό της</string>
@@ -336,6 +368,8 @@
 	<string name="recommend_refresh">Ανανέωση</string>
 	<string name="recommend_xout">"Χωρίς εμφάνιση"</string>
 	<string name="remove_invalidate_gadget_tips">Ένα από τα widgets που χρησιμοποιείτε δεν είναι πλέον διαθέσιμο. Μπορείτε να προσθέσετε ένα άλλο.</string>
+	<string name="reset_cate_tip_content">Εάν συνεχίσετε, θα γίνει επαναφορά των προεπιλεγμένων ομάδων εφαρμογών. Συνέχεια οπωσδήποτε;</string>
+	<string name="reset_cate_tip_title">Επαναφορά προεπιλεγμένων ομάδων</string>
 	<string name="reset_description_first_time">Μπορείτε να επαναφέρετε τη διάταξη από %1$s εντός 2 ωρών</string>
 	<string name="reset_description_others">Μπορείτε να επαναφέρετε τη διάταξη από %1$s</string>
 	<string name="reset_fail">Αδύνατη η Επαναφορά</string>
@@ -376,6 +410,7 @@
 	<string name="status_paused">σε παύση</string>
 	<string name="status_pending">σε αναμονή</string>
 	<string name="system_shortcuts_more_operation">Πληροφορίες</string>
+	<string name="system_text">Σύστημα</string>
 	<string name="title_jeejen">Αρχική σελίδα Jeejen</string>
 	<string name="title_select_live_folder">Επιλογή φακέλου</string>
 	<string name="title_select_shortcut">Επιλογή συντόμευσης</string>
@@ -414,10 +449,5 @@
 	<string name="widget_global_search">Παγκόσμια αναζήτηση</string>
 	<string name="widget_quick_function">Γρήγορες λειτουργίες</string>
 	<string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
-    <string name="launcher_minus_screen_title">Μείον μία οθόνη</string>  
-    <string name="mi_wallpaper">MIUI Θέματα</string>
-    <string name="minus_one_screen">Προσωπικός Βοηθός</string>
-     <string name="double_tap_to_lock_title">Πατήστε δύο φορές για κλείδωμα της οθόνης</string>
-     <string name="system_text">Σύστημα</string>
 </resources>
 
