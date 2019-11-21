@@ -6780,4 +6780,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="disable_screenshot_secure_title">Στιγμιότυπο σε κάθε εφαρμογή</string>
     <string name="disable_screenshot_secure_summary">Επιτρέπει να πάρετε Στιγμιότυπο από Ασφαλείς εφαρμογές</string>
     <string name="number_of_device_admins_none">Χωρίς ενεργές εφαρμογές</string>
+    <string name="usb_headset_not_support_cancel">Κατανοητό</string>
+    <string name="usb_headset_not_support_message">"Αδύνατη η αναπαραγωγή ήχου μέσω προσαρμογέα. Χρήση ψηφιακών 
+ακουστικών ή ακουστικά με βύσμα 3,5 χιλ.."</string>
+    <string name="usb_headset_not_support_tile">"Αδυναμία αναπαραγωγής ήχου"</string>
 </resources>

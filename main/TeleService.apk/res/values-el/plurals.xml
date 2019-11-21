@@ -21,8 +21,8 @@
         <item quantity="one">Μπορείτε να προσθέσετε έως %s άτομο, επιλέξτε ξανά.</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">μετά απο: %s Δευτ.</item>
-        <item quantity="one">μετά απο %s Δευτ.</item>
+        <item quantity="other">μετά απο: %d Δευτ.</item>
+        <item quantity="one">μετά απο %d Δευτ.</item>
     </plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Χωρίς σύνδεση δεδομένων για %s λεπτά</item>

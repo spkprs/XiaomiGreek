@@ -1011,4 +1011,31 @@
         <item>Μαύρο</item>
         <item>Αυτόματο</item>
     </string-array>
+     <string-array name="bedtime_guide_repeat_type">
+         <item>Δευτέρα έως Παρασκευή</item>
+         <item>Κάθε μέρα</item>
+         <item>Εργάσιμες ημέρες</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entries">
+         <item>Κάθε μέρα</item>
+         <item>Δευτέρα έως Παρασκευή</item>
+         <item>Εργάσιμες ημέρες</item>
+         <item>Προσαρμογή</item>
+     </string-array>
+     <string-array name="days_of_week">
+         <item>Κυρ</item>
+         <item>Δευτ</item>
+         <item>Τρί</item>
+         <item>Τετ</item>
+         <item>Πέμ</item>
+         <item>Παρ</item>
+         <item>Σαβ</item>
+     </string-array>
+     <string-array name="notification_adv_time_entries">
+         <item>Στον ορισμένο χρόνο</item>
+         <item>15 λεπ. νωρίτερα</item>
+         <item>30 λεπ. νωρίτερα</item>
+         <item>1 ώρ. νωρίτερα</item>
+         <item>Χωρίς</item>
+	 </string-array>
 </resources>

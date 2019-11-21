@@ -893,4 +893,6 @@
   <string name="dirty_tip_toast">Ο φακός είναι βρώμικος. Καθαρίστε τον.</string>
   <string name="hint_subtitle">"Υπαγόρευση υπότιτλων κατά τη λήψη βίντεο"</string>
   <string name="pref_popup_camera_title">Αναδυόμενη Κάμερα</string>
+    <string name="pref_camera_heic_image_format_description">Λήψη φωτογραφιών σε μορφή HEIF υψηλής απόδοσης</string>
+    <string name="pref_camera_heic_image_format_title">Μορφή HEIC</string>
 </resources>

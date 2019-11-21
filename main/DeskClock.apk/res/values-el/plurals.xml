@@ -68,4 +68,20 @@
         <item quantity="other">Κάθε %1$s λεπτά</item>
         <item quantity="one">Κάθε %1$s λεπτό</item>
     </plurals>
+     <plurals name="sleep_duration_hour">
+         <item quantity="other">%1s ώρ.</item>
+         <item quantity="one">%1$s ώρ.</item>
+     </plurals>
+     <plurals name="sleep_duration_hour_avg">
+         <item quantity="other">%1s ώρ.</item>
+         <item quantity="one">%1$s ώρ.</item>
+     </plurals>
+     <plurals name="sleep_duration_min">
+         <item quantity="other">%1$s λεπ.</item>
+         <item quantity="one">%1$s λεπ.</item>
+     </plurals>
+     <plurals name="sleep_duration_min_avg">
+         <item quantity="other">%1$s λεπ.</item>
+         <item quantity="one">%1$s λεπ.</item>
+     </plurals>
 </resources>
