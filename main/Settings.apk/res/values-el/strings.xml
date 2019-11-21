@@ -6784,4 +6784,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="usb_headset_not_support_message">"Αδύνατη η αναπαραγωγή ήχου μέσω προσαρμογέα. Χρήση ψηφιακών 
 ακουστικών ή ακουστικά με βύσμα 3,5 χιλ.."</string>
     <string name="usb_headset_not_support_tile">"Αδυναμία αναπαραγωγής ήχου"</string>
+    <string name="show_bottom_search_bar_title">Εμφάνιση μπάρας Αναζήτησης</string>
 </resources>

@@ -79,4 +79,5 @@
   <string name="use_in_theme_server">Παγκόσμιος διακομιστής Θεμάτων</string>
   <string name="use_new_miui_fonts_title">Χρήση νέων γραμματοσειρών MIUI</string>
   <string name="use_new_miui_fonts_summary">Χρησιμοποιήστε τη νέα γραμματοσειρά της MIUI αντί της προεπιλεγμένης \"Roboto\". Λειτουργεί μόνο όταν χρησιμοποιείται η \"Προεπιλογή\" στα \"Θέματα\".</string>
+  <string name="show_bottom_search_bar_title">Εμφάνιση μπάρας Αναζήτησης</string>
 </resources>
