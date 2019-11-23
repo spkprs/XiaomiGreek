@@ -2165,4 +2165,11 @@
         <item>Βελτιστοποιημένη για ποιότητα ήχου (900kbps)</item>
         <item>Καλύτερη προσπάθεια (αυτόμ. ρυθμός μετάδοσης bit)</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Ανεργό</item>
+        <item>Ενεργό φιλτρ/μένα</item>
+        <item>Ενεργό</item>
+        <item>Ενεργό \"Επικεφαλίδες φιλτρ/μένες\"</item>
+        <item>Ενεργό \"Πακέτα πολυμέσων φιλτρ/μένα\"</item>
+    </string-array>
 </resources>

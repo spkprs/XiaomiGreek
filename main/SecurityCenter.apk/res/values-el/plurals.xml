@@ -480,4 +480,12 @@
         <item quantity="other">%d ώρ. απομένουν</item>
         <item quantity="one">%d ώρ. απομένει</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s ώρ.</item>
+        <item quantity="one">%s ώρ.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s λεπ.</item>
+        <item quantity="one">%s λεπ.</item>
+    </plurals>
 </resources>

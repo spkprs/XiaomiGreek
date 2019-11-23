@@ -895,4 +895,13 @@
   <string name="pref_popup_camera_title">Αναδυόμενη Κάμερα</string>
     <string name="pref_camera_heic_image_format_description">Λήψη φωτογραφιών σε μορφή HEIF υψηλής απόδοσης</string>
     <string name="pref_camera_heic_image_format_title">Μορφή HEIC</string>
+    <string name="document_blackwhite">Μαύρο &amp; Άσπρο</string>
+    <string name="document_blur_warn">Θαμπό κείμενο</string>
+    <string name="document_origin">Αρχική εικόνα</string>
+    <string name="document_strengthen">Βελτίωση</string>
+    <string name="pref_document_mode">Λειτουργία εγγράφου</string>
+    <string name="pref_camera_first_tag_tips">Σημάνθηκε με επιτυχία</string>
+    <string name="pref_camera_video_tag">Να επιτρέπεται η Σήμανση βίντεο</string>
+    <string name="pref_camera_video_tag_description">Πατήστε \"Σήμανση\" κατά την αναπαραγωγή ενός βίντεο για να μπορέσετε να επιστρέψετε σε επισημασμένες στιγμές κατά τη διάρκεια της αναπαραγωγής</string>
+    <string name="video_tag_flag_title">Σήμανση</string>
 </resources>

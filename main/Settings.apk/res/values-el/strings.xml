@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-	 <string name="APN_NAME_CMMMS">CMMMS</string>
-     <string name="APN_NAME_CMNET">CMNET</string>
-     <string name="APN_NAME_CMWAP">CMWAP</string>
-     <string name="APN_NAME_CTLTE">ctlte</string>
-     <string name="APN_NAME_CTMMS">CTWAP</string>
-     <string name="APN_NAME_CTNET">CTNET</string>
-     <string name="APN_NAME_CTWAP">CTWAP</string>
-     <string name="APN_NAME_CUMMS">China Unicom MMS</string>
-     <string name="APN_NAME_CUNET">China Unicom NET</string>
-     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
-     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
      <string name="Accounts_settings_title">Λογαριασμοί</string>
      <string name="WiFiOn_mobile_title">Όταν είναι ενεργοποιημένο το Wi-Fi</string>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
@@ -6785,4 +6774,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 ακουστικών ή ακουστικά με βύσμα 3,5 χιλ.."</string>
     <string name="usb_headset_not_support_tile">"Αδυναμία αναπαραγωγής ήχου"</string>
     <string name="show_bottom_search_bar_title">Εμφάνιση μπάρας Αναζήτησης</string>
+    <string name="mtp_connection_failed">"Δεν είναι δυνατή η μεταφορά αρχείων στον συνδεδεμένο υπολογιστή. Δοκιμάστε την αντιμετώπιση προβλημάτων."</string>
+    <string name="mtp_connection_failed_title">Σύνδεση USB</string>
+    <string name="mtp_connection_not_remind">"Χωρίς επανεμφάνιση"</string>
+    <string name="mtp_solution_button_cancel">Κατανοητό</string>
+    <string name="mtp_solution_button_ok">Αντιμετώπιση προβλημάτων</string>
 </resources>

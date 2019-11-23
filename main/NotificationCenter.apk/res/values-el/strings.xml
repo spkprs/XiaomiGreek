@@ -15,6 +15,7 @@
   <string name="hint_search_in_disabled_apps">"Αναζήτηση χωρίς εμφάνιση ειδοπ/σεων"</string>
   <string name="hint_search_in_enabled_apps">Αναζήτηση με εμφάνιση ειδοπ/σεων</string>
   <string name="list_title_disable_notification">"Οι ειδοπ/σεις δεν επιτρέπονται"</string>
+  <string name="last_sent_time_second">Μόλις τώρα</string>
   <string name="loading">Μισό λεπτό.…</string>
   <string name="lock_screen_display_rules">Τύπος</string>
   <string name="lock_screen_tip_toast">Επιτρέψτε τις ειδοπ/σεις οθόνης κλειδώματος σε \"Τύπο\".</string>

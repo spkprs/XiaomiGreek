@@ -623,4 +623,11 @@
         <item>Ενεργ προαιρετικών κωδικοποιητών</item>
         <item>Απενεργ προαιρετικών κωδικοποιητών</item>
   </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Ανεργό</item>
+        <item>Ενεργό φιλτρ/μένα</item>
+        <item>Ενεργό</item>
+        <item>Ενεργό \"Επικεφαλίδες φιλτρ/μένες\"</item>
+        <item>Ενεργό \"Πακέτα πολυμέσων φιλτρ/μένα\"</item>
+    </string-array>
 </resources>
