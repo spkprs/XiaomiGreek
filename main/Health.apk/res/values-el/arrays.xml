@@ -48,4 +48,13 @@
     <item>Παρ</item>
     <item>Σάβ</item>
   </string-array>
+    <string-array name="week">
+        <item>Κυριακή</item>
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+    </string-array>
 </resources>
