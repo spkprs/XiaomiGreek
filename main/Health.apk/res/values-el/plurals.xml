@@ -68,4 +68,60 @@
         <item quantity="other">" ημέρες"</item>
         <item quantity="one">" ημέρα"</item>
      </plurals>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Περπατήστε τουλάχιστον %1$d βήματα κάθε μέρα</item>
+        <item quantity="one">Περπατήστε τουλάχιστον %1$d βήμα κάθε μέρα</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">Επιλεγμένα %1$d στοιχεία</item>
+        <item quantity="one">Επιλεγμένο %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">Διαγραφή %1$d εγγραφών;</item>
+        <item quantity="one">Διαγραφή %1$d εγγραφής;</item>
+    </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d βήματα</item>
+        <item quantity="one">%1$d βήμα</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d ώρ.</item>
+        <item quantity="one">%1$d ώρ.</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d ημέρες από την τελευταία ζύγιση</item>
+        <item quantity="one">%1$d ημέρα από την τελευταία ζύγιση</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d ημέρες από την τελευταία ζύγιση</item>
+        <item quantity="one">%1$d ημέρα από την τελευταία ζύγιση</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Ημέρα %1$d (αναμενόταν)</item>
+        <item quantity="one">Ημέρα %1$d (αναμενόταν)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Ημέρα %1$d</item>
+        <item quantity="one">Ημέρα %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Επόμενη περίοδος σε %1$d ημέρες</item>
+        <item quantity="one">Επόμενη περίοδος σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d λεπ.</item>
+        <item quantity="one">%1$d λεπ.</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Στόχος: %1$d ώρ.</item>
+        <item quantity="one">Στόχος: %1$d ώρ.</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">"Οι τρέχουσες ρυθμίσεις δεν σας εγγυώνται %1$d ώρες ύπνου καθημερινά. Χρειάζεστε περισσότερες από αυτές."</item>
+        <item quantity="one">"Οι τρέχουσες ρυθμίσεις δεν σας εγγυώνται %1$d ώρες ύπνου καθημερινά. Χρειάζεστε περισσότερη από αυτή."</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">%1$d βήματα σήμερα</item>
+        <item quantity="one">%1$d βήμα σήμερα</item>
+    </plurals>
 </resources>
