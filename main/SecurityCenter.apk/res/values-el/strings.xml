@@ -3013,4 +3013,9 @@
     <string name="notification_low_battery_title">Λιγότερο από %s μπαταρίας απομένει</string>
     <string name="open_extreme_power_save_mode_title">Ενεργοποίηση Μέγιστη εξοικον. μπαταρίας</string>
     <string name="save_mode_btn_ok">Κατανοητό</string>
+    <string name="app_running_tip_dialog_negative">Ακύρωση</string>
+    <string name="app_running_tip_dialog_positive">OK</string>
+    <string name="app_running_tip_dialog_text">Κλείστε το %1$s για να μην εκτελείται στο παρασκήνιο. Αυτό θα επιταχύνει τη συσκευή σας και θα μειώσει την κατανάλωση ενέργειας.</string>
+    <string name="app_running_tip_dialog_title">Τερματισμός εφαρμογής</string>
+    <string name="app_running_tip_uninstall">Απεγκατάσταση αυτής της εφαρμογής</string>
 </resources>

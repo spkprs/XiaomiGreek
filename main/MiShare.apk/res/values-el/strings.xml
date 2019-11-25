@@ -84,6 +84,9 @@
   <string name="functions_are_being_developed">Αυτή η λειτουργία θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
   <string name="hide">Απόκρυψη</string>
   <string name="location_enabled">Ενεργοποίηση υπηρεσίας τοποθεσίας για εύρεση κοντινών συσκευών</string>
+  <string name="mishare_settings_summary_international">"Μπορείτε να χρησιμοποιήσετε το Mi Share για την αποστολή στοιχείων σε κοντινές συσκευές..
+Mi Share είναι συμβατό με τηλέφωνα Mi και Redmi.
+OPPO, VIVO, REALME, και άλλες μάρκες επίσης θα είναι σύντομα συμβατές με το Mi Share. Μπορείτε να ελέγξετε τη λίστα των συμβατών συσκευών στην τοποθεσία web μας."</string>
   <string name="mi_9t">Mi 9T</string>
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_a3">Mi A3</string>
@@ -173,4 +176,7 @@
      <string name="mishare_state_protection_summary">Ενεργοποίηση του Mi Share αυτόματα όταν το Bluetooth ή το Wi-Fi είναι ενεργοποιημένα</string>
      <string name="scanning_only_xiaomi_device">Μπορείτε να στείλετε αυτό το στοιχείο μόνο σε μια συσκευή Xiaomi</string>
      <string name="wifi_is_not_enabled">Ενεργοποίηση του Wi-Fi πρώτα</string>
+    <string name="error_receive_file_service_disabled">Ακύρωση εισερχόμενης μεταφοράς</string>
+    <string name="error_send_file_service_disabled">Ακύρωση εξερχόμενης μεταφοράς</string>
+    <string name="send_files_to_remote_success_title">Στάλθηκε με επιτυχία</string>
 </resources>

@@ -60,4 +60,12 @@
     <item quantity="other">Έγινε λήψη %2$d εικόνες από %1$s. Αγγίξτε για προβολή.</item>
     <item quantity="one">Έγινε λήψη %2$d εικόνα από %1$s. Αγγίξτε για προβολή.</item>
   </plurals>
+    <plurals name="send_file_success_detail_files_content">
+        <item quantity="other">Μεταφορά %1$d αρχείων στο %2$s</item>
+        <item quantity="one">Μεταφορά %1$d αρχείου στο %2$s</item>
+    </plurals>
+    <plurals name="send_file_success_detail_images_content">
+        <item quantity="other">Μεταφορά %1$d εικόνων στο %2$s</item>
+        <item quantity="one">Μεταφορά %1$d εικόνας στο %2$s</item>
+    </plurals>
 </resources>

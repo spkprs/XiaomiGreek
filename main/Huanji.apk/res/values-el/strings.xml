@@ -30,8 +30,8 @@
   <string name="cancel_description">Ακύρωση</string>
   <string name="cancel_moving_dialog_message">Παύση εισαγωγής τώρα;</string>
   <string name="cancel_moving_dialog_title">Παύση εισαγωγής</string>
-  <string name="cannot_use_mi_huanji_summary">Φαίνεται ότι τώρα δημιουργείς αντίγραφα. Σταματήστε το τρέχον αντίγραφο ή περιμένετε μέχρι να ολοκληρωθεί για να μπορέσετε να χρησιμοποιήσετε το Mi Mover.</string>
-  <string name="cannot_use_mi_huanji_title">Δεν μπορείτε να χρησιμοποιήσετε το Mi Mover</string>
+  <string name="cannot_use_mi_huanji_summary">Φαίνεται ότι η MIUI δημιουργεί αντίγραφα ασφαλείας των στοιχείων τώρα. Διακόψτε τη τρέχουσα δημιουργία αντιγράφων ή επανεκκινήστε τη συσκευή σας για να επιτρέψετε στο Mi Mover να ξεκινήσει τη μεταφορά.</string>
+  <string name="cannot_use_mi_huanji_title">"Δεν είναι δυνατή η μεταφορά τώρα"</string>
   <string name="check_phone_error_title">Ο συγχρονισμός είναι απενεργοποιημένος</string>
   <string name="check_phone_io_error">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
   <string name="chinese_day_1">初一</string>
@@ -136,7 +136,8 @@
   <string name="dialog_backup_password_verify">επαληθεύσετε</string>
   <string name="dialog_request_network_btn_negative">Εξοδος</string>
   <string name="dialog_request_network_btn_positive">Συμφωνώ</string>
-  <string name="dialog_request_network_message">Καλώς ήλθατε στο Mi Mover! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταφέρετε στοιχεία από την παλιά σας συσκευή σε νέα. Το Mi Mover πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά.</string>
+  <string name="dialog_request_network_message">"Καλώς ήρθατε στην Mi Mover! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να μεταφέρετε δεδομένα από την παλιά συσκευή σας σε νέα.
+Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές νομοθετικές, κανονιστικές και πολιτικές απορρήτου. Σημειώστε ότι η Mi Mover πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για τη συλλογή των προσωπικών σας στοιχείων: ενεργοποίηση και απενεργοποίηση Wi-Fi, πρόσβαση και μεταφορά των επαφών σας, ιστορικό κλήσεων, SMS, MMS, εγγραφές κλήσεων και εγγραφές ήχου."</string>
   <string name="dialog_tip_upgrade_summary">Φαίνεται οτι η έκδοση του Mi Mover είναι παλιά. Ενημερώστε το Mi Mover στην τελευταία του έκδοση για να μπορέσετε να μεταφέρετε αρχεία.</string>
   <string name="dialog_tip_upgrade_title">Ενημέρωση Mi Mover</string>
   <string name="dialog_version_summary_tip">"Τι Νέο: "</string>
@@ -246,8 +247,7 @@
   <string name="hsa_send_again_countdown">Αποστολή ξανά (%ds)</string>
   <string name="hsa_send_failed">Αδύνατη η αποστολή του κώδικα επαλήθευσης. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
   <string name="hsa_sending">Αποστολή…</string>
-  <string name="hsa_tip_message">"1. Αν δεν μπορείτε να λάβετε τον κωδικό επαλήθευσης, βεβαιωθείτε ότι έχετε ήδη συνδεθεί στο iCloud στη συσκευή σας Apple.
-2. Εάν η εισαγωγή του κωδικού επαλήθευσης δεν βοηθήσει, απενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων"</string>
+  <string name="hsa_tip_message">"Αν δεν μπορείτε να λάβετε τον κωδικό επαλήθευσης, βεβαιωθείτε ότι έχετε ήδη συνδεθεί στο iCloud στη συσκευή σας Apple."</string>
   <string name="hsa_tip_message_shutdown_hsa">Πώς να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων</string>
   <string name="hsa_tip_title">Βοήθεια</string>
   <string name="hsa_verify_failed">Ο έλεγχος ταυτότητας δύο παραγόντων δεν λειτούργησε</string>
@@ -266,7 +266,7 @@
   <string name="icloud_need_wifi_message">Δεν είστε συνδεδεμένοι στο Wi-Fi τώρα. Για να εισαγάγετε δεδομένα από το iCloud, συνδεθείτε στο Wi-Fi.</string>
   <string name="icloud_need_wifi_title">Συνδεθείτε στο Wi-Fi</string>
   <string name="icloud_start_now">Ξεκινήστε αμέσως</string>
-  <string name="icloud_verify_tips">Πατήστε \"Αποδοχή\" στη συσκευή iOS και εισαγάγετε τον κωδικό που εμφανίζεται εδώ.</string>
+  <string name="icloud_verify_tips">Πατήστε Αποδοχή στη συσκευή iOS και εισαγάγετε τον κωδικό που εμφανίζεται εδώ.</string>
   <string name="im">IM</string>
   <string name="im_recipient">Είμαι αποδέκτης</string>
   <string name="im_sender">Είμαι αποστολέας</string>
@@ -275,7 +275,7 @@
   <string name="import_again">Επανάληψη εισαγωγής</string>
   <string name="import_data_from_icloud">Εισαγωγή δεδομένων από το iCloud</string>
   <string name="install_app_dialog_title">Αδύνατη η εύρεση συσκευών σε κοντινή απόσταση</string>
-  <string name="install_app_link_text">Εγκαταστήστε την τελευταία έκδοση του Mi Mover στην παλιά σας συσκευή</string>
+  <string name="install_app_link_text">"Γιατί δεν μπορεί η παλιά μου συσκευή να συνδεθεί στο ενεργό σημείο;"</string>
   <string name="install_app_message">"Αν δεν μπορείτε να βρείτε τη νέα συσκευή για μεγάλο χρονικό διάστημα, δοκιμάστε τα εξής:
 1. Βεβαιωθείτε ότι το Mi Mover είναι εγκατεστημένο στη νέα συσκευή σας.
 2. Πλησιάστε τις δύο συσκευές μεταξύ τους."</string>
@@ -295,8 +295,8 @@
   <string name="logining">Σύνδεση…</string>
   <string name="main_button_continue">Συνέχεια</string>
   <string name="main_button_quit">Έξοδος</string>
-  <string name="main_chooser_item_android_mi">Εισαγωγή από συσκευή Android</string>
-  <string name="main_chooser_item_ios">Εισαγωγή από τη συσκευή iOS</string>
+  <string name="main_chooser_item_android_mi">Εισαγωγή από Xiaomi</string>
+  <string name="main_chooser_item_ios">Εισαγωγή από iPhone</string>
   <string name="main_chooser_title">Επιλέξτε την παλιά συσκευή</string>
   <string name="message_request_package_stats_perm">Πατήστε \"Συνέχεια\" για να ανοίξετε τις Ρυθμίσεις και δώστε στο Mi Mover τα απαιτούμενα δικαιώματα.</string>
   <string name="midnight">ΜΜ</string>
@@ -352,30 +352,32 @@
   <string name="need_location_permission_summary">Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας, προκειμένου να εντοπίσει κοντινές συσκευές.</string>
   <string name="need_more_memory_cacel">Ακύρωση</string>
   <string name="need_more_memory_confirm">Εκκαθαριστής</string>
-  <string name="need_more_memory_summary">"Τα δεδομένα εφαρμογών τρίτου μέρους πρέπει να συμπιεσθούν πριν μεταφερθούν. Δεν υπάρχει αρκετός χώρος αποθήκευσης για τη δημιουργία συμπιεσμένων πακέτων.
+  <string name="need_more_memory_summary">"Ανεπαρκής χώρος αποθήκευσης. Το Mi Mover χρειάζεται %1$s επιπλέον χώρο αποθήκευσης για να δημιουργήσει συμπιεσμένα πακέτα πριν από τη μεταφορά.
 1. Δοκιμάστε να μεταφέρετε μόνο σημαντικά στοιχεία.
-2. Καταργήστε την εγκατάσταση των εφαρμογών που δεν χρειάζεστε.
+2. Να μην επιλέγονται εφαρμογές με πολλά δεδομένα.
 3. Χρησιμοποιήστε την Εκκαθάριση για να ελευθερώσετε χώρο."</string>
   <string name="need_more_memory_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
   <string name="new_main_activity_label">Mi Mover</string>
-  <string name="new_trans_intro_desc_2">Ακυρώστε τη μεταφορά, βγείτε από το Mi Mover και αρχίστε ξανά. Η Mi Mover θα μπορέσει να πάρει τη μεταφορά από όπου έφυγε.</string>
-  <string name="new_trans_intro_desc_3">Το Mi Mover χρησιμοποιεί Wi-Fi για τη μεταφορά αρχείων. Αυτός είναι ο λόγος για τον οποίο δεν μπορείτε να συνδεθείτε στο διαδίκτυο χρησιμοποιώντας Wi-Fi σε οποιαδήποτε συσκευή κατά τη μεταφορά.</string>
-  <string name="new_trans_intro_desc_4">Ο χώρος αποθήκευσης σε παλιές συσκευές χρησιμοποιείται για τη δημιουργία πακέτων μεταφοράς. Βεβαιωθείτε ότι διαθέτετε τουλάχιστον 2GB διαθέσιμου χώρου αποθήκευσης στην παλιά συσκευή σας πριν ξεκινήσετε τη μεταφορά.</string>
-  <string name="new_trans_intro_desc_5">Υπάρχουν διάφοροι λόγοι για τους οποίους μπορεί να συμβεί αυτό: προβλήματα συμβατότητας εκδόσεων συστημάτων και εφαρμογών, προβλήματα δικτύου, θέματα συμβατότητας που αφορούν συγκεκριμένη συσκευή κ.λπ.</string>
-  <string name="new_trans_intro_desc_6">Ορισμένα προφίλ εφαρμογών (e-banking, finance κ.λπ.) σχετίζονται με συγκεκριμένη συσκευή για λόγους ασφαλείας. Δοκιμάστε να καθαρίσετε τα δεδομένα της εφαρμογής ή να εγκαταστήσετε ξανά την εφαρμογή σε μια νέα συσκευή.</string>
-  <string name="new_trans_intro_desc_7">Τα δεδομένα εφαρμογών WeChat και το ιστορικό συζητήσεων ενδέχεται να μην μεταφερθούν πλήρως χρησιμοποιώντας το Mi Mover εάν είστε συνδεδεμένοι στο WeChat κατά τη διάρκεια της μεταφοράς. Πηγαίνετε στις ρυθμίσεις της WeChat και αποσυνδεθείτε από το λογαριασμό σας για περισσότερες πιθανότητες επιτυχούς μεταφοράς.</string>
-  <string name="new_trans_intro_desc_new">Πατήστε \"Είμαι Παραλήπτης\". Επιλέξτε \"Εισαγωγή από συσκευή Android\". Θα δημιουργηθεί ένα hotspot.</string>
-  <string name="new_trans_intro_desc_old">Πατήστε \"Είμαι Αποστολέας\". Συνδεθείτε στη νέα συσκευή σας, επιλέξτε τα στοιχεία που θέλετε να μεταφέρετε και πατήστε Αποστολή.</string>
-  <string name="new_trans_intro_question_1">1. Πώς μπορώ να χρησιμοποιήσω το Mi Mover για να μεταφέρω δεδομένα από μια συσκευή Android;</string>
-  <string name="new_trans_intro_question_2">2. Τι πρέπει να κάνω εάν ο Mi Mover έχει κολλήσει σε ένα συγκεκριμένο βήμα;</string>
-  <string name="new_trans_intro_question_3">3. Γιατί δεν μπορώ να χρησιμοποιήσω το Wi-Fi κατά τη μεταφορά;</string>
-  <string name="new_trans_intro_question_4">4. Γιατί λέει ο Mi Mover ότι δεν υπάρχει αρκετός χώρος αποθήκευσης στην παλιά μου συσκευή;</string>
-  <string name="new_trans_intro_question_5">5. Γιατί δεν μεταφέρονται με επιτυχία ορισμένες εφαρμογές;</string>
-  <string name="new_trans_intro_question_6">6. Γιατί δεν θα ξεκινήσουν ορισμένες εφαρμογές σε μια νέα συσκευή;</string>
-  <string name="new_trans_intro_question_7">7. Γιατί δεν μεταφέρεται πλήρως το ιστορικό WeChat;</string>
+  <string name="new_trans_intro_desc_2">"Δεν χρειάζεται να εισάγετε κωδικό πρόσβασης στη νέα έκδοση του Mi Mover. Απλώς ανοίξτε το Mi Mover στην παλιά συσκευή σας, πατήστε \"Είμαι αποστολέας\" και πατήστε το όνομα του ενεργού σημείου για να συνδεθείτε."</string>
+  <string name="new_trans_intro_desc_3">Το Mi Mover χρειάζεται αποθηκευτικό χώρο για να δημιουργήσει ένα πακέτο μεταφοράς στην παλιά συσκευή σας πριν το στείλει στη νέα. Ελευθερώστε χώρο αποθήκευσης για να μπορείτε να συνεχίσετε.</string>
+  <string name="new_trans_intro_desc_4">Ενδέχεται να υπάρχουν ζητήματα συμβατότητας συσκευών, συστημάτων και εκδόσεων εφαρμογών που αποτρέπουν την επιτυχή μεταφορά ορισμένων εφαρμογών.</string>
+  <string name="new_trans_intro_desc_5">"Ορισμένες εφαρμογές (π.χ. οικονομικές υπηρεσίες και εργαλεία πληρωμής) δεν επιτρέπουν τη μεταφορά κωδικών πρόσβασης για λόγους ασφαλείας."</string>
+  <string name="new_trans_intro_desc_6">Το νέο σας τηλέφωνο Mi ενδέχεται να μην έχει τα απαραίτητα δικαιώματα για να το κάνει αυτό.</string>
+  <string name="new_trans_intro_desc_7">Το Mi Mover θα μπορέσει να συνεχίσει από εκεί που σταμάτησε. Εντούτοις, ίσως χρειαστεί να ξεκινήσετε πάλι αν τα ζητήματα συμβατότητας συσκευών σας εμποδίζουν να συνεχίσετε τη διακοπή της μεταφοράς.</string>
+  <string name="new_trans_intro_desc_new">1. Βεβαιωθείτε ότι η Mi Mover στη νέα συσκευή σας είναι ενημερωμένη. Μπορείτε να κάνετε λήψη της τελευταίας έκδοσης του Mi Mover στο GetApps ή να χρησιμοποιήσετε αυτήν τη σύνδεση: %1$s.</string>
+  <string name="new_trans_intro_desc_old">"2. Αν το ενεργό σημείο εξακολουθεί να μην εμφανίζεται στο Mi Mover, ανοίξτε τις ρυθμίσεις Wi-Fi και ελέγξτε αν μπορείτε να το δείτε εκεί. Εάν ναι, επιστρέψτε στην Mi Mover και πατήστε το όνομα του ενεργού σημείου."</string>
+  <string name="new_trans_intro_question_1">"1. Γιατί δεν μπορώ να δω το σημείο εκκίνησης της νέας συσκευής στην παλιά;"</string>
+  <string name="new_trans_intro_question_2">"2. Ποιος είναι ο κωδικός πρόσβασης του ενεργού σημείου;"</string>
+  <string name="new_trans_intro_question_3">"3. Γιατί λέει ότι δεν υπάρχει αρκετός χώρος αποθήκευσης στην παλιά συσκευή;"</string>
+  <string name="new_trans_intro_question_4">"4. Γιατί δεν μεταφέρονται με επιτυχία όλες οι εφαρμογές;"</string>
+  <string name="new_trans_intro_question_5">"5. Γιατί οι κωδικοί πρόσβασης ορισμένων λογαριασμών εφαρμογών τρίτων δεν μεταφέρονται με επιτυχία;"</string>
+  <string name="new_trans_intro_question_6">"6. Γιατί δεν είναι δυνατή η μεταφορά δεδομένων εφαρμογής από συσκευή τρίτων;"</string>
+  <string name="new_trans_intro_question_7">"7. Εάν αφήσω τον Mi Mover στη μέση μιας μεταφοράς, θα πρέπει να ξεκινήσω την επόμενη φορά;"</string>
   <string name="new_trans_intro_title_new">Σε μια νέα συσκευή:</string>
   <string name="new_trans_intro_title_old">Σε μια παλιά συσκευή:</string>
-  <string name="new_wait_link_first">Ανοίξτε το Mi Mover στην παλιά συσκευή σας</string>
+  <string name="new_wait_link_first">"1. Ανοίξτε το Mi Mover στην παλιά συσκευή σας.
+2. Πατήστε \"Είμαι αποστολέας\" και περιμένετε λίγο.
+3. Επιλέξτε το ακόλουθο ενεργό σημείο στην παλιά συσκευή."</string>
   <string name="nickname">Ψευδώνυμο</string>
   <string name="night">ΜΜ</string>
   <string name="no_more_memory_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης σε αυτήν τη συσκευή για να ξεκινήσει η μεταφορά. Απελευθερώστε χώρο αποθήκευσης και δοκιμάστε ξανά.</string>
@@ -462,7 +464,7 @@
   <string name="search_action_mode_cancel">Ακύρωση</string>
   <string name="search_input_description">Αναζήτηση</string>
   <string name="search_mode_button_back_description">Πίσω</string>
-  <string name="searching_for_new_device">Αναζήτηση της νέας συσκευής…</string>
+  <string name="searching_for_new_device">Αναζήτηση συσκευών κοντά...</string>
   <string name="select_all">Επιλογή όλων</string>
   <string name="select_all_description">Επιλογή όλων</string>
   <string name="select_empty">Επιλέξτε πρώτα τα στοιχεία για εισαγωγή</string>
@@ -527,7 +529,7 @@
   <string name="sunday">Κυριακή</string>
   <string name="sunday_short">Κυρ</string>
   <string name="sunday_shortest">Κ</string>
-  <string name="switching_to_5g">Μετάβαση σε Wi-Fi 5 GHz…</string>
+  <string name="switching_to_5g">Μετάβαση σε δίκτυο 5 GHz…</string>
   <string name="sync_one_time_sync">Πατήστε για συγχρονισμό ( %1$s )</string>
   <string name="task_backup_cancel_progress">Ακύρωση…</string>
   <string name="task_canceled_all_local">Ακυρώθηκε</string>
@@ -588,8 +590,8 @@
   <string name="trans_detail_wechat_data">Τα δεδομένα WeChat (συμπεριλαμβανομένου του ιστορικού συνομιλιών)</string>
   <string name="trans_install_guide_new_content_first">"Σάρωση αυτού του κωδικού QR χρησιμοποιώντας τη νέα συσκευή σας.
 Κατεβάστε και εγκαταστήστε το Mi Mover."</string>
-  <string name="trans_install_guide_old_content_first">"Σάρωση αυτού του κωδικού QR χρησιμοποιώντας την παλιά συσκευή σας.
-Κατεβάστε και εγκαταστήστε το Mi Mover."</string>
+  <string name="trans_install_guide_old_content_first">"Το Mi Mover είναι προεγκατεστημένο σε όλες τις συσκευές που εκτελούν MIUI 11.
+Εάν το Mi Mover δεν είναι εγκατεστημένο στην παλιά συσκευή σας, μπορείτε να σαρώσετε τον κωδικό QR για να τον κατεβάσετε."</string>
   <string name="trans_intro_title">Συχνές ερωτήσεις</string>
   <string name="trans_main_activity_tutor_first">"Μετακινήστε τις φωτογραφίες, τις επαφές, τα
 μηνύματα, το ιστορικό κλήσεων, ήχου, βίντεο,
@@ -683,4 +685,42 @@
      <string name="qq_data_external">QQ SD card data</string>
      <string name="time_concentrator" />
      <string name="trans_detail_item_app_skip_data">"Αδύνατη η μεταφορά αυτής της εφαρμογής"</string>
+    <string name="account_or_password_incorrect">Εσφαλμένο αναγνωριστικό λογαριασμού ή κωδικός πρόσβασης</string>
+    <string name="cannot_use_mi_huanji_button">Κατανοητό</string>
+    <string name="connect_icloud_fail">"Δεν ήταν δυνατή η σύνδεση στο iCloud"</string>
+    <string name="connect_icloud_fail_tips">Βεβαιωθείτε ότι ο λογαριασμός σας iCloud έχει ενεργοποιηθεί. Εάν όχι, μεταβείτε στο icloud.com και ακολουθήστε τις οδηγίες για να ενεργοποιήσετε το λογαριασμό σας.</string>
+    <string name="connection_tips_activity_label">Αντιμετώπιση προβλημάτων</string>
+    <string name="connection_tips_other_message">"1. Βεβαιωθείτε ότι η πιο πρόσφατη έκδοση του Mi Mover είναι εγκατεστημένη στην παλιά σας συσκευή. Μπορείτε να κάνετε λήψη της τελευταίας έκδοσης του Mi Mover στο GetApps ή να χρησιμοποιήσετε αυτήν τη σύνδεση: %1$s.
+2. Αν το ενεργό σημείο της νέας συσκευής δεν εμφανίζεται στο Mi Mover, ανοίξτε τις ρυθμίσεις Wi-Fi και ελέγξτε αν μπορείτε να το δείτε εκεί. Αν το κάνεις, μην το πατήσεις.
+3. Επιστρέψτε στην Mi Mover και πατήστε το όνομα του ενεργού σημείου."</string>
+    <string name="connection_tips_other_title">Εάν η παλιά σας συσκευή είναι τηλέφωνο Android τρίτου κατασκευαστή:</string>
+    <string name="connection_tips_owner_message">Το Mi Mover είναι προεγκατεστημένο σε όλες τις συσκευές που εκτελούν MIUI 11. Εάν διαθέτετε παλαιότερη έκδοση MIUI, μπορείτε να κάνετε λήψη της τελευταίας έκδοσης του Mi Mover στο GetApps ή να χρησιμοποιήσετε αυτήν τη σύνδεση: %1$s.</string>
+    <string name="connection_tips_owner_title">Εάν η παλιά σας συσκευή είναι τηλέφωνο Mi:</string>
+    <string name="icloud_signin_fail">"Δεν ήταν δυνατή η είσοδος"</string>
+    <string name="icloud_signin_fail_message">Το Apple ID σας ήταν κλειδωμένο λόγω λόγων ασφαλείας. Πηγαίνετε στο iforgot.apple.com και ακολουθήστε τις οδηγίες.</string>
+    <string name="install_complete_count_down_time">Εγκαταστάθηκε με επιτυχία. Εκκίνηση της μεταφοράς (%1$d)</string>
+    <string name="new_trans_intro_desc_8">Το ιστορικό συνομιλιών από την παλιά συσκευή σας θα αντικαταστήσει το ιστορικό Wechat της νέας συσκευής σας κατά τη μεταφορά.</string>
+    <string name="new_trans_intro_question_8">8. Γιατί εξαφανίστηκε το ιστορικό μου στο WeChat στη νέα συσκευή;</string>
+    <string name="new_trans_intro_desc_new_click">Λήψη</string>
+    <string name="send_verification_code_fail">"Δεν ήταν δυνατή η αποστολή του κωδικού επαλήθευσης"</string>
+    <string name="send_verification_code_fail_tips">"Βεβαιωθείτε ότι έχετε εισέλθει με αυτόν το λογαριασμό στη συσκευή Apple που διαθέτετε. Διαφορετικά, δεν θα μπορείτε να λάβετε τον κωδικό".</string>
+    <string name="settings_powerkeeper">Δεδομένα μετρητή βημάτων</string>
+    <string name="transfer_multi_connect_summary">Η μεταφορά σας διακόπηκε για λόγους ασφαλείας. Μπορείτε να πατήσετε \"Σύνδεση ξανά\" για να συνεχίσετε οπωσδήποτε.</string>
+    <string name="transfer_multi_connect_title">Φαίνεται ότι πολλές συσκευές είναι συνδεδεμένες σε αυτό το ενεργό σημείο</string>
+    <string name="dialog_request_network_message_extra">"Εάν δεν συμφωνείτε να εκχωρήσετε τέτοια δικαιώματα ή να κάνετε κοινή χρήση και αποστολή των προσωπικών σας στοιχείων, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής ή να περιορίσετε τα δικαιώματα στις Ρυθμίσεις σε τέτοιες περιπτώσεις."</string>
+    <string name="guest_install_app_hint_ensure">Λήψη</string>
+    <string name="guest_install_app_hint_summary">"Η νέα έκδοση του Mi Mover δεν είναι συμβατή με αυτήν που είναι εγκατεστημένη σε αυτήν τη συσκευή. Κάντε λήψη και εγκαταστήστε τη νέα έκδοση."</string>
+    <string name="guest_install_app_hint_title">Λήψη της νέας έκδοσης του Mi Mover</string>
+    <string name="host_boot_installation_button">Επόμενο</string>
+    <string name="host_boot_installation_content">"1. Μεταβείτε στις "Ρυθμίσεις" στην παλιά συσκευή σας.
+2. Πληκτρολογήστε \"Mi Mover\" στη γραμμή αναζήτησης.
+3. Πατήστε \"Mi Mover\" στα αποτελέσματα αναζήτησης."</string>
+    <string name="host_boot_installation_dialog_message">"Η έκδοση του Mi Mover στην παλιά συσκευή σας δεν είναι συμβατή με αυτή που είναι εγκατεστημένη εδώ. Ενημερώστε το Mi Mover στην παλιά συσκευή σας."</string>
+    <string name="host_boot_installation_first_title">Άνοιγμα του Mi Mover στην παλιά συσκευή σας</string>
+    <string name="host_boot_installation_message">"Επιλέξτε τη σελίδα που βλέπετε στην παλιά συσκευή σας. Αν χρησιμοποιείτε την παλιά έκδοση της Mi Mover, θα σας πούμε πώς να την ενημερώσετε."</string>
+    <string name="host_boot_installation_second_title">Επιλέξτε τη σελίδα που βλέπετε</string>
+    <string name="host_boot_installation_tips">"Δεν μπόρεσα να βρω το Mi Mover; Πατήστε για να κατεβάσετε."</string>
+    <string name="main_chooser_item_android_others">Εισαγωγή από άλλο τηλέφωνο Android</string>
+    <string name="new_app_name">Νέα έκδοση</string>
+    <string name="old_app_name">Παλαιά έκδοση</string>
 </resources>

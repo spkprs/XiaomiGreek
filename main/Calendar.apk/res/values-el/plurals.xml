@@ -5,18 +5,10 @@
     <item quantity="other">%d ημέρες πριν την εκδήλωση</item>
     <item quantity="one">%d μέρα πρίν την εκδήλωση</item>
   </plurals>
-     <plurals name="Ndays_after">
-        <item quantity="other">%1$d天后</item>
-        <item quantity="one">%1$d天后</item>
-     </plurals>
   <plurals name="Ndays_after_at">
     <item quantity="other">Σε %1$d ημέρες μετά  την εκδήλωση στις %2$s</item>
     <item quantity="one">Σε %1$d ημέρα μετά  την εκδήλωση στις %2$s</item>
   </plurals>
-     <plurals name="Ndays_ago">
-        <item quantity="other">%1$d天前</item>
-        <item quantity="one">%1$d天前</item>
-     </plurals>
   <plurals name="Ndays_ago_at">
     <item quantity="other">%1$d ημέρες πριν την εκδήλωση στις %2$s</item>
     <item quantity="one">%1$d ημέρα πριν την εκδήλωση στις %2$s</item>
@@ -89,9 +81,6 @@
         <item quantity="other">Μπορεί να οριστούν %d υπενθυμίσεις</item>
         <item quantity="one">Μπορεί να οριστεί %d υπενθύμιση</item>
      </plurals>
-     <plurals name="feed_list_dislike_title">
-        <item quantity="other">已选%1$d个理由</item>
-     </plurals>
      <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
@@ -140,4 +129,8 @@
         <item quantity="other">κάθε %1$s την %2$s</item>
         <item quantity="one">κάθε %1$s την %2$s</item>
      </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d περισ. εκδηλώσεις</item>
+        <item quantity="one">%d περισ. εκδήλωση</item>
+    </plurals>
 </resources>

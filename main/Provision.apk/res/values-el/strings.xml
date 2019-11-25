@@ -236,4 +236,5 @@
   <string name="welcome">Καλωσορίσατε!</string>
   <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
   <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
+  <string name="data_traffic_enable_dialog_title">"Εάν δεν είστε συνδεδεμένοι στο WiFi τώρα, η συσκευή σας θα χρησιμοποιήσει δεδομένα κινητής τηλεφωνίας. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να προκαλέσει πρόσθετες χρεώσεις φορέα".</string>
 </resources>
