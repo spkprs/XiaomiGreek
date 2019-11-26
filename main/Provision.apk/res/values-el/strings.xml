@@ -92,6 +92,7 @@
   <string name="other_settings_auto_update">Αυτόματη ενημέρωση</string>
   <string name="other_settings_auto_update_summary">Το MIUI θα επιλέγει την πιο κατάλληλη στιγμή για λήψη και εγκατάσταση ενημερώσεων.</string>
   <string name="other_settings_enhanced_lockscreen">Αποκτήστε βελτιωμένη εμπειρία Οθόνης Κλειδώματος</string>
+  <string name="other_settings_enhanced_lockscreen_for_india">Κοιτάξτε για Mi</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Πολιτική Απορρήτου</string>
   <string name="other_settings_enhanced_lockscreen_summary">Λάβετε όμορφες εικόνες και ιστορίες που προβάλλονται στην οθόνη κλειδώματος καθημερινά. %1$s και %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Όροι και Προϋποθέσεις</string>

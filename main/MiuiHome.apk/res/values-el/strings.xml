@@ -410,6 +410,7 @@
 	<string name="status_paused">σε παύση</string>
 	<string name="status_pending">σε αναμονή</string>
 	<string name="system_shortcuts_more_operation">Πληροφορίες</string>
+    <string name="system_shortcuts_remove">Αφαίρεση</string>
 	<string name="system_text">Σύστημα</string>
 	<string name="title_jeejen">Αρχική σελίδα Jeejen</string>
 	<string name="title_select_live_folder">Επιλογή φακέλου</string>
