@@ -32,7 +32,10 @@
 	<string name="all_apps_setting_drawer_tips_desc">Το Συρτάρι εφαρμογών ανοίγει σαρώνοντας την Αρχική οθόνη. Η μετάβαση στη λειτουργία Αρχικής οθόνης με συρτάρι εφαρμογών, η Αναζήτηση δεν είναι πλέον διαθέσιμη. Αλλαγή ούτως ή άλλως?</string>
 	<string name="all_apps_setting_drawer_tips_title">Χρήση Συρταριού εφαρμογών</string>
 	<string name="all_apps_setting_drawer_title">Λειτουργία συρταριού</string>
+    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
 	<string name="all_apps_setting_min_category_limit">Επιλέξτε τουλάχιστον 1 κατηγορία</string>
+    <string name="all_apps_setting_original_scrollbar">Αρχική διάταξη</string>
+    <string name="all_apps_setting_scroll_bar">Μπάρα κύλισης</string>
 	<string name="all_apps_setting_title">Επιφάνεια εργασίας</string>
 	<string name="all_apps_slide_up_tips">Η σάρωση προς τα επάνω είναι αποκλειστικά για το άνοιγμα του Συρταριού εφαρμογών. Μεταβείτε στην κανονική λειτουργία Αρχικής οθόνης και δοκιμάστε ξανά.</string>
 	<string name="all_apps_suggestions">Προτάσεις εφαρμογών</string>
