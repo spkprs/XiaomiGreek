@@ -81,7 +81,7 @@
      <string name="print_searching_for_printers">Αναζήτηση για εκτυπωτές</string>
      <string name="print_searching_printers">Αναζήτηση για εκτυπωτές…</string>
      <string name="print_select_printer">Επιλογή εκτυπωτή</string>
-     <string name="print_service_security_warning_summary">Το έγγραφό σας μπορεί να περάσει από έναν ή περισσότερους διακομιστές καθ' οδόν προς τον εκτυπωτή.</string>
+     <string name="print_service_security_warning_summary">Το έγγραφό σας μπορεί να περάσει από έναν ή περισσότερους διακομιστές προς τον εκτυπωτή.</string>
      <string name="print_service_security_warning_title">Χρήση %1$s?</string>
      <string name="print_services_disabled_toast">Ορισμένες υπηρεσίες εκτύπωσης είναι απενεργοποιημένες</string>
      <string name="print_submited">Ετοιμο για εκτύπωση</string>

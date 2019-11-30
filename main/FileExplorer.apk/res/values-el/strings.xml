@@ -114,7 +114,7 @@
      <string name="directory_info_divider">"  |  "</string>
      <string name="disk_available">Διαθέσιμα:</string>
      <string name="disk_total">Συνολικά:</string>
-     <string name="doc_all">"'Ολα"</string>
+     <string name="doc_all">"Ολα"</string>
      <string name="doc_epub">EPUB</string>
      <string name="doc_pdf">PDF</string>
      <string name="doc_ppt">PPT</string>
