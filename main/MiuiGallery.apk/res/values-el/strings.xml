@@ -1270,6 +1270,14 @@
      <string name="too_many_recipients">Το μήνυμα έχει πολλούς παραλήπτες ( %1$s ), %2$s είναι οι μέγιστοι επιτρεπόμενοι παραλήπτες.</string>
      <string name="trash_bin">Κάδος απορριμμάτων</string>
      <string name="trash_bin_summary">Προβολή πρόσφατων διεγραμένων φωτογραφιών</string>
+	 <string name="trash_empty">Χωρίς στοιχεία εδώ.</string>
+	 <string name="trash_menu_delete">Διαγραφή</string>
+	 <string name="trash_menu_recovery">Επαναφορά</string>
+	 <string name="trash_purge_all">"Όλες οι φωτογραφίες και τα βίντεο θα διαγραφούν από το cloud. Δεν θα μπορείτε να τις επαναφέρετε. Διαγραφή οπωσδήποτε;"</string>
+	 <string name="trash_purge_positive_button">Διαγραφή</string>
+	 <string name="trash_vip_button_login">Επέκταση</string>
+	 <string name="trash_vip_button_login_top_level">Ανανέωση</string>
+	 <string name="trash_vip_button_unlogin">Είσοδος</string>
      <string name="try_again_later">Δοκιμάστε ξανά αργότερα.</string>
      <string name="try_to_send">Προσπάθεια αποστολής</string>
      <string name="turn_off_and_move">Απενεργοποίηση και μετακινήστε</string>

@@ -219,7 +219,7 @@
     <string name="permission_description_summary_activity_recognition">Οι εφαρμογές με αυτήν την άδεια έχουν πρόσβαση σε φυσικές δραστηριότητες, όπως το περπάτημα, η ποδηλασία, η οδήγηση, ο αριθμός βημάτων και άλλα</string>
     <string name="permission_description_summary_calendar">Οι εφαρμογές με αυτήν την άδεια μπορούν να αποκτήσουν πρόσβαση στο ημερολόγιό σας</string>
     <string name="permission_description_summary_call_log">Οι εφαρμογές με αυτήν την άδεια, έχουν δυνατότητα ανάγνωσης και εγγραφής στο αρχείο καταγραφής κλήσεων</string>
-    <string name="permission_description_summary_camera">Οι εφαρμογές με αυτήν την άδεια μπορούν να τραβούν φωτογραφίες και να εγγράφουν βίντεο</string>
+    <string name="permission_description_summary_camera">Οι εφαρμογές με αυτήν την άδεια μπορούν να καταγράψουν φωτογραφίες και βίντεο</string>
     <string name="permission_description_summary_contacts">Οι εφαρμογές με αυτήν την άδεια μπορούν να αποκτήσουν πρόσβαση στις επαφές σας</string>
     <string name="permission_description_summary_generic">Οι εφαρμογές με αυτήν την άδεια μπορούν να %1$s</string>
     <string name="permission_description_summary_location">Οι εφαρμογές με αυτήν την άδεια μπορούν να αποκτήσουν πρόσβαση στην τοποθεσία αυτής της συσκευής</string>

@@ -20,13 +20,13 @@
     <item>2 ώρες</item>
   </string-array>
   <string-array name="pager_titles">
-    <item>Καθημερινά</item>
-    <item>Εβδομαδιαία</item>
-    <item>Μηνιαία</item>
+    <item>Ημέρας</item>
+    <item>Εβδομάδας</item>
+    <item>Μήνα</item>
   </string-array>
   <string-array name="run_in_background_state">
     <item>Πάντα</item>
-    <item>Περιορίστε τη δραστηριότητα στο παρασκήνιο</item>
+    <item>Περιορίστε τη δραστηριότητα παρασκηνίου</item>
     <item>Σταματήστε μετά από 10 λεπτά</item>
     <item>Ποτέ</item>
   </string-array>
