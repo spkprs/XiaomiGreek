@@ -187,6 +187,7 @@
      <string name="cloud_state_loading">Περιμένετε…</string>
      <string name="cloud_state_sync_finished">Συγχρονισμένο με Mi Cloud</string>
      <string name="cloud_state_syncing">Συγχρονισμένο με Mi Cloud</string>
+     <string name="cloud_upgrade_recommend">"Δεν είναι δυνατός ο συγχρονισμός επαφών λόγω ανεπαρκούς χώρου αποθήκευσης στο cloud. Αναβαθμίστε το σχέδιο αποθήκευσης cloud που διαθέτετε."</string>
      <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
      <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>

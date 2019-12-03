@@ -1660,6 +1660,7 @@
 	<string name="fiveg_infos">5G Πληρ/ρίες</string>
 	<string name="fiveg_switch_status1">"5G κατάσταση διακόπτη[Slot1] : "</string>
 	<string name="fiveg_switch_status2">"5G κατάσταση διακόπτη[Slot2] : "</string>
+    <string name="fiveg_sa_switch_title">SA δίκτυο</string>
 	<string name="fiveg_signal_strength1">"5G Ισχύς σήματος[Slot1] : "</string>
 	<string name="fiveg_signal_strength2">"5G Ισχύς σήματος[Slot2] : "</string>
 	<string name="fiveg_icon_type1">"Nr Τύπος εικονιδίου[Slot1] : "</string>
@@ -1726,4 +1727,11 @@
 Εάν επιλέξετε να προτιμάτε τα δίκτυα κινητής τηλεφωνίας, θα χρησιμοποιούνται από προεπιλογή για την πραγματοποίηση τηλεφωνικών κλήσεων. Σε περίπτωση που δεν υπάρχει κάλυψη δικτύου κινητής τηλεφωνίας ή το σήμα είναι κακό, θα χρησιμοποιηθούν εναλλακτικά δίκτυα WiFi."</string>
     <string name="wifi_call_preferred_summary">"Εάν επιλέξετε να προτιμάτε τα δίκτυα κινητής τηλεφωνίας, θα χρησιμοποιούνται από προεπιλογή για την πραγματοποίηση τηλεφωνικών κλήσεων. Σε περίπτωση που δεν υπάρχει κάλυψη δικτύου κινητής τηλεφωνίας ή το σήμα είναι κακό, θα χρησιμοποιηθούν εναλλακτικά δίκτυα WiFi."</string>
     <string name="wifi_call_welcome_settings">Κλήσεις WiFi</string>
+	<string name="advanced_mobile_settings">Σύνθετες ρυθμίσεις</string>
+	<string name="main_netcheck_summary">Δοκιμή σύνδεσης για θέματα δικτύωσης</string>
+	<string name="mobile_advanced_dns_server_title">Διεύθυνση διακομιστή DNS</string>
+	<string name="mobile_advanced_ip_address_title">Διεύθυνση IP</string>
+	<string name="mobile_connection_management">Διαχείριση σύνδεσης δικτύου κινητής τηλεφωνίας</string>
+	<string name="mobile_property">Ιδιότητες δικτύου κινητής τηλεφωνίας</string>
+	<string name="netcheck_title">Διαγνωστικά δικτύου κινητής τηλεφωνίας</string>
 </resources>

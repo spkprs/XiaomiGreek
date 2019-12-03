@@ -748,6 +748,7 @@
     <string name="pref_video_speed_fast_title">Χρονική υπέρβαση</string>
     <string name="pref_video_speed_slow_title">Αργή κίνηση</string>
     <string name="pref_video_speed_title">Ταχύτητα καταγραφής Βίντεο</string>
+    <string name="pref_video_subtitle">Υπότιτλοι</string>
     <string name="pref_video_time_lapse_frame_interval_default">120</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Σε 0.3 δευτ. (10 φορές)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">Σε 4 δευτ. (120 φορές)</string>

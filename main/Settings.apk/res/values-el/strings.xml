@@ -1602,6 +1602,8 @@
      <string name="dump_log_title">Σχετικά με αυτή τη λειτουργία</string>
      <string name="dual_wifi">Ενίσχυση ταχύτητας Διπλής Ζώνης WiFi </string>
 	 <string name="dual_wifi_acceleration">Ενίσχυση ταχύτητας</string>
+	<string name="dual_wifi_auto_disable">Διακοπή αυτόματης αύξησης ταχύτητας</string>
+	<string name="dual_wifi_auto_disable_summary">Αποσύνδεση από τα βοηθητικά δίκτυα WLAN όταν η οθόνη είναι ανενεργή για εξοικονόμηση ενέργειας</string>
 	 <string name="dual_wifi_avaliable_slave_wifi">Διαθέσιμα βοηθητικά δίκτυα</string>
 	 <string name="dual_wifi_avaliable_slave_wifi_24G">Διαθέσιμο βοηθητικό δίκτυο (Ζώνης 2.4 GHz)</string>
 	 <string name="dual_wifi_avaliable_slave_wifi_5G">Διαθέσιμο βοηθητικό δίκτυο (Ζώνης 5 GHz)</string>
@@ -2372,6 +2374,7 @@
      <string name="legal_workday_invalidate">Δευ-Παρ (πληρ. αργιών έληξαν)</string>
      <string name="legal_workday_invalidate_message">Πατήστε για ενημέρωση δημόσιων αργιών.</string>
      <string name="legal_workday_message">(Παράλειψη αργιών)</string>
+     <string name="legal_written_offer">Γραπτή προσφορά</string>
      <string name="license_title">Άδεια</string>
      <string name="lift_to_wake_title">Σηκώστε για ενεργοποίηση</string>
      <string name="line_breaking_summary">Βελτιστοποιήστε τη γραμμή κενού παραγράφου</string>
@@ -6466,7 +6469,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="miui_lab_gesture_desc">Χρήση Χειρονομιών αντί Πλήκτρων πλοήγησης</string>
 	<string name="search_ambient_display_screen_title">Πάντα ενεργή οθόνη;Πάντα Ενεργή οθόνη;Πάντα Ενεργή οθόνη</string>
 	<string name="search_doze_always_on_title">Πάντα Ενεργή</string>
-	<string name="usage_state_date">d MMM</string>
+    <string name="popup_led_try_later">Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά</string>
     <string name="popup_title">Εφέ εμπρός Κάμερας</string>
     <string name="popup_led_title">Οπτικά εφέ</string>
     <string name="popup_led_summary">Εμφάνιση κινούμενης εικόνας κατά την είσοδο ή έξοδο της εμπρός Κάμερας</string>
@@ -6495,6 +6498,13 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="search_manage_facerecoginition_text">Ξεκλείδωμα προσώπου;Αναγνώριση προσώπου</string>
     <string name="color_led_charging_summary">Θα απενεργοποιηθεί όταν φορτιστεί η μπαταρία</string>
 	<string name="dc_light_summary_new">Η ρύθμιση του DC μειώνει την καταπόνηση των ματιών σε συνθήκες χαμηλού φωτισμού. Ωστόσο, η ποιότητα της εικόνας μπορεί να επηρεαστεί με ενεργή την λειτουργία Anti-flicker (Σταθεροποίησης).</string>	
+	<string name="color_lamp_applications_title">Διαχείριση ειδοποιήσεων</string>
+	<string name="color_lamp_applications_title_summary">Να επιτρέπεται ή να περιορίζεται η χρήση του LED στις \"Κατηγορίες ειδοποιήσεων\"</string>
+	<string name="color_lamp_battery_title">Συνέχεια κατά την φόρτιση</string>
+	<string name="color_lamp_charging_summary">Το LED θα απενεργοποιηθεί όταν η συσκευή σας είναι πλήρως φορτισμένη</string>
+	<string name="color_lamp_incall_pulse_title">Φλας για εισερχόμενες κλήσεις</string>
+	<string name="color_lamp_notification_pulse_title">Φλας για ειδοποιήσεις όταν η οθόνη είναι ανενεργή</string>
+	<string name="color_lamp_title">Φώς LED</string>
 	<string name="color_led_applications_title">Επιλέξτε εφαρμογές</string>
 	<string name="color_led_applications_title_summary">Μπορείτε να περιορίσετε τη χρήση LED σε μεμονωμένες εφαρμογές</string>
 	<string name="color_led_battery_title">Ένδειξη κατά τη φόρτιση</string>
