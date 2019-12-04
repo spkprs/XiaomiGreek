@@ -2,9 +2,9 @@
 <resources>
   <string-array name="drop_down_menu">
     <item>Κατά χρόνο λήψης</item>
-    <item>Κατά αριθμό ειδοποιήσεων</item>
-    <item>Κατά εφάνιση ειδοπ/σεων</item>
-    <item>Χωρίς εφάνιση ειδοπ/σεων</item>
+    <item>Κατά αριθμό</item>
+    <item>Κατά εφάνιση</item>
+    <item>Χωρίς εφάνιση</item>
   </string-array>
   <string-array name="lock_screen_display_rules_no_password">
     <item>Εμφάνιση περιεχομένου ειδοποίησης</item>
