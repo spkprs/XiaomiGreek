@@ -683,7 +683,7 @@
     <string name="ad_download_download_now">Λήψη</string>
     <string name="dynamic_video_wallpaper">24Ω ταπετσαρία</string>
     <string name="find_more_font">Εύρεση περισσοτέρων</string>
-    <string name="incall_show_apply">Προφίλ Βίντεο εξερχόμενων κλήσεων</string>
+    <string name="incall_show_apply">Ορισμός ως βίντεο προφίλ</string>
     <string name="incall_show_apply_fail">"Αδυναμία ρύθμισης"</string>
     <string name="incall_show_apply_success">Επιτυχής ρύθμιση</string>
     <string name="incall_show_apply_success_without_ringtone">"Επιτυχής ρύθμιση Προφίλ Βίντεο εξερχόμενων κλήσεων.
@@ -870,4 +870,6 @@ Delta μέγεθος ενημέρωσης: %2$s"</string>
     <string name="recommend_trigger">Εξατομικευμένες συστάσεις</string>
     <string name="recommend_trigger_summary">Ενεργοποιήστε την για να λαμβάνετε προτάσεις βάσει των προτιμήσεών σας</string>
     <string name="update_flag">Ενημέρωση</string>
+     <string name="de_preview">Προεπισκόπηση</string>
+     <string name="wallpaper_set_as_incall_show">Ορισμός ως βίντεο προφίλ</string>
 </resources>

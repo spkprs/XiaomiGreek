@@ -1372,6 +1372,7 @@
      <string name="default_usb_mode">Σύνδεση USB</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_fingerprint_confirm_msg">Αφαίρεση δακτυλικού αποτυπώματος;</string>
+     <string name="delete_fingerprint_confirm_title">Προσοχή</string>
      <string name="delete_fingerprint_text">Αφαίρεση δακτυλικού αποτυπώματος</string>
      <string name="delete_legacy_fingerprint">Διαγραφή</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">Διαγραφή δεδομένων δακτυλικού αποτυπώματος;</string>
@@ -2599,6 +2600,7 @@
      <string name="lockscreen_glogin_password_hint">Κωδικός</string>
      <string name="lockscreen_glogin_submit_button">Είσοδος</string>
      <string name="lockscreen_magazine">Ταπετσαρίες Καρουζέλ</string>
+     <string name="lockscreen_magazine_india">Κοιτάξτε για Mi</string>
      <string name="lockscreen_magazine_summary">Εντυπωσιακές εικόνες και συναρπαστικές ιστορίες που σας παραδίδονται καθημερινά</string>
      <string name="lockscreen_magazine_title">Ταπετσαρίες Καρουζέλ</string>
      <string name="lockscreen_remote_input">Αν η συσκευή είναι κλειδωμένη, αποτρέψτε τις απαντήσεις πληκτρολόγησης ή άλλο κείμενο στις ειδοποιήσεις</string>

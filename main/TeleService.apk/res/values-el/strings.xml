@@ -739,7 +739,7 @@
   <string name="launch_defaults_some">Ορισμένες προεπιλεγμένες ρυθμίσεις</string>
   <string name="legacy_dhcp_client_summary">Χρησιμοποιήστε το πρόγραμμα-πελάτη DHCP από το Lollipop αντί για το νέο πρόγραμμα-πελάτη Android DHCP.</string>
   <string name="last_sim_callback_summary">Όταν κάνετε κλήσεις από το ιστορικό, χρησιμοποιήστε την κάρτα SIM που χρησιμοποιήθηκε κατά την προηγούμενη κλήση για αυτήν την επαφή</string>
-  <string name="last_sim_callback_title">Απομνημόνευση προτιμήσεων κάρτας SIM</string>
+  <string name="last_sim_callback_title">Απομνημόνευση προτιμήσεων SIM</string>
   <string name="list_language_dtitle">Γλώσσες</string>
   <string name="list_language_summary">Επιλέξτε τη γλώσσα των ειδήσεων</string>
   <string name="list_language_title">Γλώσσα</string>
