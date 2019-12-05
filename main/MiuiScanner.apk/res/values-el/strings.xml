@@ -252,6 +252,13 @@
 	<string name="shopping_vendor_info">Υποστηρίζεται από Taobao</string>
 	<string name="spaceIsLow_content">Δεν υπάρχει αρκετός χώρος. Ελευθερώστε λίγο χώρο.</string>
 	<string name="study_report_title">Αναφορά</string>
+    <string name="store_feedback_prompt">Εισαγάγετε τα σχόλιά σας πρώτα</string>
+    <string name="store_location_dialog">Αυτή η υπηρεσία παρέχεται από το Dianping. Όλες οι φωτογραφίες που κάνατε λήψη κατά τη χρήση αυτής της υπηρεσίας, συμπεριλαμβανομένων των πληροφοριών σχετικά με τη τοποθεσία, θα κοινοποιηθούν στο Dianping για να ληφθούν πληροφορίες σχετικά με τα καταστήματα.</string>
+    <string name="store_location_fail">"Δεν ήταν δυνατή η λήψη πληροφοριών τοποθεσίας"</string>
+    <string name="store_location_prompt">Να επιτρέπεται στο Σαρωτή η πρόσβαση στην τοποθεσία σας για την αναγνώριση των καταστημάτων</string>
+    <string name="store_module_title">Κατάστημα</string>
+    <string name="store_no_date">"Δεν ήταν δυνατή η αναγνώριση του καταστήματος"</string>
+    <string name="store_title">Σάρωση σήματος καταστήματος</string>
 	<string name="study_rotate_picture">Επεξεργασία φωτογραφίας…</string>
 	<string name="study_scan_result">Αποτέλεσμα</string>
 	<string name="study_searching">Αναζήτηση αποτελεσμάτων…</string>
