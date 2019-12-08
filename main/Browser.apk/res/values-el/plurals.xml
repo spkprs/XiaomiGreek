@@ -48,4 +48,44 @@
         <item quantity="other">%d λεπτά απομένουν</item>
         <item quantity="one">%d λεπτό απομένει</item>
     </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d προβολές</item>
+        <item quantity="one">%d προβολή</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Βρέθηκαν %d νεα στοιχεία για σας</item>
+        <item quantity="one">Βρέθηκε %d νεο στοιχείο για σας</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s σχόλια</item>
+        <item quantity="one">%s σχόλιο</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d εικόνες</item>
+        <item quantity="one">%d εικόνα</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s προβολές</item>
+        <item quantity="one">%s προβολή</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s σχόλια</item>
+        <item quantity="one">%1$s | %2$s σχόλιο</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d άτομα έχουν ήδη ψηφίσει</item>
+        <item quantity="one">%d άτομο έχει ήδη ψηφίσει</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s ωρ. πριν</item>
+        <item quantity="one">· %s ωρ. πριν</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s λεπ. πριν</item>
+        <item quantity="one">· %s λεπ. πριν</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d απαντήσεις στο Zhihu</item>
+        <item quantity="one">%d απάντηση στο Zhihu</item>
+    </plurals>
 </resources>

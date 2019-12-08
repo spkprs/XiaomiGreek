@@ -91,4 +91,7 @@
      <string name="warning_recording_when_a2dp_connect">"Η συσκευή σας δεν υποστηρίζει εγγραφή ήχων συστήματος ενώ χρησιμοποιείται ακουστικό Bluetooth."</string>
 	 <string name="permission_intro_microphone">Για την εγγραφή ήχου όταν η πηγή ήχου έχει οριστεί σε μικρόφωνο</string>
 	 <string name="permission_intro_storage">Για την αποθήκευση εγγραφών οθόνης</string>
+     <string name="permission_microphone_desc">Χρήση μικροφώνου ως πηγή ήχου για εγγραφές οθόνης</string>
+     <string name="settings_other">Άλλα</string>
+     <string name="settings_privacy">Πολιτική Απορρήτου</string>
 </resources>

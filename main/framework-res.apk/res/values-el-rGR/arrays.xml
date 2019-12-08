@@ -173,8 +173,4 @@
      <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Πρόβλημα καταχώρησης κλήσης Wi-Fi που σχετίζεται με το φορέα σας: %1$s</item>
      </string-array>
-     <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s Wi-Fi Κλήση</item>
-     </string-array>
 </resources>
