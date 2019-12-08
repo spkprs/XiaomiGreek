@@ -366,4 +366,12 @@
         <item quantity="one">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων στοιχείων με το cloud για %d λεπτό.</item>
         <item quantity="other">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων στοιχείων με το cloud για %d λεπτά.</item>
     </plurals>
+     <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Διαγραφή %d φωτογραφιών</item>
+        <item quantity="one">Διαγραφή %d φωτογραφίας</item>
+     </plurals>
+     <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d αρχεία</item>
+        <item quantity="one">%1$d αρχείο</item>
+     </plurals>
 </resources>
