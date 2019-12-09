@@ -1573,7 +1573,7 @@
      <string name="optimize_manage_title">Ενίσχυση ταχύτητας</string>
      <string name="optimize_result_ads_close_text">Διαφήμιση</string>
      <string name="optimize_result_available_memory_info">Διαθέσιμη μνήμη</string>
-     <string name="optimize_result_button_cloudspace">Προσθήκη αποθ.χώρου στο cloud</string>
+     <string name="optimize_result_button_cloudspace">Αποκτήστε περισσότερο χώρο αποθήκευσης στο cloud</string>
      <string name="optimize_result_button_consume_power_analysis">Ανάλυση μπαταρίας</string>
      <string name="optimize_result_button_cooldown_now">Βελτιστοποίηση</string>
      <string name="optimize_result_button_correct_now">Βαθμονόμηση</string>

@@ -6799,4 +6799,12 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="mtp_connection_not_remind">"Χωρίς επανεμφάνιση"</string>
     <string name="mtp_solution_button_cancel">Κατανοητό</string>
     <string name="mtp_solution_button_ok">Αντιμετώπιση προβλημάτων</string>
+	<string name="display_advanced_mode_summary">Επιλογές χρωματικής γκάμας</string>
+	<string name="display_advanced_mode_title">Σύνθετες ρυθμίσεις</string>
+	<string name="haptic_feedback_progress">Επίπεδο σχολίων</string>
+	<string name="haptic_feedback_summary">Λάβετε απτική απόκριση σε κινήσεις και στοιχεία ελέγχου συστήματος</string>
+	<string name="haptic_feedback_title">Απτικά σχόλια</string>
+	<string name="ime_security_warning_global">Οι μέθοδοι εισόδου μπορεί να είναι σε θέση να συλλέξουν όλο το κείμενο που πληκτρολογείτε, συμπεριλαμβανομένων των προσωπικών δεδομένων, όπως κωδικό πρόσβασης και αριθμούς πιστωτικών καρτών. Να χρησιμοποιηθεί το %1$s;</string>
+	<string name="ime_security_warning_title_global">Ενεργοποίηση πληκτρολογίου</string>
+	<string name="open_haptic_feedback">Απτικά σχόλια</string>
 </resources>

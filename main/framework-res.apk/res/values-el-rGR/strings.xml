@@ -465,6 +465,10 @@
   <string name="granularity_label_line">γραμμή</string>
   <string name="granularity_label_link">σύνδεσμος</string>
   <string name="granularity_label_word">λέξη</string>
+  <string name="handset_text_unsupported_handset_insert">Αγγίξτε για προβολή λεπτομερειών</string>
+  <string name="handset_text_usb_handset_insert">Αγγίξτε για άνοιγμα πρόσθετωνρυθμίσεων</string>
+  <string name="handset_title_unsupported_handset_insert">"Δεν είναι δυνατή η αναπαραγωγή ήχου μέσω προσαρμογέα"</string>
+  <string name="handset_title_usb_handset_insert">Αναπαραγωγή ήχου μέσω USB</string>
   <string name="hardware">Υλικό</string>
   <string name="harmful_app_warning_open_anyway">OPEN ANYWAY</string>
   <string name="harmful_app_warning_title">Harmful app detected</string>

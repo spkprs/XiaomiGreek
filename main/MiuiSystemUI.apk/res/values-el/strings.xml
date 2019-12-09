@@ -744,6 +744,9 @@
      <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
      <string name="input_pin_code">Εισάγετε το PIN</string>
      <string name="input_puk_code">Εισάγετε το PUK</string>
+     <string name="ime_security_warning_global">Οι μέθοδοι εισόδου μπορεί να είναι σε θέση να συλλέξουν όλο το κείμενο που πληκτρολογείτε, συμπεριλαμβανομένων των προσωπικών δεδομένων, όπως κωδικό πρόσβασης και αριθμούς πιστωτικών καρτών. Να χρησιμοποιηθεί το %1$s;</string>
+     <string name="ime_security_warning_title_global">Ενεργοποίηση πληκτρολογίου</string>
+     <string name="install_other_apps">Εγκατάσταση άγνωστων εφαρμογών</string>
      <string name="installer_cd_button_title">Εγκαταστήστε την εφαρμογή Android File Transfer για Mac</string>
      <string name="instant_apps">Άμεσες εφαρμογές</string>
      <string name="instant_apps_message">Οι άμεσες εφαρμογές δεν απαιτούν εγκατάσταση.</string>

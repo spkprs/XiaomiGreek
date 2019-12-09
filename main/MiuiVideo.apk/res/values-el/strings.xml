@@ -569,9 +569,9 @@
   <string name="t_bind_success">Προστέθηκαν επιτυχώς οι πληροφορίες</string>
   <string name="t_check_delete_file">Επιλέξτε στοιχεία που θέλετε να διαγράψετε</string>
   <string name="t_check_delete_history">Επιλέξτε εγγραφές για διαγραφή</string>
-  <string name="t_check_hide_file">Επιλέξτε βίντεο για απόκρυψη</string>
+  <string name="t_check_hide_file">Επιλογή στοιχείων πρώτα για απόκρυψη</string>
   <string name="t_check_send_file">Επιλέξτε ένα στοιχείο που θέλετε να στείλετε</string>
-  <string name="t_check_unhide_file">Επιλέξτε βίντεο για εμφάνιση</string>
+  <string name="t_check_unhide_file">Επιλέξτε βίντεο πρώτα για εμφάνιση</string>
   <string name="t_comment_success">Απεστάλη επιτυχώς</string>
   <string name="t_deleting">Διαγραφή…</string>
   <string name="t_downloading_new_version">Λήψη ενημερώσεων…</string>
@@ -678,8 +678,8 @@
   <string name="v_coin_task_desc">Πάρτε νομίσματα</string>
   <string name="v_confirm_delete_history">Καθαρισμός ιστορικού;</string>
   <string name="v_confirm_delete_videos">Διαγραφή στοιχείων;</string>
-  <string name="v_confirm_hide_videos">Απόκρυψη βίντεο;</string>
-  <string name="v_confirm_unhide_videos">Επανεμφάνιση βίντεο;</string>
+  <string name="v_confirm_hide_videos">Απόκρυψη επιλεγμένων στοιχείων;</string>
+  <string name="v_confirm_unhide_videos">Επανεμφάνιση επιλεγμένων στοιχείων;</string>
   <string name="v_continue_offline">Λήψη</string>
   <string name="v_data_empty">Χωρίς δεδομένα</string>
   <string name="v_debug_close">Κλείσιμο εντοπισμού σφαλμάτων</string>
@@ -721,7 +721,7 @@
   <string name="v_local_video">Τοπικά βίντεο</string>
   <string name="v_login">Συνδεθείτε</string>
   <string name="v_menu_delete">Διαγραφή</string>
-  <string name="v_menu_hide">Κρυφά</string>
+  <string name="v_menu_hide">Κρυφά στοιχεία</string>
   <string name="v_menu_nolike">Αδιάφορο</string>
   <string name="v_menu_send">Στείλετε</string>
   <string name="v_menu_unhide">Επανεμφάνιση</string>
@@ -765,7 +765,7 @@
   <string name="v_send_title">Στείλτε</string>
   <string name="v_server_formal">Κανονικός διακομιστής</string>
   <string name="v_server_test">Δοκιμή διακομιστή</string>
-  <string name="v_set_password">Ορίστε τον κωδικό για την προβολή κρυφών βίντεο</string>
+  <string name="v_set_password">Ορισμός κωδικού πρόσβασης για κρυφά στοιχεία</string>
   <string name="v_setting">Ρυθμίσεις</string>
   <string name="v_share_device">Κοινόχρηστες συσκευές</string>
   <string name="v_skip_update">Αγνόηση</string>
@@ -978,8 +978,7 @@
   <string name="resolution_high">υψηλή</string>
   <string name="resolution_low">χαμηλή</string>
   <string name="resolution_normal">κανονική</string>
-  <string name="search_empty_data">"Δεν μπόρεσα να βρω \"%s\".
-Μπορείτε να δοκιμάσετε κάτι άλλο."</string>
+  <string name="search_empty_data">"Δεν μπόρεσα να βρω \"%s\". Μπορείτε να δοκιμάσετε κάτι άλλο."</string>
   <string name="search_float_tip">"Δεν μπορείτε να βρείτε αυτό που χρειάζεστε;"</string>
   <string name="search_float_tip_feedback">Κάντε σχόλια</string>
   <string name="search_float_tip_global_search">Αναζήτηση στο διαδίκτυο</string>
@@ -1008,4 +1007,27 @@
   <string name="vp_play_bestv_content_error">Αυτό το βίντεο δεν είναι πλέον διαθέσιμο</string>
   <string name="vp_plugin_runtime_error">Δεν ήταν δυνατή η φόρτωση της προσθήκης</string>
   <string name="vp_replay">Επανάληψη</string>
+	<string name="check_all_follow">Προβολή όλων</string>
+	<string name="gallery_fold_tags">Απόκρυψη σημάνσεων</string>
+	<string name="gallery_video_edit_save_video">Δημιουργία υποτίτλων βίντεο…</string>
+	<string name="gallery_view_tags">Εμφάνιση σημάνσεων</string>
+	<string name="player_vip_buy_btn_text">Εγγραφείτε</string>
+	<string name="player_vip_buy_subtitle">Αποκτήστε πρόσβαση σε Premium χαρακτηριστικά</string>
+	<string name="player_vip_buy_title">Συνδρομή Mi Βίντεο</string>
+	<string name="plus_bottom_bar_delete">Διαγραφή</string>
+	<string name="plus_bottom_bar_hide">Απόκρυψη</string>
+	<string name="plus_bottom_bar_rename">Μετονομασία</string>
+	<string name="plus_bottom_bar_share">Κοινή χρήση</string>
+	<string name="plus_bottom_bar_unhide">Επανεμφάνιση</string>
+	<string name="plus_file_size">"Μέγεθος: "</string>
+	<string name="subscribe_fans_tag">Οπαδοί</string>
+	<string name="subscribe_video_tag">Βίντεο</string>
+	<string name="v_dialog_hint_contain_invalid_char">Το όνομα αρχείου περιέχει μη έγκυρους χαρακτήρες</string>
+	<string name="v_dialog_hint_duplicate_name">Αυτό το αρχείο υπάρχει ήδη</string>
+	<string name="v_dialog_hint_not_null">"Το όνομα αρχείου δεν μπορεί να είναι κενό"</string>
+	<string name="v_dialog_hint_start_with_dot">"Το όνομα αρχείου δεν μπορεί να ξεκινά με \".\"</string>
+	<string name="v_dialog_hint_too_long">Το όνομα αρχείου είναι πολύ μεγάλο</string>
+	<string name="v_dialog_rename_title">Μετονομασία</string>
+	<string name="v_input_hint">Εισαγωγή ονόματος αρχείου</string>
+    <string name="plus_gallery_mediatype_hidded">Κρυφό</string>
 </resources>

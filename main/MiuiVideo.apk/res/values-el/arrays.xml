@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="feedback_tag_list">
-    <item>Σφάλμα, 1</item>
-    <item>Προτάσεις, 2</item>
-    <item>Άλλα θέματα, 0</item>
+	<item>Σφάλμα,1</item>
+	<item>Αναπαραγωγή,4</item>
+	<item>Θέματα πνευμ. δικαιωμάτων,3</item>
+	<item>Ιδιότητα μέλους,5</item>
+	<item>Πρόταση,2</item>
+	<item> Άλλα θέματα,0</item>
   </string-array>
   <string-array name="message_center_tab_list">
     <item>Σχόλια</item>
