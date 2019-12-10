@@ -50,6 +50,11 @@
      <string name="back_description">Πίσω</string>
      <string name="back_view_description">Επιστρέψετε πίσω</string>
      <string name="batch_delete">Ομαδική διαγραφή</string>
+	 <string name="bind_simcard_default">Προεπιλεγμένη SIM για κλήσεις</string>
+	 <string name="bind_simcard_menu">Ορισμός προεπιλεγμένης SIM για κλήσεις</string>
+	 <string name="bind_simcard_no_dual">"Αδύνατη η εύρεση διπλής κάρτας SIM"</string>
+	 <string name="bind_simcard_not_set">Δεν έχει οριστεί</string>
+	 <string name="bind_simcard_title">Προεπιλεγμένη SIM για κλήσεις</string>
      <string name="blacklist">Φραγή</string>
      <string name="bluetooth_connection_failed_toast">Η σύνδεση Bluetooth διακόπηκε</string>
      <string name="blurbJoinContactDataWith">Επιλέξτε την επαφή που θέλετε να συγχωνευθεί με %s:</string>
