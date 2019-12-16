@@ -1024,11 +1024,13 @@
      <string name="close_app">Κλείσιμο τρέχουσας εφαρμογής</string>
      <string name="close_demo_mode">Ακύρωση</string>
      <string name="close_gesture">Κλείσιμο με χρήση χειρονομίας</string>
+     <string name="close_hotspot_hint">Απενεργοποίηση hotspot πριν από τη Μετάδοση</string>
      <string name="close_miui_optimization_title">Απενεργοποίηση βελτιστοποίησης MIUI</string>
      <string name="close_optimization_message">Η διάταξη κειμένων, λογαριασμοί και άλλα μέρη του MIUI ενδέχεται να επηρεαστούν όταν απενεργοποιηθεί αυτή την λειτουργία.</string>
      <string name="close_optimization_option">Απενεργοποίηση</string>
      <string name="close_sdcard_optimization_title">Απενεργοποίηση βελτιστοποίησης</string>
      <string name="close_sdcard_optimization_warning_message">Η συσκευή θα επανεκκινήσει για να εφαρμοστεί η αλλαγή.</string>
+     <string name="close_slave_wifi_hint">Αποσύνδεση από βοηθητικά δίκτυα WiFi πριν από τη Μετάδοση</string>
      <string name="cloud_backup_section_title">Αντίγραφα στο Xiaomi Cloud</string>
      <string name="cloud_backup_settings_section_title">Ρυθμίσεις αντιγράφων</string>
      <string name="cloud_restore_section_summary">Επαναφορά Εφαρμογών, διάταξη Αρχικής Οθόνης και ρυθμίσεις Συστήματος</string>
@@ -6807,4 +6809,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="ime_security_warning_global">Οι μέθοδοι εισόδου μπορεί να είναι σε θέση να συλλέξουν όλο το κείμενο που πληκτρολογείτε, συμπεριλαμβανομένων των προσωπικών δεδομένων, όπως κωδικό πρόσβασης και αριθμούς πιστωτικών καρτών. Να χρησιμοποιηθεί το %1$s;</string>
 	<string name="ime_security_warning_title_global">Ενεργοποίηση πληκτρολογίου</string>
 	<string name="open_haptic_feedback">Απτικά σχόλια</string>
+    <string name="folder_blur_title">Θόλωση φόντου φακέλου</string>
 </resources>

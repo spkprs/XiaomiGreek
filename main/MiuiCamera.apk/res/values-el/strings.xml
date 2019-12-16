@@ -370,6 +370,8 @@
     <string name="mimoji_selected">Επιλογή</string>
     <string name="mimoji_start_create">Δημιουργία του Mimoji…</string>
     <string name="mimoji_tips">Αγγίξτε για φωτογραφία, πατήστε παρατεταμένα για βίντεο</string>
+    <string name="miservice_notification_content">Αγγίξτε για περισσότερα</string>
+    <string name="miservice_notification_title">Περισσότερα για νέες λειτουργίες της Κάμερας</string>
     <string name="module_name_beauty">Αισθητική</string>
     <string name="module_name_capture">Φωτογραφία</string>
     <string name="module_name_fun">Σύντομο βίντεο</string>

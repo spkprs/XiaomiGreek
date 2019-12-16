@@ -113,4 +113,9 @@
         <item>Ναί</item>
         <item>Όχι</item>
     </string-array>
+    <string-array name="applock_password_types">
+        <item>Μοτίβο</item>
+        <item>PIN</item>
+        <item>Κωδικός</item>
+    </string-array>
 </resources>

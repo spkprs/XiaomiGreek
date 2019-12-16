@@ -74,7 +74,6 @@
   <string name="app_info">Πληροφορίες εφαρμογής</string>
   <string name="app_not_found">Δεν υπάρχει εφαρμογή για τη διαχείριση αυτής της ενέργειας</string>
   <string name="app_running_notification_tip_text">Αυτό μπορεί να επιβραδύνει τη συσκευή σας και να αδειάσει την μπαταρία. Πατήστε για έξοδο από την εφαρμογή</string>
-  <string name="app_running_notification_text">Αγγίξτε για περισσότερες πληροφορίες ή για να διακόψετε την εκτέλεση της εφαρμογής.</string>
   <string name="app_running_notification_title">Η εφαρμογή %1$s εκτελείται</string>
   <string name="app_suspended_default_message">%1$s δεν είναι διαθέσιμη αυτή τη στιγμή. Αυτό γίνεται από %2$s.</string>
   <string name="app_suspended_more_details">Μάθε περισσότερα</string>

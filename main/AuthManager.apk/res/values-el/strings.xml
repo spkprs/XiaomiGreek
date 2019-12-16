@@ -96,7 +96,7 @@
 	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Απόρριψη &amp; μην ξαναερωτηθώ</string>
 	<string name="location_settings">Υπηρεσίας τοποθεσίας</string>
 	<string name="location_warning">Ο %1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις της τοποθεσίας.</string>
-	<string name="never_ask_again">Να μην ερωτηθώ ξανά</string>
+	<string name="never_ask_again">"Να μην ερωτηθώ ξανά μετά τον περιορισμό"</string>
 	<string name="ok">OK</string>
 	<string name="permgroupdesc_calendar">Πρόσβαση σε συμβάντα ημερολογίου</string>
 	<string name="permgroupdesc_calllog">Πρόσβαση και αποθήκευση στοιχείων στο ιστορικό κλήσεων</string>
