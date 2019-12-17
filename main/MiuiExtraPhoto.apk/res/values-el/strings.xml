@@ -4,7 +4,7 @@
   <string name="extra_photo_common_saving">Αποθήκευση…</string>
   <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
   <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
-  <string name="extra_photo_common_save_fail">Σφάλμα αποθήκευσης</string>
+  <string name="extra_photo_common_save_fail">Αδυναμία αποθήκευσης</string>
   <string name="motion_photo_re_pick_title">Ζωντανή φωτογραφία</string>
   <string name="motion_photo_toast_default">Προεπιλογή</string>
   <string name="motion_photo_toast_suggest">Συνιστάται</string>

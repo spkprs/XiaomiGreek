@@ -6810,4 +6810,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="ime_security_warning_title_global">Ενεργοποίηση πληκτρολογίου</string>
 	<string name="open_haptic_feedback">Απτικά σχόλια</string>
     <string name="folder_blur_title">Θόλωση φόντου φακέλου</string>
+    <string name="video_tool_box_title">Εργαλειοθήκη Βίντεο</string>
 </resources>

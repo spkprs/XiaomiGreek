@@ -1005,7 +1005,7 @@
      <string name="gateway_exception_summary2">Αδυναμία σύνδεσης στον διακομιστή</string>
      <string name="gateway_exception_title">Δοκιμή router</string>
      <string name="gb_ad_game_size">MB</string>
-     <string name="gb_audition_instruction">Πατήστε παρατεταμένα για εγγραφή (0-10δ)</string>
+     <string name="gb_audition_instruction">Πατήστε παρατεταμένα για εγγραφή (%1$s-%2$ss)</string>
      <string name="gb_audition_play_instruction">Χρήση ακουστικών για το καλύτερο εφέ</string>
      <string name="gb_create_icon_summary">Δημιουργία συντόμευσης αρχικής οθόνης</string>
      <string name="gb_cutoff">|</string>
