@@ -96,24 +96,24 @@
   <string name="accessibility_screen_magnification_navbar_summary">"Όταν είναι ενεργή η εστίαση, μπορείτε να κάνετε μεγέθυνση στην οθόνη σας.
 
 "<b>Μεγέθυνση</b>", έναρξη μεγέθυνσης και, στη συνέχεια, πατήστε οπουδήποτε στην οθόνη.
-"<ul> <li>• Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση</li>"
-"<li>• Ενώστε 2 ή περισσότερα δάχτυλα για ρύθμιση του ζουμ</li> </ul>"
+"<ul><li>• Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση</li>"
+"<li>• Ενώστε 2 ή περισσότερα δάχτυλα για ρύθμιση του ζουμ</li></ul>"
 
 "<b>Προσωρινή Μεγέθυνση</b>", μεγέθυνση και, στη συνέχεια, αγγίξτε &amp; κρατήστε οπουδήποτε στην οθόνη.
-"<ul> <li>• Σύρετε για μετακίνηση στην οθόνη</li>"
-"<li>• Σηκώστε το δάχτυλο για σμίκρυνση</li> </ul>"
+"<ul><li>• Σύρετε για μετακίνηση στην οθόνη</li>"
+"<li>• Σηκώστε το δάχτυλο για σμίκρυνση</li></ul>"
 
 Δεν μπορείτε να κάνετε μεγέθυνση στο πληκτρολόγιο ή στη γραμμή πλοήγησης."</string>
   <string name="accessibility_screen_magnification_navbar_title">Μεγέθυνση με συντόμευση</string>
   <string name="accessibility_screen_magnification_short_summary">Αγγίξτε 3 φορές για μεγέθυνση</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Μεγέθυνση με συντόμευση &amp; τριπλό πάτημα</string>
   <string name="accessibility_screen_magnification_summary">" "<b>Για μεγέθυνση</b>", αγγίξτε γρήγορα την οθόνη 3 φορές.
-"<ul> <li>Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση.</li>"
-"<li>Ανοίξτε 2 ή περισσότερα δάχτυλα για μεγέθυνση.</li> </ul>"
+"<ul><li>Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση.</li>"
+"<li>Ανοίξτε 2 ή περισσότερα δάχτυλα για μεγέθυνση.</li></ul>"
 
 "<b>Για προσωρινή μεγέθυνση</b>", αγγίξτε γρήγορα την οθόνη 3 φορές και κρατήστε πατημένο το δάχτυλό σας στο τρίτο πάτημα.
-"<ul> <li> Σύρετε το δάχτυλό σας για να μετακινηθείτε στην οθόνη.</li>" 
-"<li>Σηκώστε το δάχτυλό σας για να σμικρύνετε.</li> </ul>"
+"<ul><li> Σύρετε το δάχτυλό σας για να μετακινηθείτε στην οθόνη.</li>" 
+"<li>Σηκώστε το δάχτυλό σας για να σμικρύνετε.</li></ul>"
 
 Δεν μπορείτε να κάνετε μεγέθυνση στο πληκτρολόγιο και στη γραμμή πλοήγησης."</string>
      <string name="accessibility_screen_magnification_title">Χειρονομίες μεγέθυνσης</string>
@@ -1428,6 +1428,7 @@
      <string name="device_memory">RAM</string>
      <string name="device_miui_more">Δείτε περισσότερα</string>
      <string name="device_miui_version">Έκδοση MIUI</string>
+     <string name="device_miui_version_for_POCO">Έκδοση MIUI (Για POCO)</string>
      <string name="device_miui_version_update">Μια ενημερωμένη έκδοση MIUI είναι διαθέσιμη</string>
      <string name="device_name">Όνομα Συσκευής</string>
      <string name="device_name_input_error">Αδυναμία αποθήκευσης ονόματος συσκευής</string>
@@ -5370,7 +5371,7 @@
      <string name="voice_recognizer_preference_summary">Απλή ομιλία σε κείμενο</string>
      <string name="voice_search_settings_title">Φωνητική αναζήτηση</string>
      <string name="voice_service_preference_section_title">Υπηρεσίες φωνητικών εντολών</string>
-     <string name="vol_silent_sounds_title">Ενεργ. ήχου επαναφοράς</string>
+     <string name="vol_silent_sounds_title">Ενεργός ήχος επαναφοράς</string>
      <string name="volbtn_timeout_summary">Κάθε: %s ms</string>
      <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
      <string name="volbtn_title">Μουσική</string>

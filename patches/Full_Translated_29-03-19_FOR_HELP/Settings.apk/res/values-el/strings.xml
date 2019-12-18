@@ -4426,7 +4426,7 @@
   <string name="screen_saturation">Κορεσμός χρωμάτων</string>
   <string name="screen_shot">Λήψη στιγμιότυπου</string>
   <string name="screen_timeout">Απενεργοποίηση οθόνης</string>
-  <string name="screen_timeout_summary">Μετά από %1$s αδράνειας</string>
+  <string name="screen_timeout_summary">Σε αδράνεια %1$s</string>
   <string name="screen_timeout_title">Λειτουργία αδράνειας</string>
   <string name="screen_usage_summary">Το μέγεθος της οθόνης χρόνου έχει ενεργοποιηθεί από την πλήρη φόρτιση</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
