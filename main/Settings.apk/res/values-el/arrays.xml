@@ -2098,7 +2098,9 @@
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Adaptive audio</item>
     <item>Qualcomm® aptX™ TWS+ audio</item>
-     <item>LHDC</item>
+	<item>LHDC V3</item>
+	<item>LHDC V2</item>
+	<item>LHDC V1</item>
     <item>Ενεργοποίηση προαιρετικών κωδικοποιητών</item>
     <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
   </string-array>
@@ -2110,8 +2112,10 @@
     <item>Qualcomm® aptX™ HD audio</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Adaptive audio</item>
-     <item>Qualcomm® aptX™ TWS+ audio</item>
-     <item>LHDC</item>
+    <item>Qualcomm® aptX™ TWS+ audio</item>
+	<item>LHDC V3</item>
+	<item>LHDC V2</item>
+	<item>LHDC V1</item>
     <item>Ενεργοποίηση προαιρετικών κωδικοποιητών</item>
     <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
   </string-array>

@@ -150,7 +150,7 @@
     <string name="confirm_install_scanner_message">Ο Σαρωτής σας επιτρέπει να σαρώσετε κωδικούς QR, γραμμικούς κώδικες, και άλλα. Δεν χρειάζεται να συνδεθείτε στο internet για να εγκατασταθεί.</string>
     <string name="confirm_install_scanner_title">Εγκατάσταση σαρωτή</string>
     <string name="confirm_location_alert">Αποτύπωση τοποθεσίας</string>
-	<string name="confirm_location_message">Θα αποτυπωθεί στις φωτογραφίες και στα βίντεό σας οι τοποθεσίες απ\' όπου έχουν ληφθεί. Άλλες εφαρμογές μπορούν να έχουν πρόσβαση σε αυτές τις πληροφορίες μαζί με τις αποθηκευμένες εικόνες σας.</string>
+	<string name="confirm_location_message">Καλώς ορίσατε στην Κάμερα! Η προσθήκη Ετικέτας στις φωτογραφίες και τα βίντεό σας με τις τοποθεσίες όπου λαμβάνονται θα κάνει τη Συλλογή σας πιο οργανωμένη και θα σας βοηθήσει να βρείτε στοιχεία ταχύτερα. Ορισμένες δυνατότητες ενδέχεται να μην είναι διαθέσιμες εάν περιορίσετε την Αποδοχή πληροφοριών θέσης. Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές νομοθεσίες, κανονισμούς και πολιτικές απορρήτου.</string>
 	<string name="confirm_location_title">Αποτύπωση τοποθεσίας;</string>
     <string name="confirm_recording_fail_calling_alert">Αδύνατη η εγγραφή κατά τη διάρκεια κλήσης.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Μια άλλη εφαρμογή μπορεί ήδη να χρησιμοποιεί το μικρόφωνο της συσκευής για εγγραφή.</string>
@@ -299,6 +299,7 @@
     <string name="live_sticker_fragment_tab_name">TikTok εφέ</string>
     <string name="live_sticker_network_error_hint">Σφάλμα δικτύου</string>
     <string name="live_sticker_updating">Ενημέρωση...</string>
+    <string name="location_access_allow">Αποδοχή</string>
     <string name="location_permission_des">Απομνημόνευση τοποθεσιών για φωτογραφίες και βίντεο</string>
     <string name="location_permission_not_ask_again">Να επιτρέπεται στην κάμερα η πρόσβαση στη θέση σας στις Ρυθμίσεις.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Αποδοχή</string>
