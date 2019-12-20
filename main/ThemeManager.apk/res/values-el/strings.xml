@@ -724,6 +724,7 @@
 	<string name="theme_purchased_non_local">Μη-Τοπικά</string>
 	<string name="theme_select_others">Άλλα</string>
 	<string name="theme_setting">Ρυθμίσεις</string>
+    <string name="theme_setting_all">Ολα τα Θέματα</string>
 	<string name="theme_staggered_item_text">Λήψη πιστώσεων Mi</string>
 	<string name="theme_user_agreement_allow">Συμφωνώ</string>
 	<string name="theme_user_agreement_content1">"Επιλέγοντας Συμφωνώ, συμφωνείτε με τους όρους που υπάρχουν στην "</string>
@@ -848,6 +849,8 @@
 	<string name="wallpaper_set_as_incall_show">Ορισμός ως βίντεο προφίλ</string>
 	<string name="wallpaper_set_as_lockscreen">Ορισμός ως οθόνη Κλειδώματος</string>
 	<string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>
+    <string name="wallpaper_setting_all">Ολες οι Ταπετσαρίες</string>
+    <string name="wallpaper_setting_live">Ζωντανές</string>
 	<string name="wallpaper_settings_loading_text">Μισό λεπτό…</string>
 	<string name="wallpaper_settings_no_history">Δεν υπάρχει ιστορικό</string>
 	<string name="wallpaper_settings_pad_more_page_title">Περισσότερες ταπετσαρίες</string>
