@@ -105,6 +105,8 @@
 	<string name="aqi_quality_index_light_pollution">Ελαφριά μόλυνση</string>
 	<string name="aqi_quality_index_moderate">Μέτριος</string>
 	<string name="aqi_quality_index_unhealthy">Ανθυγιεινός</string>
+    <string name="auto_delete_category_dialog_content">Οι τρέχουσες εφαρμογές θα καταργηθούν από αυτήν την κατηγορία και στη συνέχεια θα διαγραφεί. Θέλετε να διαγραφεί τώρα αυτή η κατηγορία;</string>
+    <string name="auto_delete_category_dialog_title">Διαγραφή κατηγορίας</string>
 	<string name="backup_fail">Αδυναμία δημιουργίας αντίγραφου ασφαλείας Εκκινητή</string>
 	<string name="bad_wallpaper_source_prompt">Δεν είναι δυνατή η φόρτωση της ταπετσαρίας</string>
 	<string name="buffering">Φόρτωση…</string>
@@ -143,6 +145,7 @@
 	<string name="default_folder_title_game">Παιχνίδια</string>
 	<string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
 	<string name="default_folder_title_microsoft">Microsoft</string>
+    <string name="default_folder_title_other_apps">Άλλες εφαρμογές</string>
 	<string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
 	<string name="default_folder_title_security">Σύστημα</string>
 	<string name="default_folder_title_services">Υπηρεσίες</string>

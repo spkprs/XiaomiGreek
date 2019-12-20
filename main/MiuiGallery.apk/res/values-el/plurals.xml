@@ -58,6 +58,10 @@
         <item quantity="other">(%d στοιχεία συνολικά)</item>
         <item quantity="one">(%d στοιχείο συνολικά)</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="one">%d άλμπουμ</item>
+        <item quantity="other">%d άλμπουμ</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d στοιχεία</item>
         <item quantity="one">%1$d στοιχείο</item>
