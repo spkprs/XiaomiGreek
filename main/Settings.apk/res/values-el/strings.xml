@@ -6812,4 +6812,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="open_haptic_feedback">Απτικά σχόλια</string>
     <string name="folder_blur_title">Θόλωση φόντου φακέλου</string>
     <string name="video_tool_box_title">Εργαλειοθήκη Βίντεο</string>
+    <string name="gps_description">Υποστηρίζονται πολλαπλά δορυφορικά συστήματα πλοήγησης (GPS, BeiDou, GLONASS, Galileo)</string>
 </resources>

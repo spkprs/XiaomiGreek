@@ -733,4 +733,9 @@
 	<string name="international_new_trans_intro_question_8">"8. Γιατί δεν είναι δυνατή η μεταφορά μηνυμάτων κειμένου και δεδομένων ορισμένων εφαρμογών τρίτων?"</string>
 	<string name="international_scanner_send_dialog_message">"Δεν είναι δυνατή η μεταφορά μηνυμάτων κειμένου και δεδομένων ορισμένων εφαρμογών τρίτων. Μην απενεργοποιείτε το Wi-Fi ή κάνετε εναλλαγή μεταξύ δικτύων κατά τη μεταφορά."</string>
 	<string name="scanner_wechat_overwrite_hit">Λόγω περιορισμών εφαρμογών τρίτων, τα ιστορικά συνομιλίας και άλλα δεδομένα εφαρμογών στη νέα συσκευή σας θα αντικατασταθούν από τα δεδομένα της παλιάς μετά την ολοκλήρωση της μεταφοράς.</string>
+    <string name="back">Πίσω</string>
+    <string name="next">Επόμενο</string>
+    <string name="selected">Επιλεγμένο</string>
+    <string name="skip_underline">Παράλειψη αυτού του βήματος</string>
+    <string name="unselected">Δεν έχει επιλεγεί</string>
 </resources>

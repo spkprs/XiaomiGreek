@@ -299,4 +299,7 @@
       <string name="usage_description">Μεταφορά ήχου και συγχρονισμό αντικειμένων με το cloud</string>
       <string name="cancel_rename">Ακύρωση</string>
       <string name="loading_more">Μισό λεπτό…</string>
+    <string name="delete_cloud_data_at_same_time">Διαγραφή και από το cloud</string>
+    <string name="preference_record_desktop_indicator_summary">Εμφάνιση μπλε ένδειξης στην Αρχική Οθόνη όταν η Καταγραφή λειτουργεί στο παρασκήνιο</string>
+    <string name="preference_record_desktop_indicator_title">Ένδειξη στην Αρχική Οθόνη</string>
 </resources>

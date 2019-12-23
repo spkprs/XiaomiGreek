@@ -1938,4 +1938,9 @@
 	<string name="gxzw_add_fingerprint_area">Σαρωτής δακτυλικών αποτυπ/των</string>
     <string name="gxzw_quick_close">Κλείστε</string>
     <string name="gxzw_quick_open_title">Άνοιγμα μενού συντόμευσης</string>
+    <string name="accessibility_status_bar_no_slave_wifi">Βοηθητικό WiFi αποσυνδεδεμένο</string>
+    <string name="accessibility_status_bar_slave_wifi_four_bars">Βοηθητικό WiFi 4 γραμμές.</string>
+    <string name="accessibility_status_bar_slave_wifi_one_bar">Βοηθητικό WiFi 1 γραμμή.</string>
+    <string name="accessibility_status_bar_slave_wifi_three_bars">Βοηθητικό WiFi 3 γραμμές.</string>
+    <string name="accessibility_status_bar_slave_wifi_two_bars">Βοηθητικό WiFi 2 γραμμές.</string>
 </resources>

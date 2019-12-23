@@ -28,4 +28,12 @@
         <item quantity="other">Βρέθηκαν %d εγγραφές</item>
         <item quantity="one">Βρέθηκε %d εγγραφή</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Διαγραφή %d εγγραφές από το cloud;</item>
+        <item quantity="one">Διαγραφή %d εγγραφής από το cloud;</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Διαγραφή %d εγγραφών;</item>
+        <item quantity="one">Διαγραφή %d εγγραφής;</item>
+    </plurals>
 </resources>

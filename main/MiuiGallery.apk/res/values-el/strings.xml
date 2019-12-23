@@ -1328,7 +1328,7 @@
      <string name="user_agreement2">" Όροι Χρήσης"</string>
      <string name="user_agreement4">Πολιτική Απορρήτου</string>
      <string name="user_alias_self">Ο εαυτός μου</string>
-     <string name="user_notice_identify_summary_format">Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με Xiaomi %1$s και %2$s.</string>
+    <string name="user_notice_identify_summary_format">"Χρησιμοποιώντας αυτή την υπηρεσία, αποδέχεστε τους \"Ορους χρήσης\" και \"Πολιτικής απορρήτου\" της Xiaomi</string>
      <string name="user_notice_title">Προσοχή</string>
      <string name="video_edit_file_not_exits_tip">Κατεβάστε πρώτα το βίντεο</string>
      <string name="video_editor_abandon_changes_tip_message">Καταργείτε όλες τις αλλαγές;</string>
@@ -1640,4 +1640,7 @@
     <string name="thumbnail_error_log_cleared">Επιτυχής εκκαθάριση</string>
     <string name="unsupport_raw">"%s δεν λειτουργεί με εικόνες RAW"</string>
     <string name="unsupport_raw_and_video">"%s δεν λειτουργεί με βίντεο και εικόνες RAW"</string>
+    <string name="risk_control_deleted_message">Κάποιος διέγραψε τα στοιχεία της συλλογής σας από το cloud χρησιμοποιώντας ένα %3$s στις %1$s στις %2$s. Εσείς ήσαστε;</string>
+    <string name="risk_control_deleted_title">Προειδοποίηση ασφαλείας</string>
+    <string name="trash_bin_summary_local">Προβολή πρόσφατα διαγραμμένων φωτογραφιών και βίντεο</string>
 </resources>

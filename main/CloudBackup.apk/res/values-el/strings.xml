@@ -227,4 +227,5 @@
     <string name="restore_task_unfinished">"Αδυναμία επαναφοράς"</string>
     <string name="restore_failed_reason_network_error">Σφάλμα δικτύου. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Δεν υπάρχει αρκετός χώρος αποθήκευσης. Ελευθερώστε πρώτα χώρο.</string>
+    <string name="restore_from_mimover">Μεταφορά από την παλιά συσκευή σας με χρήση Mi Mover</string>
 </resources>
