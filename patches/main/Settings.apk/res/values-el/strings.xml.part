@@ -30,12 +30,12 @@
   <string name="launch_my_app_title">Επιλογή εφαρμογής</string>
   <string name="low_battery_warning_title">Ήχος χαμηλής μπαταρίας</string>
   <string name="mi_shopping_mall">Ενημέρωση MIUI</string>
-  <string name="miui_updater">MIUI 10</string>
+  <string name="miui_updater">MIUI 11</string>
   <string name="miui_updater_summary">Ταχύτερο από το φως</string>
   <string name="mtp_default_title">Προεπιλεγμένη λειτουργία USB</string>
   <string name="notch_icon_title">Εμφάνιση εικονιδίου Ειδοποίησης</string>
   <string name="notch_left_icons_title">Εμφάνιση εικονιδίων Bluetooth και GPS</string>
-  <string name="notification_icon_title">Ειδοποίηση με εικόνα</string>
+  <string name="notification_icon_title">Εικονίδια στις ειδοποιήσεις</string>
   <string name="numberpicker_change_title">Ήχοι πληκτρολογίου</string>
   <string name="recent_menu_rounded_title">Στρογγυλεμένες γωνίες παραθύρου</string>
   <string name="row_icon_title">Δυναμικά εικονίδια ειδοποίησης</string>
@@ -71,13 +71,15 @@
   <string name="volbtn_vol_up_title">Αύξηση έντασης</string>
   <string name="wifi_type_approval_dialog_title">Επικοινωνία</string>
   <string name="wifi_type_approval_title">Επικοινωνία</string>
-  <string name="WiFiOn_mobile_title">Όταν είναι ενεργοποιημένο το Wi-Fi</string>
-  <string name="set_in_aod_title">Αλλάξτε τη λειτουργία AOD</string>
+  <string name="WiFiOn_mobile_title">Όταν είναι ενεργό το Wi-Fi</string>
+  <string name="set_in_aod_title">Μετάβαση σε λειτουργία AOD</string>
   <string name="extended_power_menu">Σύνθετη Επανεκκίνηση</string>
   <string name="ext_powermenu_title">Σύνθετη Επανεκκίνηση</string>
-  <string name="two_lines_app_title">Τίτλοι Εφαρμ. σε 2 γραμμές</string>
-  <string name="use_in_theme_server">Παγκόσμιος διακομιστής Θεμάτων</string>
-  <string name="use_new_miui_fonts_title">Χρήση νέων γραμματοσειρών MIUI</string>
-  <string name="use_new_miui_fonts_summary">Χρησιμοποιήστε τη νέα γραμματοσειρά της MIUI αντί της προεπιλεγμένης \"Roboto\". Λειτουργεί μόνο όταν χρησιμοποιείται η \"Προεπιλογή\" στα \"Θέματα\".</string>
-  <string name="show_bottom_search_bar_title">Εμφάνιση μπάρας Αναζήτησης</string>
+  <string name="dual_ear_icon_title">Διπλό εικονίδιο δικτύου</string>
+  <string name="gesture_open_alipay">Άνοιγμα καταγραφέα ήχου</string>
+  <string name="gesture_open_camera">Άνοιγμα εμπρός κάμερας</string>
+  <string name="gesture_open_music">Άνοιγμα μουσικής</string>
+  <string name="gesture_open_wechat">Άνοιγμα υπολογιστή</string>
+  <string name="fade_screen_off_title">Απενεργοποίηση οθόνης</string>
+  <string name="folder_blur_title">Θόλωση φόντου φακέλου</string>
 </resources>
