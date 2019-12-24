@@ -1297,5 +1297,8 @@
      <string name="five_letter">ΚΛΜ</string>
      <string name="four">4</string>
      <string name="four_letter">ΗΘΙ</string>
+	 <string name="confirm_delete_cloud_all_call_logs">Διαγραφή όλων των εγγραφών ιστορικού κλήσεων σχετικά με %s από το cloud και από τη συσκευή;</string>
+	 <string name="deleteCloudConfirmationDetail">Διαγραφή όλων των στοιχείων επικοινωνίας του %s από το cloud και από τη συσκευή;</string>
+	 <string name="no_phone_no_shortcut">"Δεν είναι δυνατή η δημιουργία συντομεύσεων για επαφές χωρίς αριθμούς τηλεφώνου"</string>
 </resources>
 
