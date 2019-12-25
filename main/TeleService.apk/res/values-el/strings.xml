@@ -1650,6 +1650,12 @@
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_ssid_is_empty">Το πεδίο Ssid δεν μπορεί να μείνει κενό</string>
+  <string name="wifi_ssid_length_is_max">Το Ssid να μην υπερβαίνει τους 32 χαρακτήρες σε μήκος</string>
+  <string name="wifi_status_mac_randomized">MAC είναι τυχαία</string>
+  <string name="wifi_status_no_internet">Χωρίς internet</string>
+  <string name="wifi_status_sign_in_required">Απαιτείται σύνδεση</string>
+  <string name="wifi_unmetered_label">Χωρίς μέτρηση</string>
   <string name="wifi_verbose_logging">Ενεργοποιήστε τη λεπτομερή καταγραφή Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Αύξηση του επιπέδου καταγραφής Wi-Fi, εμφάνιση ανά SSID RSSI σε Wi-Fi Picker</string>
   <string name="wificall_switch_summary">Χρησιμοποιήστε το Wi-Fi για πραγματοποίηση και λήψη κλήσεων, όποτε είναι δυνατόν</string>

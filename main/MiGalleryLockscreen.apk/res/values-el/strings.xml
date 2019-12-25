@@ -58,7 +58,7 @@
   <string name="apply_to_screenlock">Ορισμός ως Οθόνη κλειδώματος</string>
   <string name="apply_to_wallpaper">Ορισμός ως Αρχική οθόνη</string>
   <string name="at_least_one">Επιλέξτε τουλάχιστον 1 κατηγορία</string>
-  <string name="auto_interval">Κάθε φορά που ξεκλειδώνει η συσκευή</string>
+  <string name="auto_interval">Συνεχώς</string>
   <string name="back_icon_content_description">Πίσω</string>
   <string name="bind_sign_in_title">Συνδέστε τον Λογαριασμό Mi</string>
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
@@ -126,7 +126,7 @@
   <string name="cw_wallpaper_empty_dlg_content">Δεν έχετε προσθέσει στοιχεία στην παρουσίαση διαφανειών σας. Μετάβαση στις συστάσεις.</string>
   <string name="cw_wallpaper_empty_dlg_title">Κανένα αντικείμενο</string>
   <string name="cw_wallpaper_manager">Διαχείριση ταπετσαριών</string>
-  <string name="day">Κάθε μέρα</string>
+  <string name="day">Καθημερινά</string>
   <string name="declaration">Λάβετε νέες ταπετσαρίες που παρέχονται απευθείας στην οθόνη κλειδώματος σας δωρεάν κάθε μέρα.</string>
   <string name="declaration_lockscreen_title">Αποκτήστε φρέσκιες ταπετσαρίες Κλειδώματος οθόνης καθημερινά</string>
   <string name="declaration_title">Οροι και Προϋποθέσεις</string>

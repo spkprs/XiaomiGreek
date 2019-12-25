@@ -255,6 +255,7 @@
 	<string name="hunt_dual_water_mark">Το διπλό Υδατογράφημα θα προστεθεί αυτόματα.</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="install_confirmed">Εγκατάσταση</string>
+    <string name="kaleidoscope_fragment_tab_name">Καλειδοσκόπιο</string>
 	<string name="lens_dirty_detected_content">Φαίνεται ότι ο φακός της κάμερας είναι ακάθαρτος.\nΚαθαρίστε το φακό για καλύτερο αποτέλεσμα.</string>
     <string name="lens_dirty_detected_title_back">Ο φακός της Πίσω κάμερας είναι ακάθαρτος</string>
     <string name="lens_dirty_detected_title_front">Ο φακός της Εμπρός κάμερας είναι ακάθαρτος</string>
