@@ -36,8 +36,8 @@
      <string name="app_name">Καιρός</string>
      <string name="aqi_data_source">Τροφοδοτείται από Colorful Clouds</string>
      <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
-     <string name="aqi_detail_24_hours">24-ωρη πρόβλεψη</string>
-     <string name="aqi_detail_5_days">5-ήμερη πρόβλεψη</string>
+     <string name="aqi_detail_24_hours">24ωρη πρόβλεψη</string>
+     <string name="aqi_detail_5_days">5ήμερη πρόβλεψη</string>
      <string name="aqi_detail_co">CO</string>
      <string name="aqi_detail_co_unit">Μονάδα: mg/m³</string>
      <string name="aqi_detail_no2">NO₂</string>
@@ -53,10 +53,10 @@
      <string name="aqi_publish_time">Έγινε ενημέρωση %1$s</string>
      <string name="aqi_quality_ambient_air_quality">Ποιότητας αέρος εδώ κοντά</string>
      <string name="aqi_quality_co_desc">Μονοξείδιο του άνθρακα</string>
-     <string name="aqi_quality_detail_15_days">15-ήμερη πρόβλεψη</string>
-     <string name="aqi_quality_detail_24_hours">24-ωρη πρόβλεψη</string>
-     <string name="aqi_quality_detail_48_hours">48-ωρη πρόβλεψη</string>
-     <string name="aqi_quality_detail_5_days">5-ήμερη πρόβλεψη</string>
+     <string name="aqi_quality_detail_15_days">15ήμερη πρόβλεψη</string>
+     <string name="aqi_quality_detail_24_hours">24ωρη πρόβλεψη</string>
+     <string name="aqi_quality_detail_48_hours">48ωρη πρόβλεψη</string>
+     <string name="aqi_quality_detail_5_days">5ήμερη πρόβλεψη</string>
      <string name="aqi_quality_major_pollutants">Κυριότεροι ρύποι</string>
      <string name="aqi_quality_map_title">Χάρτης ποιότητας αέρα</string>
      <string name="aqi_quality_no2_desc">Διοξείδιο του αζώτου</string>
@@ -150,7 +150,7 @@
      <string name="indices_desc_pressure">%1$s mm Hg</string>
      <string name="indices_title_feel">Αίσθηση</string>
      <string name="indices_title_pressure">Πίεση</string>
-     <string name="information_settings_title">Weather info</string>
+     <string name="information_settings_title">Πληροφορίες Καιρού</string>
      <string name="install">Εγκατάσταση</string>
      <string name="install_progress">%1$s%%</string>
      <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
@@ -165,6 +165,11 @@
 Αγγίξτε στην οθόνη για προσθήκη ή επανατοποθέτηση της πόλης μόνοι σας"</string>
      <string name="location_provider_btn_text">Ενεργοποίηση υπηρεσιών τοποθεσίας</string>
      <string name="location_tag">Εντοπισμός</string>
+     <string name="manager_city_option_add_city_back_search">Επιστροφή στην αναζήτηση</string>
+     <string name="manager_city_option_add_city_content">Η πόλη προστέθηκε με επιτυχία στην Αρχική σελίδα</string>
+     <string name="manager_city_option_add_city_title">Προστέθηκε με επιτυχία</string>
+     <string name="manager_city_option_add_home">Προσθήκη στην Αρχική σελίδα</string>
+     <string name="manager_city_option_view_on_home">Εμφάνιση στην Αρχική σελίδα</string>
      <string name="menu_location">Τοποθεσίες</string>
      <string name="menu_speaker">Αναμετάδοση φωνής</string>
      <string name="minute_rain">Πρόβλεψη υδατόπτωσης</string>
@@ -179,7 +184,7 @@
      <string name="minute_rain_progress_indicator_original_time">- -</string>
      <string name="minute_rain_pull_down_refresh">Σύρετε προς τα κάτω για ανανέωση</string>
      <string name="minute_rain_refreshing_now">Γίνεται ανανέωση…</string>
-     <string name="missing_required_permission">You have disabled a required permission.</string>
+     <string name="missing_required_permission">Έχετε απενεργοποιήσει ένα απαιτούμενο δικαίωμα.</string>
      <string name="more_details">Περισσότερες λεπτομέρειες</string>
      <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="network_unavailable">Αδυναμία σύνδεσης στο δίκτυο.</string>

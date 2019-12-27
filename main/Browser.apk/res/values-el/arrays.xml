@@ -52,4 +52,8 @@
         <item>Παρακολούθηση εστίασης</item>
         <item>Κεντρικό θέμα</item>
     </string-array>
-</resources>
+     <string-array name="quick_link_tabs">
+        <item>Σελιδοδείκτες</item>
+        <item>Ιστορικό</item>
+     </string-array>
+ </resources>
