@@ -307,6 +307,8 @@
      <string name="delete_call_log_message">Διαγραφή ιστορικού κλήσεων;</string>
      <string name="delete_call_log_selected_title">Διαγραφή επιλεγμένου αρχείου ιστορικού κλήσεων;</string>
      <string name="delete_call_log_title">Διαγραφή ιστορικού κλήσεων</string>
+     <string name="delete_conference_call_log_message">Να διαγραφούν τώρα όλες οι καρτέλες κλήσεων συνδιάσκεψης που σχετίζονται με αυτήν την επαφή;</string>
+     <string name="delete_conference_call_log_title">Διαγραφή εγγραφών κλήσεων συνδιάσκεψης</string>
      <string name="delete_contact_calllog_title">Διαγραφή ιστορικού κλήσεων;</string>
      <string name="delete_dial_input">Διαγραφή</string>
      <string name="delete_duplicate">Συγχώνευση</string>
