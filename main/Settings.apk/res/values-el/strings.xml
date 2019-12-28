@@ -6814,4 +6814,5 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="folder_blur_title">Θόλωση φόντου φακέλου</string>
     <string name="video_tool_box_title">Εργαλειοθήκη Βίντεο</string>
     <string name="gps_description">Υποστηρίζονται πολλαπλά δορυφορικά συστήματα πλοήγησης (GPS, BeiDou, GLONASS, Galileo)</string>
+    <string name="show_powermenu_on_lockscreen_title">Εμφάνιση Power μενού στην Οθόνη Κλειδώματος</string>
 </resources>
