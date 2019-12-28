@@ -172,7 +172,7 @@
 	<string name="usage_state_tuesday">Τρι</string>
 	<string name="usage_state_turn_on">Ενεργοποίηση</string>
 	<string name="usage_state_unlock_mourth_day">Ξεκλειδώθηκε %s</string>
-	<string name="usage_state_unusage">"Δεν έχω χρησιμοποιήσει σήμερα"</string>
+	<string name="usage_state_unusage">"Χωρίς χρήση σήμερα"</string>
 	<string name="usage_state_usage_time">Χρόνος οθόνης</string>
 	<string name="usage_state_usage_time_remind">Ειδοποίηση χρόνου οθόνης</string>
 	<string name="usage_state_usage_time_weekday_title">Καθημερινές</string>

@@ -246,6 +246,7 @@
      <string name="always">Πάντα</string>
      <string name="always_allow_bind_appwidgets_text">Έχετε επιλέξει να επιτρέψετε σε αυτή την εφαρμογή τη δημιουργία widgets και την πρόσβαση στα δεδομένα τους</string>
      <string name="always_running">Συνεχόμενη λειτουργία (%s)</string>
+     <string name="always_show_network_type_title">Εμφάνιση πάντα ο τύπος δικτύου στη γραμμή κατάστασης</string>
      <string name="amber_alerts_summary">Λήψη ενημερωτικών δελτίων σχετικά με απαγωγές παιδιών</string>
      <string name="amber_alerts_title">AMBER alerts</string>
      <string name="ambient_display_category_triggers">Όταν εμφανιστεί</string>
