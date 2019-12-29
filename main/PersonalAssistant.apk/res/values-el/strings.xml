@@ -335,7 +335,7 @@
      <string name="cta_dialog_miot_text_all">Για να διασφαλιστεί η κανονική λειτουργία, το Mi Home μπορεί να χρειαστεί να αποκτήσει πρόσβαση στο Wi-Fi σας, στην Τοποθεσία σας, στο Bluetooth, στο Δίκτυο κινητής, στο Μικρόφωνο και στις Επαφές σας. Συμφωνείτε;</string>
      <string name="cta_dialog_negative">Έξοδος</string>
      <string name="cta_dialog_positive">Συμφωνώ</string>
-     <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τον Προσωπικό Βοηθό, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
+     <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τον Προσωπικό Βοηθό, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη\" %2$s και %3$s \"Πολιτική απορρήτου\" %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
      <string name="cta_dialog_title">Οροι και Προϋποθέσεις</string>
      <string name="cta_negative">Κλείστε</string>
      <string name="cta_positive">Λεπτομέρειες</string>
@@ -1127,9 +1127,9 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="msp_symbol_x">x</string>
      <string name="msp_symbol_y">y</string>
      <string name="msp_symbol_z">z</string>
-     <string name="music">Μουσική &amp;amp; ραδιόφωνο</string>
+     <string name="music">Μουσική &amp; ραδιόφωνο</string>
      <string name="music_card_error_str">Παρουσιάστηκε σφάλμα, ανοίξτε την εφαρμογή Μουσική για αναπαραγωγή</string>
-     <string name="music_open">Εμφάνιση μουσικής &amp;amp; ραδιοφωνικής κάρτας</string>
+     <string name="music_open">Εμφάνιση μουσικής &amp; ραδιοφωνικής κάρτας</string>
      <string name="music_setting_brief">Συνδέστε τα ακουστικά για να συνεχίσετε να ακούτε μουσική ή ραδιόφωνο από τη θέση που έχετε αφήσει.</string>
      <string name="navigation_network_location_enable">Συμφωνώ</string>
      <string name="navigation_network_location_enable_later">Ακύρωση</string>

@@ -344,7 +344,7 @@
      <string name="app_notification_row_sensitive">Ευαίσθητο</string>
      <string name="app_notification_visibility_override_title">Στην οθόνη κλειδώματος</string>
      <string name="app_notifications_dialog_done">Ολοκληρώθηκε</string>
-     <string name="notification_styles_title">Τύπος ειδοπ. Εικονιδίων</string>
+     <string name="notification_styles_title">Τύπος προβολής Εικονιδίων</string>
      <string name="app_notifications_switch_label">Προβολή ειδοποιήσεων</string>
      <string name="app_notifications_title">Ειδοποιήσεις εφαρμογών</string>
      <string name="app_ops_never_used">(Δεν έχει χρησιμοποιηθεί)</string>
