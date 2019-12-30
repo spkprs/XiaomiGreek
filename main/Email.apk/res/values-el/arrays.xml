@@ -53,7 +53,7 @@
   </string-array>
    <string-array name="prefEntries_contact_add">
         <item>Όλες</item>
-        <item>Μόνο αποδέκτες</item>
+        <item>Μόνο Αποστολείς</item>
     </string-array>
   <string-array name="signature_normal_string_array">
     <item>Blog:</item>
