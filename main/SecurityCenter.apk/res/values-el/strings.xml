@@ -13,7 +13,7 @@
      <string name="about_autostart">Σχετικά με την Αυτόματη Έναρξη</string>
      <string name="ac_enter_applock">Είσοδος σε Κλείδωμα εφαρμογής</string>
      <string name="ac_firstUseApplock_subTitle">Ενεργοποιήστε τον για επιπλέον προστασία</string>
-     <string name="ac_firstUseApplock_title">Ορίστε κωδικό για τις επιλεγμένες εφαρμογές</string>
+     <string name="ac_firstUseApplock_title">Ορίστε κωδικό για επιλεγμένες εφαρμογές</string>
      <string name="ac_mask_all_apps">Απόκρυψη για όλες</string>
      <string name="ac_notification_contentText">Αγγίξτε για ενεργοποίηση</string>
      <string name="ac_notification_contentTitle">Προστατέψτε τις εφαρμογές με κωδικό</string>
@@ -315,7 +315,7 @@
     <string name="applock_guide_title">Προστατέψτε τα προσωπικά σας δεδομένα με το Κλείδωμα εφαρμογών</string>
      <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
      <string name="applock_lock_all">Κλείδωμα όλων</string>
-     <string name="applock_login_and_add_account">Συνδεθείτε &amp; προσθέστε</string>
+     <string name="applock_login_and_add_account">Σύνδεση και προσθήκη</string>
      <string name="applock_not_add_account"><u>Αργότερα</u></string>
      <string name="applock_not_login_account">Δεν είστε συνδεδεμένοι</string>
      <string name="applock_unlock_all">Ξεκλείδωμα όλων</string>
@@ -1567,8 +1567,8 @@
      <string name="notification_exit_power_save_mode_subtitle">Μπαταρία %s φορτισμένη.</string>
      <string name="notification_mask_summary">Απόκρυψη περιεχομένου ειδοποίησης σε προστατευμένες εφαρμογές.</string>
      <string name="notification_mask_title">Απόκρυψη περιεχομένου ειδοποιήσεων</string>
-     <string name="notification_masked_item">Πώς αποκρύπτω το περιεχόμενο ειδοποίησης;</string>
-     <string name="notification_masked_subtitle">Χρήση Κλειδώμ. Εφαρμ. για απόκρυψη περιεχομένου ειδοπ. για επιλεγμένες εφαρμογές</string>
+     <string name="notification_masked_item">Πώς αποκρύπτω το περιεχόμενο;</string>
+     <string name="notification_masked_subtitle">Χρήση απόκρ περιεχ ειδοπ επιλ εφαρμ</string>
      <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="notify_channel_mipush">Προωθ. Μηνύματα Ασφάλειας</string>
      <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
@@ -3144,4 +3144,25 @@
     <string name="app_running_tip_dialog_text">Κλείστε το %1$s για να μην εκτελείται στο παρασκήνιο. Αυτό θα επιταχύνει τη συσκευή σας και θα μειώσει την κατανάλωση ενέργειας.</string>
     <string name="app_running_tip_dialog_title">Τερματισμός εφαρμογής</string>
     <string name="app_running_tip_uninstall">Απεγκατάσταση αυτής της εφαρμογής</string>
+    <string name="apn_exception_modify_summary">"Το προεπιλεγμένο σημείο πρόσβασης παρόχου δεν χρησιμοποιείται ή δεν τροποποιείται"</string>
+    <string name="apn_exception_wap_summary">Το WAP είναι ασταθές τώρα. Μετάβαση στο NET.</string>
+    <string name="nd_result_button_optimize">Βελτιστοποίηση</string>
+    <string name="nd_result_summary_optimize">"Δοκιμάστε να βελτιστοποιήσετε τη σύνδεση δικτύου όταν είναι ασταθής"</string>
+    <string name="nd_result_title_auxiliary">Ρύθμιση παραμέτρων δικτύου</string>
+    <string name="nd_result_title_network">Συνδεσιμότητα δικτύου</string>
+    <string name="nd_result_title_optimize">Βελτιστοποίηση δικτύου</string>
+    <string name="signal_exception_4g_bad_rsrq">Η τρέχουσα λήψη σήματος είναι κακή. Η ταχύτητα σύνδεσης μπορεί να είναι χαμηλή.</string>
+    <string name="signal_exception_none_4g_5g_network">"Χρησιμοποιείτε κινητά δίκτυα 2G/3G. Η ταχύτητα σύνδεσης μπορεί να είναι χαμηλή."</string>
+    <string name="vtb_func_desc">Πληροφορίες για αυτήν τη λειτουργία</string>
+    <string name="vtb_func_display_style_desc1">"Τα επιλεγμένα εφέ δεν θα εφαρμοστούν σε βίντεο HDR."</string>
+    <string name="vtb_func_display_style_desc2">"Αυτά τα εφέ δεν μπορούν να εφαρμοστούν σε στιγμιότυπα οθόνης."</string>
+    <string name="vtb_func_frc_desc0">Η ομαλοποίηση της κίνησης μειώνει το θόλωμα και προσθέτει λεπτομέρειες στα κινούμενα αντικείμενα. Η χρήση αυτής της δυνατότητας αυξάνει την κατανάλωση ενέργειας.</string>
+    <string name="vtb_func_frc_desc1">"Η ομαλοποίηση της κίνησης δεν θα λειτουργήσει στις ακόλουθες συνθήκες:"</string>
+    <string name="vtb_func_frc_desc2">Όταν η ανάλυση βίντεο είναι μεγαλύτερη από 1080P</string>
+    <string name="vtb_func_frc_desc3">Όταν ο ρυθμός καρέ είναι μεγαλύτερος από 30 fps</string>
+    <string name="vtb_func_frc_desc4">Με βίντεο HDR</string>
+    <string name="vtb_func_frc_title">Ομαλοποίηση κίνησης</string>
+    <string name="vtb_func_vpp_desc4">"Αυτή η δυνατότητα δεν θα λειτουργεί όταν η ανάλυση βίντεο είναι μεγαλύτερη από 4K."</string>
+    <string name="vtb_func_vpp_title">Βελτιωμένα περιγράμματα</string>
+    <string name="net_boostering">Ενίσχυση ταχύτητας δικτύου…</string>
 </resources>

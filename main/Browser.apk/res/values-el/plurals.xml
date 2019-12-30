@@ -88,4 +88,10 @@
         <item quantity="other">%d απαντήσεις στο Zhihu</item>
         <item quantity="one">%d απάντηση στο Zhihu</item>
     </plurals>
+     <plurals name="video_playback_error">
+         <item quantity="other">"Δεν ήταν δυνατή η φόρτωση του βίντεο.
+ Θα γίνει αναπαραγωγή του επόμενου σε %d δευτ..."</item>
+         <item quantity="one">"Δεν ήταν δυνατή η φόρτωση του βίντεο.
+ Θα γίνει αναπαραγωγή του επόμενου σε %d δευτ..."</item>
+     </plurals>
 </resources>
