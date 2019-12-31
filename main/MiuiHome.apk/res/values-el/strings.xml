@@ -121,6 +121,9 @@
 	<string name="category_cannot_empty">Εισαγωγή κατηγορίας πρώτα</string>
 	<string name="category_choose_no_app_select_tip">Κάθε κατηγορία πρέπει να περιέχει τουλάχιστον 1 εφαρμογή.</string>
 	<string name="category_drawer_name_hint">Εισάγετε τίτλο κατηγορίας</string>
+    <string name="category_edit_back_confirm_dialog_content">Να αποθηκευτούν οι αλλαγές τώρα;</string>
+    <string name="category_edit_back_confirm_dialog_negative_button">"Χωρίς αποθήκευση"</string>
+    <string name="category_edit_back_confirm_dialog_positive_button">Αποθήκευση</string>
 	<string name="category_group">Κατηγοριοποίηση εφαρμογών</string>
 	<string name="category_group_summary">Κατηγοριοποίηση στο Συρτάρι εφαρμογών</string>
 	<string name="category_not_selected">Διαθέσιμες εφαρμογές</string>

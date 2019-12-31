@@ -68,6 +68,7 @@
   <string name="button_send">Αποστολή</string>
   <string name="call_title">Ιστορικό κλήσεων</string>
   <string name="camera_summary">Ρυθμίσεις κάμερας (χωρίς τις φωτογραφίες)</string>
+  <string name="camera_summary_for_cta">Ρυθμίσεις κάμερας</string>
   <string name="cancel">Άκυρο</string>
   <string name="cancel_backup">Stop</string>
   <string name="cancel_moving_dialog_message">Να σταματήσει την εισαγωγή τώρα;</string>

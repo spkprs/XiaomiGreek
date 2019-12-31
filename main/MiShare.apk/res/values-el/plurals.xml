@@ -68,4 +68,20 @@
         <item quantity="other">Μεταφορά %1$d εικόνων στο %2$s</item>
         <item quantity="one">Μεταφορά %1$d εικόνας στο %2$s</item>
     </plurals>
+    <plurals name="file_received_successfully">
+        <item quantity="other">Λήψη %2$d αρχείων από %1$s με επιτυχία</item>
+        <item quantity="one">Λήψη %2$d αρχείου από %1$s με επιτυχία</item>
+    </plurals>
+    <plurals name="image_received_successfully">
+        <item quantity="other">Λήψη %2$d εικόνων από %1$s με επιτυχία</item>
+        <item quantity="one">Λήψη %2$d εικόνας από %1$s με επιτυχία</item>
+    </plurals>
+    <plurals name="successfully_sent_files">
+        <item quantity="other">Αποστολή %2$d αρχείων στο %1$s με επιτυχία</item>
+        <item quantity="one">Αποστολή %2$d αρχείου στο %1$s με επιτυχία</item>
+    </plurals>
+    <plurals name="successfully_sent_images">
+        <item quantity="other">Αποστολή %2$d εικόνων στο %1$s με επιτυχία</item>
+        <item quantity="one">Αποστολή %2$d εικόνας στο %1$s με επιτυχία</item>
+    </plurals>
 </resources>

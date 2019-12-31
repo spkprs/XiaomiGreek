@@ -73,7 +73,8 @@
 	<string name="accessibility_video_pause_button">Παύση εγγραφής Βίντεο</string>
 	<string name="accessibility_video_resume_button">Συνέχεια εγγραφής Βίντεο</string>
 	<string name="accessibility_zoom_button">Λειτουργία Ζούμ</string>
-	<string name="ai_scene_mode_use_hint_text">"Η κάμερα AI ανιχνεύει αυτόματα σκηνές και βελτιστοποιεί τις φωτογραφίες σας σύμφωνα με αυτές τις πληροφορίες"</string>
+	<string name="ai_scene_mode_use_hint_text">"Αναγνώριση σκηνών με χρήση AI (τεχνητής νοημοσύνης)
+και αυτόματη προσαρμογή προτιμήσεων"</string>
 	<string name="ai_scene_top_moon_off">Νυκτερινή λειτουργία</string>
 	<string name="ai_scene_top_tip">Λειτουργία Σελήνης</string>
 	<string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>

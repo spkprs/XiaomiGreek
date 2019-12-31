@@ -172,6 +172,10 @@
      <string name="greenguard_child_des_title">Σαρώστε τον κωδικό QR για να προσθέσετε συσκευή</string>
      <string name="greenguard_functional_description">"Απομακρυσμένη διαχείριση συσκευών, προβολή πληροφοριών θέσης,
 έλεγχος εγκατεστημένων εφαρμογών και περιορισμός χρήσης"</string>
+    <string name="greenguard_install_cancle">Όχι ευχαριστώ</string>
+    <string name="greenguard_install_confirm">Εγκατάσταση</string>
+    <string name="greenguard_install_message">"Η Οικογενειακή Προστασία είναι εφαρμογή συστήματος. Δεν χρειάζεστε το Internet για να το εγκαταστήσετε."</string>
+    <string name="greenguard_install_title">Εγκατάσταση της Οικογενειακή Προστασία</string>
      <string name="greenguard_parent_des">Διαχειριστείτε τις συσκευές των φίλων και της οικογένειάς σας​</string>
      <string name="greenguard_parent_des_title">Χρησιμοποιήστε το Kite Guard για να προσθέσετε συσκευές</string>
      <string name="guide_contact_sub_title_desc">"Οι επαφές που προστέθηκαν στο Δεύτερο προφίλ θα είναι ιδιωτικές.
