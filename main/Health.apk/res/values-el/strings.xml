@@ -98,7 +98,7 @@
 Τα προσωπικά σας στοιχεία θα συλλέγονται, θα υποβάλλονται σε επεξεργασία και θα χρησιμοποιούνται σύμφωνα με τους σχετικούς νόμους και κανονισμούς. Ανατρέξτε στην Πολιτική χρήσης και στην Πολιτική απορρήτου για περισσότερες λεπτομέρειες."</string>
   <string name="dialog_privacy_policy_statement">Δήλωση Πολιτικής Απορρήτου</string>
   <string name="dialog_privacy_title">Οροι και Προϋποθέσεις</string>
-  <string name="dialog_sure">Προτίμηση</string>
+  <string name="dialog_sure">Αποδοχή</string>
   <string name="drink_water">Πιείτε λίγο νερό και κάντε μια βόλτα.</string>
   <string name="edit_basic_info_desc">Βασικές πληροφορίες</string>
   <string name="empty_data">-</string>
@@ -137,16 +137,19 @@
   <string name="icon_content_description">Εικονίδιο διαλόγου</string>
   <string name="improve_step_target">Φτάνετε πολύ συχνά στο στόχο σας. Δοκιμάστε να ορίσετε ένα υψηλότερο.</string>
   <string name="improve_your_health_default_tips">Άσκηση και αρκετό ύπνο για να παραμείνετε υγιείς.</string>
-  <string name="jump_over">Παραλείψετε</string>
+  <string name="jump_over">Παράληψη</string>
+  <string name="just_recently">Τώρα</string>
   <string name="key_sedentary_toggle">sedentary_toggle</string>
   <string name="label_average_daily_sleep_duration">Μέση διάρκεια ύπνου</string>
   <string name="label_average_daily_sleep_time">Μέση διάρκεια ύπνου</string>
-  <string name="label_average_daily_wake_up_time">Μέσος χρόνος</string>
+  <string name="label_average_daily_sleep_time2">Μέση διάρκεια ύπνου</string>
+  <string name="label_average_daily_wake_up_time">Μέσος χρόνος αφύπνισης</string>
   <string name="label_duration">Διάρκεια</string>
   <string name="label_exercise_goal">Στόχος</string>
   <string name="label_get_device_id">Λήψη αναγνωριστικού συσκευής</string>
-  <string name="label_got_up">Ξύπνησα.</string>
+  <string name="label_got_up">Ξύπνησα</string>
   <string name="label_sleep">Αποκοιμήθηκα</string>
+  <string name="label_sleep2">Αποκοιμήθηκα</string>
   <string name="label_sleep_duration">Διάρκεια ύπνου</string>
   <string name="label_sleep_intercept">Διακόπηκε</string>
   <string name="label_sleep_time">Ωρα για υπνο</string>
@@ -161,9 +164,10 @@
   <string name="mark_start">Αρχή</string>
   <string name="menstrual_assistant">Εμμηνόρροια</string>
   <string name="menstruation_cycle">Διάρκεια κύκλου</string>
-  <string name="menstruation_cycle_description">Ο αριθμός των ημερών μεταξύ της έναρξης μιας περιόδου και της ημέρας πριν από την επόμενη περίοδο ξεκινά</string>
+  <string name="menstruation_cycle_description">"Χρονικό διάστημα μεταξύ των
+ημερομηνιών έναρξης 2 διαδοχικών κύκλων"</string>
   <string name="menstruation_days">Διάρκεια περιόδου</string>
-  <string name="menstruation_days_description">Ο αριθμός των ημερών μεταξύ της πρώτης και της τελευταίας ημέρας της εμμηνόρροιας</string>
+  <string name="menstruation_days_description">Διάρκεια κάθε περιόδου</string>
   <string name="menstruation_last_start_date">Η τελευταία εμμηνόρροια άρχισε</string>
   <string name="menstruation_record">Καταγεγραμμένες περίοδοι</string>
   <string name="menstruation_setting">Ρυθμίσεις εμμηνόρροιας</string>
@@ -172,7 +176,7 @@
   <string name="modify_end_date">Αλλάξτε την ημερομηνία λήξης</string>
   <string name="month">Μήνας</string>
   <string name="mtrl_badge_numberless_content_description">Νέα ειδοποίηση</string>
-  <string name="mtrl_chip_close_icon_content_description">Καταργήσετε %1$s</string>
+  <string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
@@ -190,10 +194,6 @@
   <string name="open_unrestricted_permissions">Για να παρακολουθείτε τον ύπνο με μεγαλύτερη ακρίβεια, επιτρέψτε στο Mi Health να τρέχει πάντα στο παρασκήνιο.</string>
   <string name="page">%1$d/%2$d</string>
   <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
-  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="permission_check_result">Επιτυχής ρύθμιση</string>
   <string name="permission_manage">Διαχείριση δικαιωμάτων</string>
   <string name="permission_tip">Δώστε στο Mi Health τα ακόλουθα δικαιώματα, ώστε να μπορεί να παρακολουθεί τον ύπνο σας με ακρίβεια</string>
@@ -223,7 +223,7 @@
   <string name="remind_subtitle_record">"Λάβετε υπενθυμίσεις όταν πρέπει να 
 καταγράψετε της ημερομηνίες έναρξης και
 τέλους των εμμηνορροιών σας"</string>
-  <string name="remind_title_menstruation_start">Υπενθύμιση την αρχή της εμμηνόρροιας</string>
+  <string name="remind_title_menstruation_start">Υπενθύμιση αρχής εμμηνόρροιας</string>
   <string name="remind_title_record">Υπενθύμιση για καταγραφή</string>
   <string name="revert_to_default">Επαναφορά προεπιλογών</string>
   <string name="search_menu_title">Αναζήτηση</string>
@@ -251,8 +251,8 @@
   <string name="sleep_day">Ημέρα</string>
   <string name="sleep_detector_content">Το Mi Health παρακολουθεί τον ύπνο σας στο παρασκήνιο</string>
   <string name="sleep_detector_title">Παρακολούθηση ύπνου</string>
-  <string name="sleep_empty_data_tips">Πέρασε από έναν πλήρη κύκλο ύπνου</string>
-  <string name="sleep_goal_compliance">Καλός ύπνος</string>
+  <string name="sleep_empty_data_tips">Κάνατε έναν πλήρη κύκλο ύπνου</string>
+  <string name="sleep_goal_compliance">Αρκετός ύπνος</string>
   <string name="sleep_goal_maybe_compliance">Σχετικά καλός ύπνος</string>
   <string name="sleep_goal_not_compliance">Χωρίς αρκετό ύπνο</string>
   <string name="sleep_month">Μήνα</string>
@@ -386,7 +386,7 @@
   <string name="body_weight_thin">Μικρό βάρος</string>
   <string name="body_weight_unmeasure_today">Χωρίς ζύγισμα σήμερα</string>
   <string name="button_record_menstruation">Εγγραφή</string>
-  <string name="card_on_using"> Χρησιμοποιείτε</string>
+  <string name="card_on_using">Σε χρήση</string>
   <string name="complete_preference_basic_info">Ολοκλήρωση του προφίλ σας</string>
   <string name="data_empty">Χωρίς δεδομένα</string>
   <string name="dialog_body_weight_conflict">"Φαίνεται ότι έχετε ήδη καταγράψει βάρος κατά την επιλεγμένη ώρα. Αντικατάσταση αρχικών δεδομένων;"</string>
@@ -401,8 +401,8 @@
   <string name="dialog_sleep_goal_setting">Ορισμός στόχου διάρκειας ύπνου</string>
   <string name="dialog_sleep_goal_subtitle">Κοιμηθείτε 7-9 ώρες κάθε μέρα</string>
   <string name="dialog_sleep_goal_title">Στόχος διάρκειας ύπνου</string>
-  <string name="dialog_sleep_record_auto_start">Για να παρακολουθείτε τον ύπνο με μεγαλύτερη ακρίβεια, επιτρέψτε στο Mi Health να ξεκινά αυτόματα.</string>
-  <string name="dialog_user_agreement_purpose">Καλώς ήρθατε στη Mi Health! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μετρήσετε τα βήματα, να παρακολουθήσετε τον ύπνο, τις περιόδους και το βάρος, καθώς και να λάβετε συμβουλές υγείας.</string>
+  <string name="dialog_sleep_record_auto_start">Για να παρακολουθείτε τον ύπνο με μεγαλύτερη ακρίβεια, επιτρέψτε στη Mi Health να ξεκινά αυτόματα.</string>
+  <string name="dialog_user_agreement_purpose">Καλώς ήρθατε στη Mi Health! Μπορείτε να μετρήσετε τα βήματα, να παρακολουθήσετε τον ύπνο, τις περιόδους και το βάρος, καθώς και να συγχρονίσετε τα στατιστικά σας στο cloud.</string>
   <string name="dot">.</string>
   <string name="edit_sleep_record_button">Επεξεργασία</string>
   <string name="exercise_setting_label_reach_standard_remind">Ειδοποίηση δραστηριότητας</string>
@@ -422,6 +422,7 @@
   <string name="label_record_detail_page_record_date">Χρόνος</string>
   <string name="label_record_detail_page_source"> Πηγή</string>
   <string name="label_set_exercise">Ορισμός στόχου δραστηριότητας</string>
+  <string name="label_sleep_time2">Ώρα που αποκοιμηθήκατε</string>
   <string name="label_start_time">Έναρξη</string>
   <string name="last_measure_date">"Τελευταίο βάρος: "</string>
   <string name="last_measure_hours_minutes">%1$s από την τελευταία ζύγιση</string>
@@ -435,7 +436,7 @@
   <string name="mesens_card_title_stop_today">Η περίοδος λήγει σήμερα</string>
   <string name="mesens_card_title_today_begin">Η περίοδος μπορεί να ξεκινήσει σήμερα</string>
   <string name="mesens_card_title_tomorrow_begin">Η περίοδος μπορεί να ξεκινήσει αύριο</string>
-  <string name="minute">M</string>
+  <string name="minute">Λ</string>
   <string name="model_card_setting">Ρυθμίσεις καρτών</string>
   <string name="modify">Επεξεργασία</string>
   <string name="more_card">Περισσότερες κάρτες</string>
@@ -453,7 +454,7 @@
   <string name="sleep_management_exp_hours_minutes">"Οι τρέχουσες ρυθμίσεις δεν σας εγγυώνται %1$s %2$s ημερήσιου ύπνου. Χρειάζεστε περισσότερο από αυτές."</string>
   <string name="sleep_management_label">Διαχείριση ύπνου</string>
   <string name="sleep_record_content">Το Mi Health θα καταγράψει αυτόματα τον ύπνο σας με βάση τη χρήση του τηλεφώνου σας, τα στατιστικά στοιχεία δραστηριότητας, καθώς και τον ύπνο και τον χρόνο αφύπνισης που ορίσατε.</string>
-  <string name="sleep_record_go_open">Εναλλαγή του διακόπτη \"Ανίχνευση αδράνειας\" για την έναρξη καταγραφής δεδομένων ύπνου</string>
+  <string name="sleep_record_go_open">Εναλλαγή του διακόπτη \"Παρακολούθηση ύπνου\" για την έναρξη καταγραφής δεδομένων ύπνου</string>
   <string name="sleep_record_label">Εγγραφή ύπνου</string>
   <string name="sleep_setting_title">Ρυθμίσεις ύπνου</string>
   <string name="sleep_track">Παρακολούθηση ύπνου</string>
@@ -461,9 +462,9 @@
   <string name="subtitle_get_health_advice">Αποκτήστε ακριβή στατιστικά στοιχεία και συμβουλές υγείας βάσει των δεδομένων που μας παρέχετε.</string>
   <string name="suggested_body_weight">Προτειν. βάρος</string>
   <string name="title_improve_health">Παραμείνετε υγιείς</string>
-  <string name="title_select_birthday">Επιλέξτε γενέθλια</string>
+  <string name="title_select_birthday">Ημερομ. Γέννησης</string>
   <string name="title_select_gender">Επιλέξτε φύλο</string>
-  <string name="title_select_height">Ρύθμιση ύψους</string>
+  <string name="title_select_height">Ορισμός ύψους</string>
   <string name="title_select_weight">Ορισμός βάρους</string>
   <string name="title_start_use">Έναρξη</string>
   <string name="unknown">Άγνωστο</string>

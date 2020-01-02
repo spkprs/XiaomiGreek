@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabl_level_values">
+        <item>Χαμηλή</item>
+        <item>Μεσαία</item>
+        <item>Υψηλή</item>
+        <item>Αυτόματα</item>
+    </string-array>
+</resources>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="alphabet_table">
     <item>\#</item>
@@ -30,6 +30,20 @@
     <item>Z</item>
   </string-array>
   <string-array name="feature_desc">
-         <item>Διορθώθηκαν κάποια θέματα</item>
+    <item>Βελτιστοποιημένη για διεθνείς χρήστες από το Xiaomi.eu</item>
+  </string-array>
+  <string-array name="month12">
+    <item>Ιανουάριος</item>
+    <item>Φεβρουάριος</item>
+    <item>Μάρτιος</item>
+    <item>Απρίλιος</item>
+    <item>Μάιος</item>
+    <item>Ιούνιος</item>
+    <item>Ιούλιος</item>
+    <item>Αύγουστος</item>
+    <item>Σεπτέμβριος</item>
+    <item>Οκτώβριος</item>
+    <item>Νοέμβριος</item>
+    <item>Δεκέμβριος</item>
   </string-array>
 </resources>

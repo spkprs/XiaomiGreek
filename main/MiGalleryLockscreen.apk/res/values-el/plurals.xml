@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="article_num">
+    <item quantity="other">%d άρθρα</item>
+    <item quantity="one">%d άρθρο</item>
+  </plurals>
+  <plurals name="feed_article_entrance_title">
+    <item quantity="other">Δείτε %s άρθρα που σας συνιστώνται</item>
+    <item quantity="one">Δείτε %s άρθρο που σας συνιστάται</item>
+  </plurals>
+  <plurals name="llks_tools_remote_control_data">
+    <item quantity="other">%s στοιχεία</item>
+    <item quantity="one">%s στοιχείο</item>
+  </plurals>
+  <plurals name="llks_tools_smart_devices_data">
+    <item quantity="other">%s συσκευές</item>
+    <item quantity="one">%s συσκευή</item>
+  </plurals>
+  <plurals name="lockscreen_magazine_subscribe">
+    <item quantity="other">%1$s άτομα που έχουν εγγραφεί</item>
+    <item quantity="one">%1$s άτομο που έχει εγγραφεί</item>
+  </plurals>
+  <plurals name="lockscreen_magazine_system_subscribe">
+    <item quantity="other">%1$s ταπετσαρίες</item>
+    <item quantity="one">%1$s ταπετσαρία</item>
+  </plurals>
+  <plurals name="time_day_ago">
+    <item quantity="other">%d μέρες πριν</item>
+    <item quantity="one">%d ημέρα πριν</item>
+  </plurals>
+  <plurals name="time_hour_ago">
+    <item quantity="other">%d ώρες πριν</item>
+    <item quantity="one">%d ώρα πριν</item>
+  </plurals>
+  <plurals name="time_minute_ago">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">%d λεπτά πριν</item>
+  </plurals>
+  <plurals name="wm_cw_count">
+    <item quantity="other">%d εικόνες</item>
+    <item quantity="one">%d εικόνα</item>
+  </plurals>
+</resources>

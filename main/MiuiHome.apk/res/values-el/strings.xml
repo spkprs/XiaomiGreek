@@ -105,6 +105,7 @@
 	<string name="aqi_quality_index_light_pollution">Ελαφριά μόλυνση</string>
 	<string name="aqi_quality_index_moderate">Μέτριος</string>
 	<string name="aqi_quality_index_unhealthy">Ανθυγιεινός</string>
+    <string name="auto_add_app_shortcut">Προσθήκη πρόσφατα εγκατεστημένων εφαρμογών στην Αρχική οθόνη</string>
     <string name="auto_delete_category_dialog_content">Οι τρέχουσες εφαρμογές θα καταργηθούν από αυτήν την κατηγορία και στη συνέχεια θα διαγραφεί. Θέλετε να διαγραφεί τώρα αυτή η κατηγορία;</string>
     <string name="auto_delete_category_dialog_title">Διαγραφή κατηγορίας</string>
 	<string name="backup_fail">Αδυναμία δημιουργίας αντίγραφου ασφαλείας Εκκινητή</string>

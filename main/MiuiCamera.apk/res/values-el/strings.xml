@@ -425,8 +425,8 @@
 	<string name="pano_how_to_use_prompt_slow_down">Παρακαλώ πιο αργά</string>
 	<string name="pano_how_to_use_prompt_start">Άγγιγμα βέλους για αλλαγή κατεύθυνσης και ξεκινήστε αργά.</string>
 	<string name="pano_how_to_use_prompt_to_move">Ξεκινήστε αργά</string>
-	<string name="parameter_description_pro_capture_title">Επαγγελματικά χαρακτηριστικά για τη λήψη φωτογραφιών</string>
-	<string name="parameter_description_pro_video_title">Επαγγελματικά χαρακτηριστικά για βιντεοσκοπήσεις</string>
+	<string name="parameter_description_pro_capture_title">Pro χαρακτηριστικά για λήψη φωτογραφιών</string>
+	<string name="parameter_description_pro_video_title">Pro χαρακτηριστικά για βιντεοσκοπήσεις</string>
 	<string name="parameter_description_sub_title">Αποκτήστε πιο δημιουργικό έλεγχο στις φωτογραφίες και τα βίντεό σας</string>
 	<string name="parameter_ef_split_description">Μπορείτε να σύρετε το δακτύλιο έκθεσης μακριά από το δακτύλιο εστίασης και να ρυθμίσετε τις δύο παραμέτρους ξεχωριστά.</string>
 	<string name="parameter_ef_split_title">Ξεχωριστή μέτρηση εστίασης και έκθεσης</string>
@@ -934,6 +934,7 @@
 	<string name="user_notice_identify_summary_format">Πριν χρησιμοποιήσετε την Κάμερα, πρέπει να συμφωνήσετε με την  &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en_US\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en_US\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Επίσης χρειάζεται σύνδεση στο Διαδύκτιο για την σωστή λειτουργία της. Συμφωνείτε?</string>
 	<string name="user_notice_title">Οροι και Προϋποθέσεις</string>
 	<string name="video_beauty_tip">Ωραιοποίηση Βίντεο</string>
+    <string name="video_beauty_tip_beautification">Ωραιοποίηση</string>
 	<string name="video_beauty_tip_filter">Φίλτρα</string>
 	<string name="video_beauty_tip_portrait_bokeh">Θόλωση</string>
 	<string name="video_camera_label">Βιντεοκάμερα</string>
