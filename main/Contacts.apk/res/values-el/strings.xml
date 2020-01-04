@@ -385,19 +385,19 @@
      <string name="device_paired_dialog_title">Ανάκτηση επαφών…</string>
      <string name="device_pairing_dialog_message">Σύζευξη…</string>
      <string name="device_pairing_dialog_title">Αξιόπιστες συσκευές</string>
-     <string name="device_transfer_by_bluetooth_message">"1. Ενεργοποιήστε το Bluetooth στην άλλη συσκευή
+     <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Ενεργοποιήστε το Bluetooth στην άλλη συσκευή
 
 - Η τεχνολογία Bluetooth βρίσκεται στις ρυθμίσεις δικτύου σε συσκευές Android
 - Στις συσκευές iOS, το Bluetooth βρίσκεται στις Ρυθμίσεις
 
-2. Η λειτουργία Ανακαλύψτε θα πρέπει επίσης να είναι ενεργοποιημένη σε συσκευές Android
+%d. Η λειτουργία Ανακαλύψτε θα πρέπει επίσης να είναι ενεργοποιημένη σε συσκευές Android
 
-3. Πατήστε &amp;quot;Επόμενο&amp;quot; και δώστε στις Επαφές τα απαιτούμενα δικαιώματα."</string>
-     <string name="device_transfer_by_sim_message">"1. Αποθηκεύστε τις επαφές από την άλλη συσκευή στην κάρτα SIM.
+%d. Πατήστε \"Επόμενο\" και δώστε στις Επαφές τα απαιτούμενα δικαιώματα."</string>
+     <string name="device_transfer_by_sim_message" formatted="false">"%d. Αποθηκεύστε τις επαφές από την άλλη συσκευή στην κάρτα SIM.
 
-2. Ανοίξτε τις ρυθμίσεις στην εφαρμογή &amp;quot;Επαφές&amp;quot; και, στη συνέχεια, μεταβείτε στην επιλογή &amp;quot;Εισαγωγή/Εξαγωγή επαφών&amp;quot; -- &amp;quot;Εισαγωγή από την κάρτα SIM&amp;quot;, κρατήστε οποιαδήποτε επαφή SIM για να την επιλέξετε, επιλέξτε όλες τις απαιτούμενες επαφές και πατήστε &amp;quot;Εισαγωγή&amp;quot;."</string>
-     <string name="device_version_header_bluetooth">Βεβαιωθείτε ότι το Bluetooth είναι ενεργοποιημένο</string>
-     <string name="device_version_header_no_bluetooth">Εισαγωγή επαφών χρησιμοποιώντας την κάρτα SIM</string>
+%d. Ανοίξτε τις ρυθμίσεις στην εφαρμογή \"Επαφές\" και, στη συνέχεια, μεταβείτε στην επιλογή \"Εισαγωγή/Εξαγωγή επαφών\" -- \"Εισαγωγή από την κάρτα SIM\" κρατήστε οποιαδήποτε επαφή SIM για να την επιλέξετε, επιλέξτε όλες τις απαιτούμενες επαφές και πατήστε \"Εισαγωγή\"."</string>
+     <string name="device_version_header_bluetooth">Εισαγωγή μέσω Bluetooth</string>
+     <string name="device_version_header_no_bluetooth">Εισαγωγή μέσω κάρτας SIM</string>
      <string name="dial">Κλήση</string>
      <string name="dialerDialpadHintText">Πληκτρολογήστε για να προσθέσετε μια κλήση</string>
      <string name="dialerIconLabel">Πρόσφατες</string>
@@ -559,8 +559,8 @@
      <string name="import_from_sim2">Εισαγωγή από κάρτα SIM 2</string>
      <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>
      <string name="import_name">Όνομα</string>
-     <string name="import_one_vcard_string">Εισαγωγή ενός αρχείου vCard</string>
-     <string name="import_percent">0%</string>
+     <string name="import_one_vcard_string">Εισαγωγή %d αρχείου vCard</string>
+     <string name="import_percent">%1$d%2$s</string>
      <string name="import_selected_sim_entries_miui">Εισαγωγή επιλεγμένων επαφών</string>
      <string name="import_sim_contacts_hint_title">Εισαγωγή επαφών SIM</string>
      <string name="import_sim_entries_finish">Επαφές που εισήχθησαν από την κάρτα SIM</string>
@@ -842,8 +842,8 @@
      <string name="path_wipe_data">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Εκκαθάριση δεδομένων</string>
      <string name="payphone">"Καρτοτηλέφωνο "</string>
      <string name="people">Επαφές</string>
-     <string name="percent_sign">%</string>
-     <string name="percentage">%s%%</string>
+     <string name="percent_sign">%1$s</string>
+     <string name="percentage">%1$s%2$s</string>
      <string name="phoneLabelsGroup">Τηλέφωνο</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Ο αριθμός είναι πολύ μακρύς</string>
@@ -1059,7 +1059,7 @@
      <string name="set_default">Ορίστε προεπιλογή</string>
      <string name="set_photo_failed_msg">Αποτυχία εκχώρησης εικόνας.</string>
      <string name="share_error">Η επαφή αυτή δεν μπορεί να διαμοιραστεί</string>
-     <string name="share_over_limit">Πάνω από το όριο. Δεν μπορεί να μοιραστεί</string>
+     <string name="share_over_limit">Πάνω από %d. Δεν μπορεί να μοιραστεί</string>
      <string name="share_via">Αποστολή</string>
      <string name="share_visible_contacts">Κοινή χρήση επαφών</string>
      <string name="shortcutActivityTitle">Επιλέξτε μια συντόμευση επαφής</string>
@@ -1102,9 +1102,9 @@
      <string name="smart_group_company_label">Βάσει εταιρείας</string>
      <string name="smart_group_company_unavailable">Καμία εταιρεία</string>
      <string name="smart_group_frequency_1">Μέσα στον προηγούμενο μήνα</string>
-     <string name="smart_group_frequency_2">Εντός των τελευταίων 3 μηνών</string>
-     <string name="smart_group_frequency_3">Εντός των τελευταίων 6 μηνών</string>
-     <string name="smart_group_frequency_4">Πάνω από 6 μήνες</string>
+     <string name="smart_group_frequency_2" formatted="false">%d έως %d μήνες</string>
+     <string name="smart_group_frequency_3" formatted="false">%d έως %d μήνες</string>
+     <string name="smart_group_frequency_4">Πάνω από %d μήνες</string>
      <string name="smart_group_frequency_label">Με την πιο πρόσφατη</string>
      <string name="smart_group_label">Έξυπνες ομαδοποιήσεις</string>
      <string name="smart_group_loading">Φόρτωση ομαδοποιήσεων…</string>
@@ -1154,9 +1154,9 @@
      <string name="t9_search_empty_send_sms">Στείλτε μήνυμα</string>
      <string name="t9_search_empty_video_call">Κλήση βίντεο</string>
      <string name="t9_search_guide_pinyin_title1">Γρήγορη αναζήτηση επαφών με την εισαγωγή γραμμάτων</string>
-     <string name="t9_search_guide_pinyin_title2">Εισάγετε 9 και 4 για να αναζητήσετε τον Washington Irving</string>
+     <string name="t9_search_guide_pinyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
      <string name="t9_search_guide_zhuyin_title1">Γρήγορη αναζήτηση επαφών με την εισαγωγή γραμμάτων</string>
-     <string name="t9_search_guide_zhuyin_title2">Εισάγετε 5 και 6 για να αναζητήσετε τον Jeff Max</string>
+     <string name="t9_search_guide_zhuyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
      <string name="take_new_photo">Λήψη νέας φωτογραφίας</string>
      <string name="take_photo">Λήψη φωτογραφίας</string>
      <string name="titleJoinContactDataWith">Συγχώνευση επαφών</string>

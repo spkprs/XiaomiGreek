@@ -2,7 +2,7 @@
 <resources>
      <plurals name="delete_confirm_text">
         <item quantity="other">Διαγραφή %1$d εγγραφών οθόνης;</item>
-        <item quantity="one">Διαγραφή αυτής της εγγραφής οθόνης;</item>
+        <item quantity="one">Διαγραφή %1$d εγγραφής οθόνης;</item>
      </plurals>
      <plurals name="home_title_selected">
         <item quantity="other">%1$d επιλεγμένα στοιχεία</item>

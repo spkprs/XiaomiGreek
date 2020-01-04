@@ -3,6 +3,8 @@
   <string name="mi_service_app_name">Υπηρεσίες &amp; Σχόλια</string>
   <string name="miservice_channel_update_notification_info">Η \"Υπηρεσίες &amp; Σχόλια\" ζητά δεδομένα online…</string>
   <string name="miservice_notification_boot_content">Μάθετε περισσότερα για το τι μπορεί να κάνει το MIUI</string>
+  <string name="miservice_notification_huanji_content">Μεταφέρετε τα χρησιμοποιώντας το Mi Mover</string>
+  <string name="miservice_notification_huanji_title">Έχετε σημαντικά στοιχεία στο παλιό σας τηλέφωνο;</string>
   <string name="miservice_notification_open_feedback_content">Όλες οι λειτουργίες ανατροφοδότησης μεταφέρθηκαν στη νέα εφαρμογή</string>
   <string name="miservice_notification_open_feedback_title">Παρουσιάζουμε τις \"Υπηρεσίες &amp; Σχόλια\"</string>
   <string name="miui_feedback_answer_detail_community">Μπορείτε να βρείτε απαντήσεις στις ερωτήσεις σας στο Mi Community</string>

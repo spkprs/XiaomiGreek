@@ -77,6 +77,9 @@
 και αυτόματη προσαρμογή προτιμήσεων"</string>
 	<string name="ai_scene_top_moon_off">Νυκτερινή λειτουργία</string>
 	<string name="ai_scene_top_tip">Λειτουργία Σελήνης</string>
+	<string name="ai_watermark_title">Υδατογράφημα AI</string>
+	<string name="ai_watermark_toast_off">AI Ανενεργό</string>
+	<string name="ai_watermark_toast_on">AI Ενεργό</string>
 	<string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>
 	<string name="autozoom_click_hint">"Αγγίξτε ένα αντικείμενο και κρατήσετε το εστιασμένο ενώ κινείται. Μείνετε τουλάχιστον 3 μέτρα μακριά για καλύτερο αποτέλεσμα."</string>
 	<string name="autozoom_disabled_hint">Σταμάτησε η παρακολούθηση κινούμενου αντικειμένου</string>
@@ -146,6 +149,7 @@
 	<string name="color_effect_live_none">Κανονικό</string>
 	<string name="color_effect_live_solar">Μπλέ ουρανού</string>
 	<string name="color_effect_live_years">Σέπια</string>
+    <string name="color_enhance">Ζωηρό</string>
 	<string name="config_name_group">Ομαδική selfie</string>
 	<string name="config_name_magic">Μαγεία</string>
 	<string name="config_name_mimovie">Λειτουργία Ταινίας</string>
@@ -183,6 +187,9 @@
 	<string name="do_not_remind_me">Να μην εμφανιστεί ξανά</string>
 	<string name="document_blackwhite">Μαύρο &amp; Άσπρο</string>
 	<string name="document_blur_warn">Θαμπό κείμενο</string>
+    <string name="document_mode_use_hint_text_body">"Ευθυγράμμιση και βελτίωση
+σαρωμένων εγγράφων αυτόματα"</string>
+    <string name="document_mode_use_hint_text_title">Σάρωση εγγράφων</string>
 	<string name="document_origin">Αρχική εικόνα</string>
 	<string name="document_strengthen">Βελτίωση</string>
 	<string name="dual_camera_lens_covered_toast">Ο φακός είναι καλυμμένος.</string>
@@ -934,7 +941,7 @@
 	<string name="user_notice_identify_summary_format">Πριν χρησιμοποιήσετε την Κάμερα, πρέπει να συμφωνήσετε με την  &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en_US\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en_US\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Επίσης χρειάζεται σύνδεση στο Διαδύκτιο για την σωστή λειτουργία της. Συμφωνείτε?</string>
 	<string name="user_notice_title">Οροι και Προϋποθέσεις</string>
 	<string name="video_beauty_tip">Ωραιοποίηση Βίντεο</string>
-    <string name="video_beauty_tip_beautification">Ωραιοποίηση</string>
+    <string name="video_beauty_tip_beautification">Αισθητική</string>
 	<string name="video_beauty_tip_filter">Φίλτρα</string>
 	<string name="video_beauty_tip_portrait_bokeh">Θόλωση</string>
 	<string name="video_camera_label">Βιντεοκάμερα</string>
@@ -965,6 +972,11 @@
 την εγγραφή και επεξεργασία βίντεο εν κινήσει"</string>
 	<string name="vv_use_hint_text_title">VLOG</string>
 	<string name="wait">Περιμένετε…</string>
+	<string name="watermark_tab_city">Πόλη</string>
+	<string name="watermark_tab_festival">Εορτή</string>
+	<string name="watermark_tab_general">Γενικά</string>
+	<string name="watermark_tab_scene">Σκηνή</string>
+	<string name="watermark_tab_spots">Σημεία</string>
 	<string name="wideselfie_press_shoot_key_to_start">Αγγίξτε το πλήκτρο λήψης</string>
 	<string name="wideselfie_result_image_lossless">Η λήψη Panorama απέτυχε</string>
 	<string name="wideselfie_rotate_slowly">Περιστρέψτε το τηλέφωνο</string>

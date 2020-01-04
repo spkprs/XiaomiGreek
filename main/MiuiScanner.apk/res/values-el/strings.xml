@@ -26,7 +26,7 @@
 	<string name="accessibility_shutter_button">Shutter</string>
 	<string name="action_search">Αναζήτηση</string>
 	<string name="address">Διεύθυνση:</string>
-	<string name="agree_app_use">Σάρωση κωδικών QR και αναγνώριση τους από άλλες εφαρμογές</string>
+	<string name="agree_app_use">Σάρωση κωδικών QR και άλλων εικόνων (ορισμένες λειτουργίες ενδέχεται να απαιτούν πρόσβαση στην τοποθεσία σας)</string>
 	<string name="agree_btn">Αποδοχή</string>
 	<string name="agree_camera_permission">Για τη λήψη φωτογραφιών και εγγραφή βίντεο</string>
 	<string name="agree_storage_permission">Για την πρόσβαση σε φωτογραφίες και αρχεία αποθηκευμένα στη συσκευή σας</string>

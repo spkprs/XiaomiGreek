@@ -8,24 +8,24 @@
         <item quantity="other">μόλις τώρα</item>
      </plurals>
      <plurals name="batch_delete_msg">
-        <item quantity="other">Διαγραφή %d επαφών;</item>
-        <item quantity="one">Διαγραφή %d επαφής;</item>
+        <item quantity="other">Διαγραφή %1$d επαφών;</item>
+        <item quantity="one">Διαγραφή %1$d επαφής;</item>
      </plurals>
      <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Διαγραφή %d επαφών</item>
-        <item quantity="one">Διαγραφή επαφής</item>
+        <item quantity="other">Διαγραφή %1$d επαφών</item>
+        <item quantity="one">Διαγραφή %1$d επαφής</item>
      </plurals>
      <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Κουδούνισε %d φορές</item>
-        <item quantity="one">Κουδούνισε %d φορά</item>
+        <item quantity="other">Κουδούνισε %1$d φορές</item>
+        <item quantity="one">Κουδούνισε %1$d φορά</item>
      </plurals>
      <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d επαφές δεν έχουν συγχρονιστεί"</item>
-        <item quantity="one">"1 επαφή δεν έχει συγχρονιστεί"</item>
+        <item quantity="other">"%1$d επαφές δεν έχουν συγχρονιστεί"</item>
+        <item quantity="one">"%1$d επαφή δεν έχει συγχρονιστεί"</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Διαγραφή %d επαφών από την κάρτα SIM;</item>
-        <item quantity="one">Διαγραφή %d επαφής από την κάρτα SIM;</item>
+        <item quantity="other">Διαγραφή %1$d επαφών από την κάρτα SIM;</item>
+        <item quantity="one">Διαγραφή %1$d επαφής από την κάρτα SIM;</item>
      </plurals>
      <plurals name="contacts_count">
         <item quantity="other">%1$d επαφές</item>
@@ -41,15 +41,15 @@
      </plurals>
      <plurals name="dlg_add_blacklist">
         <item quantity="other">Φραγή αυτών των %1$d αριθμών;</item>
-        <item quantity="one">Φραγή αυτού του αριθμού;</item>
+        <item quantity="one">Φραγή αυτού του %1$d αριθμού;</item>
      </plurals>
      <plurals name="dlg_remove_blacklist">
         <item quantity="other">Άρση φραγής αυτών των %1$d αριθμών;</item>
-        <item quantity="one">Άρση φραγής αυτού του αριθμού;</item>
+        <item quantity="one">Άρση φραγής αυτού του %1$d αριθμού;</item>
      </plurals>
      <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφές.</item>
-        <item quantity="one">Η κάρτα SIM μπορεί να αποθηκεύσει %d επαφή.</item>
+        <item quantity="other">Η κάρτα SIM μπορεί να αποθηκεύσει %1$d επαφές.</item>
+        <item quantity="one">Η κάρτα SIM μπορεί να αποθηκεύσει %1$d επαφή.</item>
      </plurals>
      <plurals name="foundTooManyContacts_plurals">
         <item quantity="other">Βρέθηκαν περισσότερες από %d επαφές.</item>
@@ -77,7 +77,7 @@
      </plurals>
      <plurals name="hint_search_emails">
         <item quantity="other">%1$d email επαφών</item>
-        <item quantity="one">1 email επαφής</item>
+        <item quantity="one">%1$d email επαφής</item>
      </plurals>
      <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d αριθμοί</item>
@@ -89,15 +89,15 @@
      </plurals>
      <plurals name="listFoundAllContacts">
         <item quantity="other">Βρέθηκαν %d</item>
-        <item quantity="one">Βρέθηκε 1</item>
+        <item quantity="one">Βρέθηκε %d</item>
      </plurals>
      <plurals name="listTotalAllContacts">
         <item quantity="other">%d επαφές</item>
-        <item quantity="one">1 επαφή</item>
+        <item quantity="one">%d επαφή</item>
      </plurals>
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d επαφές με τηλέφωνα</item>
-        <item quantity="one">1 επαφή με τηλέφωνο</item>
+        <item quantity="one">%d επαφή με τηλέφωνο</item>
      </plurals>
      <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
@@ -114,7 +114,7 @@
      <plurals name="numSelectedSimContacts">
         <item quantity="other">"%1$d επιλέχθηκαν"</item>
         <item quantity="zero">%1$d επιλέχθηκαν</item>
-        <item quantity="one">%1$d επιλέχθηκαν</item>
+        <item quantity="one">%1$d επιλέχθηκε</item>
      </plurals>
      <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d άτομα από %2$s</item>
@@ -122,7 +122,7 @@
      </plurals>
      <plurals name="num_groups_in_account">
         <item quantity="other">%0$d γκρουπ</item>
-        <item quantity="one">1 γκρουπ</item>
+        <item quantity="one">%d γκρουπ</item>
      </plurals>
      <plurals name="number_of_items_available">
         <item quantity="other">Απομένουν %1$d</item>
@@ -142,15 +142,15 @@
      </plurals>
      <plurals name="pick_recent_contacts_list_title">
         <item quantity="other">%1$d πρόσφατες επαφές</item>
-        <item quantity="one">1 πρόσφατη επαφή</item>
+        <item quantity="one">%d πρόσφατη επαφή</item>
      </plurals>
      <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d πρόσφατες επαφές</item>
-        <item quantity="one">1 πρόσφατη επαφή</item>
+        <item quantity="one">%1$d πρόσφατη επαφή</item>
      </plurals>
      <plurals name="searchFoundContacts">
         <item quantity="other">Βρέθηκαν %d</item>
-        <item quantity="one">Βρέθηκε 1</item>
+        <item quantity="one">Βρέθηκε %d</item>
      </plurals>
      <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλων"</item>
@@ -161,7 +161,7 @@
         <item quantity="one">Επιλέξτε έως %1$d</item>
      </plurals>
      <plurals name="smart_group_member_count">
-        <item quantity="other">%d άτομα</item>
-        <item quantity="one">1 άτομο</item>
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">%d άτομο</item>
      </plurals>
 </resources>

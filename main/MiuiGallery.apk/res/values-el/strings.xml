@@ -1385,6 +1385,7 @@
      <string name="video_editor_loading_warning_msg">Λόγω σφάλματος κωδικοποίησης, ορισμένες λειτουργίες και προεπισκοπήσεις ενδέχεται να μην είναι διαθέσιμες κατά τη διαδικασία επεξεργασίας. Ωστόσο, αυτό δεν θα επηρεάσει το τελικό αρχείο βίντεο.</string>
      <string name="video_editor_loading_warning_title">Σφάλμα κωδικοποίησης</string>
      <string name="video_editor_more">Περισσότερα</string>
+    <string name="video_editor_not_support_8k_tips">"Αδύνατη η επεξεργασία βίντεο 8K"</string>
      <string name="video_editor_not_support_tips">Αυτά τα αρχεία βίντεο δεν υποστηρίζονται</string>
      <string name="video_editor_ok">OK</string>
      <string name="video_editor_regulator">Προσαρμογή</string>
