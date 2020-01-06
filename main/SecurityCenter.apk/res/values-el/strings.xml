@@ -1092,6 +1092,8 @@
      <string name="give_lucky_money">红包大派送</string>
 	 <string name="global_wa_setting_alert_dialog_content">Μπορείτε να ελευθερώσετε %s</string>
 	 <string name="global_wa_setting_alert_dialog_title">WhatsApp Καθαριστής</string>
+     <string name="gtb_exit_game_to_gtb">Άνοιγμα gamebox</string>
+     <string name="gtb_exit_game_to_home">Επιστροφή στην Αρχική Οθόνη</string>
      <string name="gmscore_support_remind">Ενεργοποιήστε αυτή τη λειτουργία εάν αντιμετωπίζετε προβλήματα με τη χρήση του G-mail, των Χαρτών Google και άλλων εφαρμογών Google. Θα μειώσει ελαφρώς τη διάρκεια ζωής της μπαταρίας.</string>
      <string name="gmscore_support_service">Υπηρεσίες Google</string>
      <string name="go_to">Μετάβαση</string>

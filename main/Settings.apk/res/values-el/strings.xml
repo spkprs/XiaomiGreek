@@ -6843,4 +6843,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="codec_low_latency_summary">Παρέχει εμπειρία σύντομης απόκρισης για συγχρονισμό ήχου/βίντεο</string>
     <string name="codec_low_latency_title">Σύντομη Απόκριση</string>
     <string name="show_charging_animation_on_lockscreen_title">Προβολή κινούμενης απεικόνισης φόρτισης</string>
+    <string name="show_4g_for_lte_title">Εμφάνιση 4G αντί για LTE</string>
+	<string name="4g_icon_title">Επιλογή εικονιδίου 4G/LTE</string>
+	<string name="select_minusscreen_title">Επιλογή μενού αριστερής πλευράς</string>
+	<string name="select_screen_time_app_title">Εφαρμογή Χρόνου Οθόνης</string>
 </resources>
+

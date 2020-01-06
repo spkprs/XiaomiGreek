@@ -2176,4 +2176,12 @@
         <item>Ενεργό \"Επικεφαλίδες φιλτρ/μένες\"</item>
         <item>Ενεργό \"Πακέτα πολυμέσων φιλτρ/μένα\"</item>
     </string-array>
+    <string-array name="select_minusscreen_entries"> 
+        <item>Αποθήκη Εφαρμογών</item> 
+        <item>Τροφοδοσίες Google</item> 
+    </string-array>
+    <string-array name="select_screen_time_app_title_entries"> 
+        <item>MIUI</item> 
+        <item>Google Wellbeing</item> 
+    </string-array>
 </resources>
