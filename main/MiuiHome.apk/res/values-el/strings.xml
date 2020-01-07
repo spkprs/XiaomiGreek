@@ -324,6 +324,7 @@
 	<string name="notification_installed">Επιτυχής εγκατάσταση</string>
 	<string name="notification_open_button">Άνοιγμα</string>
 	<string name="notification_reset_title">Τακτοποιήθηκαν με επιτυχία</string>
+    <string name="one_key_call_title">Πατήστε για κλήση</string>
 	<string name="online_wallpaper">Online</string>
 	<string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
 	<string name="open_personal_assistant_dialog_btn_confirm">Κλείσιμο</string>

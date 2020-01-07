@@ -1443,6 +1443,7 @@
 	<string name="vo_location_change_positive">Εναλλαγή</string>
 	<string name="vo_location_change_title">Η θέση άλλαξε</string>
 	<string name="vo_location_choose_city">Πατήστε για εναλλαγή πόλεων</string>
+    <string name="vo_mi_ad_detail">Άνοιγμα σε %s</string>
 	<string name="vo_share_text">Κοινή χρήση</string>
 	<string name="vo_small_video_load_more_text">Σαρώστε για να φορτώσετε περισσότερα</string>
 	<string name="vo_small_video_title">Σύντομα βίντεο</string>
