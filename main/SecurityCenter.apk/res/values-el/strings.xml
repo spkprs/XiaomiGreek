@@ -1068,6 +1068,10 @@
      <string name="gb_signed_gift_loading_summary">Μισό λεπτό…</string>
      <string name="gb_signed_title">Έλεγχος αυτού του μήνα</string>
 	<string name="gb_sound_audition">Προσπάθεια</string>
+    <string name="gb_voice_changer_permission_dlg_title">Απαιτούνται άδειες</string>
+    <string name="gb_voice_changer_permission_dlg_msg">Ο Μετατροπέας φωνής πρέπει να μπορεί να εγγράφει ήχο ώστε να λειτουργεί κανονικά.</string>
+    <string name="gb_voice_changer_dlg_button_refuse">Περιορισμός</string>
+    <string name="gb_voice_changer_dlg_button_agree">Αποδοχή</string>
 	<string name="gb_voice_change_settinged">Αλλαγή Φωνής ενεργή</string>
 	<string name="gb_voice_changer_cartoon">Cartoon</string>
 	<string name="gb_voice_changer_dlg_title">Αλλαγή Φωνής</string>

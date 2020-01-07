@@ -910,6 +910,7 @@
      <string name="cached">Αποθηκευμένη διαδικασία παρασκηνίου</string>
      <string name="calendar_sound_dialog_title">Επιλέξτε ήχο ημερολογίου</string>
      <string name="calendar_sound_title">Ήχος ημερολογίου</string>
+     <string name="call_example_name">Όνομα</string>
      <string name="call_manager_enable_summary">Αφήστε αυτή την υπηρεσία να διαχειριστεί το πώς θα γίνονται οι κλήσεις σας.</string>
      <string name="call_manager_enable_title">Ενεργοποίηση Διαχειριστή Κλήσεων</string>
      <string name="call_manager_summary">%1$s</string>

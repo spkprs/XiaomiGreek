@@ -271,10 +271,7 @@ ID:%s
      <string name="passport_change_phone_number">Εναλλαγή αριθμών</string>
      <string name="passport_checking_account">Έλεγχος κωδικού…</string>
      <string name="passport_checking_input">Έλεγχος εισόδου…</string>
-     <string name="passport_click_email_to_valid">"
-
-Για την ενεργοποίηση του λογαριασμού σας, ακολουθήστε το
- σύνδεσμο που στείλαμε στα εισερχόμενά σας."</string>
+     <string name="passport_click_email_to_valid">"Για την ενεργοποίηση του λογαριασμού σας, ακολουθήστε τον σύνδεσμο που στείλαμε στα εισερχόμενά σας."</string>
      <string name="passport_completed">Ολοκληρώθηκε</string>
      <string name="passport_confirm_login">Συνέχεια</string>
      <string name="passport_confirm_recycle_account">Ναι</string>
