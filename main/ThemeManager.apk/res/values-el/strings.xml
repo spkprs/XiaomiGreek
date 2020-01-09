@@ -328,6 +328,7 @@
 	<string name="miuishare_share_editor_title">Κοινή χρήση</string>
 	<string name="miuishare_share_fail">"Αδύνατη η κοινή χρήση"</string>
 	<string name="miuishare_timeline_title">Βρείτε την επόμενη ταπετσαρία σας</string>
+    <string name="miuishare_sys_title_share">Περισσότερες επιλογές</string>
 	<string name="miuishare_title_more">Περισσότερα</string>
 	<string name="miuishare_title_share">Κοινή χρήση</string>
 	<string name="miuishare_wechat_timeline_title">WeChat Στιγμές</string>
