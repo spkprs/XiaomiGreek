@@ -67,6 +67,7 @@
 	<string name="custom_image">Προσαρμοσμένη εικόνα</string>
 	<string name="deep_space_planet">Απώτερο διάστημα</string>
 	<string name="deep_space_planet_des">Αυτό το θέμα απεικονίζει τις αλλαγές φωτός που συμβαίνουν γύρω σας κατά τη διάρκεια της ημέρας. Η Ανατολή και το Ηλιοβασίλεμα είναι επίσης συγχρονισμένα με την τοποθεσία σας.</string>
+    <string name="delete">Διαγραφή</string>
 	<string name="digital_clock">Ψηφιακό</string>
 	<string name="disable_aod_in_power_save_mode">Απενεργοποίηση όταν είναι ενεργή η εξοικονόμηση μπαταρίας</string>
 	<string name="disable_aod_in_power_save_mode_summary">"Να μην εμφανίζονται στοιχεία για εξοικονόμηση ενέργειας"</string>
@@ -76,6 +77,7 @@
 	<string name="line_space">Διάστιχο</string>
 	<string name="mini_time">Μικρό ρολόι</string>
 	<string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
+    <string name="my_style_title">Το στύλ μου</string>
 	<string name="notification_anim_pulse">Παλμός</string>
 	<string name="notification_anim_rhythm">Ρυθμός</string>
 	<string name="notification_anim_star">Αστρικό φως</string>
@@ -111,6 +113,7 @@
 	<string name="text_color">Χρώμα κειμένου</string>
 	<string name="text_length_exceed_limit_alert">*Το κείμενο που πληκτρολογήσατε είναι πολύ μεγάλο</string>
 	<string name="text_size">Μέγεθος κειμένου</string>
+    <string name="theme_cate_title">Θέμα</string>
 	<string name="time_location">Θέση ρολογιού</string>
 	<string name="time_style">Στυλ</string>
 	<string name="time_style_layout">Διάταξη</string>
