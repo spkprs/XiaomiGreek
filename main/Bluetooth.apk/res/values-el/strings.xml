@@ -11,6 +11,10 @@
      <string name="auth_notif_title">Κλειδί περιόδου σύνδεσης</string>
      <string name="bluetooth_connected">Bluetooth ήχος συνδέθηκε</string>
      <string name="bluetooth_disconnected">Bluetooth ήχος αποσυνδέθηκε</string>
+ 	 <string name="bluetooth_map_remote_advance_feature_support">Υποστηρίζεται προηγμένη δυνατότητα πρόσβασης Μηνυμάτων</string>
+	 <string name="bluetooth_map_remote_message_access_feature_downgrade">Υποβάθμιση δυνατότητας απομακρυσμένης πρόσβασης μηνυμάτων</string>
+	 <string name="bluetooth_map_repair_for_adv_message_access_feature">Επανεπιδιόρθωση για δυνατότητα προηγμένης πρόσβασης μηνυμάτων</string>
+	 <string name="bluetooth_map_repair_for_message_access_version_comp">Επανασύνδεση για συμβατότητα εκδόσεων πρόσβασης μηνυμάτων</string>
      <string name="bluetooth_map_settings_app_icon">Εικονίδιο εφαρμογής</string>
      <string name="bluetooth_map_settings_cancel">Ακύρωση</string>
      <string name="bluetooth_map_settings_count">Θέσεις που απομένουν:</string>
@@ -32,6 +36,8 @@
      <string name="bt_error_btn_ok">ΟΚ</string>
      <string name="bt_share_picker_label">Bluetooth</string>
      <string name="bt_sm_2_1">Δεν υπάρχει επαρκής χώρος στη συσκευή αποθήκευσης USB για αποθήκευση του αρχείου από το \"%1$s\"</string>
+     <string name="bt_sm_2_1_default">"Δεν υπάρχει αρκετός χώρος στην κάρτα SD για την αποθήκευση του αρχείου από το \"%1$s\""</string>
+     <string name="bt_sm_2_1_nosdcard">"Δεν υπάρχει αρκετός χώρος στο χώρο αποθήκευσης USB για την αποθήκευση του αρχείου από \"%1$s\"</string>
      <string name="bt_sm_2_2">Χώρος που απαιτείται: %1$s</string>
      <string name="bt_toast_1">Το αρχείο θα ληφθεί. Ελέγξτε την πρόοδο στον πίνακα Ειδοποιήσεων.</string>
      <string name="bt_toast_2">Το αρχείο δεν μπορεί να ληφθεί.</string>
@@ -105,7 +111,12 @@
      <string name="permlab_bluetoothShareManager">Πρόσβαση στη διαχείρισης λήψεων.</string>
      <string name="permlab_bluetoothWhitelist">Λίστα επιτρεπομένων με πρόσβαση Bluetooth στη συσκευή.</string>
      <string name="permlab_handoverStatus">Λήψη BT εκπομπών μεταφοράς-παράδοσης.</string>
+     <string name="phonebook_advance_feature_support">Υποστηρίζεται προηγμένη δυνατότητα τηλεφωνικού καταλόγου</string>
      <string name="process" />
+     <string name="remote_pbap_version_change">Αλλαγή έκδοσης απομακρυσμένου προφίλ τηλεφωνικού καταλόγου</string>
+     <string name="remote_phonebook_feature_downgrade">Υποβάθμιση δυνατότητας απομακρυσμένου τηλεφωνικού καταλόγου</string>
+     <string name="repair_for_adv_phonebook_feature">Επανασύνδεση για προηγμένη δυνατότητα τηλεφωνικού καταλόγου</string>
+     <string name="repair_for_phonebook_access_version_comp">Επανασύνδεση για συμβατότητα εκδόσεων πρόσβασης τηλεφωνικού καταλόγου</string>
      <string name="sharedUserId" />
      <string name="start_server">Εκκίνηση διακομιστή TCP</string>
      <string name="status_canceled">Η μεταφορά ακυρώθηκε από το χρήστη.</string>
@@ -113,6 +124,8 @@
      <string name="status_file_error">Πρόβλημα αποθήκευσης.</string>
      <string name="status_forbidden">Δεν επιτρέπεται αυτή η μεταφορά από τη συσκευή προορισμού.</string>
      <string name="status_no_sd_card">Δεν βρέθηκε συσκευή αποθήκευσης USB.</string>
+     <string name="status_no_sd_card_default">Χωρίς κάρτα SD. Εισαγάγετε μια κάρτα SD για να αποθηκεύσετε τα μεταφερόμενα αρχεία.</string>
+     <string name="status_no_sd_card_nosdcard">Χωρίς αποθήκευση USB.</string>
      <string name="status_not_accept">Το περιεχόμενο δεν υποστηρίζεται.</string>
      <string name="status_pending">Η μεταφορά αρχείων δεν άρχισε ακόμα.</string>
      <string name="status_protocol_error">Δεν μπορεί να γίνει σωστός χειρισμός του αιτήματος.</string>
@@ -144,9 +157,10 @@
      <string name="a2dp_sink_mbs_label">Bluetooth Ήχος</string>
      <string name="avrcp_cover_art_default_image_type">εικόνα</string>
      <string name="avrcp_cover_art_default_mimetype">JPEG</string>
-     <string name="bluetooth_advanced_feat_description">Προηγμένη Δυνατότητα Περιήγησης Bluetooth</string>
+     <string name="bluetooth_a2dp_sink_queue_name">Παίζει τώρα</string>
+     <string name="bluetooth_advanced_feat_description">Προηγμένη Λειτουργία Περιήγησης Bluetooth</string>
      <string name="bluetooth_opp_file_limit_exceeded">Αδύνατη η μεταφορά αρχείων μεγαλύτερων από 4 GB</string>
-     <string name="bluetooth_rc_feat_content">Το ομότιμο υποστηρίζει προηγμένες δυνατότητες</string>
+     <string name="bluetooth_rc_feat_content">Το ομότιμο υποστηρίζει προηγμένες λειτουργίες</string>
      <string name="bluetooth_rc_feat_subtext">Επανασυνδέστε από το ομότιμο για να το ενεργοποιήσετε</string>
      <string name="bluetooth_rc_feat_title">Bluetooth περιήγηση σε πολυμέσα</string>
      <string name="opp_notification_group">Bluetooth Κοινή χρήση</string>

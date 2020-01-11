@@ -178,7 +178,8 @@
   <string name="hsa_tip_message">"1. Εάν δεν μπορείτε να λάβετε τον κωδικό επαλήθευσης, βεβαιωθείτε ότι έχετε ήδη συνδεθεί στο iCloud στη συσκευή σας Apple.
 2. Εάν η εισαγωγή του κωδικού επαλήθευσης δεν βοηθήσει, απενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων. "</string>
   <string name="hsa_tip_message_shutdown_hsa">Πώς να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων</string>
-  <string name="hsa_tip_message_with_device">1. Έχει σταλεί μήνυμα με τον κωδικό επαλήθευσης %s που σχετίζονται με το αναγνωριστικό σας Apple.\u000d\n2. Απενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων, εάν ο κώδικας επαλήθευσης δεν λειτουργεί.</string>
+  <string name="hsa_tip_message_with_device">"1. Έχει σταλεί μήνυμα με τον κωδικό επαλήθευσης %s που σχετίζονται με το αναγνωριστικό σας Apple.
+2. Απενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων, εάν ο κώδικας επαλήθευσης δεν λειτουργεί."</string>
   <string name="hsa_tip_title">Συμβουλές:</string>
   <string name="hsa_title">Έλεγχος ταυτότητας δύο παραγόντων</string>
   <string name="hsa_verify_failed">Ο έλεγχος ταυτότητας δύο παραγόντων απέτυχε</string>
@@ -186,11 +187,14 @@
   <string name="hsa_verify_retry">Προσπαθήστε ξανά</string>
   <string name="hsa_verify_shutdown">Απενεργοποιήστε</string>
   <string name="icloud_backup_tip">Συνδεθείτε στο λογαριασμό iCloud της παλιάς σας συσκευής iOS</string>
-  <string name="icloud_how_to_backup_tip_steps">1. Ανοίξτε τις Ρυθμίσεις στη συσκευή σας iOS και επιλέξτε iCloud.\u000d\n2. Εναλλαγή των διακοπτών για επαφές και άλλα στοιχεία.\u000d\n3. Επιλέξτε Φωτογραφίες και περιστρέψτε το διακόπτη για τη Βιβλιοθήκη Φωτογραφιών iCloud.</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Ανοίξτε τις Ρυθμίσεις στη συσκευή σας iOS και επιλέξτε iCloud.
+2. Εναλλαγή των διακοπτών για επαφές και άλλα στοιχεία.
+3. Επιλέξτε Φωτογραφίες και περιστρέψτε το διακόπτη για τη Βιβλιοθήκη Φωτογραφιών iCloud."</string>
   <string name="icloud_how_to_backup_tip_summary">Για να εισαγάγετε δεδομένα από το iOS, πρέπει να δημιουργήσετε ένα αντίγραφο ασφαλείας iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Συμβουλές:</string>
   <string name="icloud_login_title">Συνδεθείτε στο iCloud</string>
-  <string name="icloud_need_sync">Για την εισαγωγή δεδομένων από το iOS,\u000d\nθα πρέπει να δημιουργήσετε ένα iCloud αντίγραφο πρώτα.</string>
+  <string name="icloud_need_sync">"Για την εισαγωγή δεδομένων από το iOS,
+θα πρέπει να δημιουργήσετε ένα iCloud αντίγραφο πρώτα."</string>
   <string name="icloud_need_wifi_message">Δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi τώρα. Για να εισαγάγετε δεδομένα από το iCloud, συνδεθείτε στο Wi-Fi.</string>
   <string name="icloud_need_wifi_title">Σύνδεση σε Wi-Fi</string>
   <string name="import_again">Εισαγωγή και πάλι</string>
@@ -303,10 +307,13 @@
   <string name="retry">Επανάληψη</string>
   <string name="reverse_all">Εκκαθάριση όλων</string>
   <string name="router_backup_hint">Κρατήστε τη συσκευή σας σε λειτουργία</string>
-  <string name="save_finish_with_failing_items">Η μεταφορά διακόπηκε.\u000d\nΤα δεδομένα που δεν εισήχθησαν πρέπει να εισαχθούν και πάλι.</string>
-  <string name="saving_data">Εισαγωγή δεδομένων από το iCloud…\u000d\nΜην απενεργοποιήσετε το Wi-Fi</string>
+  <string name="save_finish_with_failing_items">"Η μεταφορά διακόπηκε.
+Τα δεδομένα που δεν εισήχθησαν πρέπει να εισαχθούν και πάλι."</string>
+  <string name="saving_data">"Εισαγωγή δεδομένων από το iCloud…
+Μην απενεργοποιήσετε το Wi-Fi"</string>
   <string name="saving_data_no_time">Επαναφορά δεδομένων…</string>
-  <string name="saving_data_space_low">Δεν υπάρχει αρκετός χώρος αποθήκευσης.\u000d\nΑπελευθερώστε τουλάχιστον %s.</string>
+  <string name="saving_data_space_low">"Δεν υπάρχει αρκετός χώρος αποθήκευσης.
+Απελευθερώστε τουλάχιστον %s."</string>
   <string name="sc_bad_request">Εσφαλμένο αίτημα</string>
   <string name="sc_internal_server_error">Εσωτερικό σφάλμα εξυπηρετητή</string>
   <string name="sc_network_unavailable">Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά.</string>

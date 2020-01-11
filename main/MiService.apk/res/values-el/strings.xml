@@ -7,6 +7,8 @@
   <string name="miservice_notification_huanji_title">Έχετε σημαντικά στοιχεία στο παλιό σας τηλέφωνο;</string>
   <string name="miservice_notification_open_feedback_content">Όλες οι λειτουργίες ανατροφοδότησης μεταφέρθηκαν στη νέα εφαρμογή</string>
   <string name="miservice_notification_open_feedback_title">Παρουσιάζουμε τις \"Υπηρεσίες &amp; Σχόλια\"</string>
+  <string name="miservice_notification_scan_content">Χρήση σαρωτή για τη μετάφραση λέξεων και φράσεων</string>
+  <string name="miservice_notification_scan_title">Μετάφραση στα γρήγορα</string>
   <string name="miui_feedback_answer_detail_community">Μπορείτε να βρείτε απαντήσεις στις ερωτήσεις σας στο Mi Community</string>
   <string name="miui_feedback_answer_detail_feedback_resolved">Ναί</string>
   <string name="miui_feedback_answer_detail_feedback_result">Ευχαριστούμε για την ανταπόκριση σας!</string>

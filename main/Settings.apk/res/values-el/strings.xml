@@ -1594,6 +1594,7 @@
      <string name="domain_urls_title">Σύνδεσμοι εφαρμογής</string>
      <string name="done">Ολοκληρώθηκε</string>
      <string name="done_button">Τέλος</string>
+     <string name="dont_select_inactive_sim">Χωρίς επιλογή ανενεργής SIM</string>
      <string name="double_click_power_key">Διπλό πάτημα πλήκτρου Power</string>
      <string name="double_tap_lock_title">Διπλό άγγιγμα για κλείδωμα οθόνης στον Εκκινητή</string>
      <string name="download_current_rom">Λήψη τελευταίας έκδοσης της MIUI</string>
