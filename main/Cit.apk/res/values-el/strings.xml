@@ -172,6 +172,9 @@
   <string name="cit_fptest_title">Δακτυλικό αποτύπωμα FpTest</string>
   <string name="cit_front_camera_check_summary">Οδηγίες δοκιμής:\n\n1. Τοποθετήστε το κουμπί Κάμερας παρακάτω για να εισέλθετε στο μπροστινό μέρος της κάμερας\n2. Πατήστε το κουμπί λήψης\n3.Το σύστημα θα αποθηκεύσει αυτόματα τη φωτογραφία μετά τη σύλληψη\n4.Η φωτογραφία που τραβήξατε πρέπει να εμφανίζεται στην οθόνη, Πατήστε Διαγραφή για να ολοκληρώσετε τη δοκιμή.</string>
   <string name="cit_front_camera_check_title">Μπροστινή κάμερα</string>
+  <string name="cit_front_camera_motor_cali_fail">Η βαθμονόμηση του μοτέρ απέτυχε</string>
+  <string name="cit_front_camera_motor_cali_success">Η βαθμονόμηση του μοτέρ πέτυχε</string>
+  <string name="cit_front_camera_motor_cali_tips">Μην εμποδίζετε την κάμερα κατά τη διαδικασία βαθμονόμησης του μοτέρ της αναδυόμενης κάμερας</string>
   <string name="cit_get_signature_failed">λήψη υπογραφής ΑΠΕΤΥΧΕ</string>
   <string name="cit_goodix_sensor_check_summary">Δοκιμή αισθητήρα Goodix, πατήστε το κουμπί και περιμένετε οι πληροφορίες επισημαίνονται με πράσινο χρώμα.</string>
   <string name="cit_goodix_sensor_check_title">Αισθητήρας δακτυλικών αποτυπωμάτων Goodix</string>

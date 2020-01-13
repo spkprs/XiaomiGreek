@@ -1943,4 +1943,8 @@
     <string name="accessibility_status_bar_slave_wifi_one_bar">Βοηθητικό WiFi 1 γραμμή.</string>
     <string name="accessibility_status_bar_slave_wifi_three_bars">Βοηθητικό WiFi 3 γραμμές.</string>
     <string name="accessibility_status_bar_slave_wifi_two_bars">Βοηθητικό WiFi 2 γραμμές.</string>
+	<string name="accessibility_status_bar_micphone">Συνδεδεμένο μικρόφωνο</string>
+	<string name="how_to_use_app_quick">Τρόπος εναλλαγής μεταξύ εφαρμογών</string>
+	<string name="how_to_use_app_quick_hide_line_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης και, στη συνέχεια, σύρετε προς τα αριστερά ή δεξιά</string>
+	<string name="how_to_use_app_quick_summary">Σύρετε αριστερά ή δεξιά από την ένδειξη πλήρους οθόνης ή από το κάτω μέρος της οθόνης</string>
 </resources>

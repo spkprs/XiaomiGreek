@@ -214,6 +214,7 @@
 	<string name="edit_skin_white">Τόνος</string>
 	<string name="edit_slim_nose">Λεπτή μύτη</string>
 	<string name="edit_smile">Χαμόγελο</string>
+    <string name="emoticon">Πακέτο Emoji</string>
 	<string name="empty">" "</string>
 	<string name="error_fail_to_start_audio_capture">Αδύνατη η εκκίνηση της λήψης ήχου</string>
 	<string name="eye_light">Λάμψη ματιών</string>
@@ -872,6 +873,7 @@
 	<string name="screen_on_proximity_sensor_summary">Μην καλύπτετε την περιοχή των ακουστικών</string>
 	<string name="search_settings">Ρυθμίσεις κάμερας;Ποιότητα;Ποιότητα εικόνας;Θέση εικόνας;Θέση εικόνας;Ανίχνευση προσώπου;Ήχος κάμερας</string>
 	<string name="see_qrcode_detals">Προβολή QR κώδικα</string>
+    <string name="share">Κοινή χρήση</string>
 	<string name="simple_mode_button_asd_flash">Απενεργοποίηση Φλας</string>
 	<string name="simple_mode_button_asd_hdr">Απενεργοποίηση HDR</string>
 	<string name="simple_mode_button_text_audio_capture">Απενεργοποίηση Φωνής ενεργοποίησης</string>

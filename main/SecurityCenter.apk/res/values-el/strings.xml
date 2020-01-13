@@ -3206,4 +3206,16 @@
     <string name="ew_setting_normal_push_title">Λήψη ειδοποιήσεων συστήματος</string>
     <string name="ew_setting_strong_push_message">Για σεισμούς έντασης 2,0 και άνω</string>
     <string name="ew_setting_strong_push_title">Προειδοποίηση για ισχυρούς σεισμούς (από προεπιλογή ενεργό)</string>
+	<string name="power_save_ps_close_setting_3">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (%1$s, %2$s, %3$s)</string>
+	<string name="power_save_ps_close_setting_4">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (%1$s, %2$s, %3$s, %4$s)</string>
+	<string name="power_save_ps_close_setting_5">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+	<string name="power_save_ps_close_setting_5gnet">Συνδεσιμότητα δικτύου 5G</string>
+	<string name="power_save_ps_close_setting_6">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+	<string name="power_save_ps_close_setting_7">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+	<string name="power_save_ps_close_setting_dclickwakeup">\"Διπλό άγγιγμα για ενεργ-απενεργοποίηση οθόνης\"</string>
+	<string name="power_save_ps_close_setting_fingeraod">\"Εμφάνιση εικον. δακτυλ. αποτυπώματος σε ανενεργή οθόνη\"</string>
+	<string name="power_save_ps_close_setting_gps">GPS</string>
+	<string name="power_save_ps_close_setting_haptic">Απτικά σχόλια</string>
+	<string name="power_save_ps_close_setting_pickupwakeup">\"Ανύψωση για αφύπνιση\"</string>
+	<string name="power_save_ps_close_setting_sync">Συγχρονισμός</string>
 </resources>

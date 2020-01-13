@@ -6852,5 +6852,12 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="select_minusscreen_title">Επιλογή μενού αριστερής πλευράς</string>
 	<string name="select_screen_time_app_title">Εφαρμογή Χρόνου Οθόνης</string>
     <string name="disable_unlock_animation_title">Απενεργοποίηση κίνησης ξεκλειδώματος</string>
+	<string name="navigation_guide_app_quick_switch_hide_line_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης και, στη συνέχεια, σύρετε προς τα αριστερά ή δεξιά</string>
+	<string name="navigation_guide_app_quick_switch_summary">Σύρετε αριστερά ή δεξιά από την ένδειξη πλήρους οθόνης ή από το κάτω μέρος της οθόνης</string>
+	<string name="navigation_guide_app_quick_switch_title">Εναλλαγή μεταξύ εφαρμογών</string>
+	<string name="navigation_guide_gesture_line_dialog_summary">Μια νέα χειρονομία για εναλλαγή μεταξύ εφαρμογών θα χρησιμοποιηθεί αφού αποκρύψετε την ένδειξη Πλήρους οθόνης. Θέλετε να την μάθετε τώρα;</string>
+	<string name="navigation_guide_gesture_line_dialog_title">Μάθετε την νέα χειρονομία</string>
+	<string name="navigation_guide_hide_gesture_line_summary">"Να μην εμφανίζεται η ένδειξη πλήρους οθόνης όταν χρησιμοποιούνται χειρονομίες Πλήρους οθόνης"</string>
+	<string name="navigation_guide_hide_gesture_line_title">Απόκρυψη ένδειξης Πλήρους οθόνης</string>
 </resources>
 
