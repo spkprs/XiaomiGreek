@@ -157,6 +157,7 @@
   <string name="cancel">Ακύρωση</string>
   <string name="cancel_running_download">Ακύρωση</string>
   <string name="cannot_comment_try_scroll">Αυτό το τραγούδι δεν μπορεί να σχολιαστεί, προσπαθήστε να μετακινηθείτε</string>
+  <string name="cannot_download_to_sdcard_hint">"Δεν είναι δυνατή η λήψη στοιχείων στην κάρτα SD λόγω περιορισμών πνευματικών δικαιωμάτων. Τα στοιχεία θα ληφθούν στον εσωτερικό χώρο αποθήκευσης."</string>
   <string name="cannot_reply">Δεν είναι δυνατή η απάντηση σε αυτό το σχόλιο τώρα.</string>
   <string name="change_download_quality">Αλλαγή ποιότητας λήψης</string>
   <string name="channel_list_fragment_title">Ραδιόφωνο</string>
@@ -214,6 +215,7 @@
   <string name="create_order_fail">Δεν ήταν δυνατή η δημιουργία παραγγελίας, δοκιμάστε ξανά.</string>
   <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
   <string name="create_playlist_failure">Αδυναμία δημιουργίας λίστας αναπαραγωγής</string>
+  <string name="create_playlist_input_hint">Εισάγετε όνομα λίστας</string>
   <string name="cta_xiao_mi_music">XIAOMI MUSIC</string>
   <string name="current_album">Τρέχον εξώφυλλο άλμπουμ</string>
   <string name="current_lyric">Τρέχοντες στίχοι</string>
@@ -863,6 +865,7 @@
   <string name="ok">OK</string>
   <string name="one_month">1 μήνα</string>
   <string name="online_bill">Διαγράμματα</string>
+  <string name="online_apk_install_tips">"Πρέπει να κάνετε λήψη της προσθήκης αυτής μία φορά. Θα μπορείτε να έχετε πρόσβαση στα τραγούδια απευθείας την επόμενη φορά."</string>
   <string name="online_favor">Προτεινόμενα</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">Όλα τα τραγούδια που έχετε κατεβάσει σε αυτήν την λίστα αναπαραγωγής θα διαγραφούν από τον εσωτερικό χώρο αποθήκευσης.</string>
