@@ -1,4 +1,4 @@
 # XiaomiGreek 
 ...is a repository for test ONLY!
 
-...specialized for Mi 9T pro
+...specialized for Mi9T-pro (Raphael)
