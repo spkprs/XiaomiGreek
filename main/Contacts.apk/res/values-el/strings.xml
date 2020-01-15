@@ -550,7 +550,7 @@
      <string name="import_all_vcard_string">Εισαγωγή όλων των αρχείων vCard</string>
      <string name="import_contact_card_aggregate_suggestion_button">Συγχώνευση καρτών</string>
      <string name="import_contact_card_button">Εισαγωγή επαφής</string>
-     <string name="import_failure_no_vcard_file">Δεν βρέθηκαν αρχεία vCard στον αποθηκευτικό χώρο.</string>
+     <string name="import_failure_no_vcard_file">Δεν βρέθηκαν αποθ αρχεία vCard</string>
      <string name="import_from_onekey_migrate">Εισαγωγή με την Μεταφορά</string>
      <string name="import_from_other_device">Εισαγωγή από άλλη συσκευή</string>
      <string name="import_from_sdcard">Εισαγωγή από αποθηκευτικό χώρο</string>
@@ -851,7 +851,7 @@
      <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες εικόνες στο τηλέφωνο.</string>
      <string name="photo_fragment">Φωτογραφία</string>
      <string name="photo_load_failed">Αδυναμία φόρτωσης φωτογραφίας</string>
-     <string name="pick_new_photo">Επιλογή φωτογραφίας από την %s</string>
+     <string name="pick_new_photo">Επιλογή από την %s σας</string>
      <string name="pick_photo">Επιλέξτε φωτογραφία από %s</string>
      <string name="pickerNewContactHeader">Δημιουργία νέας επαφής</string>
      <string name="pickerNewContactText">Δημιουργία νέας επαφής</string>
@@ -950,7 +950,7 @@
      <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
      <string name="pull_to_refresh_refreshing_label">Φόρτωση…</string>
      <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
-     <string name="qr_card_card">Ο QR κωδικός μου</string>
+     <string name="qr_card_card">Ο QR κωδικός επαφής</string>
      <string name="qrcode_card_title">QR κωδικός</string>
      <string name="quick_dial_setting_delete_dialog_message">Διαγραφή αντιστοιχισμένου Αριθμού Ταχείας Κλήσης?</string>
      <string name="quick_dial_setting_delete_dialog_option_delete">Διαγραφή</string>
@@ -1201,7 +1201,7 @@
      <string name="upgrade_out_of_memory_retry">Επανάληψη αναβάθμισης</string>
      <string name="upgrade_out_of_memory_uninstall">Καταργήστε την εγκατάσταση ορισμένων εφαρμογών</string>
      <string name="use_photo_as_primary">Χρησιμοποιήστε αυτή τη φωτογραφία</string>
-     <string name="use_photo_as_primary2">Χρήση φωτογραφίας επαφής του %1$s</string>
+     <string name="use_photo_as_primary2">Χρήση φωτογραφίας απο %1$s</string>
      <string name="useful_numbers">Χρήσιμοι αριθμοί</string>
      <string name="user_profile_contacts_list_header">Εγώ</string>
      <string name="vcard_export_request_rejected_message">Η αίτηση εξαγωγής vCard έχει απορριφθεί. Δοκιμάστε ξανά αργότερα.</string>

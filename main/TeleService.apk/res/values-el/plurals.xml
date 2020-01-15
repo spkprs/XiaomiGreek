@@ -38,4 +38,12 @@
         <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
         <item quantity="one">%1$d συσκευή συνδέθηκε</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s ημ.</item>
+        <item quantity="one">%s ημ.</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s ώρ.</item>
+        <item quantity="one">%s ώρ.</item>
+    </plurals>
 </resources>

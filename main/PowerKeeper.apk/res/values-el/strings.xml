@@ -92,6 +92,8 @@
      <string name="power_hide_mode_app_list_summary">Ρυθμίσεις εφαρμογής</string>
      <string name="power_hide_mode_title">Μπαταρία και απόδοση</string>
      <string name="power_mode">Ρυθμίσεις ενέργειας</string>
+     <string name="power_tools_current">Τρέχουσα</string>
+     <string name="power_tools_fps">FPS</string>
      <string name="power_usage">Κατανάλωση ενέργειας</string>
      <string name="pref_config_title">Βελτιστοποίηση απόδοσης</string>
      <string name="privacy">Πολιτική Απορρήτου</string>

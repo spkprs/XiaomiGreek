@@ -755,8 +755,8 @@
   <string name="launch_defaults_none">Δεν έχουν οριστεί προεπιλογές</string>
   <string name="launch_defaults_some">Ορισμένες προεπιλεγμένες ρυθμίσεις</string>
   <string name="legacy_dhcp_client_summary">Χρησιμοποιήστε το πρόγραμμα-πελάτη DHCP από το Lollipop αντί για το νέο πρόγραμμα-πελάτη Android DHCP.</string>
-  <string name="last_sim_callback_summary">Όταν κάνετε κλήσεις από το ιστορικό, χρησιμοποιήστε την κάρτα SIM που χρησιμοποιήθηκε κατά την προηγούμενη κλήση για αυτήν την επαφή</string>
-  <string name="last_sim_callback_title">Απομνημόνευση προτιμήσεων SIM</string>
+  <string name="last_sim_callback_summary">Όταν κάνετε κλήσεις από το ιστορικό, χρησιμοποιήστε την ίδια κάρτα SIM κατά την προηγούμενη κλήση για αυτήν την επαφή</string>
+  <string name="last_sim_callback_title">Ενθύμηση προτίμησης SIM</string>
   <string name="list_language_dtitle">Γλώσσες</string>
   <string name="list_language_summary">Επιλέξτε τη γλώσσα των ειδήσεων</string>
   <string name="list_language_title">Γλώσσα</string>
@@ -802,7 +802,7 @@
   <string name="missed_call_notify_once">%d φορά</string>
   <string name="missed_call_notify_ten_times">%d φορές</string>
   <string name="missed_call_notify_thrice">%d φορές</string>
-  <string name="missed_call_notify_times_summary">Ειδοποίηση χαμένων κλήσεων (ανα 5 λεπτά)</string>
+  <string name="missed_call_notify_times_summary">Ειδοποίηση (ανα 5 λεπτά)</string>
   <string name="missed_call_notify_times_title">Υπενθύμιση χαμένων κλήσεων</string>
   <string name="missed_call_notify_twice">%d φορές</string>
   <string name="miui_network_selection_reset_text">Επαναφορά</string>
@@ -1760,7 +1760,16 @@
 	<string name="main_netcheck_summary">Δοκιμή σύνδεσης για θέματα δικτύωσης</string>
 	<string name="mobile_advanced_dns_server_title">Διεύθυνση διακομιστή DNS</string>
 	<string name="mobile_advanced_ip_address_title">Διεύθυνση IP</string>
-	<string name="mobile_connection_management">Διαχείριση σύνδεσης δικτύου κινητής τηλεφωνίας</string>
-	<string name="mobile_property">Ιδιότητες δικτύου κινητής τηλεφωνίας</string>
-	<string name="netcheck_title">Διαγνωστικά δικτύου κινητής τηλεφωνίας</string>
+	<string name="mobile_connection_management">Διαχείριση σύνδεσης δικτύου κινητής</string>
+	<string name="mobile_property">Ιδιότητες δικτύου κινητής</string>
+	<string name="netcheck_title">Διαγνωστικά δικτύου κινητής</string>
+    <string name="mobile_advanced_nr_network_title">Τύπος δικτύου 5G</string>
+    <string name="nr_network_info">Πληροφορίες χρήσης δικτύου 5G</string>
+    <string name="nr_usaged_first_used_time">Καταχωρημένο στο δίκτυο 5G</string>
+    <string name="nr_usaged_module">Μοντέλο συσκευής</string>
+    <string name="nr_usaged_network_rate">Υψηλότερη ταχύτητα</string>
+    <string name="nr_usaged_network_usaged">"Σημερινά δεδομένα"</string>
+    <string name="nr_usaged_operator">Πάροχος</string>
+    <string name="nr_usaged_used_time">Διάρκεια χρήσης</string>
+    <string name="status_unavailable">Μη διαθέσιμο</string>
 </resources>
