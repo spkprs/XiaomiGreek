@@ -94,4 +94,24 @@
          <item quantity="one">"Δεν ήταν δυνατή η φόρτωση του βίντεο.
  Θα γίνει αναπαραγωγή του επόμενου σε %d δευτ..."</item>
      </plurals>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d απαντήσεις</item>
+        <item quantity="one">%d απάντηση</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d ώρες πριν</item>
+        <item quantity="one">%d ώρα πριν</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Προβολή %d σχολίων</item>
+        <item quantity="one">Προβολή %d σχολίου</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">%d λεπτό πριν</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">%d επιλεγμένοι λόγοι</item>
+        <item quantity="one">%d επιλεγμένος λόγος</item>
+    </plurals>
 </resources>

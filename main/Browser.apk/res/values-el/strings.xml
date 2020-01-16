@@ -225,14 +225,38 @@
 	<string name="cloud_time_tips">Τελευταίος συγχρονισμός</string>
 	<string name="cloud_up_to_loading_tips">Ελευθερώστε για συγχρονισμό</string>
 	<string name="collect_video">Συλλογή βίντεο</string>
+	<string name="comment_add_fail">"Αδύνατη η προσθήκη σχολίου"</string>
+	<string name="comment_add_sucess">Η προσθήκη σχολίου ολοκληρώθηκε με επιτυχία</string>
+	<string name="comment_all_display">"Αυτά για την ώρα"</string>
 	<string name="comment_app_menu">Σχόλιο</string>
+	<string name="comment_confirm_report">Αναφορά</string>
+	<string name="comment_copied">Αντιγράφηκε με επιτυχία</string>
+	<string name="comment_delete">Διαγραφή</string>
+	<string name="comment_delete_confirm_title">Διαγραφή τώρα;</string>
+	<string name="comment_delete_fail">"Αδύνατη η διαγραφή του σχολίου"</string>
+	<string name="comment_delete_sucess">Επιτυχής διαγραφή σχολίου</string>
 	<string name="comment_description">Σχόλιο</string>
+	<string name="comment_empty_hint">Δεν υπάρχουν σχόλια εδώ ακόμα. Μπορείς να αφήσεις το πρώτο!</string>
+	<string name="comment_error_hint">"Δεν ήταν δυνατή η φόρτωση σχολίων. Πατήστε για να δοκιμάσετε ξανά."</string>
 	<string name="comment_fail">"Δεν ήταν δυνατή η προσθήκη σχολίου. Δοκιμάστε ξανά."</string>
+	<string name="comment_flag_choice">Προτεινόμενα</string>
+	<string name="comment_flag_top">Καρφιτσωμένα</string>
 	<string name="comment_hint">Σχόλιο</string>
+	<string name="comment_just_now">Μόλις τώρα</string>
 	<string name="comment_max_length">Συγνώμη, το πλαίσιο εισαγωγής είναι γεμάτο.</string>
 	<string name="comment_menu">Σχόλιο</string>
+	<string name="comment_no_net_hint">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
 	<string name="comment_num_description">Αριθμός σχολίου</string>
 	<string name="comment_publish_to_topic">Τα σχόλια συγχρονίζονται με</string>
+	<string name="comment_reply">Απάντηση</string>
+	<string name="comment_reply_fail">"Δεν ήταν δυνατή η απάντηση"</string>
+	<string name="comment_reply_sucess">Απάντησε με επιτυχία</string>
+	<string name="comment_report_advertising_marketing">Διαφήμιση μάρκετινγκ ή υποσυνείδητη διαφήμιση</string>
+	<string name="comment_report_harassment_abuse">Παρενόχληση ή ομιλία μίσους</string>
+	<string name="comment_report_pornographic_violence">Σεξουαλικό ή βίαιο περιεχόμενο</string>
+	<string name="comment_report_reactionary_politics">Πολιτικός εξτρεμισμός</string>
+	<string name="comment_report_send">Υποβλήθηκε με επιτυχία</string>
+	<string name="comment_select_report_reason">Γιατί το αναφέρετε αυτό;</string>
 	<string name="comment_success">Η προσθήκη σχολίου ολοκληρώθηκε με επιτυχία</string>
 	<string name="common_use_phrase_bottom_bar_cn_txt">.gr</string>
 	<string name="common_use_phrase_bottom_bar_text_next">Επόμενο</string>
@@ -302,7 +326,7 @@
 	<string name="dialog_media_not_found">Αδυναμία λήψης: Δεν βρέθηκε αφαιρούμενη συσκευή αποθήκευσης</string>
 	<string name="dialog_nps_comment_cancel_text">Όχι ευχαριστώ</string>
 	<string name="dialog_nps_comment_confirm_text">Βαθμολογία</string>
-	<string name="dialog_nps_comment_slogan_text">"Βαθμολογήστε μας για την
+	<string name="dialog_nps_comment_slogan_text">"Βαθμολογήστε μας για 
 υποστήριξη της εργασίας μας"</string>
 	<string name="dialog_queued_body">Αυτό το αρχείο είναι στην ουρά για μελλοντική λήψη.</string>
 	<string name="dialog_recovery_tabs_action">Κλίκ για επαναφορά</string>
@@ -391,6 +415,7 @@
 	<string name="exit_browser_confirmation">Αγγίξτε ξανά για έξοδο</string>
 	<string name="exit_browser_warning">Κλείσιμο πλοηγού;</string>
 	<string name="exit_fullscreen">Έξοδος Πλήρους οθόνης</string>
+	<string name="expand_article">Προβολή πλήρους άρθρου</string>
 	<string name="expand_button_title">Προηγμένες</string>
 	<string name="favorite">Αγαπημένα</string>
 	<string name="feedback_not_interested_response">"Θα δείτε λιγότερα αντικείμενα αυτού του είδους"</string>
@@ -1205,6 +1230,15 @@
 	<string name="share_image_text">Κοίτα τι μοιράστηκα! @ MIUI</string>
 	<string name="share_page_text">Δείτε τι μοιράστηκα: %1$s @MIUI| %2$s</string>
 	<string name="share_video">Κοινοποίησε το βίντεο</string>
+	<string name="short_video_ad_download_app">Λήψη %s</string>
+	<string name="short_video_ad_download_immediately">Λήψη</string>
+	<string name="short_video_ad_downloading">Λήψη %d%%</string>
+	<string name="short_video_ad_installing">Γίνεται εγκατάσταση</string>
+	<string name="short_video_ad_open_app">Άνοιγμα %s</string>
+	<string name="short_video_ad_open_immediately">Άνοιγμα</string>
+	<string name="short_video_ad_resume_downloading">Συνέχεια</string>
+	<string name="short_video_ad_see_details">Προβολή λεπτομερειών</string>
+	<string name="short_video_ad_tag">Διαφημιστικό</string>
 	<string name="short_video_comment_hint">Εισαγωγή σχολίου</string>
 	<string name="short_video_description">Κανάλι βίντεο</string>
 	<string name="short_video_gesture_btn">Κατανοητό</string>
@@ -1418,6 +1452,10 @@
 	<string name="vo_choose_activity_content">"Δεν ήταν δυνατή η λήψη πληροφοριών θέσης. Επιλέξτε μια πόλη με μη αυτόματο τρόπο."</string>
 	<string name="vo_choose_activity_positive">Επιλογή</string>
 	<string name="vo_comment_text">Σχόλιο</string>
+	<string name="vo_fast_game_card_bottom_text">Παίξτε παιχνίδια χωρίς να τα εγκαταστήσετε</string>
+	<string name="vo_fast_game_card_more_text">Περισσότερα παιχνίδια</string>
+	<string name="vo_fast_game_card_title_text">Μπορεί επίσης να σας αρέσουν αυτά τα παιχνίδια</string>
+	<string name="vo_feed_back_dislike">Δεν ενδιαφέρομαι</string>
 	<string name="vo_feedback_back">Πίσω</string>
 	<string name="vo_feedback_black">Αποκλεισμός: %s</string>
 	<string name="vo_feedback_content">Κακή ποιότητα περιεχομένου</string>
@@ -1443,7 +1481,7 @@
 	<string name="vo_location_change_positive">Εναλλαγή</string>
 	<string name="vo_location_change_title">Η θέση άλλαξε</string>
 	<string name="vo_location_choose_city">Πατήστε για εναλλαγή πόλεων</string>
-    <string name="vo_mi_ad_detail">Άνοιγμα σε %s</string>
+	<string name="vo_search_tag_title_text">Σχετικά στοιχεία</string>
 	<string name="vo_share_text">Κοινή χρήση</string>
 	<string name="vo_small_video_load_more_text">Σαρώστε για να φορτώσετε περισσότερα</string>
 	<string name="vo_small_video_title">Σύντομα βίντεο</string>
@@ -1474,4 +1512,5 @@
 	<string name="voice_title_speech_again">Δεν μπορώ να σας καταλάβω</string>
 	<string name="webpage_title">Αγαπημένα και ιστορικό</string>
 	<string name="window_manager_hybrid_application_list_title_text">Πρόσφατη Χρήση</string>
+    <string name="vo_mi_ad_detail">Άνοιγμα σε %s</string>
 </resources>
