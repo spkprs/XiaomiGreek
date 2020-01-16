@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_label">Κέλυφος</string>
-     <string name="bugreport_add_details_to_zip_failed">"Couldn't add bug report details to zip file"</string>
-     <string name="bugreport_confirm">Οι αναφορές σφαλμάτων περιέχουν στοιχεία από διάφορα αρχεία καταγραφής του συστήματος, συμπεριλαμβανομένων των προσωπικών και ιδιωτικών πληροφοριών. Μοιραστείτε τις αναφορές σφαλμάτων μόνο με τις εφαρμογές και τα άτομα που εμπιστεύεστε.</string>
-     <string name="bugreport_confirm_dont_repeat">"Don't show again"</string>
-     <string name="bugreport_finished_pending_screenshot_text">Tap to share your bug report without a screenshot or wait for the screenshot to finish</string>
-     <string name="bugreport_finished_text">Πατήστε για κοινή χρήση της αναφοράς</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: Bug report #%d captured -->
-     <string name="bugreport_finished_title">Αναφορά σφάλματος που καταγράφηκε</string>
-     <string name="bugreport_in_progress_title">Bug report #%d is being generated</string>
-     <string name="bugreport_info_action">Details</string>
-     <string name="bugreport_info_description">Bug summary</string>
-     <string name="bugreport_info_dialog_title">Bug report #%d details</string>
-     <string name="bugreport_info_name">Filename</string>
-     <string name="bugreport_info_title">Bug title</string>
-     <string name="bugreport_screenshot_action">Screenshot</string>
-     <string name="bugreport_screenshot_failed">Screenshot could not be taken.</string>
-     <string name="bugreport_screenshot_taken">Screenshot taken successfully.</string>
-     <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
-     <string name="bugreport_unnamed">unnamed</string>
-     <string name="bugreport_unreadable_text">Bug report file could not be read</string>
-     <string name="bugreport_updating_title">Adding details to the bug report</string>
-     <string name="bugreport_updating_wait">Please wait…</string>
-     <string name="save">Save</string>
+  <string name="app_label">Κέλυφος</string>
+  <string name="bugreport_add_details_to_zip_failed">"Δεν ήταν δυνατή η προσθήκη λεπτομερειών αναφοράς σφάλματος στο αρχείο zip"</string>
+  <string name="bugreport_confirm">"Οι αναφορές σφαλμάτων περιέχουν δεδομένα από τα διάφορα αρχεία καταγραφής του συστήματος, τα οποία μπορεί να περιλαμβάνουν δεδομένα που θεωρείτε ευαίσθητα (όπως χρήση εφαρμογών και δεδομένα θέσης). Μοιραστείτε αναφορές σφαλμάτων μόνο με άτομα και εφαρμογές που εμπιστεύεστε."</string>
+  <string name="bugreport_confirm_dont_repeat">"Να μην εμφανιστεί ξανά"</string>
+  <string name="bugreport_finished_pending_screenshot_text">Πατήστε για κοινή χρήση της αναφοράς σφάλματος χωρίς στιγμιότυπο οθόνης ή περιμένετε να ολοκληρωθεί το στιγμιότυπο οθόνης</string>
+  <string name="bugreport_finished_text">Πατήστε για κοινή χρήση της αναφοράς</string>
+  <string name="bugreport_finished_title">Αναφορά σφάλματος #%d καταγράφηκε</string>
+  <string name="bugreport_in_progress_title">Δημιουργείται αναφορά σφάλματος #%d</string>
+  <string name="bugreport_info_action">Λεπτομέρειες</string>
+  <string name="bugreport_info_description">Σύνοψη σφάλματος</string>
+  <string name="bugreport_info_dialog_title">Αναφορά σφάλματος #%d λεπτομέρειες</string>
+  <string name="bugreport_info_name">Όνομα αρχείου</string>
+  <string name="bugreport_info_title">Τίτλος σφάλματος</string>
+  <string name="bugreport_intent_chooser_title">Κοινή αναφορά σφαλμάτων</string>
+  <string name="bugreport_notification_channel">Αναφορές σφαλμάτων</string>
+  <string name="bugreport_screenshot_action">Στιγμιότυπο οθόνης</string>
+  <string name="bugreport_screenshot_failed">Αδυναμία λήψης στιγμιότυπου οθόνης.</string>
+  <string name="bugreport_screenshot_taken">Το στιγμιότυπο οθόνης λήφθηκε με επιτυχία.</string>
+  <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
+  <string name="bugreport_unnamed">χωρίς όνομα</string>
+  <string name="bugreport_unreadable_text">Δεν ήταν δυνατή η ανάγνωση του αρχείου αναφοράς σφάλματος</string>
+  <string name="bugreport_updating_title">Προσθήκη λεπτομερειών στην αναφορά σφάλματος</string>
+  <string name="bugreport_updating_wait">Περιμένετε...</string>
+  <string name="save">Αποθήκευση</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
