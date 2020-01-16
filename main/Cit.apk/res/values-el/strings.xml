@@ -135,10 +135,14 @@
   <string name="cit_calibration_pass">Η βαθμονόμηση πέρασε</string>
   <string name="cit_camera_calibration_summary">Οδηγίες δοκιμής:\n\n1. Τοποθετήστε το κουμπί βαθμονόμησης παρακάτω για να ξεκινήσετε τη βαθμονόμηση OIS.\n2.Θα υπάρχει μια ετικέτα περάσματος βαθμονόμησης για να υποδείξετε ότι η κλίμακα έχει βαθμονομηθεί</string>
   <string name="cit_camera_sdcard_error">Δεν είναι δυνατή η λήψη φωτογραφίας. Η κάρτα SD είναι πλήρης.</string>
+  <string name="cit_charge_usb_dcp">Φόρτιση：USB_DCP</string>
+  <string name="cit_charge_usb_hvdcp">Φόρτιση：USB_HVDCP</string>
+  <string name="cit_charge_usb_pd">Φόρτιση：USB_PD</string>
   <string name="cit_charger_plugin_check_summary">Όταν συνδέεται ο φορτιστής USB, θα πρέπει να εμφανιστεί παρακάτω το κείμενο &amp;quot;Φόρτιση μέσω USB/AC&amp;quot;.</string>
   <string name="cit_charger_plugin_check_title">Φορτιστής (σύνδεση)</string>
   <string name="cit_charger_plugout_check_summary">Όταν αποσυνδέεται ο φορτιστής USB, θα πρέπει να εμφανιστεί παρακάτω το κείμενο &amp;quot;Αποσυνδεδεμένος φορτιστής USB/AC&amp;quot;.</string>
   <string name="cit_charger_plugout_check_title">Φορτιστής (αποσύνδεση)</string>
+  <string name="cit_charger_test_tips_pd">Τρέχουσα μηχανή πρέπει να δοκιμάσει USB_PD</string>
   <string name="cit_charger_waiting_in">Συνδέστε το φορτιστή</string>
   <string name="cit_charger_waiting_out">Αποσυνδέστε τώρα τον φορτιστή</string>
   <string name="cit_dial_emergencycall">Πληκτρολογήστε 112</string>

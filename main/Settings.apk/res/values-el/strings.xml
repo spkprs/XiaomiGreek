@@ -1135,8 +1135,10 @@
  Πατήστε &amp;quot;Καθαρισμός και μετατροπή ...&amp;quot; για να συνεχίσετε."</string>
      <string name="convert_to_file_encryption">Μετατροπή σε κρυπτογράφηση αρχείων</string>
      <string name="convert_to_file_encryption_done">Τα αρχεία κρυπτογραφούνται</string>
-     <string name="convert_to_file_encryption_enabled">Μετατρέπω…</string>
+     <string name="convert_to_file_encryption_enabled">Μετατροπή…</string>
      <string name="copyright_title">Πνευματικά δικαιώματα</string>
+     <string name="corner_assistant_gesture_summary">Σαρώστε προς τα επάνω από την κάτω αριστερή ή δεξιά γωνία για να αφυπνίσετε τον Βοηθό Google</string>
+     <string name="corner_assistant_gesture_title">Σάρωση από την κάτω γωνία για τον Βοηθό Google</string>
      <string name="country_name">%s (σύστημα)</string>
      <string name="create">Δημιουργία</string>
      <string name="credential_storage_type">Τύπος αποθήκευσης</string>

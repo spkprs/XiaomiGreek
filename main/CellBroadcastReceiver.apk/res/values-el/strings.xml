@@ -125,6 +125,7 @@
   <string name="etws_tsunami_warning">Προειδοποίηση για το τσουνάμι</string>
   <string name="exercise">Ασκηση</string>
   <string name="exercises">Γυμνάσια</string>
+  <string name="gr_emergency_alert_dialog_title">GR-ΣΥΝΑΓΕΡΜΟΣ</string>
   <string name="menu_delete">Διαγραφή εκπομπής</string>
   <string name="menu_delete_all">Διαγράψτε τις εκπομπές</string>
   <string name="menu_preferences">Ρυθμίσεις</string>
@@ -138,6 +139,7 @@
   <string name="pws_other_message_identifiers">Επείγουσα ειδοποίηση</string>
   <string name="reading_settings">Ρυθμίσεις ανάγνωσης</string>
   <string name="receive_broad_cast">Λάβετε Cell BroadCast SMS</string>
+  <string name="ro_emergency_alert_dialog_title">RO-ΣΥΝΑΓΕΡΜΟΣ</string>
   <string name="show_cmas_opt_out_summary">Εμφάνιση διαλόγου εξαίρεσης μετά την εμφάνιση της πρώτης προειδοποίησης CMAS (εκτός από την Προειδοποίηση Προέδρου).</string>
   <string name="show_cmas_opt_out_title">Εμφάνιση διαλόγου εξαίρεσης</string>
   <string name="sms_cb_settings">Ειδοποιήσεις έκτακτης ανάγκης</string>

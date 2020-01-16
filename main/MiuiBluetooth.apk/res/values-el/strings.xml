@@ -42,6 +42,7 @@
 	<string name="fast_connect_device_title_find_headset_others">"Φαίνεται ότι αυτή η συσκευή δεν είναι δική σας: %1$s"</string>
 	<string name="fast_connect_headset_reset">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ</string>
 	<string name="fast_connect_nzbt_reset">Παρατεταμένα το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
+    <string name="fast_connect_wbs_name">Mi ηχείο ασύρματου φορτιστή</string>
 	<string name="fast_connect_wbs_reset">Παρατεταμένα το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
 	<string name="goto_package">Άνοιγμα %1$s</string>
 	<string name="install_package">Εγκατάσταση %1$s για περισσότερες λειτουργίες</string>
@@ -77,4 +78,5 @@
 	<string name="unbind_device_alert_content">Χάθηκε η σύνδεση με το %1$s. Για εξοικονόμηση μπαταρίας, αποσυνδέστε τη συσκευή τώρα.</string>
 	<string name="unbind_device_alert_ok">Αποσύνδεση</string>
 	<string name="unbind_device_alert_title">Αποσύνδεση συσκευής</string>
+    <string name="zhiyun_name">ΑΠΑΛΟ Q2</string>
 </resources>
