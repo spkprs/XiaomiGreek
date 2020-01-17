@@ -1606,6 +1606,10 @@
   <string name="websearch">Αναζήτηση ιστού</string>
   <string name="week">εβδομάδα</string>
   <string name="weeks">εβδομάδες</string>
+  <string name="wfcSpnFormat_spn_wifi">%s WiFi</string>
+  <string name="wfcSpnFormat_spn_wifi_calling">%s Κλήση WiFi</string>
+  <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Κλήση WiFi</string>
+  <string name="wfcSpnFormat_spn_wlan_call">%s Κλήση WiFi</string>
   <string name="wfc_mode_cellular_preferred_summary">Προτίμηση δικτύου κινητής</string>
   <string name="wfc_mode_wifi_only_summary">Μόνο Wi-Fi</string>
   <string name="wfc_mode_wifi_preferred_summary">Προτίμηση Wi‑Fi</string>

@@ -4,6 +4,10 @@
     <item quantity="other">%1$d αρχεία</item>
     <item quantity="one">%1$d αρχείο</item>
   </plurals>
+     <plurals name="image_received_successfully">
+        <item quantity="other">Ελήφθησαν %2$d εικόνες απο %1$s επιτυχώς</item>
+        <item quantity="one">Ελήφθη %2$d εικόνα απο %1$s επιτυχώς</item>
+     </plurals>
   <plurals name="send_file_success_detail_files">
     <item quantity="other">Στάλθηκαν %1$s αρχεία με επιτυχία</item>
     <item quantity="one">Στάλθηκε %1$s αρχείο με επιτυχία</item>
@@ -71,10 +75,6 @@
     <plurals name="file_received_successfully">
         <item quantity="other">Λήψη %2$d αρχείων από %1$s με επιτυχία</item>
         <item quantity="one">Λήψη %2$d αρχείου από %1$s με επιτυχία</item>
-    </plurals>
-    <plurals name="image_received_successfully">
-        <item quantity="other">Λήψη %2$d εικόνων από %1$s με επιτυχία</item>
-        <item quantity="one">Λήψη %2$d εικόνας από %1$s με επιτυχία</item>
     </plurals>
     <plurals name="successfully_sent_files">
         <item quantity="other">Αποστολή %2$d αρχείων στο %1$s με επιτυχία</item>
