@@ -388,6 +388,8 @@
     <string name="recents_empty_message">Χωρίς πρόσφατα στοιχεία</string>
     <string name="recents_empty_message_dismissed_all">"Έχετε καθαρίσει τα πάντα"</string>
     <string name="recents_empty_message_multi_window">Άνοιγμα εφαρμογών από την Αρχική οθόνη</string>
+	<string name="recents_forbid_dock_when_screening_toast_text">"Αδύνατη η χρήση της Διαίρεσης οθόνης κατά την Μετάδοση οθόνης"</string>
+	<string name="recents_task_screening">Μετάδοση</string>
     <string name="recents_title_app_manager">Διαχείριση εφαρμογών</string>
     <string name="recents_title_game">Παιχνίδια</string>
     <string name="recents_title_garbage_cleanup">Εκκαθαριστής</string>
@@ -452,6 +454,7 @@
 	<string name="system_shortcuts_more_operation">Πληροφορίες</string>
     <string name="system_shortcuts_remove">Αφαίρεση</string>
 	<string name="system_text">Σύστημα</string>
+	<string name="task_access_locked_app_msg">Κλείδωμα εφαρμογών ενεργό</string>
 	<string name="title_jeejen">Αρχική σελίδα Jeejen</string>
 	<string name="title_select_live_folder">Επιλογή φακέλου</string>
 	<string name="title_select_shortcut">Επιλογή συντόμευσης</string>

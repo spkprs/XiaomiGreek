@@ -1422,8 +1422,8 @@
      <string name="recents_multistack_add_stack_dialog_split_vertical">Κάθετη διαίρεση</string>
      <string name="recents_search_bar_label">Αναζήτηση</string>
      <string name="recents_stack_action_button_label">Αφαίρεση όλων</string>
-     <string name="recents_task_screening">Προβολή…</string>
-     <string name="recents_forbid_dock_when_screening_toast_text">"Αδύνατη η χρήση της Διαίρεσης οθόνης κατά τη διάρκεια της μετάδοσης"</string>
+     <string name="recents_task_screening">Μετάδοση...</string>
+     <string name="recents_forbid_dock_when_screening_toast_text">"Αδύνατη η χρήση της Διαίρεσης οθόνης κατά την Μετάδοση οθόνης"</string>
      <string name="recents_dimiss_task">Καθαρισμός</string>
      <string name="recents_title_app_manager">Διαχείριση Εφαρμογών</string>
      <string name="recents_title_game">Παιχνίδια</string>

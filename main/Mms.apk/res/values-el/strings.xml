@@ -474,6 +474,8 @@
 	<string name="non_english_subject_limit">Όριο 13 χαρακτήρες</string>
 	<string name="nosend_message">Να μην αποσταλεί</string>
 	<string name="not_prepare_for_send">Δεν υπάρχει μήνυμα προς αποστολή</string>
+    <string name="notification_add_todo">Υπενθύμιση</string>
+    <string name="notification_add_todo_content">Κωδικός παραλαβής: %s</string>
 	<string name="notification_channel_msg_description">Ειδοποιήσεις περί Μηνυμάτων</string>
 	<string name="notification_channel_msg_name">Μηνύματα</string>
 	<string name="notification_channel_other_description">Άλλες ειδοποιήσεις</string>
