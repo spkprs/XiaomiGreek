@@ -32,7 +32,7 @@
     <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Manage backups;Restore</item>
   </string-array>
   <string-array name="settings_search_backup_setting">
-    <item>Δημιουργία αντιγράφων Αρχικής οθόνης στο Mi Cloud</item>
+    <item>Δημιουργία αντιγράφων της Αρχική οθόνη στο Mi Cloud</item>
     <item>Αντίγραφα της αρχικής διάταξης της οθόνης, λίστα των εγκατεστημένων εφαρμογών και ρυθμίσεις συστήματος</item>
     <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Settings;Backup frequency;Manage backups;Restore</item>
   </string-array>
@@ -143,3 +143,4 @@
         <item>Για να εντοπίσετε τη συσκευή σας και να μεταβείτε στη λειτουργία Εύρεση συσκευής</item>
     </string-array>
 </resources>
+

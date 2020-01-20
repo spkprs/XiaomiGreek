@@ -4858,7 +4858,7 @@
      <string name="sync_plug">"&lt;font fgcolor=\"#ffffffff\"&gt;Καλωσορίσατε στο συγχρονισμό της Google!&lt;/font&gt;\"
 Η Google σας δίνει την ικανότητα συγχρονισμού των δεδομένων σας, έτσι ώστε να τα έχετε διαθέσιμα όπου και εάν βρίσκεστε. \""</string>
      <string name="sync_settings">Λογαριασμοί και Συγχρ/σμός</string>
-     <string name="sync_wifi_label">Ρύθμιση συγχρονισμού Wi-Fi</string>
+     <string name="sync_wifi_label">Ρύθμιση Wi-Fi</string>
      <string name="sync_wifi_only">Μόνο με Wi-Fi</string>
      <string name="system">Σύστημα</string>
      <string name="system_alert_window_access_title">Σχεδίαση πάνω από άλλες εφαρμογές</string>
