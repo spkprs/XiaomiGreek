@@ -40,6 +40,14 @@
     <item quantity="other">%d ειδοποιήσεις</item>
     <item quantity="one">%d ειδοποίηση</item>
   </plurals>
+  <plurals name="usage_stats_remain_hour">
+    <item quantity="other">%s ώρες</item>
+    <item quantity="one">%s ώρα</item>
+  </plurals>
+  <plurals name="usage_stats_remain_miunte">
+    <item quantity="other">%s λεπτά</item>
+    <item quantity="one">%s λεπτό</item>
+  </plurals>
   <plurals name="usage_state_unlock_count">
     <item quantity="other">%d φορές</item>
     <item quantity="one">%d φορά</item>
