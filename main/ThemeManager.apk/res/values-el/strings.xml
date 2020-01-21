@@ -124,7 +124,10 @@
 	<string name="current_version_incompatible">Ασυμβατότητα έκδοσης</string>
 	<string name="de_author_follow">Ακολουθήστε</string>
 	<string name="de_author_following">Ακόλουθοι</string>
-	<string name="de_component_author">Συγγραφέας</string>
+	<string name="de_component_author">Δημιουργός</string>
+    <string name="de_component_font_author">Δημιουργός Γραμ/σειράς</string>
+    <string name="de_component_tags">Ετικέτες</string>
+    <string name="de_font_exchange_success">Επιτυχής αγορά</string>
 	<string name="de_icon_text_comment">Σχόλιο</string>
 	<string name="de_icon_text_favorite">Προσθήκη στα αγαπημένα</string>
 	<string name="de_icon_text_like">Μου αρέσει</string>
@@ -308,7 +311,7 @@
 	<string name="lockscreen_magazine_title">Καθημερινές Ταπετσαρίες</string>
 	<string name="lockscreen_wallpaper">Οθόνη κλειδώματος</string>
 	<string name="lockstyle_personal_settings">Προσαρμογή</string>
-	<string name="long_click_can_hide_resource">Πατήστε παρατεταμένα για να αποκρύψετε στοιχεία</string>
+	<string name="long_click_can_hide_resource">Πατήστε παρατεταμένα για απόκρυψη στοιχείων</string>
 	<string name="loop_wallpaper_is_here">Διαθέσιμες επιλογές</string>
 	<string name="mi_wallpaper">MIUI ταπετσαρία</string>
 	<string name="miuishare_account_activate_confirmation">Ενεργοποίηση λογαριασμού Mi</string>
@@ -491,7 +494,7 @@
 	<string name="resource_exchange_share_code_content">Έχετε λάβει ένα κωδικό δώρο για το θέμα %1$s στο MIUI Theme Store. Ο κωδικός αριθμός είναι: %2$s. Αγγίξτε %3$s για να το χρησιμοποιήσετε τώρα.</string>
 	<string name="resource_exchange_share_code_dlg_content">Ο κωδικός δώρο που αγοράσατε για το θέμα %1$sis: %2$s. Όταν το στείλετε σε άλλο χρήστη MIUI, αυτός ή αυτή μπορεί να το χρησιμοποιήσετε για να κατεβάσει αυτό το θέμα.</string>
 	<string name="resource_exchange_share_code_dlg_title">Αποστολή</string>
-	<string name="resource_exchange_success">Χαρείτε το! :)</string>
+	<string name="resource_exchange_success">Επιτυχής αγορά</string>
 	<string name="resource_exchange_unavailable">Το θέμα που συνδέεται με τον κωδικό που έχετε εισάγει δεν είναι διαθέσιμο.</string>
 	<string name="resource_exchange_universal_finish">Χρησιμοποιήστε αυτόν τον κωδικό για να κατεβάσετε ένα θέμα από το MIUI Theme Store.</string>
 	<string name="resource_exchange_universal_goon">Αυτός ο κώδικας μπορεί να χρησιμοποιηθεί για να κατεβάσετε οποιοδήποτε θέμα από το κατάστημα.</string>
