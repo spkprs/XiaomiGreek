@@ -625,8 +625,7 @@
      <string name="bluetooth_broadcasting_explaination">"Όταν αυτή η λειτουργία είναι ενεργοποιημένη, το τηλέφωνό σας μπορεί να επικοινωνήσει με άλλες συσκευές που βρίσκονται κοντά.
 
 Η εκπομπή χρησιμοποιεί σήματα Bluetooth χαμηλής ισχύος."</string>
-     <string name="bluetooth_confirm_passkey_msg">"Για σύζευξη με:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Σιγουρευτείτε ότι εμφανίζεται αυτός ο κωδικός:&lt;br&gt;&lt;b&gt;%2$s&lt;/b
-"</string>
+     <string name="bluetooth_confirm_passkey_msg">"Για σύζευξη με:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Σιγουρευτείτε ότι εμφανίζεται αυτός ο κωδικός:&lt;br>&lt;b>%2$s"</string>
      <string name="bluetooth_connect_specific_profiles_title">Σύνδεση σε…</string>
      <string name="bluetooth_connected">Συνδεδεμένο %1$s</string>
      <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (χωρίς πολυμέσα)</string>
@@ -659,12 +658,11 @@
      <string name="bluetooth_devices">Συσκευές Bluetooth</string>
      <string name="bluetooth_disable_absolute_volume">Απενεργοποιήστε την απόλυτη ένταση</string>
      <string name="bluetooth_disable_absolute_volume_summary">Απενεργοποιήστε την απόλυτη ένταση για Bluetooth σε περίπτωση προβλημάτων με απομακρυσμένες συσκευές, όπως απαράδεκτα δυνατός όγκος ή αδυναμία ελέγχου.</string>
-     <string name="bluetooth_disable_profile_message">"Θα απενεργοποιηθεί:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Από:&lt;br&gt;&lt;b&gt;%2$s&lt;/b
-"</string>
+     <string name="bluetooth_disable_profile_message">Θα απενεργοποιηθεί:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Από:&lt;br>&lt;b>%2$s&lt;/b></string>
      <string name="bluetooth_disable_profile_title">Απενεργοποίηση προφίλ;</string>
      <string name="bluetooth_disabled">Απενεργοποιήθηκε</string>
      <string name="bluetooth_disconnect_a2dp_profile">Το %1$s θα αποσυνδεθεί από τα ακουστικά πολυμέσων</string>
-     <string name="bluetooth_disconnect_all_profiles">Θα γίνει αποσύνδεση από τη συσκευή &lt; br&gt;&lt; b&gt;%1$s&lt; /b&gt;</string>
+     <string name="bluetooth_disconnect_all_profiles">Θα γίνει αποσύνδεση από τη συσκευή &lt;br>&lt;b>%1$s&lt;/b></string>
      <string name="bluetooth_disconnect_headset_profile">Το %1$s θα αποσυνδεθεί από τον ήχο handsfree.</string>
      <string name="bluetooth_disconnect_hid_profile">Το %1$s θα αποσυνδεθεί από τη συσκευή εισαγωγής</string>
      <string name="bluetooth_disable_inband_ringing">Απενεργοποίηση κουδουνίσματος στα ακουστικά</string>
@@ -674,7 +672,7 @@
      <string name="bluetooth_disconnect_title">Αποσύνδεση;</string>
      <string name="bluetooth_disconnected">Αποσυνδέθηκε</string>
      <string name="bluetooth_disconnecting">Αποσύνδεση…</string>
-     <string name="bluetooth_display_passkey_pin_msg">Για σύζευξη με:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Πληκτρολογήστε: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;,  μετά πατήστε Enter</string>
+     <string name="bluetooth_display_passkey_pin_msg">Για σύζευξη με:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Πληκτρολογήστε: &lt;br>&lt;b>%2$s&lt;/b>,  μετά πατήστε Enter</string>
      <string name="bluetooth_dock_settings">Ρυθμίσεις βάσης σύνδεσης</string>
      <string name="bluetooth_dock_settings_a2dp">Για μουσική και πολυμέσα</string>
      <string name="bluetooth_dock_settings_headset">Χρήση για ηχείο τηλεφώνου</string>
@@ -695,7 +693,7 @@
      <string name="bluetooth_hid_profile_summary_connected">Συνδεδεμένο με συσκευή εισόδου</string>
      <string name="bluetooth_hid_profile_summary_use_for">Χρήση για εισαγωγή</string>
      <string name="bluetooth_icon_title">Απόκρυψη εικονιδίου Bluetooth</string>
-     <string name="bluetooth_incoming_pairing_msg">Από:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Σύζευξη με αυτή τη συσκευή</string>
+     <string name="bluetooth_incoming_pairing_msg">Από:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Σύζευξη με αυτή τη συσκευή?</string>
      <string name="bluetooth_is_disconnect_question">Αποσύνδεση %1$s;</string>
      <string name="bluetooth_is_discoverable">Ορατή σε κοντινές συσκευές Bluetooth (%1$s)</string>
      <string name="bluetooth_is_discoverable_always">Κάντε τη συσκευή ορατή σε άλλες κοντινές συσκευές Bluetooth</string>
@@ -732,7 +730,7 @@
      <string name="bluetooth_pairing_pin_error_message">Αδύνατη η σύζευξη με το %1$s λόγω λανθασμένου PIN ή κωδικού</string>
      <string name="bluetooth_pairing_rejected_error_message">Η σύζευξη απορρίφθηκε από το %1$s</string>
      <string name="bluetooth_pairing_request">Σύζευξη με %1$s;</string>
-     <string name="bluetooth_pairing_shares_phonebook">Αποκτήστε πρόσβαση στις επαφές σας και στο ιστορικό κλήσεων</string>
+     <string name="bluetooth_pairing_shares_phonebook">Θα αποκτήσει πρόσβαση στις επαφές σας και στο ιστορικό κλήσεων</string>
      <string name="bluetooth_pairing_will_share_phonebook">Η σύζευξη παρέχει πρόσβαση στις επαφές σας και το ιστορικό κλήσεων όταν είστε συνδεδεμένοι.</string>
      <string name="bluetooth_pan_nap_profile_summary_connected">Κοινή χρήση τοπικής σύνδεσης Internet με τη συσκευή</string>
      <string name="bluetooth_pan_profile_summary_use_for">Χρήση για πρόσβαση στο Internet</string>
@@ -1306,10 +1304,10 @@
      <string name="data_usage_restrict_denied_dialog">Ο περιορισμός των δεδομένων παρασκηνίου είναι δυνατόν να γίνει μόνο όταν έχετε ορίσει ένα όριο δεδομένων κινητής τηλεφωνίας.</string>
      <string name="data_usage_summary_format">%1$s των χρησιμοποιούμενων δεδομένων</string>
      <string name="data_usage_summary_title">Χρήση δεδομένων</string>
-     <string name="data_usage_sweep_limit">"&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;όριο&lt;/font&gt;"</string>
-     <string name="data_usage_sweep_warning">"&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;προειδοποίηση&lt;/font&gt;"</string>
+     <string name="data_usage_sweep_limit">"Οριο
+^1^2"</string>
+     <string name="data_usage_sweep_warning">"Προειδοποίηση
+^1^2"</string>
      <string name="data_usage_tab_3g">2G-3G</string>
      <string name="data_usage_tab_4g">4G</string>
      <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -3759,11 +3757,11 @@
      <string name="reset_network_complete_toast">Έγινε επαναφορά ρυθμίσεων δικτύου</string>
      <string name="reset_network_confirm_title">Επαναφορά;</string>
      <string name="reset_network_data">Δεδομένα κινητής</string>
-     <string name="reset_network_desc">"Αυτό θα επαναφέρει όλες τις ρυθμίσεις του δικτύου, συμπεριλαμβανομένων των:
+     <string name="reset_network_desc">"Αυτό θα επαναφέρει όλες τις ρυθμίσεις του δικτύου, όπως:
 
-"&lt;li&gt;Wi-Fi&lt;/li&gt;"
-"&lt;li&gt;Δεδομένων κινητής&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+Wi-Fi
+Δεδομένων κινητής
+Bluetooth"</string>
      <string name="reset_network_final_button_text">Επαναφορά</string>
      <string name="reset_network_final_desc">"Επαναφορά ρυθμίσεων όλων των δικτύων; Αυτό μπορεί να διαρκέσει αρκετά δευτ/πτα. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια!"</string>
      <string name="reset_network_title">Επαναφορά δικτύων WiFi Κινητής και Bluetooth</string>
@@ -4763,7 +4761,7 @@
      <string name="storage_wizard_migrate_body">"Μπορείτε να μεταφέρετε φωτογραφίες, αρχεία και μερικές εφαρμογές στην νέα ^1. 
 
 Η μεταφορά διαρκεί περίπου ^2 και θα ελευθερώσει ^3 στον εσωτερικό χώρο αποθήκευσης. Μερικές εφαρμογές δεν θα λειτουργούν κατά την διάρκεια της μεταφοράς."</string>
-     <string name="storage_wizard_migrate_confirm_body">" \"&lt;b&gt;Η μεταφορά διαρκεί περίπου ^1. Θα ελευθερώσει ^2 στο ^3.&lt;/b&gt;\" "</string>
+     <string name="storage_wizard_migrate_confirm_body">Η μεταφορά διαρκεί περίπου ^1. Θα ελευθερώσει ^2 στο ^3.</string>
      <string name="storage_wizard_migrate_confirm_next">Μεταφορά</string>
      <string name="storage_wizard_migrate_confirm_title">Μεταφορά δεδομένων τώρα</string>
      <string name="storage_wizard_migrate_details">"Κατά τη διάρκεια της μεταφοράς: 
@@ -4855,8 +4853,7 @@
      <string name="sync_now">Συγχρονισμός</string>
      <string name="sync_one_time_sync">"Πατήστε για συγχρονισμό τώρα
 %1$s"</string>
-     <string name="sync_plug">"&lt;font fgcolor=\"#ffffffff\"&gt;Καλωσορίσατε στο συγχρονισμό της Google!&lt;/font&gt;\"
-Η Google σας δίνει την ικανότητα συγχρονισμού των δεδομένων σας, έτσι ώστε να τα έχετε διαθέσιμα όπου και εάν βρίσκεστε. \""</string>
+     <string name="sync_plug">" "<font fgcolor="#ffffffff">Καλωσορίσατε στο συγχρονισμό της Google!</font>"\nΗ Google σας δίνει την ικανότητα συγχρονισμού των δεδομένων σας, έτσι ώστε να τα έχετε διαθέσιμα όπου και εάν βρίσκεστε. \"</string>
      <string name="sync_settings">Λογαριασμοί και Συγχρ/σμός</string>
      <string name="sync_wifi_label">Ρύθμιση Wi-Fi</string>
      <string name="sync_wifi_only">Μόνο με Wi-Fi</string>
@@ -4866,7 +4863,7 @@
      <string name="system_alert_window_off">Όχι</string>
      <string name="system_alert_window_on">Ναι</string>
      <string name="system_alert_window_settings">Σχεδίαση πάνω από άλλες εφαρμογές</string>
-     <string name="system_alert_window_summary" formatted="false">%d από %d εφαρμογές επιτρέπεται να σχεδιάζουν πάνω από άλλες εφαρμογές</string>
+     <string name="system_alert_window_summary">%1$d από %2$d εφαρμογές επιτρέπεται να σχεδιάζουν πάνω από άλλες εφαρμογές</string>
      <string name="system_and_device_section_title">Ρυθμίσεις Συστήματος</string>
      <string name="system_app">(Σύστημα)</string>
      <string name="system_app_settings">Ρυθμίσεις εφαρμ. Συστήματος</string>
@@ -5824,9 +5821,7 @@
      <string name="wifi_setup_back">Πίσω</string>
      <string name="wifi_setup_cancel">Άκυρο</string>
      <string name="wifi_setup_connect">Σύνδεση</string>
-     <string name="wifi_setup_description_connected">"Αγγίξτε &lt;b&gt;Επόμενο&lt;/b&gt; για να συνεχίσετε με την εγκατάσταση.
-
-Αγγίξτε &lt;b&gt;Πίσω&lt;/b&gt; για να συνδεθείτε σε ένα άλλο δίκτυο Wi-Fi."</string>
+     <string name="wifi_setup_description_connected">Αγγίξτε \"Επόμενο\" για να συνεχίσετε με την εγκατάσταση.\n\nΑγγίξτε \"Πίσω\" για να συνδεθείτε σε ένα άλλο δίκτυο Wi-Fi.</string>
      <string name="wifi_setup_description_connecting">Σύνδεση μπορεί να διαρκέσει μερικά λεπτά …</string>
      <string name="wifi_setup_detail">Πληροφορίες δικτύου</string>
      <string name="wifi_setup_eap_not_supported">"Δεν μπορείτε να ρυθμίσετε τις παραμέτρους μιας σύνδεσης EAP Wi-Fi κατά τη διάρκεια της ρύθμισης Μετά την εγκατάσταση μπορείτε να το κάνετε στις Ρυθμίσεις&gt; Wi-Fi "</string>
