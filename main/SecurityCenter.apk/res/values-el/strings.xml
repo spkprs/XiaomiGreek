@@ -3147,6 +3147,8 @@
     <string name="low_temperature_warning_message"> "Φαίνεται ότι έχει πολύ κρύο και το τηλέφωνό σας μπορεί να απενεργοποιηθεί νωρίτερα από ότι αναμένετε. Αποθηκεύστε όλες τις σημαντικές αλλαγές.  "</string>
     <string name="low_temperature_warning_title">Η θερμοκρασία του αέρα είναι χαμηλή</string>
     <string name="notification_channel_battery">Μπαταρία</string>
+    <string name="notification_garbage_cleanup_summary">Εκκαθ. (%s) για επιτάχυνση συσκευής</string>
+    <string name="notification_garbage_cleanup_title">Εκκαθάριση άχρηστων αρχείων</string>
     <string name="notification_low_battery_action_btn">Ενεργοποίηση</string>
     <string name="notification_low_battery_need_charge">Φορτίστε τη συσκευή σας</string>
     <string name="notification_low_battery_open_save_mode">Ενεργοποίηση εξοικον. μπαταρίας</string>
