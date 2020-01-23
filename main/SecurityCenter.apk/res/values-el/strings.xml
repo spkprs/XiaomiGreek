@@ -2530,7 +2530,7 @@
      <string name="title_device_not_root">Η πρόσβαση root δεν παραχωρήθηκε</string>
      <string name="title_do_not_disturb">Δεν ακούτε τον ήχο κλήσης?</string>
      <string name="title_eye_shield">Το χρώμα της οθόνης δεν φαίνεται σωστό?</string>
-     <string name="title_find_device">Ενεργοποίηση του Εύρεση συσκευής</string>
+     <string name="title_find_device">Εύρεση συσκευής</string>
      <string name="title_first_aid_kit">Επίλυση προβλ.</string>
      <string name="title_flow_notification">Αναφορά χρήσης δεδομένων</string>
      <string name="title_flow_purchase">Ανανέωση πακέτου δεδομένων</string>
