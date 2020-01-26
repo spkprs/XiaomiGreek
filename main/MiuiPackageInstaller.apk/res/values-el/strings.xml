@@ -432,7 +432,7 @@
      <string name="untrusted_external_source_warning_summary_2">"Οι εφαρμογές από άγνωστες πηγές μπορεί να είναι επιβλαβείς για τη συσκευή και τα προσωπικά δεδομένα σας. Εγκαθιστώντας εφαρμογές από αυτή την πηγή, συμφωνείτε να αναλάβετε την ευθύνη για πιθανή βλάβη στο τηλέφωνο ή στα προσωπικά σας δεδομένα που μπορεί να προκληθούν από αυτές τις εφαρμογές.
 
 "<font size="15">Μπορείτε να δώσετε άδεια στις Ρυθμίσεις > Κωδικοί και Ασφάλεια > Ειδική πρόσβαση στην εφαρμογή > Εγκατ/ση άγνωστων εφαρ/γών.</font></string>
-    <string name="application_detail_tips">Λεπτομέρειες εφαρμογής και ρυθμίσεις δικαιωμάτων</string>
+    <string name="application_detail_tips">Πληροφορίες &amp; ρυθμίσεις αδειών</string>
     <string name="install_finished_notification_summary">Κάντε κλικ για Εκκαθάριση τώρα</string>
     <string name="install_finished_notification_title">Η εγκατάσταση της %1$s ολοκληρώθηκε. Μεταβείτε για εκκαθάριση %2$s απορριμμάτων</string>
     <string name="miui_install_version_3">Έκδοση %1$s -> %2$s | Μέγεθος %3$s</string>
