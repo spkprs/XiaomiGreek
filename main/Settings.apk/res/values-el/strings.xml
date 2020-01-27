@@ -694,6 +694,12 @@
      <string name="bluetooth_hid_profile_summary_use_for">Χρήση για εισαγωγή</string>
      <string name="bluetooth_icon_title">Απόκρυψη εικονιδίου Bluetooth</string>
      <string name="bluetooth_incoming_pairing_msg">Από:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Σύζευξη με αυτή τη συσκευή?</string>
+     <string name="bluetooth_inform_messgae">"Αδυναμία σύνδεσης με \"%1$s\".
+Δείτε τι μπορεί να είναι λάθος:
+1. B/T είναι ανενεργό ή εκτός εμβέλειας.
+2. Δεν βρίσκεται σε λειτουργία εντοπισμού.
+3. Είναι συνδεδεμένη με άλλες συσκευές. Αποσύνδεση και δοκιμάστε ξανά."</string>
+     <string name="bluetooth_inform_messgae_title">"Αδύνατη η σύνδεση"</string>
      <string name="bluetooth_is_disconnect_question">Αποσύνδεση %1$s;</string>
      <string name="bluetooth_is_discoverable">Ορατή σε κοντινές συσκευές Bluetooth (%1$s)</string>
      <string name="bluetooth_is_discoverable_always">Κάντε τη συσκευή ορατή σε άλλες κοντινές συσκευές Bluetooth</string>
