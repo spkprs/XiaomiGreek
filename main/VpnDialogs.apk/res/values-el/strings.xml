@@ -3,7 +3,7 @@
 	 <string name="always_on_disconnected_message">%1$s έχει ρυθμιστεί ώστε να παραμένει συνδεδεμένος όλη την ώρα, αλλά δεν μπορεί να συνδεθεί αυτή τη στιγμή. Το τηλέφωνό σας θα χρησιμοποιεί δημόσιο δίκτυο έως ότου μπορεί να συνδεθεί ξανά %1$s.</string>
 	 <string name="always_on_disconnected_message_lockdown">%1$s έχει ρυθμιστεί ώστε να παραμένει συνδεδεμένος όλη την ώρα, αλλά δεν μπορεί να συνδεθεί αυτή τη στιγμή. Δεν θα έχετε σύνδεση μέχρι να μπορέσει να συνδεθεί ξανά το VPN.</string>
 	 <string name="always_on_disconnected_message_settings_link">Αλλαγή ρυθμίσεις VPN</string>
-  	 <string name="always_on_disconnected_title">Δεν είναι δυνατή η σύνδεση σε πάντα-σε VPN</string>
+  	 <string name="always_on_disconnected_title">Δεν είναι δυνατή η σύνδεση σε πάντα σε VPN</string>
      <string name="configure">Διαμόρφωση</string>
      <string name="data_received">Λήφθησαν:</string>
      <string name="data_transmitted">Απεσταλμένα:</string>
