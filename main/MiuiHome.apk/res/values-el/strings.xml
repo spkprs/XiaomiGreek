@@ -267,6 +267,7 @@
 	<string name="home_screen">Αρχική οθόνη</string>
 	<string name="home_screen_settings">Αρχική οθόνη</string>
 	<string name="home_slide_up_action">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
+    <string name="home_switch_personal_assistant">Λειτουργία Βοηθού</string>
 	<string name="icon_reorganize_channel">Τακτοποίηση εικονιδίων</string>
 	<string name="icon_size">Μέγεθος Εικονιδίου</string>
 	<string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη</string>
@@ -454,6 +455,9 @@
 	<string name="system_shortcuts_more_operation">Πληροφορίες</string>
     <string name="system_shortcuts_remove">Αφαίρεση</string>
 	<string name="system_text">Σύστημα</string>
+	<string name="switch_personal_assistant_app_vault">Βοηθός MIUI</string>
+	<string name="switch_personal_assistant_google">Google Discover</string>
+	<string name="switch_personal_assistant_none">Χωρίς</string>
 	<string name="task_access_locked_app_msg">Κλείδωμα εφαρμογών ενεργό</string>
 	<string name="title_jeejen">Αρχική σελίδα Jeejen</string>
 	<string name="title_select_live_folder">Επιλογή φακέλου</string>
