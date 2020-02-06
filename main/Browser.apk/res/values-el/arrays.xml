@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="menu_theme_setting">
+        <item>Άσπρο</item>
+        <item>Κίτρινο</item>
+        <item>Γκρι</item>
+        <item>Καφέ</item>
+        <item>Πράσινο</item>
+        <item>Μπλε</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Ακατάλληλο περιεχόμενο</item>
+        <item>Ψεύδος</item>
+        <item>Παλαιές ειδήσεις</item>
+        <item>Εξτρεμιστικές απόψεις</item>
+        <item>Υποσυνείδητη διαφήμιση</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Σελίδα πίσω/μπροστά</item>
+        <item>Εναλλαγή καρτελών</item>
+        <item>Τίποτα</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Προεπιλεγμένη αρχική σελίδα</item>
+        <item>Προεπιλεγμένη</item>
         <item>Προσαρμογή</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Τηλέφωνο</item>
         <item>Pad</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+       <item>Προβολή πλακιδίων</item>
+        <item>Κατακόρυφη προβολή</item>
+        <item>Οριζόντια προβολή</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>
@@ -17,7 +42,7 @@
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Επιφάνεια εργασίας</item>
+        <item>PC</item>
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
@@ -30,30 +55,7 @@
         <item>Ακολουθήστε</item>
     </string-array>
     <string-array name="shortcut_dialog_title">
-        <item>Μήνυμα από τον φυλλομετρητή</item>
+        <item>Μήνυμα από τον Browser</item>
         <item>Συντονιστείτε με τους Ολυμπιακούς Αγώνες μέσω Mi</item>
     </string-array>
-    <string-array name="pref_fling_gesture_entries">
-        <item>Επιστροφή προς τα εμπρός</item>
-        <item>Εναλλαγή καρτελών</item>
-        <item>Χωρίς</item>
-    </string-array>
-    <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Προβολή πλακιδίων</item>
-        <item>Κάθετη προβολή</item>
-        <item>Οριζόντια προβολή</item>
-    </string-array>
-    <string-array name="pref_tab_restore_array">
-        <item>Ερώτηση πάντα</item>
-        <item>Άνοιγμα</item>
-        <item>Κλείσιμο</item>
-    </string-array>
-    <string-array name="suggestion_topic_tips">
-        <item>Παρακολούθηση εστίασης</item>
-        <item>Κεντρικό θέμα</item>
-    </string-array>
-     <string-array name="quick_link_tabs">
-        <item>Σελιδοδείκτες</item>
-        <item>Ιστορικό</item>
-     </string-array>
- </resources>
+</resources>
