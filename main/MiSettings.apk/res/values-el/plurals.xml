@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="usage_remain_about_hour">
+    <item quantity="other">≈%s ώρες</item>
+    <item quantity="one">≈%s ώρα</item>
+  </plurals>
+  <plurals name="usage_remain_about_miunte">
+    <item quantity="other">≈%s λεπτά</item>
+    <item quantity="one">≈%s λεπτό</item>
+  </plurals>
   <plurals name="usage_state_device_explain_today">
     <item quantity="other">Ξεκλειδώθηκε %d φορές</item>
     <item quantity="one">Ξεκλειδώθηκε %d φορά</item>

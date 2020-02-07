@@ -82,6 +82,15 @@
 	<string name="usage_beat_fans">Καλύτερο από %s οπαδών Mi</string>
 	<string name="usage_continuous_days">Ράβδωση</string>
     <string name="usage_creating_weekly_report">Δημιουργία εβδομαδιαίας αναφοράς...</string>
+    <string name="usage_current_week_usage">%s μέσος όρος τελευταίων 7 ημερών</string>
+    <string name="usage_device_limit_app_prolong">Προσθήκη χρόνου</string>
+    <string name="usage_device_limit_app_prolong_time1">Προσθήκη 20 λεπτών</string>
+    <string name="usage_device_limit_app_prolong_time2">Προσθήκη 40 λεπτών</string>
+    <string name="usage_device_limit_app_prolong_time3">Προσθήκη 60 λεπτών</string>
+    <string name="usage_device_limit_app_prolong_time4">"Χωρίς περιορισμό σήμερα"</string>
+    <string name="usage_device_limit_notifation_summary_start">"Θα φτάσετε το όριό σας σε %1$s"</string>
+    <string name="usage_device_limit_notifation_title">Χρόνος που απομένει σήμερα</string>
+    <string name="usage_device_limit_time_over">"Έχετε φτάσει στο σημερινό όριο (%1$s)"</string>
 	<string name="usage_focus_focus_premission_main_summary">Αυτή η εφαρμογή πρέπει να έχει πρόσβαση στα στοιχεία του λογαριασμού σας για να καταγράψει τα στατιστικά στοιχεία χρήσης της λειτουργίας Εστίασης.</string>
 	<string name="usage_focus_focus_premission_second_summary">"Εάν δεν συμφωνείτε να παραχωρήσετε τέτοια δικαιώματα, δεν θα μπορείτε να χρησιμοποιήσετε κάποιες λειτουργίες αυτής της εφαρμογής. Ωστόσο, η βασική λειτουργικότητα θα είναι ακόμα διαθέσιμη σε εσάς. Μπορείτε πάντα να περιορίσετε τα δικαιώματα ή να ανακαλέσετε την εξουσιοδότησή σας στις Ρυθμίσεις."</string>
     <string name="usage_focus_new_summary">Γίνετε πιο προσεκτικοί και επικεντρωμένοι</string>
@@ -99,6 +108,8 @@
 	<string name="usage_home_premission_main_summary">"Καλώς ορίσατε στην Screen time! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να ορίσετε τα χρονικά όρια της οθόνης, να προβάλετε στατιστικά στοιχεία και να μεταβείτε στη λειτουργία εστίασης. Αυτή η εφαρμογή πρέπει να συλλέξει πληροφορίες χρόνου οθόνης (π.χ. τον αριθμό των φορών που ξεκλειδώνετε το τηλέφωνό σας και ενεργοποιείτε την οθόνη, καθώς και για το χρονικό διάστημα που χρησιμοποιείτε εφαρμογές) για να λειτουργήσει κανονικά."</string>
 	<string name="usage_home_premission_second_summary">Για να είναι δυνατή η κανονική λειτουργία, αυτή η εφαρμογή πρέπει να συλλέξει τα προσωπικά σας στοιχεία.Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές νομοθετικές, κανονισμούς και πολιτικές απορρήτου.</string>
 	<string name="usage_no_net_summary">Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά</string>
+    <string name="usage_reach_device_limit">"Ο χρόνος τελείωσε! Φτάσατε στο όριό σας."</string>
+    <string name="usage_reach_device_limit_warning_text">"Έχετε συμπληρώσει το χρονικό όριο οθόνης για σήμερα"</string>
 	<string name="usage_refresh">Δοκιμάστε ξανά</string>
 	<string name="usage_request_error_summary">Παρουσιάστηκε άγνωστο σφάλμα</string>
 	<string name="usage_request_timeout_summary">Το χρονικό όριο της αίτησης έληξε</string>
@@ -192,7 +203,18 @@
 	<string name="usage_state_which_mouth">MMM</string>
 	<string name="usage_state_work_day">Εργάσιμες</string>
 	<string name="usage_state_work_day_hour_minute" formatted="false">Εργάσιμες: %dΩ %dΛ</string>
+    <string name="usage_stats_device_limit">Ημερήσιο χρονικό όριο οθόνης</string>
+    <string name="usage_stats_device_limit_summary">Ορισμός ημερήσιου ορίου χρήσης</string>
 	<string name="usage_stats_experience_text">Πατήστε για δοκιμή (1 λ)</string>
+    <string name="usage_stats_limit_time_accuracy_title">Υπολειπόμενη εκτίμηση χρόνου</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary">Εμφάνιση του χρόνου που απομένει με ακρίβεια λεπτού. Αυτό αυξάνει την κατανάλωση ενέργειας.</string>
+    <string name="usage_stats_limit_time_high_accuracy_title">Υψηλή</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary">Εμφάνιση του χρόνου που απομένει με ακρίβεια λεπτού των τελευταίων 2 ωρών που απομένουν για εξοικονόμηση μπαταρίας</string>
+    <string name="usage_stats_limit_time_low_accuracy_title">Χαμηλή</string>
+    <string name="usage_stats_limit_time_warn">Προειδοποιήσεις Χρόνου Οθόνης</string>
+    <string name="usage_stats_limit_time_warn_summary">Εμφάνιση του Χρόνου Οθόνης που απομένει στον Πίνακα Ειδοποιήσεων</string>
+    <string name="usage_stats_limit_time_warn_title">Προειδοποίηση του Χρόνου Οθόνης</string>
+    <string name="usage_stats_no_limit">Εξαιρέσεις εφαρμογών</string>
 	<string name="usage_stats_normal_day">Εργάσιμες</string>
 	<string name="usage_stats_week_day">Σαββατοκύριακα</string>
 	<string name="usage_total_days">Συνολικές ημέρες</string>
