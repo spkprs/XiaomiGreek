@@ -3381,7 +3381,7 @@
      <string name="pointer_settings_category">Ποντίκι/Δείκτης</string>
      <string name="pointer_speed">Ταχύτητα δείκτη</string>
      <string name="popup_gesture_title">Σηκώστε για άνοιγμα εμπρός Κάμερας </string>
-     <string name="popup_gesture_summary">Επιστρέψτε στην αρχική οθόνη, σηκώστε το τηλέφωνο και κοιτάξτε την οθόνη για να ανοίξετε αυτόματα την μπροστινή Κάμερα</string>
+     <string name="popup_gesture_summary">Επιστρέψτε στην Αρχική Οθόνη, σηκώστε γρήγορα &amp; κάθετα το τηλέφωνο για να ανοίξει αυτόματα η εμπρός Κάμερα.</string>
      <string name="popup_window">Περιορισμός αναδυόμενων ειδοποιήσεων</string>
      <string name="power_autorun_apps_empty">Δεν υπάρχουν εφαρμογές αυτόματης εκκίνησης</string>
      <string name="power_autorun_empty">Καμία από τις εφαρμογές σας δεν μπορεί να προστεθεί</string>
@@ -6512,9 +6512,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="popup_led_try_later">Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά</string>
     <string name="popup_title">Εφέ εμπρός Κάμερας</string>
     <string name="popup_led_title">Οπτικά εφέ</string>
-    <string name="popup_led_summary">Εμφάνιση κινούμενης εικόνας κατά την είσοδο ή έξοδο της εμπρός Κάμερας</string>
+    <string name="popup_led_summary">Εμφάνιση φωτεινής ένδειξης κατά την έξοδο ή είσοδο της εμπρός Κάμερας</string>
     <string name="popup_voice_title">Ηχητικά εφέ</string>
-    <string name="popup_voice_summary">Ήχος κατά την είσοδο ή έξοδο της εμπρός Κάμερας</string>
+    <string name="popup_voice_summary">Ήχος κατά την έξοδο ή είσοδο της εμπρός Κάμερας</string>
     <string name="popup_title_chilun">Gearwheel</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_muqin">Xylophone</string>
