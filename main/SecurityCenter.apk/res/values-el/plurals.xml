@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
+	<plurals name="app_behavior_desc_allow">
+         <item quantity="other">Επιτρέπεται %3$d φορές από %1$s έως %2$s</item>
+         <item quantity="one">Επιτρέπεται %3$d φορά από %1$s έως %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+         <item quantity="other">Απορρίφθηκε %3$d φορές από %1$s έως %2$s</item>
+         <item quantity="one">Απορρίφθηκε %3$d φορά από %1$s έως %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+         <item quantity="other">Απενεργοποίηση ειδοποιήσεων συμπεριφοράς σε σε %1$d εφαρμ.</item>
+          <item quantity="zero">Δεν υπάρχουν εφαρμογές με απενεργοποιημένες ειδοποιήσεις συμπεριφοράς</item>
+         <item quantity="one">Απενεργοποίηση ειδοποιήσεων συμπεριφοράς σε σε %1$d εφαρμ.</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+         <item quantity="other">Ενεργοποίηση ειδοποιήσεων συμπεριφοράς σε %1$d εφαρμ.</item>
+         <item quantity="zero">Δεν υπάρχουν εφαρμογές με ενεργοποιημένες ειδοποιήσεις συμπεριφοράς</item>
+         <item quantity="one">Ενεργοποίηση ειδοποιήσεων συμπεριφοράς σε %1$d εφαρμ.</item>
+    </plurals>
      <plurals name="add_game_notification_title">
         <item quantity="other">Προστέθηκαν %d παιχνίδια</item>
         <item quantity="one">Προστέθηκε %d παιχνίδι</item>
