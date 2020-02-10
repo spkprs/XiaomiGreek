@@ -181,6 +181,8 @@
 	<string name="status_bar_toggle_wifi">Wi-Fi</string>
 	<string name="status_bar_toggle_wifi_ap">Hotspot</string>
 	<string name="subinfo_default_name">SIM %d</string>
+    <string name="sunlight_notification_content">Αυτόματη ρύθμιση της φωτεινότητας σε έντονο φως περιβάλλοντος</string>
+    <string name="sunlight_notification_title">Λειτουργία ηλιακού φωτός</string>
 	<string name="super_resolution_maintain_tips">Η σούπερ ανάλυση δεν είναι διαθέσιμη ακόμα.</string>
 	<string name="switch_brand_desc_tv">Υπηρεσίες ασφαλείας που παρέχονται από το Graphite</string>
 	<string name="switch_desc_tv">Δύο χώροι. Μία συσκευή.</string>

@@ -802,6 +802,8 @@
   <string name="menu_shift_shortcut_label">Shift+</string>
   <string name="menu_space_shortcut_label">διάστημα</string>
   <string name="menu_sym_shortcut_label">Sym+</string>
+  <string name="miaudiovisual_notification_summary">Ενεργοποίηση για εμφάνιση εφέ στην οθόνη κλειδώματος</string>
+  <string name="miaudiovisual_notification_title">Ηχητικά και Οπτικά εφέ</string>
   <string name="Midnight">Μεσάνυχτα</string>
   <string name="midnight">μεσάνυχτα</string>
   <string name="minute">λεπτά</string>

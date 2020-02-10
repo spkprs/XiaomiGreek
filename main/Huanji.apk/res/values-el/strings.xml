@@ -152,10 +152,13 @@
   <string name="err_bakfile_broken">Δεν είναι δυνατή η χρήση αυτού του αντιγράφου ασφαλείας.</string>
   <string name="err_bakfile_not_exist">Δεν υπάρχει αρχείο αντιγράφων ασφαλείας.</string>
   <string name="err_binder_died">Η εφαρμογή τερματίστηκε απροσδόκητα.</string>
-  <string name="err_low_storage">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
+  <string name="err_low_storage">Ανεπαρκής χώρος αποθήκευσης</string>
   <string name="err_no_gms">Μη συμβατή έκδοση εφαρμογής. Εγκαταστήστε αυτήν την εφαρμογή ξεχωριστά.</string>
   <string name="err_not_allow">Δεν υποστηρίζεται</string>
   <string name="err_pkg_not_exist">Αδύνατη η εύρεση εφαρμογής.</string>
+  <string name="err_remote_no_space">Ανεπαρκής χώρος στη νέα συσκευή</string>
+  <string name="err_remote_timeout">Λήξη χρονικού ορίου μεταφοράς</string>
+  <string name="err_send_error">"Αδυναμία αποστολής"</string>
   <string name="err_unknown">Αγνωστο σφάλμα</string>
   <string name="err_user_abort">Ακύρωση από τον χρήστη.</string>
   <string name="err_version_too_old">Το αρχείο αντιγράφων ασφαλείας είναι πολύ παλιό.</string>
@@ -251,7 +254,7 @@
   <string name="hsa_tip_message_shutdown_hsa">Πώς να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων</string>
   <string name="hsa_tip_title">Βοήθεια</string>
   <string name="hsa_verify_failed">Ο έλεγχος ταυτότητας δύο παραγόντων δεν λειτούργησε</string>
-  <string name="hsa_verify_failed_message">Ο έλεγχος ταυτότητας δύο παραγόντων δεν λειτούργησε. Μπορείτε να δοκιμάσετε ξανά ή να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων.</string>
+  <string name="hsa_verify_failed_message">Ο έλεγχος ταυτότητας δύο παραγόντων δεν λειτούργησε. Δοκιμάσετε ξανά.</string>
   <string name="hsa_verify_retry">Προσπαθήστε ξανά</string>
   <string name="hsa_verify_shutdown">Απενεργοποίηση</string>
   <string name="hybrid_provider">Παρέχεται από %1$s</string>

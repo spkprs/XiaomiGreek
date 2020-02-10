@@ -50,6 +50,8 @@
 	<string name="business_new_contacts">Δημιουργία επαφής</string>
 	<string name="business_no_result">"Αδυναμία αναγνώρισης της επαγγελματικής κάρτας. Προσπάθησε ξανά."</string>
 	<string name="calender">Ημερολόγια</string>
+    <string name="calories_logo_text">Υποστήριξη AI που παρέχεται από την Health Hope</string>
+    <string name="calories_request_interface_text">Υποστήριξη AI</string>
 	<string name="call_anyone">Κλήση</string>
 	<string name="camera_error_title">Σφάλμα κάμερας</string>
 	<string name="cancel">Ακύρωση</string>

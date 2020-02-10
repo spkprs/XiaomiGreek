@@ -150,6 +150,7 @@
 	<string name="color_effect_live_solar">Μπλέ ουρανού</string>
 	<string name="color_effect_live_years">Σέπια</string>
     <string name="color_enhance">Ζωηρό</string>
+    <string name="color_enhance_mode">Βελτιωμένα χρώματα</string>
 	<string name="config_name_group">Ομαδική selfie</string>
 	<string name="config_name_magic">Μαγεία</string>
 	<string name="config_name_mimovie">Λειτουργία Ταινίας</string>
@@ -536,6 +537,7 @@
 	<string name="pref_camera_beauty">Αισθητική</string>
 	<string name="pref_camera_beauty_deep">Αισθητική Pro</string>
 	<string name="pref_camera_bokeh_title">Πορτρέτο</string>
+    <string name="pref_camera_debug_info_as_watermark_title">Ενεργοποίηση αποσφαλμάτωσης υδατογραφήματος</string>
 	<string name="pref_camera_coloreffect_entry_big_face">Έκταση</string>
 	<string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
 	<string name="pref_camera_coloreffect_entry_fisheye">Μεγάλα μάτια</string>
@@ -733,6 +735,7 @@
 	<string name="pref_camera_video_duration_entry_30">30 λεπτά</string>
 	<string name="pref_camera_video_duration_entry_mms">30 δευτ. (MMS)</string>
 	<string name="pref_camera_video_flashmode_default">off</string>
+    <string name="pref_camera_video_sat_enable_title">Ενεργοποίηση ομαλού Ζουμ βίντεο</string>
 	<string name="pref_camera_video_tag">Να επιτρέπεται η Σήμανση βίντεο</string>
 	<string name="pref_camera_video_tag_description">Πατήστε \"Σήμανση\" κατά την αναπαραγωγή ενός βίντεο για να μπορέσετε να επιστρέψετε σε επισημασμένες στιγμές κατά τη διάρκεια της αναπαραγωγής</string>
 	<string name="pref_camera_volumekey_function_entry_exposure">Έκθεση</string>

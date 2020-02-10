@@ -73,6 +73,8 @@
   <string name="locale_picker_title">Επιλέξτε την τοποθεσία σας</string>
   <string name="location_introduction">Οι υπηρεσίες που βασίζονται στην τοποθεσία βρίσκουν προϊόντα και υπηρεσίες κοντά σας.</string>
   <string name="lockscreen_introduction">Το Καρουσέλ ταπετσαρίες σας επιτρέπει να έρχονται καθημερινά νέες εικόνες στην οθόνη κλειδώματος.</string>
+  <string name="mint_keyboard_oobe_checkbox">"Έχω διαβάσει και συμφωνώ με την Πολιτική απορρήτου του Mint Keyboard"</string>
+  <string name="mint_keyboard_oobe_terms">Πολιτική απορρήτου του Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">Δεν έχετε μια σύνδεση δικτύου. Δείτε την Πολιτική Απορρήτου στο %s</string>
   <string name="miui_terms_no_network">Δεν έχετε μια σύνδεση δικτύου. Δείτε την Συμφωνία Χρήστη στο %s</string>
   <string name="multisim_settings_category">Ρυθμίσεις κάρτας SIM</string>
@@ -219,7 +221,10 @@
 Πρέπει να συμφωνήσετε με την πολιτική απορρήτου της Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
   <string name="terms_of_use_lable_default_input_method_kika">"
   
-  Πρέπει να συμφωνήσετε με την πολιτική απορρήτου της Kika πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
+Πρέπει να συμφωνήσετε με την πολιτική απορρήτου της Kika πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
+
+Πρέπει να συμφωνήσετε με την πολιτική απορρήτου του Mint Keyboard πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
   <string name="terms_of_use_lable_gms">, Υπηρεσίες Google Play</string>
   <string name="terms_of_use_lable_smart_cards">, Έξυπνες κάρτες</string>
   <string name="terms_of_use_lable_vsimcore">, MConnService</string>

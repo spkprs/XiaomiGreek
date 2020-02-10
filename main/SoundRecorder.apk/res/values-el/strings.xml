@@ -144,6 +144,16 @@
      <string name="preference_silent_mode">Σίγαση κουδουνίσματος κατά την εγγραφή</string>
      <string name="preference_tip_rename">Χειροκίνητη μετονομασία εγγραφών</string>
      <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
+	<string name="recognition_button_add_to_queue">Προσθήκη στην ουρά</string>
+	<string name="recognition_button_cancel">Όχι τώρα</string>
+	<string name="recognition_button_start">Μετεγγραφή</string>
+	<string name="recognition_confirm_dialog_body">"Η μετεγγραφή μπορεί να πάρει κάποιο χρόνο. Θα λάβετε ειδοποίηση όταν ολοκληρωθεί αυτή η εργασία. Τώρα μετεγγραφή;"</string>
+	<string name="recognition_interrupt_current_dialog_body">"Η μετεγγραφή μπορεί να πάρει κάποιο χρόνο. Θα λάβετε ειδοποίηση όταν ολοκληρωθεί αυτή η εργασία. Το αρχείο \"%s\" εγγράφεται τώρα. Προσθήκη αυτής της εργασίας στην ουρά μετεγγραφής;"</string>
+	<string name="recognition_notification_channel">Μετεγγραφή...</string>
+	<string name="recognition_notification_complete_success">Η μετεγγραφή \"%s\" ολοκληρώθηκε με επιτυχία. Πατήστε για προβολή.</string>
+	<string name="recognition_notification_error">"Δεν ήταν δυνατή η μετεγγραφή \"%s\"</string>
+	<string name="recognition_notification_running">Μετεγγραφή \"%s\"…</string>
+	<string name="recognition_stop_current">Διακοπή τρέχουσας εργασίας</string>
      <string name="recognition_error_cancel">Ακυρώθηκε</string>
      <string name="recognition_error_code">κωδικό σφάλμα: %d</string>
      <string name="recognition_error_download_cancel">Αργότερα</string>

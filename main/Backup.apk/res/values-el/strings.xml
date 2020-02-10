@@ -209,6 +209,34 @@
   <string name="loading_data">Φόρτωση δεδομένων</string>
   <string name="local_app_name">Αντίγραφα</string>
   <string name="local_backup_window_title">Τοπικά αντίγραφα Δεδομένων</string>
+    <string name="local_back_up_detail_description">"Σημείωση:
+1. Για να αποφύγετε την απώλεια δεδομένων, αντιγράψτε τοπικά αντίγραφα ασφαλείας στον υπολογιστή σας.
+2. Να αντιγράφετε πάντα τοπικά αντίγραφα ασφαλείας στον υπολογιστή σας πριν κάνετε εργοστασιακή επαναφορά, διαφορετικά τα τοπικά αντίγραφα ασφαλείας θα χαθούν.
+3. Πού είναι αποθηκευμένα τα τοπικά αντίγραφα ασφαλείας; %1$s"</string>
+    <string name="local_backup_select_activity">Δημιουργία αντιγράφου</string>
+    <string name="local_button_backup_data">Αντιγράφο</string>
+    <string name="local_button_backup_now">Αντιγράφο</string>
+    <string name="local_button_restore_data">Επαναφορά σε αυτή τη συσκευή</string>
+    <string name="local_button_restore_now">Επαναφορά</string>
+    <string name="local_click_to_jump">Πατήστε για προβολή</string>
+    <string name="local_config_off">Off</string>
+    <string name="local_config_on">On</string>
+    <string name="local_main_auto_backup_title">Αυτόματη δημιουργία αντιγράφων</string>
+    <string name="local_main_backup">Τοπικά αντίγραφα</string>
+    <string name="local_main_backup_and_restore">Σε αυτήν τη συσκευή</string>
+    <string name="local_main_backup_detail_title">Ρυθμίσεις συστήματος, λογαριασμοί και δεδομένα εφαρμογών</string>
+    <string name="local_main_backup_manage_null">%s</string>
+    <string name="local_main_backup_manager">Διαχείριση τοπικών αντιγράφων</string>
+    <string name="local_main_backup_manager_title">Διαχείριση αντιγράφων</string>
+    <string name="local_main_backup_settings">Ρυθμίσεις τοπικών αντιγράφων</string>
+    <string name="local_main_backup_time">Τελευταίο αντίγραφο: %1$s</string>
+    <string name="local_main_date_format">MM/dd/yyyy HH:mm</string>
+    <string name="local_main_encrypt_backup_summary">Κρυπτογραφήστε τα στοιχεία που δημιουργείτε αντίγραφα χρησιμοποιώντας το Λογαριασμό Mi</string>
+    <string name="local_main_encrypt_backup_title">Κρυπτογράφηση αντιγράφων</string>
+    <string name="local_main_latest_backup_time_loading">Μισό λεπτό...</string>
+    <string name="local_no_backup_data">Δεν υπάρχουν ακόμη αντίγραφα εδώ</string>
+    <string name="local_restore_select_activity">Διαχείριση αντιγράφων</string>
+    <string name="local_restore_select_data_activity">Επαναφορά από αντίγραφο</string>
   <string name="local_home_title">Αντίγραφα ασφαλείας τοπικά</string>
   <string name="local_no_backup">Δεν υπάρχουν αντίγραφα</string>
   <string name="local_restore_window_title">Επαναφορά από τοπικό αρχείο</string>
