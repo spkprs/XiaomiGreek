@@ -2333,8 +2333,9 @@
      <string name="st_group_list_management">Διαχείριση λίστας αποκλεισμών</string>
      <string name="st_hint_add_head_number">Εισάγετε πρόθεμα</string>
      <string name="st_hint_add_phonenumber">Εισάγετε αριθμό τηλεφώνου</string>
+     <string name="st_hint_operatelist">Φαίνεται ότι αυτός ο κανόνας υπάρχει ήδη</string>
      <string name="st_message_SMS_AntiSpam">Αποκλεισμός SMS</string>
-     <string name="st_message_SMSpass">Επέτρεψε SMS</string>
+     <string name="st_message_SMSpass">Αποδοχή SMS</string>
      <string name="st_message_phone_AntiSpam">Αποκλεισμός κλήσεων</string>
      <string name="st_message_phonepass">Επέτρεψε κλήσεις</string>
      <string name="st_msg_intercept_contacts">Αποκλεισμός SMS από επαφές</string>

@@ -48,8 +48,8 @@
 	<string name="accessibility_intent_done_retry">Επανάληψη</string>
 	<string name="accessibility_lighting_panel_off">Απόκρυψη μπάρας φωτισμού στούντιο</string>
 	<string name="accessibility_lighting_panel_on">Εμφάνιση μπάρας φωτισμού στούντιο</string>
-	<string name="accessibility_mimovie_off">Η λειτουργία Ταινίας είναι ανενεργή</string>
-	<string name="accessibility_mimovie_on">Η λειτουργία Ταινίας είναι ενεργή</string>
+	<string name="accessibility_mimovie_off">Χωρίς πλαισίο ταινίας</string>
+	<string name="accessibility_mimovie_on">Χρήση πλαισίου ταινίας</string>
 	<string name="accessibility_mode_dismiss_button">Κουμπί επιλογής Κλειστής λειτουργίας</string>
 	<string name="accessibility_more">Περισσότερα</string>
 	<string name="accessibility_open">Ενεργοποιημένη</string>
@@ -153,7 +153,7 @@
     <string name="color_enhance_mode">Βελτιωμένα χρώματα</string>
 	<string name="config_name_group">Ομαδική selfie</string>
 	<string name="config_name_magic">Μαγεία</string>
-	<string name="config_name_mimovie">Λειτουργία Ταινίας</string>
+	<string name="config_name_mimovie">Πλαίσιο ταινίας</string>
 	<string name="config_name_ratio">Αναλογία</string>
 	<string name="config_name_scene">Σκηνή</string>
 	<string name="config_name_setting">Ρυθμίσεις</string>
@@ -421,6 +421,7 @@
 	<string name="multi_window_mode_not_supported">Η Κάμερα δεν λειτουργεί σε Διαχωρισμό οθόνης</string>
 	<string name="network_access_user_notice_agree">Συμφωνώ</string>
 	<string name="network_access_user_notice_message_live_video">" "<Data>"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει εφέ, μουσική και άλλα χαρακτηριστικά για σύντομα βίντεο.&lt;br/>&lt;br/>Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s> Συμφωνία Χρήστη &lt;/a>  και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</Data>" "</string>
+    <string name="network_access_user_notice_message_mi_live_video"><Data>Καλώς ορίσατε στα Σύντομα Βίντεο! Η υπηρεσία μας πρέπει να συνδεθεί στο δίκτυο για να σας προσφέρει μουσική και άλλα χαρακτηριστικά. &lt;br/>&lt;br/>Πριν χρησιμοποιήσετε την υπηρεσία μας, πρέπει να διαβάσετε και να συμφωνήσετε με &lt;a href =%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, καθώς και να επιτραπεί στην εφαρμογή να συνδεθεί στο διαδίκτυο.</Data></string>
 	<string name="network_access_user_notice_message_sticker">" "<Data>"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει αυτοκόλλητα για αυτό το χαρακτηριστικό.&lt;br/>&lt;br/>Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s>Συμφωνία Χρήστη &lt;/a> και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</Data>" "</string>
 	<string name="network_access_user_notice_message_voice_caption">" "<Data>"Η Κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει λειτουργικότητα εξόδου από ομιλία σε κείμενο.&lt;br/>&lt;br/>Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</Data>" "</string>
 	<string name="network_access_user_notice_title">Σύνδεση στο Internet</string>
@@ -541,7 +542,7 @@
 	<string name="pref_camera_coloreffect_entry_big_face">Έκταση</string>
 	<string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
 	<string name="pref_camera_coloreffect_entry_fisheye">Μεγάλα μάτια</string>
-	<string name="pref_camera_coloreffect_entry_instagram_clarendon">Χρώμα pop</string>
+	<string name="pref_camera_coloreffect_entry_instagram_clarendon">Εστίαση χρώματος</string>
 	<string name="pref_camera_coloreffect_entry_instagram_crema">Ρουστίκ</string>
 	<string name="pref_camera_coloreffect_entry_instagram_hudson">Πάγου</string>
 	<string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
@@ -766,7 +767,7 @@
 	<string name="pref_camera_zsl_entry_off">Off</string>
 	<string name="pref_camera_zsl_entry_on">On</string>
 	<string name="pref_capture_settings">Κάμερα</string>
-	<string name="pref_document_mode">Λειτουργία εγγράφου</string>
+	<string name="pref_document_mode">Έγγραφα</string>
 	<string name="pref_dualcamera_watermark_title">Υδατογράφημα χρήστη</string>
 	<string name="pref_face_beauty_title">Αισθητική</string>
 	<string name="pref_fingerprint_capture_title">Κλείστρο με Δακτυλικό αποτύπωμα</string>
@@ -904,8 +905,8 @@
 	<string name="sticker_tab1">Χαριτωμένο</string>
 	<string name="sticker_tab2">Αστείο</string>
 	<string name="subtitle_network_exception_tips">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Δεν είναι δυνατή η μεταγραφή τώρα."</string>
-	<string name="super_eis">Super σταθεροποίηση</string>
-	<string name="super_eis_disabled_hint">Κλειστή Super σταθεροποίηση</string>
+	<string name="super_eis">Σταθερό βίντεο</string>
+	<string name="super_eis_disabled_hint">Ανενεργό Σταθερό βίντεο</string>
 	<string name="super_night_hint">Βελτιστοποίηση εικόνας... Κρατήστε σταθερά τη συσκευή</string>
 	<string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
 	<string name="tap_to_exposure">Αγγίξτε για χειροκίνητη προσαρμογή έκθεσης</string>
@@ -953,7 +954,7 @@
 	<string name="video_effect_entry_blackwhite">B&amp;W</string>
 	<string name="video_effect_entry_bygone">Περασμένα</string>
 	<string name="video_effect_entry_central">Κέντρο</string>
-	<string name="video_effect_entry_color_retention">Ανάδυση χρώματος</string>
+	<string name="video_effect_entry_color_retention">Εστίαση χρώματος</string>
 	<string name="video_effect_entry_fantasy">Φαντασία</string>
 	<string name="video_effect_entry_film">Ταινία</string>
 	<string name="video_effect_entry_forest">Δάσος</string>

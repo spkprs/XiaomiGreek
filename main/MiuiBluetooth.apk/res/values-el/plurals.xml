@@ -5,7 +5,7 @@
         <item quantity="one">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ.</item>
 	</plurals>
     <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Κρατήστε πατημένο το touchpad σε οποιοδήποτε από τα δύο ακουστικά για %1$d δευτ.</item>
-        <item quantity="one">Κρατήστε πατημένο το touchpad σε οποιοδήποτε από τα δύο ακουστικά για %1$d δευτ.</item>
+        <item quantity="other">Πιέστε και κρατήστε οποιαδήποτε περιοχή αφής στα ακουστικά για %1$d δευτ.</item>
+        <item quantity="one">Πιέστε και κρατήστε οποιαδήποτε περιοχή αφής στα ακουστικά για %1$d δευτ.</item>
     </plurals>
 </resources>

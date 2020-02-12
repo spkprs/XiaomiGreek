@@ -71,10 +71,11 @@
 	<string name="digital_clock">Ψηφιακό</string>
 	<string name="disable_aod_in_power_save_mode">Απενεργοποίηση όταν είναι ενεργή η εξοικονόμηση μπαταρίας</string>
 	<string name="disable_aod_in_power_save_mode_summary">"Να μην εμφανίζονται στοιχεία για εξοικονόμηση ενέργειας"</string>
-	<string name="font_thickness">Έντονης γραφή</string>
+	<string name="font_thickness">Έντονη γραφή</string>
 	<string name="large_time">Μεγάλο ρολόι</string>
 	<string name="letter_space">Απόσταση γραμμάτων</string>
 	<string name="line_space">Διάστιχο</string>
+    <string name="minimalist_clock">Απλό ρολόι</string>
 	<string name="mini_time">Μικρό ρολόι</string>
 	<string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
     <string name="my_style_title">Το στύλ μου</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="device_ultra_pixel_watermark_default_text">48MP ΤΡΙΠΛΗ ΚΑΜΕΡΑ</string>
+	<string name="device_watermark_default_text">AI ΤΡΙΠΛΗ ΚΑΜΕΡΑ</string>
+	<string name="dualcamera_watermark_default">AI ΤΡΙΠΛΗ ΚΑΜΕΡΑ</string>
+</resources>
