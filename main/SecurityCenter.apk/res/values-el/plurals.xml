@@ -2,22 +2,20 @@
 
 <resources>
 	<plurals name="app_behavior_desc_allow">
-         <item quantity="other">Επιτρέπεται %3$d φορές από %1$s έως %2$s</item>
-         <item quantity="one">Επιτρέπεται %3$d φορά από %1$s έως %2$s</item>
+         <item quantity="other">Επιτράπηκε %3$d φορές μεταξύ %1$s και %2$s</item>
+         <item quantity="one">Επιτράπηκε %3$d φορά μεταξύ %1$s και %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_deny">
          <item quantity="other">Απορρίφθηκε %3$d φορές από %1$s έως %2$s</item>
          <item quantity="one">Απορρίφθηκε %3$d φορά από %1$s έως %2$s</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
-         <item quantity="other">Απενεργοποίηση ειδοποιήσεων συμπεριφοράς σε σε %1$d εφαρμ.</item>
-          <item quantity="zero">Δεν υπάρχουν εφαρμογές με απενεργοποιημένες ειδοποιήσεις συμπεριφοράς</item>
-         <item quantity="one">Απενεργοποίηση ειδοποιήσεων συμπεριφοράς σε σε %1$d εφαρμ.</item>
+         <item quantity="other">"Δεν θα ειδοποιηθείτε για ευαίσθητες ενέργειες που εκτελούνται από %1$d εφαρμ."</item>
+         <item quantity="one">"Δεν θα ειδοποιηθείτε για ευαίσθητες ενέργειες που εκτελούνται από %1$d εφαρμ.".</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_on">
-         <item quantity="other">Ενεργοποίηση ειδοποιήσεων συμπεριφοράς σε %1$d εφαρμ.</item>
-         <item quantity="zero">Δεν υπάρχουν εφαρμογές με ενεργοποιημένες ειδοποιήσεις συμπεριφοράς</item>
-         <item quantity="one">Ενεργοποίηση ειδοποιήσεων συμπεριφοράς σε %1$d εφαρμ.</item>
+         <item quantity="other">"Θα ειδοποιηθείτε για ευαίσθητες ενέργειες που εκτελούνται από %1$d εφαρμ."</item>
+         <item quantity="one">"Θα ειδοποιηθείτε για ευαίσθητες ενέργειες που εκτελούνται από %1$d εφαρμ."</item>
     </plurals>
      <plurals name="add_game_notification_title">
         <item quantity="other">Προστέθηκαν %d παιχνίδια</item>

@@ -1089,7 +1089,7 @@
 	<string name="removed_from_bookmarks">Αφαιρέθηκε από σελιδοδείκτες.</string>
 	<string name="replace">Αντικατάσταση</string>
 	<string name="replay">Αναπαραγωγή ξανά</string>
-	<string name="reply_comment_title">Απάντηση: %s</string>
+	<string name="reply_comment_title">Απάντηση σε: %s</string>
 	<string name="report_action_change_language">切换语言</string>
 	<string name="report_action_channel_click">点击频道</string>
 	<string name="report_action_channel_page_slide_expose">滑动选择频道</string>
