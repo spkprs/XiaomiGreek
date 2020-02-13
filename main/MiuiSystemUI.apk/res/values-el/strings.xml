@@ -1947,4 +1947,13 @@
 	<string name="how_to_use_app_quick">Τρόπος εναλλαγής μεταξύ εφαρμογών</string>
 	<string name="how_to_use_app_quick_hide_line_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης και, στη συνέχεια, σύρετε προς τα αριστερά ή δεξιά</string>
 	<string name="how_to_use_app_quick_summary">Σύρετε αριστερά ή δεξιά από την ένδειξη πλήρους οθόνης ή από το κάτω μέρος της οθόνης</string>
+	<string name="wireless_charging_connected_message">"Δεν είναι δυνατή η χρήση αντίστροφης ασύρματης φόρτισης όταν η συσκευή σας φορτίζει ασύρματα."</string>
+	<string name="wireless_charging_low_battery_level_message">"Δεν είναι δυνατή η χρήση αντίστροφης ασύρματης φόρτισης όταν η μπαταρία είναι λιγότερο από 30%."</string>
+	<string name="wireless_charging_ok">Κατανοητό</string>
+	<string name="wireless_charging_saver_cancel">Απενεργοποίηση</string>
+	<string name="wireless_charging_saver_message">Η Εξοικονόμηση μπαταρίας είναι σε λειτουργία τώρα. Διατηρείτε την αντίστροφη ασύρματη φόρτιση διαθέσιμη;</string>
+	<string name="wireless_charging_saver_ok">Διατήρηση΄</string>
+	<string name="wireless_charging_tips_disable">"Χωρίς επανεμφάνιση"</string>
+	<string name="wireless_charging_tips_message">Τοποθετήστε συσκευές που υποστηρίζουν ασύρματη φόρτιση Qi (τηλέφωνα, βοηθητικός εξοπλισμός, κ.λπ.) στο πίσω μέρος αυτής της συσκευής.</string>
+	<string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
 </resources>
