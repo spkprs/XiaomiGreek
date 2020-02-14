@@ -17,7 +17,6 @@
 	<string name="base_info">Βασικές πληροφορίες</string>
 	<string name="cloud_addr_info">Πληροφορίες Cloud</string>
 	<string name="cloud_china_addr">Ενημέρωση δεδομένων Κινεζικού διακομιστή</string>
-	<string name="cloud_china_addr">Update Chinese server data</string>
 	<string name="cloud_international_addr">Ενημέρωση δεδομένων διεθνούς διακομιστή</string>
 	<string name="cloud_staging_addr">Ενημερωμένη έκδοση διακομιστή δεδομένων</string>
 	<string name="config_classify">Ταξινομ. κατά ρυθμ. εφαρμογών</string>
@@ -34,7 +33,6 @@
      <string name="config_suggest_description">"Προσδιορίζει εφαρμογές και λειτουργίες για διατήρηση σημαντικών διεργασιών. 
 Η εξοικονόμηση θα επεξεργάζεται επιλεκτικά τις σημαντικές εφαρμογές."</string>
 	<string name="config_suggest_suffix_title">Εξοικονόμηση MIUI (συνιστάται)</string>
-	<string name="confirm">OK</string>
 	<string name="confirm">OK</string>
 	<string name="current_cloud_addr_is">Διακομιστής ελέγχου Cloud, η διεύθυνση είναι:</string>
 	<string name="empty_title_apps_container_list">Χωρίς εφαρμογές</string>
@@ -116,7 +114,6 @@
 	<string name="scenario_policies_title">Έξυπνα σχέδια</string>
 	<string name="scenario_policies_warmcontrol">Ελεγχος θερμοκρασίας</string>
 	<string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-	<string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
 	<string name="search_result_text">Δεν ήταν δυνατή η εύρεση εφαρμογών</string>
 	<string name="set_gsmcore_summary">Απενεργοποιήστε τις υπηρεσίες Google Play σε κατάσταση ακραίας εξοικονόμησης ενέργειας</string>
 	<string name="set_gsmcore_title">Απενεργοποίηση υπηρεσιών Google Play</string>
