@@ -428,8 +428,8 @@
 	<string name="delete_from_homepage_album">Άλμπουμ στην αρχική σελίδα</string>
 	<string name="delete_from_this_album_and_cloud">από αυτό το άλμπουμ και από το Xiaomi Cloud</string>
 	<string name="delete_from_web">Web άλμπουμ</string>
-	<string name="delete_in_album">Όταν διαγράφετε φωτογραφίες ή βίντεο από ένα άλμπουμ, θα διαγραφούν επίσης από:</string>
-	<string name="delete_in_home_page">Όταν διαγράφετε φωτογραφίες ή βίντεο από την αρχική σελίδα, θα διαγραφούν επίσης από:</string>
+	<string name="delete_in_album">Τα επιλεγμένα στοιχεία θα διαγραφούν από το Cloud και από τις συνδεδεμένες συσκευές, θα αποθηκευτούν στον κάδο του Cloud για 30 ημέρες, εάν έχετε δωρεάν πρόγραμμα αποθήκευσης στο Cloud. Διαγραφή;</string>
+	<string name="delete_in_home_page">Τα επιλεγμένα στοιχεία θα διαγραφούν από το Cloud και από τις συνδεδεμένες συσκευές, θα αποθηκευτούν στον κάδο του Cloud για 30 ημέρες, εάν έχετε δωρεάν πρόγραμμα αποθήκευσης στο Cloud. Διαγραφή;</string>
 	<string name="delete_in_process">Διαγραφή…</string>
 	<string name="delete_origin">Διαγραφή στοιχείων από το αρχικό άλμπουμ</string>
 	<string name="delete_other_shared_images">Αδυναμία διαγραφής φωτογραφιών που διαμοιράστηκαν από άλλους</string>
