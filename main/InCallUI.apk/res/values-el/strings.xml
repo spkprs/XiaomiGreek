@@ -216,7 +216,7 @@
 	<string name="video_crbt_title">"Ο ήχος βίντεο του άλλου μέρους παίζει"</string>
 	<string name="voicemail">Τηλεφωνητής</string>
 	<string name="volte_call">Κλήσεις VoLTE</string>
-	<string name="volume_boost_text">Ολοκληρώθηκε η ενίσχυση έντασης</string>
+	<string name="volume_boost_text">Πλήρης ενίσχυση έντασης</string>
 	<string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?
 "</string>
 	<string name="waiting_close_airplane_mode">Μισό λεπτό…</string>

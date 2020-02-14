@@ -88,7 +88,7 @@
   <string name="battery_saver_seekbar_title">Στο %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Ενεργοποίηση</string>
   <string name="battery_suggestion_title">Βελτίωση διάρκειας ζωής μπαταρίας τηλεφώνου</string>
-  <string name="battery_tip_dialog_message">Το τηλέφωνό σας έχει χρησιμοποιηθεί περισσότερο από το συνηθισμένο. Η μπαταρία σας μπορεί να εξαντληθεί πιο σύντομα από το αναμενόμενο.\n\nΚορυφαίες %1$d εφαρμογές που χρησιμοποιήσατε από την πλήρη φόρτιση:</string>
+  <string name="battery_tip_dialog_message">Το τηλέφωνό σας έχει χρησιμοποιηθεί περισσότερο από το συνηθισμένο. Η μπαταρία μπορεί να εξαντληθεί πιο σύντομα από το αναμενόμενο.\n\nΚορυφαίες εφαρμογές βάσει χρήσης μπαταρίας:</string>
   <string name="battery_tip_dialog_summary_message">Οι εφαρμογές σας χρησιμοποιούν κανονική ποσότητα μπαταρίας. Εάν οι εφαρμογές χρησιμοποιούν πάρα πολλή μπαταρία, το τηλέφωνό σας θα προτείνει ενέργειες που μπορείτε να εκτελέσετε.\n\nΜπορείτε πάντα να ενεργοποιήσετε την Εξοικονόμηση μπαταρίας εάν εξαντλείται η μπαταρία σας.</string>
   <string name="battery_tip_early_heads_up_done_summary">Ορισμένες λειτουργίες μπορεί να είναι περιορισμένες</string>
   <string name="battery_tip_early_heads_up_done_title">Η Εξοικονόμηση μπαταρίας είναι ενεργή</string>

@@ -1135,10 +1135,7 @@
      <string name="controls_label">Έλεγχοι</string>
      <string name="controls_subtitle">Ρυθμίστε τη χρήση ενέργειας</string>
      <string name="convenience_key_category_title">Έλεγχος συστήματος</string>
-     <string name="convert_to_fbe_warning">"Μετατρέψτε το διαμέρισμα δεδομένων σε αρχεία με κρυπτογράφηση.
- Προειδοποίηση: Αυτό θα διαγράψει όλα τα δεδομένα σας.
- Αυτή η δυνατότητα αναπτύσσεται και μπορεί να μην λειτουργεί σωστά.
- Πατήστε &amp;quot;Καθαρισμός και μετατροπή ...&amp;quot; για να συνεχίσετε."</string>
+     <string name="convert_to_fbe_warning">"Μετατροπή διαμερίσματος δεδομένων σε κρυπτογράφηση βάσει αρχείων.\n !!Προειδοποίηση!! Αυτό θα διαγράψει όλα τα δεδομένα σας.\n Αυτό είναι σε επίπεδο alpha και μπορεί να μην λειτουργεί σωστά.\n Πατήστε 'Διαγραφή και μετατροπή...' για να συνεχίσετε."</string>
      <string name="convert_to_file_encryption">Μετατροπή σε κρυπτογράφηση αρχείων</string>
      <string name="convert_to_file_encryption_done">Τα αρχεία κρυπτογραφούνται</string>
      <string name="convert_to_file_encryption_enabled">Μετατροπή…</string>

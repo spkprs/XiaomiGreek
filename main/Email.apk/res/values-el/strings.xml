@@ -540,7 +540,7 @@
   <string name="header_category_other">Πρόσθετες ρυθμίσεις</string>
   <string name="header_label_general_preferences">Γενικές ρυθμίσεις</string>
   <string name="help_and_info">Βοήθεια</string>
-  <string name="help_me_get_qq_auth">Λάβετε κωδικό QQ</string>
+  <string name="help_me_get_qq_auth">Λήψη κωδικού εξουσιοδότησης</string>
   <string name="hide_elided">▼ Απόκρυψη κειμένου σε παράθεση</string>
   <string name="hide_password">Απόκρυψη κωδικού πρόσβασης</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -917,7 +917,7 @@
   <string name="qq_login_send_message">Πατήστε «Αποστολή SMS» για να λάβετε έναν κωδικό επαλήθευσης</string>
   <string name="qq_login_webview">Σύνδεση στο πρόγραμμα-πελάτη QQ ιστού, πατήστε σύνδεση μέσω κωδικού πρόσβασης.</string>
   <string name="qq_next_generation_auth_toast">Ενεργοποιήστε την προστασία με κωδικό στο πρόγραμμα περιήγησής σας</string>
-  <string name="qq_pwd_or_qq_auth_code">Εισάγετε QQ κωδικό ή γραμματοκιβωτίου</string>
+  <string name="qq_pwd_or_qq_auth_code">Εισάγετε τον κωδικό εξουσιοδότησης</string>
   <string name="qq_uthentication_failed">Αδυναμία επαλήθευσης λογαριασμού, συνδεθείτε ξανά</string>
   <string name="qq_verify_code">(Χρειάζεστε κωδικό επαλήθευσης QQ)</string>
   <string name="qq_webview_loading">Περιμένετε μια στιγμή…</string>
@@ -1210,7 +1210,7 @@
   <string name="contact_add_options_details2">Μόνο αποδέκτες</string>
   <string name="get_oauth_code">Λήψη κωδικού</string>
   <string name="help_weixin_title">"Εάν έχετε απορίες, μη διστάσετε, γράψτε στον λογαριασμό WeChat: "</string>
-  <string name="login_qq_psw">Σύνδεση με κωδικό/ελέγχο ταυτότητας/επαλήθευση</string>
+  <string name="login_qq_psw">Είσοδος με χρήση κωδικού εξουσιοδότησης</string>
   <string name="mi_sync_erroe_toast">"Παρουσιάστηκε σφάλμα δικτύου: "</string>
   <string name="mi_sync_erroe_toast_other">"Παρουσιάστηκε σφάλμα διακομιστή: "</string>
   <string name="no_more_mail">Δεν υπάρχουν άλλα μηνύματα</string>
@@ -1290,11 +1290,11 @@
 	<string name="conversation_message_encrypt_tips">Αυτό είναι ένα κρυπτογραφημένο email. Προσθέστε το πιστοποιητικό που απαιτείται για την αποκρυπτογράφησή του.</string>
     <string name="email_sync_failed">"Δεν ήταν δυνατός ο συγχρονισμός της αλληλογραφίας"</string>
 	<string name="no_open_smime_toast">Πρώτα προσθήκη πιστοποιητικού S/MIME</string>
-	<string name="obtain_new_auth_code">Λήψη νέου κωδικού</string>
+	<string name="obtain_new_auth_code">Λήψη νέου κωδικού εξουσιοδότησης</string>
 	<string name="qq_changepw_dialog_tips">Αποκτήστε έναν νέο κωδικό από το% s για να εισέλθετε.</string>
 	<string name="send_encrypt_dialog_fail_content">"Φαίνεται ότι ο παραλήπτης δεν διαθέτει το αξιόπιστο πιστοποιητικό που απαιτείται για την κρυπτογράφηση αυτού του μηνύματος ηλεκτρονικού ταχυδρομείου. Να σταλεί κανονικό μήνυμα ηλεκτρονικού ταχυδρομείου;"</string>
 	<string name="send_encrypt_dialog_fail_title">Δεν είναι δυνατή η αποστολή κρυπτογραφημένης αλληλογραφίας</string>
-	<string name="user_new_auth_code">Είσοδος με νέο κωδικό</string>
+	<string name="user_new_auth_code">Είσοδος με νέο κωδικό εξουσιοδότησης</string>
     <string name="xiaomi_auth_toastbar">Εισέλθετε για να εξουσιοδοτήσετε τη συσκευή σας</string>
 	<string name="xiaomi_email">Mail</string>
 	<string name="xiaomi_under_certification">Εξουσιοδότηση...</string>	 
