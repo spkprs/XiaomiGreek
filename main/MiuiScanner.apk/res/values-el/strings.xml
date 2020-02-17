@@ -258,7 +258,7 @@
 	<string name="setting_alipay">Alipay</string>
 	<string name="setting_choose_every_time">Ερώτηση πάντα</string>
 	<string name="setting_default_function">Προεπιλεγμένη λειτουργία</string>
-	<string name="setting_function_sort">Αναδιάταξη δυνατοτήτων</string>
+	<string name="setting_function_sort">Αναδιάταξη λειτουργιών</string>
 	<string name="setting_preference_pay">Προτιμώμενος τρόπος πληρωμής</string>
 	<string name="setting_title">Ρυθμίσεις</string>
 	<string name="setting_use_last_choose">Ενθύμιση προηγούμενης επιλογής</string>

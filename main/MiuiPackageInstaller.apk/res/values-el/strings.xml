@@ -125,12 +125,19 @@
   <string name="grant_dialog_button_deny_anyway">Αγνόηση ούτως ή άλλως</string>
   <string name="high_risk_perms">Υψηλού κινδύνου δικαιώματα</string>
   <string name="install">Εγκατάσταση</string>
+  <string name="install_app_progress_clear_apk">Διαγραφή APK</string>
   <string name="install_confirm_question">Θέλετε να εγκαταστήσετε αυτήν την εφαρμογή; Θα έχει πρόσβαση σε:</string>
   <string name="install_confirm_question_no_perms">Θέλετε να εγκαταστήσετε αυτήν την εφαρμογή; Δεν απαιτεί ειδικά δικαιώματα.</string>
   <string name="install_confirm_question_update">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την υπάρχουσα εφαρμογή; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Η ενημερωμένη εφαρμογή θα έχει πρόσβαση σε:</string>
   <string name="install_confirm_question_update_no_perms">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την υπάρχουσα εφαρμογή; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Δεν απαιτεί ειδικά δικαιώματα.</string>
   <string name="install_confirm_question_update_system">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την εφαρμογή συστήματος; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Η ενημερωμένη εφαρμογή θα έχει πρόσβαση σε:</string>
   <string name="install_confirm_question_update_system_no_perms">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την εφαρμογή συστήματος; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Δεν απαιτεί ειδικά δικαιώματα.</string>
+  <string name="install_control_cancel_install">"Να μην γίνει εγκατάσταση"</string>
+  <string name="install_control_continue_install">Εγκατάσταση οπωσδήποτε</string>
+  <string name="install_control_lite_mode_explain_des">Αυτή η εφαρμογή προέρχεται από άγνωστη προέλευση και ενδέχεται να μην λειτουργεί σε Λειτουργία Lite.</string>
+  <string name="install_control_lite_mode_solution_des">"Μπορείτε να επιλέξετε να εγκαταστήσετε αυτήν την εφαρμογή ούτως ή άλλως.
+Εναλλακτικά, μπορείτε να απενεργοποιήσετε τη λειτουργία Lite και να προσπαθήσετε ξανά."</string>
+  <string name="install_control_normal_mode_explain_des">"Αδύνατη η εγκατάσταση αυτής της εφαρμογής λόγω νομικών περιορισμών"</string>
   <string name="install_done">Η εφαρμογή έχει εγκατασταθεί.</string>
   <string name="install_failed">Δεν ήταν δυνατή η εγκατάσταση της εφαρμογής</string>
   <string name="install_failed_blocked">Η συσκευασία αποκλείστηκε από την εγκατάσταση.</string>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_sysdata_tailer">
-        <item quantity="other">%d αρχ. Συστήματος</item>
-        <item quantity="one">%d αρχ. Συστήματος</item>
+        <item quantity="other">%d αρχ. Συστήμ.</item>
+        <item quantity="one">%d αρχ. Συστήμ.</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d αρχ. Εφαρμογών</item>
-        <item quantity="one">%d αρχ. Εφαρμογής</item>
+        <item quantity="other">%d Εφαρμ.</item>
+        <item quantity="one">%d Εφαρμ.</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d στοιχεία</item>

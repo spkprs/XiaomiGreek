@@ -1471,7 +1471,8 @@
      <string name="screenshot_dlg_cancel">Ακύρωση</string>
      <string name="screenshot_dlg_delete_button">Διαγραφή</string>
      <string name="screenshot_edit">Επεξεργασία</string>
-     <string name="screenshot_failed_title">Δεν ήταν δυνατή η λήψη στιγμιότυπου οθόνης.</string>
+     <string name="screenshot_failed_in_landscape_mode">"Αδύνατη η κύλιση στιγμιοτύπων σε λειτουργία οριζόντιου προσανατολισμού"</string>
+     <string name="screenshot_failed_title">Αδύνατη η λήψη στιγμιότυπου οθόνης.</string>
      <string name="screenshot_failed_to_capture_text">Η λήψη των στιγμιότυπων οθόνης δεν επιτρέπεται από την εφαρμογή ή τον οργανισμό σας</string>
      <string name="screenshot_failed_to_capture_title">"Αυτή η εφαρμογή δεν επιτρέπει τη λήψη στιγμιότυπων οθόνης"</string>
      <string name="screenshot_failed_to_save_text">Δεν είναι δυνατή η αποθήκευση του στιγμιότυπου οθόνης λόγω περιορισμένου χώρου αποθήκευσης.</string>

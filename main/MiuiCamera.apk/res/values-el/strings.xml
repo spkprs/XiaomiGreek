@@ -864,6 +864,7 @@
 	<string name="pref_watermark_on">On</string>
 	<string name="pref_watermark_title">Υδατογράφημα</string>
 	<string name="preparing_sd">Έλεγχος SD card…</string>
+    <string name="pro_color_mode">Χρώμα Pro</string>
 	<string name="recapture_dialog_message">Επιβεβαιώστε την επανάληψη?</string>
 	<string name="recapture_dialog_title">Η επανάληψη της λήψης θα διαγράψει την τρέχουσα εικόνα</string>
 	<string name="recommend_macro_mode">Δοκιμάστε τη λειτουργία Macro</string>
@@ -908,6 +909,7 @@
 	<string name="super_eis">Σταθερό βίντεο</string>
 	<string name="super_eis_disabled_hint">Ανενεργό Σταθερό βίντεο</string>
 	<string name="super_night_hint">Βελτιστοποίηση εικόνας... Κρατήστε σταθερά τη συσκευή</string>
+    <string name="super_night_se_tip">Λειτουργία Νύχτας</string>
 	<string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
 	<string name="tap_to_exposure">Αγγίξτε για χειροκίνητη προσαρμογή έκθεσης</string>
 	<string name="tap_to_focus">Αγγίξτε για εστίαση</string>
