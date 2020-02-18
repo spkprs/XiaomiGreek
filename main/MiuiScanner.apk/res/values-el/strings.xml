@@ -84,7 +84,12 @@
 	<string name="crop_cancel_description">Ακύρωση</string>
 	<string name="crop_done_description">Ολοκληρώθηκε</string>
 	<string name="crop_title_study">Περικοπή φωτογραφίας</string>
-	<string name="crop_title_translation">επιλέξτε κείμενο για μετάφραση</string>
+	<string name="crop_title_translation">Επιλέξτε κείμενο για μετάφραση</string>
+    <string name="crop__cancel">ΑΚΥΡΩΣΗ</string>
+    <string name="crop__done">ΟΚ</string>
+    <string name="crop__pick_error">Δεν υπάρχουν διαθέσιμες πηγές εικόνων</string>
+    <string name="crop__saving">Αποθήκευση εικόνας…</string>
+    <string name="crop__wait">Περιμένετε…</string>
 	<string name="dialog_dismiss">Απόρριψη</string>
 	<string name="dialog_report">Αναφορά</string>
 	<string name="document_color_picture">Χρώμα</string>
@@ -120,6 +125,7 @@
 	<string name="error_invalid_request">Σφάλμα ελέγχου ταυτότητας</string>
 	<string name="error_media_storage_failure">Αδυναμία αποθήκευσης φωτογραφίας</string>
 	<string name="error_minute_limit">Πάρα πολλές προσπάθειες μέσα σε 1 λεπτό</string>
+    <string name="error_null_cursor">Λυπούμαστε, κάτι πήγε στραβά!</string>
 	<string name="error_permissions">Ο Σαρωτής δεν έχει τα δικαιώματα που απαιτούνται για να λειτουργήσει κανονικά. Πηγαίνετε στις Ρυθμίσεις και ελέγξτε τα δικαιώματα για να συνεχίσετε.</string>
 	<string name="error_server_error">Σφάλμα διακομιστή</string>
 	<string name="experience_new_feature_tips">"Εισέλθετε στο λογαριασμό σας Mi για να υποβάλετε αίτηση για δικαιώματα χρήσης της έκδοσης Beta. Θα μπορείτε να χρησιμοποιήσετε την έκδοση Beta μετά την αναθεώρηση της εφαρμογής σας. Η έκδοση beta μπορεί να περιέχει σφάλματα."</string>
@@ -146,6 +152,7 @@
 	<string name="food_module_tip">Τοποθέτηση της τροφής μέσα στο πλαίσιο</string>
 	<string name="food_module_title_food">Θερμίδες</string>
 	<string name="got_it">Κατανοητό</string>
+    <string name="grant_permission">Εκχώρηση δικαιώματος</string>
 	<string name="gps">GPS</string> 
 	<string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
 	<string name="import_contact">Εισαγωγή επαφής</string>
@@ -214,6 +221,7 @@
 	<string name="payment_text">Άνοιγμα με %s</string>
 	<string name="payment_weixin">WeChat</string>
 	<string name="payment_zhifubao">AliPay</string>
+    <string name="permission_denied_images">Να επιτρέπεται η πρόσβαση σε φωτογραφίες, πολυμέσα και αρχεία στη συσκευή σας για την προβολή εικόνων</string>
 	<string name="permission_microphone_desc">Χρήση μικροφώνου ως πηγή ήχου για εγγραφές οθόνης</string>
 	<string name="phone">Τηλέφωνο:</string>
 	<string name="picker_lable">Φωτογραφία</string>
@@ -254,6 +262,7 @@
 	<string name="secure_access_web_url">Πηγαίνετε στην ιστοσελίδα</string>
 	<string name="see_app_details">Λεπτομέρειες εφαρμογής</string>
 	<string name="select_dialog_confirm">OK</string>
+    <string name="select_from_album">Επιλογή από άλμπουμ</string>
 	<string name="send_mail">Αποστολή email</string>
 	<string name="setting_alipay">Alipay</string>
 	<string name="setting_choose_every_time">Ερώτηση πάντα</string>
@@ -289,6 +298,7 @@
 	<string name="tae_sdk_login_qr_icon_taobao"></string>
 	<string name="tae_sdk_qr_login_icon_password"></string>
 	<string name="tae_sdk_qr_login_icon_scan"></string>
+    <string name="take_a_picture">Λήψη φωτογραφίας</string>
 	<string name="tel">Τηλέφωνο</string>
 	<string name="tips_message">Συνδεθείτε στο Internet  για να ελέγξετε αν η ιστοσελίδα που είστε έτοιμος να επισκεφθείτε είναι ασφαλής.</string>
 	<string name="title">Τίτλος:</string>

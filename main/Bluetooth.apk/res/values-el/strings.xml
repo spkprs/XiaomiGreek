@@ -11,10 +11,10 @@
      <string name="auth_notif_title">Κλειδί περιόδου σύνδεσης</string>
      <string name="bluetooth_connected">Bluetooth ήχος συνδέθηκε</string>
      <string name="bluetooth_disconnected">Bluetooth ήχος αποσυνδέθηκε</string>
- 	 <string name="bluetooth_map_remote_advance_feature_support">Υποστηρίζεται προηγμένη δυνατότητα πρόσβασης Μηνυμάτων</string>
-	 <string name="bluetooth_map_remote_message_access_feature_downgrade">Υποβάθμιση δυνατότητας απομακρυσμένης πρόσβασης μηνυμάτων</string>
-	 <string name="bluetooth_map_repair_for_adv_message_access_feature">Επανεπιδιόρθωση για δυνατότητα προηγμένης πρόσβασης μηνυμάτων</string>
-	 <string name="bluetooth_map_repair_for_message_access_version_comp">Επανασύνδεση για συμβατότητα εκδόσεων πρόσβασης μηνυμάτων</string>
+ 	 <string name="bluetooth_map_remote_advance_feature_support">Υποστηρίζονται προηγμένες λειτουργίες πρόσβασης μηνυμάτων</string>
+	 <string name="bluetooth_map_remote_message_access_feature_downgrade">Υποβάθμιση των λειτουργιών απομακρυσμένης πρόσβασης μηνυμάτων</string>
+	 <string name="bluetooth_map_repair_for_adv_message_access_feature">Επανασύζευξη για χρήση των προηγμένων λειτουργιών πρόσβασης μηνυμάτων</string>
+	 <string name="bluetooth_map_repair_for_message_access_version_comp">Επανασύζευξη για να εξασφαλίσετε συμβατότητα με την έκδοση πρόσβασης μηνυμάτων</string>
      <string name="bluetooth_map_settings_app_icon">Εικονίδιο εφαρμογής</string>
      <string name="bluetooth_map_settings_cancel">Ακύρωση</string>
      <string name="bluetooth_map_settings_count">Θέσεις που απομένουν:</string>

@@ -316,8 +316,8 @@
      <string name="app_manager_title">Διαχείριση εφαρμογών</string>
      <string name="app_manager_total_size">Σύνολο</string>
      <string name="app_manager_uninstall">Απεγκατάσταση</string>
-     <string name="app_manager_uninstall_protected_dlg_msg">Η απεγκατάσταση εφαρμογών συστήματος ενδέχεται να προκαλέσει την δυσλειτουργία ορισμένων στοιχείων του MIUI. Απεγκατάσταση;</string>
-     <string name="app_manager_uninstall_protected_dlg_title">Απεγκατάσταση εφαρμογών συστήματος</string>
+     <string name="app_manager_uninstall_protected_dlg_msg">Η απεγκατάσταση εφαρμογών συστήματος ενδέχεται να προκαλέσει την δυσλειτουργία ορισμένων στοιχείων του MIUI. Απεγκατάσταση οπωσδήποτε;</string>
+     <string name="app_manager_uninstall_protected_dlg_title">Απεγκατ. εφαρμ. συστήματος</string>
      <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Οι αντίστοιχες διπλές εφαρμογές θα διαγραφούν μαζί με τα δεδομένα τους.</string>
      <string name="app_manager_uninstall_xspace_app_dlg_msg">Η απεγκατάσταση της διπλής εφαρμογής θα διαγράψει όλα τα δεδομένα της.</string>
      <string name="app_manager_uninstall_xspace_app_dlg_title">Απεγκατάσταση διπλής εφαρμογής;</string>
