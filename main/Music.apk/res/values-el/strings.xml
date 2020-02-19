@@ -966,6 +966,7 @@
 	<string name="play_mode_shuffle">Τυχαία</string>
 	<string name="play_mode_single">Μια φορά</string>
 	<string name="play_next">Αναπαραγωγή επόμενου</string>
+    <string name="play_setting">Αναπαραγωγή</string>
 	<string name="play_retry">re-play</string>
 	<string name="play_song_continue">Συνέχεια αναπαραγωγής</string>
 	<string name="playback_failed_no_title_by_bad_file">Η μορφή αυτού του τραγουδιού δεν υποστηρίζεται ή το αρχείο δεν υπάρχει.</string>
@@ -1186,6 +1187,7 @@
 	<string name="sort">Είδος</string>
 	<string name="sort_by_name">Όνομα</string>
 	<string name="sort_by_time">Ημερομηνία</string>
+    <string name="sound_fade_in_and_out_when_change_song_automatically">Δοκιμάστε τα τραγούδια που σβήνουν κατά την αναπαραγωγή</string>
 	<string name="source_from">Πηγή: %1$s</string>
 	<string name="splash_bottom_hint">Μουσική Xiaomi</string>
 	<string name="splash_skip_button">Παραλείψτε</string>

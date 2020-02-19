@@ -177,4 +177,8 @@
     <item quantity="other">Εδώ είναι %1$d ενημερώσεις για εσάς:</item>
     <item quantity="one">Εδώ είναι. %1$d ενημέρωση για εσάς:</item>
   </plurals>
+  <plurals name="sound_fade_duration_in_seconds">
+    <item quantity="other">Ομαλή μετάβαση μεταξύ τραγουδιών: %d δευτ</item>
+    <item quantity="one">Ομαλή μετάβαση μεταξύ τραγουδιού: %d δευτ</item>
+  </plurals>
 </resources>

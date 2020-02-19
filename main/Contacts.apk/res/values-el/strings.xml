@@ -390,7 +390,7 @@
 - Η τεχνολογία Bluetooth βρίσκεται στις ρυθμίσεις δικτύου σε συσκευές Android
 - Στις συσκευές iOS, το Bluetooth βρίσκεται στις Ρυθμίσεις
 
-%d. Η λειτουργία Ανακαλύψτε θα πρέπει επίσης να είναι ενεργοποιημένη σε συσκευές Android
+%d. Η λειτουργία \"Ορατό\" θα πρέπει επίσης να είναι ενεργοποιημένη σε συσκευές Android
 
 %d. Πατήστε \"Επόμενο\" και δώστε στις Επαφές τα απαιτούμενα δικαιώματα."</string>
      <string name="device_transfer_by_sim_message" formatted="false">"%d. Αποθηκεύστε τις επαφές από την άλλη συσκευή στην κάρτα SIM.
@@ -998,6 +998,10 @@
 
 "</string>
      <string name="returnCall">Επιστροφή κλήσης</string>
+     <string name="return_call">Πατήστε για επιστροφή στην κλήση</string>
+     <string name="return_call_calling">Κλήση σε εξέλιξη</string>
+     <string name="return_call_dialing">Κλήση</string>
+     <string name="return_call_incoming">Εισερχόμενη</string>
      <string name="ringLabelsGroup">Ήχος κλήσης</string>
      <string name="save_photo_progress">Αποθήκευση φωτογραφίας…</string>
      <string name="savingContact">Αποθήκευση επαφής…</string>
@@ -1048,6 +1052,9 @@
      <string name="select_none">Καμία επιλογή</string>
      <string name="select_show_contacts">Λίστα επαφών</string>
      <string name="select_vcard_title">Επιλογή αρχείου vCard</string>
+     <string name="send_contact_shortcut_todesktop_duplicate">Αυτή η συντόμευση υπάρχει ήδη</string>
+     <string name="send_contact_shortcut_todesktop_failed">"Αδύνατη η τοποθέτηση συντόμευσης στην αρχική οθόνη"</string>
+     <string name="send_contact_shortcut_todesktop_overflow">"Αδύνατη η τοποθέτηση περισσότερων συντομεύσεων στην αρχική οθόνη"</string>
      <string name="send_contact_shortcut_todesktop_success">Προστέθηκε στην Αρχική οθόνη</string>
      <string name="send_to_voicemail_checkbox">Αποστολή κλήσεων απευθείας στον αυτόματο τηλεφωνητή</string>
      <string name="separatorJoinAggregateAll">Όλες οι επαφές</string>
