@@ -309,6 +309,7 @@
      <string name="micloud_setting_phrase_summary">Συχνές φράσεις</string>
      <string name="micloud_setting_recorder_summary">Εγγραφές ήχου και κλήσεων</string>
      <string name="micloud_setting_sms_summary">Μηνύματα SMS και MMS</string>
+    <string name="micloud_setting_sms_summary_for_google_csp">Μηνύματα κειμένου</string>
      <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi‑Fi</string>
      <string name="micloud_space_applist_detail">Διαχείριση των εφαρμογών στην Αρχική οθόνη σας</string>
      <string name="micloud_space_applist_title">Διαχείριση εφαρμογών</string>

@@ -418,7 +418,7 @@
 	<string name="module_name_square">Τετράγωνη</string>
 	<string name="module_name_video">Βίντεο</string>
 	<string name="moive_frame">Πλαίσιο ταινίας</string>
-	<string name="multi_window_mode_not_supported">Η Κάμερα δεν λειτουργεί σε Διαχωρισμό οθόνης</string>
+	<string name="multi_window_mode_not_supported">Η Κάμερα δεν λειτουργεί σε πολλαπλά παράθυρα</string>
 	<string name="network_access_user_notice_agree">Συμφωνώ</string>
 	<string name="network_access_user_notice_message_live_video">" "<Data>"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει εφέ, μουσική και άλλα χαρακτηριστικά για σύντομα βίντεο.&lt;br/>&lt;br/>Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s> Συμφωνία Χρήστη &lt;/a>  και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</Data>" "</string>
     <string name="network_access_user_notice_message_mi_live_video"><Data>Καλώς ορίσατε στα Σύντομα Βίντεο! Η υπηρεσία μας πρέπει να συνδεθεί στο δίκτυο για να σας προσφέρει μουσική και άλλα χαρακτηριστικά. &lt;br/>&lt;br/>Πριν χρησιμοποιήσετε την υπηρεσία μας, πρέπει να διαβάσετε και να συμφωνήσετε με &lt;a href =%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, καθώς και να επιτραπεί στην εφαρμογή να συνδεθεί στο διαδίκτυο.</Data></string>
