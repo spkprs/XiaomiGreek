@@ -1222,7 +1222,7 @@
      <string name="daltonizer_mode_tritanomaly">Ανώμαλη τριτοχρωματοψία (μπλε-κίτρινο)</string>
      <string name="daltonizer_type">Λειτουργία διόρθωσης</string>
      <string name="daltonizer_type_overridden">Παρακάμφθηκε από %1$s</string>
-     <string name="dark_wallpaper_mode">Προσαρμογή ταπετσαρίας σε "Σκοτεινή Οθόνη"</string>
+     <string name="dark_wallpaper_mode">Προσαρμογή ταπετσαρίας σε \"Σκοτεινή λειτουργία\"</string>
      <string name="dashboard_title">Ρυθμίσεις</string>
      <string name="data_limit">Όριο δεδομένων</string>
      <string name="data_saver_off">Απενεργοποιημένη</string>
