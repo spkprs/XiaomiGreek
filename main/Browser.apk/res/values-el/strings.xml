@@ -60,7 +60,7 @@
 	<string name="action_menu_text_exit">Έξοδος</string>
 	<string name="action_menu_text_find_in_page">Εύρεση στη σελίδα</string>
 	<string name="action_menu_text_fullscreen">Πλήρης οθόνη</string>
-	<string name="action_menu_text_history">Σελιδ/Ιστορ</string>
+	<string name="action_menu_text_history">Σελιδ/Ιστορικό</string>
 	<string name="action_menu_text_Incognito">Ανώνυμη λειτουργία</string>
 	<string name="action_menu_text_nightmode">Λειτουργία νύχτας</string>
 	<string name="action_menu_text_nightmode_off">Λειτουργία νύχτας off</string>
@@ -71,7 +71,7 @@
 	<string name="action_menu_text_snapshot">Αποθήκευση σελίδας</string>
 	<string name="action_menu_text_video">Βίντεο</string>
 	<string name="action_menu_text_video_collection">Αγαπημένα βίντεο</string>
-	<string name="action_menu_text_web_mode">Λειτουργία επιφάνειας εργασίας</string>
+	<string name="action_menu_text_web_mode">Λειτουργία PC</string>
 	<string name="action_menu_toolbox">Εργαλεία</string>
 	<string name="action_menu_useful_page">Προσθήκη συντόμευσης</string>
 	<string name="action_menu_useful_page_added">Προστέθηκε</string>
@@ -1003,7 +1003,7 @@
 	<string name="pref_set_default_browser_no_keep_it">Διατήρηση Mi Browser</string>
 	<string name="pref_set_default_browser_no_thanks">Όχι ευχαριστώ</string>
 	<string name="pref_set_default_browser_set">Ρύθμιση</string>
-	<string name="pref_set_default_browser_set_another">Η Mi Περιήγηγη κάνει γρήγορη, εύκολη και ασφαλή την περιήγηση στον ιστό. Εναλλαγή προγραμμάτων περιήγησης παρ\' όλα αυτά;</string>
+	<string name="pref_set_default_browser_set_another">Ο Mi Browser κάνει γρήγορη, εύκολη και ασφαλή την περιήγηση στον ιστό. Εναλλαγή προγράμματος περιήγησης;</string>
 	<string name="pref_set_default_browser_sure_to_clear">Εναλλαγή Browser;</string>
 	<string name="pref_set_default_browser_switch">Εναλλαγή</string>
 	<string name="pref_set_homepage_to">Ορισμός σε</string>

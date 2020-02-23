@@ -1425,12 +1425,12 @@
      <string name="recents_task_screening">Μετάδοση...</string>
      <string name="recents_forbid_dock_when_screening_toast_text">"Αδύνατη η χρήση της Διαίρεσης οθόνης κατά την Μετάδοση οθόνης"</string>
      <string name="recents_dimiss_task">Καθαρισμός</string>
-     <string name="recents_title_app_manager">Διαχείριση Εφαρμογών</string>
+     <string name="recents_title_app_manager">Εφαρμογές</string>
      <string name="recents_title_game">Παιχνίδια</string>
      <string name="recents_title_garbage_cleanup">Καθαρισμός</string>
-     <string name="recents_title_garbage_deepclean">Υπέρ Καθαρισμός</string>
+     <string name="recents_title_garbage_deepclean">ΥπερΚαθαρισμός</string>
      <string name="recents_title_market">Αναζήτ.Εφαρμ</string>
-     <string name="recents_title_security_scan">Σάρωση Ασφαλείας</string>
+     <string name="recents_title_security_scan">Ασφάλεια</string>
      <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
      <string name="reject_call">Απόρριψη κλήσης</string>
      <string name="remaining_length_format">%1$s υπόλοιπο</string>

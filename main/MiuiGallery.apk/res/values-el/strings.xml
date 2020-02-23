@@ -817,6 +817,7 @@
 	<string name="mark_operation_succeeded">Προστέθηκε με επιτυχία</string>
 	<string name="mark_people_ignore_info_message">Πατήστε παρατεταμένα τις φωτογραφίες των ατόμων για να τις προσθέσετε σε ομάδες</string>
 	<string name="megabyteShort">MB</string>
+    <string name="member_menu_vipname_free">Δωρεάν</string>
 	<string name="menu_album_new_album">Νέο άλμπουμ</string>
 	<string name="menu_item_sort_date">Ημερομηνία</string>
 	<string name="menu_item_sort_name">Όνομα</string>
@@ -1238,6 +1239,7 @@
 	<string name="scan_barcode_guide">Για να λάβετε τον κωδικό QR του άλμπουμ, πατήστε το εικονίδιο Κοινή χρήση.</string>
 	<string name="scan_barcode_to_join">Σάρωση κωδικού QR για σύνδεση σε άλμπουμ.</string>
 	<string name="scan_qr_code_buttom_text">Σάρωση κωδικού QR για προβολή του άλμπουμ.</string>
+    <string name="scanning_device_tips">Αναζήτηση για συσκευές κοντά... Βεβαιωθείτε ότι η άλλη συσκευή είναι σε ανιχνεύσιμη λειτουργία.</string>
 	<string name="screen_doodle_talkback_size">Πλάτος γραμμής Σκίτσου</string>
 	<string name="screen_editor_btn_delete">Διαγραφή</string>
 	<string name="screen_editor_btn_save">Αποθήκευση</string>

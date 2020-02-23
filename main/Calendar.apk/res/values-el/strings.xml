@@ -187,15 +187,14 @@
 	<string name="double_seventh_day_tradition">七夕</string>
 	<string name="downloading">下载中</string>
 	<string name="dropdown_delete_button_desc">Αφαίρεση %s από τους παραλήπτες</string>
-	<string name="easter">复活节</string>
-	<string name="edit_date_calculate_days_backward_error_hint">"Can't calculate forwards"</string>
+	<string name="edit_date_calculate_days_backward_error_hint">"Αδυναμία υπολογισμού εμπρός"</string>
 	<string name="edit_date_calculate_days_empty_hint">Εισάγετε τον αριθμό των ημερών</string>
-	<string name="edit_date_calculate_days_forward_error_hint">"Can't calculate backwards"</string>
+	<string name="edit_date_calculate_days_forward_error_hint">"Αδυναμία υπολογισμού πίσω"</string>
 	<string name="edit_event_all_day_label">ΟΛΗ ΜΕΡΑ</string>
-	<string name="edit_event_anniversary_name_empty_hint">Enter event name</string>
+	<string name="edit_event_anniversary_name_empty_hint">Εισάγετε όνομα</string>
 	<string name="edit_event_anniversary_name_hint">Εκδήλωση</string>
 	<string name="edit_event_birthday_import_from_contact">Εισαγωγή γενεθλίων από επαφές</string>
-	<string name="edit_event_birthday_name_empty_hint">Enter a name</string>
+	<string name="edit_event_birthday_name_empty_hint">Εισάγετε ένα όνομα</string>
 	<string name="edit_event_birthday_name_hint">Όνομα</string>
 	<string name="edit_event_calendar_label">Ημερολόγιο</string>
 	<string name="edit_event_choose_date">Επιλέξτε ημερομηνία</string>
@@ -207,7 +206,7 @@
 	<string name="edit_event_from_label">ΑΠΟ</string>
 	<string name="edit_event_input_year">Εισάγετε έτος</string>
 	<string name="edit_event_label">Λεπτομέρειες</string>
-	<string name="edit_event_no_reminder_value">"Don't remind"</string>
+	<string name="edit_event_no_reminder_value">"Χωρίς υπενθ/ση"</string>
 	<string name="edit_event_reminder_3_days_before">Υπενθύμιση επίσης 3 ημ πρίν</string>
 	<string name="edit_event_reminder_summary">Την ημέρα εκείνη στις %1$s</string>
 	<string name="edit_event_reminder_summary_3_days_before">3 ημ πριν και εκείνη την ημ στις %1$s</string>
@@ -552,7 +551,7 @@
 	<string name="no_title_label">(Χωρίς τίτλο)</string>
 	<string name="no_visiable_calendar_message">Θα πρέπει να επιλέξετε ένα λογαριασμό ημερολογίου. Πατήστε Επιλογή λογαριασμού για να συνεχίσετε.</string>
 	<string name="no_visiable_calendar_message_only_for_xiaomi_account">Πρέπει να προσθέσετε έναν λογαριασμό ημερολογίου. Πατήστε \"Προσθήκη\" για να συνεχίσετε.</string>
-	<string name="no_visiable_calendar_select_account">Επιλογή λογαριασμού</string>
+	<string name="no_visiable_calendar_select_account">Προσθήκη</string>
 	<string name="no_visiable_calendar_title">Προσθήκη λογαριασμού</string>
 	<string name="notification_channel_description" />
 	<string name="notification_channel_name">Τακτικές υπενθυμίσεις</string>

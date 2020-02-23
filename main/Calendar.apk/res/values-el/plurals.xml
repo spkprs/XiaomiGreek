@@ -2,28 +2,28 @@
 
 <resources>
   <plurals name="Ndays">
-    <item quantity="other">%d ημέρες πριν την εκδήλωση</item>
-    <item quantity="one">%d μέρα πρίν την εκδήλωση</item>
+    <item quantity="other">%d ημέρες πριν</item>
+    <item quantity="one">%d μέρα πριν</item>
   </plurals>
   <plurals name="Ndays_after_at">
-    <item quantity="other">Σε %1$d ημέρες μετά  την εκδήλωση στις %2$s</item>
-    <item quantity="one">Σε %1$d ημέρα μετά  την εκδήλωση στις %2$s</item>
+    <item quantity="other">Σε %1$d ημέρες μετά  στις %2$s</item>
+    <item quantity="one">Σε %1$d ημέρα μετά στις %2$s</item>
   </plurals>
   <plurals name="Ndays_ago_at">
-    <item quantity="other">%1$d ημέρες πριν την εκδήλωση στις %2$s</item>
-    <item quantity="one">%1$d ημέρα πριν την εκδήλωση στις %2$s</item>
+    <item quantity="other">%1$d ημέρες πριν στις %2$s</item>
+    <item quantity="one">%1$d ημέρα πριν στις %2$s</item>
   </plurals>
   <plurals name="Nhours">
-    <item quantity="other">%d ώρες πριν την εκδήλωση</item>
+    <item quantity="other">%d ώρες πριν</item>
     <item quantity="one">%d ώρα πριν την εκδήλωση</item>
   </plurals>
   <plurals name="Nminutes">
-    <item quantity="other">%d λεπτά πριν την εκδήλωση</item>
-    <item quantity="one">%d λεπτό πριν την εκδήλωση</item>
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">%d λεπτό πριν</item>
   </plurals>
   <plurals name="Nweeks">
-    <item quantity="other">%d εβδομάδες πριν την εκδήλωση</item>
-    <item quantity="one">%d εβδομάδα πριν την εκδήλωση</item>
+    <item quantity="other">%d εβδομάδες πριν</item>
+    <item quantity="one">%d εβδομάδα πριν</item>
   </plurals>
      <plurals name="anniversary_day">
         <item quantity="other">%1$s ημέρες</item>
@@ -54,8 +54,8 @@
         <item quantity="one">%1$s-χρονών</item>
      </plurals>
      <plurals name="countdown_day">
-        <item quantity="other">%1$s μέρες που απομένουν</item>
-        <item quantity="one">%1$s ημέρα αριστερά</item>
+        <item quantity="other">%1$s μέρες απομένουν</item>
+        <item quantity="one">%1$s ημέρα απομένει</item>
      </plurals>
      <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d ημέρες μετά</item>
@@ -74,12 +74,12 @@
         <item quantity="one">%1$d μέρα πρίν</item>
      </plurals>
      <plurals name="edit_date_calculate_days_error_hint">
-        <item quantity="other">Μπορείτε να εισάγετε έως και %1$d ημέρες</item>
-        <item quantity="one">Μπορείτε να εισάγετε έως και %1$d ημέρα</item>
+        <item quantity="other">Εισάγετε έως %1$d ημέρες</item>
+        <item quantity="one">Εισάγετε έως %1$d ημέρα</item>
      </plurals>
      <plurals name="event_reminders_to_max">
-        <item quantity="other">Μπορεί να οριστούν %d υπενθυμίσεις</item>
-        <item quantity="one">Μπορεί να οριστεί %d υπενθύμιση</item>
+        <item quantity="other">Ορίστε έως %d υπενθυμίσεις</item>
+        <item quantity="one">Ορίστε έως %d υπενθύμιση</item>
      </plurals>
      <plurals name="month_more_events">
         <item quantity="other">+%d</item>
