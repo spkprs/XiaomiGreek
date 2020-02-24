@@ -211,16 +211,16 @@
         <item quantity="one">Επιλεγμένη φωτογραφία (%dMB) δεν είναι στη συσκευή. Κατεβάστε τη με χρήση δεδομένων κινητής;</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Ακύρωση λήψης %d φωτογραφιών που απομένουν;</item>
-        <item quantity="one">Ακύρωση της λήψης της υπόλοιπης φωτογραφίας;</item>
+        <item quantity="other">"%d αρχεία δεν έχουν ληφθεί ακόμα. Να ακυρωθεί οπωσδήποτε;"</item>
+        <item quantity="one">"%d αρχείο δεν έχει ληφθεί ακόμα. Να ακυρωθεί οπωσδήποτε;"</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Αδύνατη η λήψη %1$d φωτογραφιών, συνδεθείτε στο δίκτυο και δοκιμάστε ξανά</item>
         <item quantity="one">Αδύνατη η λήψη φωτογραφιών, συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Αδύνατη η λήψη %1$d φωτογραφιών (%2$dMB), συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</item>
-        <item quantity="one">Αδύνατη η λήψη φωτογραφίας (%2$dMB), συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</item>
+        <item quantity="other">"Αδύνατη η λήψη %1$d αρχείων (%2$dMB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
+        <item quantity="one">"Αδύνατη η λήψη %1$d αρχείόυ (%2$dMB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Αδύνατη η λήψη %1$d φωτογραφιών, δοκιμάστε ξανά;</item>
@@ -378,4 +378,8 @@
         <item quantity="other">%1$d αρχεία</item>
         <item quantity="one">%1$d αρχείο</item>
      </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d αρχεία (%2$dMB) δεν έχουν ληφθεί ακόμα. Λήψη με χρήση δεδομένων;"</item>
+        <item quantity="one">"%1$d αρχείο (%2$dMB) δεν έχει ληφθεί ακόμα. Λήψη με χρήση δεδομένων;"</item>
+    </plurals>
 </resources>

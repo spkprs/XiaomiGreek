@@ -181,4 +181,21 @@
         <item>Αντίγραφα φωτογραφιών</item>
         <item>Συγχρονισμός φωτογραφιών στο Cloud</item>
     </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Ώρα για παιχνίδι</item>
+        <item>"Το Σαββατοκύριακο του Παιδιού"</item>
+        <item>Το μικρό</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Νέοι φίλοι και παλιοί φίλοι</item>
+        <item>"Περυσινές συναντήσεις"</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Μαζί</item>
+        <item>Ομολογίες και δεσμοί</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Μεγαλώνουν τόσο γρήγορα</item>
+        <item>"Φωτογραφίες του Μικρού"</item>
+    </string-array>
 </resources>
