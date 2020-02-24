@@ -82,4 +82,5 @@
   <string name="gesture_open_wechat">Άνοιγμα υπολογιστή</string>
   <string name="fade_screen_off_title">Απενεργοποίηση οθόνης</string>
   <string name="folder_blur_title">Θόλωση φόντου φακέλου</string>
+  <string name="use_new_miui_gestures_title">Χρήση νέων χειρονομιών</string>
 </resources>
