@@ -101,7 +101,7 @@
 	<string name="notification_fold_title">Φάκελος ειδοποιήσεων</string>
 	<string name="notification_manager">Ειδοποιήσεις εφαρμογών</string>
 	<string name="notification_setting_menu_feedback_text">"该条通知分类不准确?
-反馈问题 >"</string>
+反馈问题"</string>
 	<string name="notification_style_android">Android</string>
 	<string name="notification_style_miui">MIUI</string>
 	<string name="off">OFF</string>
