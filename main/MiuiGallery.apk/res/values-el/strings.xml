@@ -1285,13 +1285,13 @@
 	<string name="search_net_error">Παρουσιάστηκε σφάλμα δικτύου. Συνδεθείτε σε διαφορετικό δίκτυο και δοκιμάστε ξανά.</string>
 	<string name="search_request_applied">Εφαρμόστηκε</string>
 	<string name="search_request_open">Συμμετοχή σε ομάδα δοκιμών</string>
-	<string name="search_request_requesting">Εφαρμόστηκε. Περιμένετε λίγο πριν ξεκινήσετε.</string>
+	<string name="search_request_requesting">Εφαρμόστηκε. Περιμένετε...</string>
 	<string name="search_result_empty">Δεν βρέθηκε τίποτα</string>
 	<string name="search_retry">Προσπάθησε ξανά</string>
 	<string name="search_select_network">Επιλέξτε δίκτυο</string>
 	<string name="search_set_network_connection">Ρυθμίσεις δικτύου</string>
 	<string name="search_setting_sub_title">Αναζητήστε άτομα, μέρη και αντικείμενα στις φωτογραφίες σας.</string>
-	<string name="search_setting_title">Βρείτε φωτογραφίες στην Έκθεση</string>
+	<string name="search_setting_title">Βρείτε φωτό στην Συλλογή</string>
 	<string name="search_syncing">Συγχρονισμός δεδομένων, επανέλθετε σε λίγο</string>
 	<string name="search_title_album">Αλμπουμ</string>
 	<string name="search_title_app_screenshot">Εφαρμογή Στιγμιοτύπων</string>

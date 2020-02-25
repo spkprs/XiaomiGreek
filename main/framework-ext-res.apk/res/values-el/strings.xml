@@ -66,7 +66,7 @@
 	<string name="global_actions_silent_mode">Αθόρυβη λειτουργία</string>
     <string name="handset_text_unsupported_handset_insert">Πατήστε για προβολή λεπτομερειών</string>
     <string name="handset_text_usb_handset_insert">Πατήστε για άνοιγμα πρόσθετων ρυθμίσεων</string>
-    <string name="handset_title_unsupported_handset_insert">"Αδύνατη η αναπαραγωγή ήχου μέσω προσαρμογέα"</string>
+    <string name="handset_title_unsupported_handset_insert">"Δεν υποστηρίζονται προσαρμογείς ακουστικών USB"</string>
     <string name="handset_title_usb_handset_insert">Αναπαραγωγή ήχου μέσω USB</string>
 	<string name="group_name_contacts">Επαφές</string>
 	<string name="group_name_coworkers">Συνάδελφοι</string>
