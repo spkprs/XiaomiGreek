@@ -28,4 +28,8 @@
         <item quantity="other">Εβδομαδιαίες: %d ειδοποιήσεις</item>
         <item quantity="one">Εβδομαδιαίες: %d ειδοποίηση</item>
       </plurals>
+     <plurals name="mtrl_badge_content_description">
+         <item quantity="other">%d νέες ειδοποιήσεις</item>
+         <item quantity="one">%d νέα ειδοποίηση</item>
+     </plurals>
 </resources>

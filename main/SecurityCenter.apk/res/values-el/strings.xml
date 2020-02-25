@@ -2818,6 +2818,7 @@
 	 <string name="forground_network_optimization_summary">Δώστε μεγαλύτερο εύρος ζώνης στα παιχνίδια που τρέχουν στο προσκήνιο</string>
 	 <string name="forground_network_optimization_title">Προτεραιότητα εύρους ζώνης</string>
 	 <string name="function_shield_summary_m">Περιορίστε την αυτόματη φωτεινότητα και τις χειρονομίες στιγμιότυπου οθόνης</string>
+    <string name="gb_add_game_loading_tips">Μισό λεπτό...</string>
      <string name="gb_advance_settings_touch">Χειριστήρια αφής</string>
     <string name="gb_advance_settings_follow_up">Απόκριση αφής</string>
     <string name="gb_advance_settings_finger_up">Ευαισθησία επαναλήψεων αφής</string>

@@ -1778,4 +1778,8 @@
     <string name="nr_usaged_operator">Πάροχος</string>
     <string name="nr_usaged_used_time">Διάρκεια χρήσης</string>
     <string name="status_unavailable">Μη διαθέσιμο</string>
+    <string name="phone_report_title">Ανάγνωση πληροφ. εισερχ. κλήσης</string>
+    <string name="report_method_entries_item1">Μόνο όταν είναι συνδεδεμένα ακουστικά</string>
+    <string name="report_method_entries_item2">Πάντα</string>
+    <string name="report_method_entries_item3">Ανενεργό</string>
 </resources>
