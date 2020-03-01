@@ -1298,4 +1298,6 @@
     <string name="xiaomi_auth_toastbar">Εισέλθετε για να εξουσιοδοτήσετε τη συσκευή σας</string>
 	<string name="xiaomi_email">Mail</string>
 	<string name="xiaomi_under_certification">Εξουσιοδότηση...</string>	 
+    <string name="database_exception">Εξαίρεση δεδομένων, συνδεθείτε ξανά</string>
+    <string name="db_error">Υπάρχει εξαίρεση στα δεδομένα e-mail. Συνδεθείτε ξανά. Τα δεδομένα e-mail μπορούν να ανακτηθούν μετά τη σύνδεση.</string>
 </resources>

@@ -79,6 +79,9 @@
 	<string name="HIPS_SecurityPrompt_Caption">Προειδοποίηση ασφαλείας</string>
 	<string name="HIPS_SecurityPrompt_Reject">Απόρριψη (%d)</string>
 	<string name="HIPS_SecurityPrompt_Reject_Once">Απόρριψη μία φορά (%d)</string>
+    <string name="HIPS_Perm_clipboard">Πρόχειρο</string>
+    <string name="HIPS_Perm_clipboard_Desc">Πρόσβαση και αλλαγή περιεχομένου στο πρόχειρο</string>
+    <string name="grant_dialog_button_allow_onetime">Να επιτρέπεται αυτή η ώρα</string>
 	<string name="HIPS_SecurityPrompt_Title">Το %1$s ζητάει %2$s</string>
 	<string name="Su_Package_Forbidden2">δεν έχει πρόσβαση root.</string>
 	<string name="app_name">Διαχείριση δικαιωμάτων</string>
