@@ -223,7 +223,7 @@
   <string name="create_playlist_failure">Δεν ήταν δυνατή η δημιουργία λίστας αναπαραγωγής</string>
   <string name="cross_talk">Stand-up πράξεις</string>
   <string name="cta_runtime_perm_desc_account">Αποκτήστε πρόσβαση σε λογαριασμούς στη συσκευή σας, για να συνδεθείτε χρησιμοποιώντας το Λογαριασμό Mi</string>
-  <string name="cta_runtime_perm_desc_location">Πρόσβαση σε τοποθεσία για να είναι διαθέσιμοι οι τοπικοί ραδιοφωνικοί σταθμοί</string>
+  <string name="cta_runtime_perm_desc_location">(Προαιρετικά) Πρόσβαση στην τοποθεσία για εμφάνιση τοπικών σταθμών</string>
   <string name="cta_runtime_perm_desc_phone">Για να προσδιορίσετε τη συσκευή σας, αποκτήστε πρόσβαση στις πληροφορίες της συσκευής</string>
   <string name="cta_runtime_perm_desc_storage">Αποκτήστε πρόσβαση στην αποθήκευση για να αποκτήσετε πρόσβαση και να αποθηκεύσετε την κάλυψη και τα αρχεία που έχετε λάβει</string>
   <string name="cta_runtime_perm_desc_storage_single">Αποκτήστε πρόσβαση στην αποθήκευση για να αποκτήσετε πρόσβαση και να αποθηκεύσετε την κάλυψη και τα αρχεία που έχετε λάβει</string>
@@ -600,6 +600,8 @@
   <string name="metered_play_toast_with_beyond_data">Χρήση δεδομένων κινητής τηλεφωνίας για αναπαραγωγή τραγουδιών. Υπέρβαση ορίου κατά %s</string>
   <string name="metered_play_toast_with_data">Χρήση δεδομένων κινητής τηλεφωνίας για αναπαραγωγή τραγουδιών, %s υπόλοιπα</string>
   <string name="mi_fm">Mi FM</string>
+  <string name="miui_fm">FM Radio</string>
+  <string name="miui_fm_description">Πολλοί ραδιοφωνικοί σταθμοί στο διαδίκτυο</string>
   <string name="milink_unavaliable_please_update">Mi σύνδεσμος δεν είναι διαθέσιμη. Ενημέρωση MIUI.</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Άγνωστο&gt;</string>
@@ -713,6 +715,8 @@
   <string name="online_service_open_tip">Οι ηλεκτρονικές υπηρεσίες μουσικής είναι ενεργοποιημένες</string>
   <string name="online_service_switch">Ηλεκτρονικές υπηρεσίες</string>
   <string name="online_service_title">Ηλεκτρονικές υπηρεσίες</string>
+  <string name="online_setting_message">Ανοίξτε την online υπηρεσία για να ακούσετε δημοφιλές περιεχόμενο</string>
+  <string name="online_setting_title">Ακούστε περισσότερα</string>
   <string name="online_switch">Ηλεκτρονικές υπηρεσίες περιεχομένου</string>
   <string name="online_switch_message">Η απενεργοποίηση των ηλεκτρονικών υπηρεσιών θα επηρεάσει τις υπηρεσίες VIP και τις συστάσεις. Απενεργοποίηση ούτως ή άλλως;</string>
   <string name="online_switch_setting">Ρυθμίσεις περιεχομένου σε σύνδεση</string>
