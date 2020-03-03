@@ -742,4 +742,12 @@
     <string name="selected">Επιλεγμένο</string>
     <string name="skip_underline">Παράλειψη αυτού του βήματος</string>
     <string name="unselected">Δεν έχει επιλεγεί</string>
+	<string name="backup_died_summary">Πατήστε \"Σύνδεση ξανά\". Η πρόοδος μεταφοράς θα συνεχιστεί από το σημείο που σταματήσατε.</string>
+	<string name="backup_died_title">Παρουσιάστηκε σφάλμα</string>
+	<string name="qq_app_receive_fail">"Αδύνατη λήψη QQ"</string>
+	<string name="qq_app_send_fail">"Αδύνατη αποστολή QQ"</string>
+	<string name="wechat_and_qq_app_receive_fail">"Αδύνατη η λήψη των WeChat και QQ"</string>
+	<string name="wechat_and_qq_app_send_fail">"Αδύνατη η αποστολή WeChat και QQ"</string>
+	<string name="wechat_app_receive_fail">"Αδύνατη λήψη WeChat"</string>
+	<string name="wechat_app_send_fail">"Αδύνατη αποστολή WeChat"</string>
 </resources>

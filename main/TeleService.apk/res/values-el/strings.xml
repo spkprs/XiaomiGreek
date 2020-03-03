@@ -424,6 +424,7 @@
   <string name="daltonizer_mode_protanomaly">Protanomaly (red-green)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomaly (blue-yellow)</string>
   <string name="daltonizer_type_overridden">Αντικαταστάθηκε από %1$s</string>
+  <string name="data_disable_warning_no_mms">"Δεν θα μπορείτε να στείλετε και να λάβετε MMS εάν απενεργοποιήσετε τα δεδομένα κινητής τηλεφωνίας (WCDMA/LTE). Ωστόσο, θα μπορείτε με σύνδεση σε WiFi."</string>
   <string name="data_enable_summary">Ενεργοποίηση πρόσβασης δεδομένων μέσω δικτύου κινητής τηλεφωνίας</string>
   <string name="data_enabled">Δεδομένα ενεργά</string>
   <string name="data_plan">Σχέδια δεδομένων κινητής</string>

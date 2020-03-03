@@ -593,4 +593,5 @@ ID:%s
       <string name="pwd_width_phone_number_or_mail_num">"Ο κωδικός δεν μπορεί να περιέχει τον αριθμό τηλεφώνου, το email ή το αναγνωριστικό λογαριασμού Mi"</string>
       <string name="risky_pwd_not_allow">"Ο νέος κωδικός δεν είναι ασφαλής. Ορίστε διαφορετικό."</string>
       <string name="passport_can_not_receive_verification_code">"Αδύνατη η λήψη του κωδικού επαλήθευσης;"</string>
+      <string name="password_toggle_content_description">Εναλλαγή προβολής κωδικού</string>
 </resources>

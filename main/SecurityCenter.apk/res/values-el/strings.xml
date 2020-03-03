@@ -3293,4 +3293,5 @@
 	<string name="power_save_ps_close_setting_haptic">Απτικά σχόλια</string>
 	<string name="power_save_ps_close_setting_pickupwakeup">\"Ανύψωση για αφύπνιση\"</string>
 	<string name="power_save_ps_close_setting_sync">Συγχρονισμός</string>
+    <string name="antivirus_monitored_app_empty">"Αδύνατη η εύρεση συμβατών εφαρμογών πληρωμής"</string>
 </resources>

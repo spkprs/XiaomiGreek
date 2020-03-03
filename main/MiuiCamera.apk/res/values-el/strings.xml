@@ -88,6 +88,7 @@
 	<string name="auxiliary_close_status">Τα πρόσθετα εφέ είναι ανενεργά</string>
 	<string name="auxiliary_exposure_feedback_status">Η επαλήθευση της έκθεσης είναι ενεργή</string>
 	<string name="auxiliary_focus_peak_status">Η μέγιστη Εστίαση είναι ενεργή</string>
+    <string name="background">Φόντο</string>
 	<string name="back_bokeh_use_hint">Κρατήστε το θέμα σας εντός 1,5 μέτρου για καλύτερο αποτέλεσμα</string>
 	<string name="beauty_body">Σώμα</string>
 	<string name="beauty_body_body">Αδυνάτισμα</string>
@@ -353,6 +354,18 @@
 	<string name="mimoji_check_normal">Αγγίξτε το πλήκτρο λήψης</string>
 	<string name="mimoji_confirm">Επιβεβαίωση</string>
 	<string name="mimoji_create_tips">Κοιτάξτε απευθείας στην κάμερα για να δημιουργήσετε το Mimoji</string>
+    <string name="mimoji_create_emoticon">Δημιουργία πακέτου αυτοκόλλητων</string>
+    <string name="mimoji_create_emoticon_error">"Αδύνατη η δημιουργία πακέτου αυτοκόλλητων"</string>
+    <string name="mimoji_create_emoticon_progress">Δημιουργία πακέτου αυτοκόλλητων...</string>
+    <string name="mimoji_emoticon_save">Αποθήκευση πακέτου αυτοκόλλητων</string>
+    <string name="mimoji_emoticon_with_jpeg_save">Αποθήκευση εικόνων επίσης΄</string>
+    <string name="mimoji_gif_accelerate">Ταχύτητα</string>
+    <string name="mimoji_gif_clear_bg">Κατάργηση φόντου</string>
+    <string name="mimoji_gif_edit_hint">Πατήστε για προσθήκη κειμένου</string>
+    <string name="mimoji_gif_edit_title">Επεξεργασία GIF</string>
+    <string name="mimoji_gif_reverse">Αντιστροφή</string>
+    <string name="mimoji_save_finish">Ολοκλήρωση</string>
+    <string name="mimoji_select_number_error">Επιλέξτε τουλάχιστον 1 στοιχείο</string>
 	<string name="mimoji_delete">" "<font fgcolor="#ffff0000">Διαγραφή</font>" "</string>
 	<string name="mimoji_delete_dialog_title">Διαγραφή του Mimoji;</string>
 	<string name="mimoji_delete_mimoji">Διαγραφή emoji</string>
@@ -867,6 +880,7 @@
 	<string name="pref_watermark_on">On</string>
 	<string name="pref_watermark_title">Υδατογράφημα</string>
 	<string name="preparing_sd">Έλεγχος SD card…</string>
+    <string name="preview_back_pressed_hint">Πατήστε ξανά για να επιστρέψετε στην προεπισκόπηση</string>
     <string name="pro_color_mode">Χρώμα Pro</string>
 	<string name="recapture_dialog_message">Επιβεβαιώστε την επανάληψη?</string>
 	<string name="recapture_dialog_title">Η επανάληψη της λήψης θα διαγράψει την τρέχουσα εικόνα</string>
@@ -916,6 +930,13 @@
 	<string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
 	<string name="tap_to_exposure">Αγγίξτε για χειροκίνητη προσαρμογή έκθεσης</string>
 	<string name="tap_to_focus">Αγγίξτε για εστίαση</string>
+    <string name="timbre">Φωνή</string>
+    <string name="timbre_baby">Παιδί</string>
+    <string name="timbre_gentlemen">Κύριος</string>
+    <string name="timbre_girl">Κορίτσι</string>
+    <string name="timbre_lady">Κυρία</string>
+    <string name="timbre_normal">Αρχικό</string>
+    <string name="timbre_robot">Robot</string>
 	<string name="time_lapse_error">Αδύνατη η χρήση αυτού του μεγέθους βίντεο για εγγραφή με χρονική καθυστέρηση</string>
 	<string name="title_snap_double_confirm">Επιβεβαιώστε ξανά</string>
 	<string name="toast_burst_snap_finished_summary">Πραγματοποιήθηκαν πολλαπλές λήψεις, πήρατε %1$s φωτογραφίες</string>
@@ -944,6 +965,7 @@
 	<string name="ultra_wide_recommend_tip_hint">Δοκιμάστε την Υπέρ ευρεία γωνία</string>
 	<string name="ultra_wide_recommend_tip_hint_sat">Εναλλαγή σε Υπέρ Ευρεία γωνία 0.6Χ</string>
 	<string name="ultra_widem_mode_use_hint_text">"Ενεργοποιήστε την Υπέρ Ευρεία λειτουργία για καταγραφή μιας ευρύτερης προβολής για εσάς. Εξερευνήστε περισσότερη συναρπαστική ομορφιά."</string>
+    <string name="unknow_error">Άγνωστο σφάλμα</string>
 	<string name="user_agree">Συμφωνώ</string>
 	<string name="user_agreement2">Όροι υπηρεσίας</string>
 	<string name="user_agreement4">Πολιτική Απορρήτου</string>
