@@ -29,9 +29,9 @@
         <item>Pad</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-       <item>Προβολή πλακιδίων</item>
-        <item>Κατακόρυφη προβολή</item>
-        <item>Οριζόντια προβολή</item>
+       <item>Πλακίδια</item>
+        <item>Κατακόρυφα</item>
+        <item>Οριζόντια</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Πολύ μικρό</item>

@@ -365,7 +365,7 @@
   <string name="power_remaining_only_more_than_subtext">Απομένουν περισσότερα/ες από %1$s</string>
   <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
-  <string name="private_dns_mode_off">Ανενεργή</string>
+  <string name="private_dns_mode_off">Ανενεργό</string>
   <string name="private_dns_mode_opportunistic">Αυτόματα</string>
   <string name="private_dns_mode_provider">Όνομα κεντρικού υπολογιστή παρόχου DNS</string>
   <string name="private_dns_mode_provider_failure">Δεν ήταν δυνατή η σύνδεση</string>
