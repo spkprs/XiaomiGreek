@@ -164,9 +164,9 @@
         <item>Ζωντανές στιγμές</item>
     </string-array>
     <string-array name="last_weekend_title">
-        <item>Τα Σαββατοκύριακα μου</item>
-        <item>Κομμάτια της ζωής</item>
-        <item>Αναμνήσεις Σαββατοκύριακου</item>
+        <item>Τα Σ/Κ μου</item>
+        <item>Στιγμές μου</item>
+        <item>Αναμνήσεις Σ/Κ</item>
     </string-array>
     <string-array name="parties_title">
         <item>Μαζί</item>

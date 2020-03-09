@@ -742,7 +742,7 @@
      <string name="cleaner_slim_description">Διατηρήστε τις βελτιστοποιημένες φωτογραφίες στη συσκευή σας. Τα πρωτότυπα αρχεία θα αποθηκευτούν στο Xiaomi Cloud.</string>
      <string name="cleaner_slim_start">Βελτιστοποίηση</string>
      <string name="cleaner_slim_title">Βελτιστοποίηση φωτογραφιών</string>
-     <string name="cleaner_space_description">μπορεί να διαγραφούν</string>
+     <string name="cleaner_space_description">μπορείτε να διαγράψετε</string>
      <string name="cleaner_space_detail_description">Εκκαθάριση φωτογραφιών της Συλλογής σας για απελευθέρωση χώρου αποθήκευσης</string>
      <string name="cleaner_stop_scan">Διακοπή σάρωσης</string>
      <string name="cleaner_video_action">Διαγραφή τώρα</string>
@@ -773,8 +773,8 @@
      <string name="cloud_guide_auto_backup_title">Επιλέξτε τα άλμπουμ για συγχρονισμό</string>
      <string name="cloud_guide_login_title">Αυτόματη δημιουργία αντιγράφων φωτογραφιών και βίντεο</string>
      <string name="cloud_guide_welcome_title">MiCloud</string>
-     <string name="cloud_privacy_with_ai_album">Δήλωση απορρήτου σχετικά με τον αυτόματο συγχρονισμό και την επεξεργασία εικόνων</string>
-     <string name="cloud_privacy_with_face">Δήλωση απορρήτου σχετικά με τον αυτόματο συγχρονισμό και την αναγνώριση προσώπου</string>
+     <string name="cloud_privacy_with_ai_album">Σχετικά με τον αυτ. συγχρ/σμό και επεξ. εικόνων</string>
+     <string name="cloud_privacy_with_face">Σχετικά με τον αυτ. συγχρ/σμό και αναγν. προσώπου</string>
      <string name="cloud_screenshots_display_name">Στιγμιότυπα</string>
      <string name="cloud_settings">Συγχρονισμός</string>
      <string name="cloud_storage_extend">Επέκταση χώρου Xiaomi Cloud</string>
@@ -1439,7 +1439,7 @@
      <string name="operation_save">Αποθήκευση</string>
      <string name="operation_send">Αποστολή</string>
      <string name="operation_set_contact_photo">Ορισμός ως φωτογραφία επαφής</string>
-     <string name="operation_set_slide_wallpaper">Ορισμός ως ταπετσαρίας παρουσίασης</string>
+     <string name="operation_set_slide_wallpaper">Ορισμός ως ταπετσαρίας διαφανειών</string>
      <string name="operation_set_video_wallpaper">Ορισμός βίντεο ταπετσαρίας</string>
      <string name="operation_set_wallpaper">Ορισμός ως ταπετσαρία</string>
      <string name="operation_share">Κοινή χρήση</string>
@@ -1820,7 +1820,7 @@
      <string name="service_is_provided_by_miui_cloud_service">Αυτή η υπηρεσία παρέχεται από το Xiaomi Cloud</string>
      <string name="set_as_baby_lock_wallpaper">Ορισμός ως ταπετσαρία οθόνης κλειδώματος</string>
      <string name="set_as_slide_wallpaper_description">Αυτή η εικόνα είναι μικρογραφία, λήψη πρωτότυπης?</string>
-     <string name="set_as_slide_wallpaper_title">Ορισμός ως ταπετσαρίας παρουσίασης</string>
+     <string name="set_as_slide_wallpaper_title">Ορισμός ως ταπετσαρίας διαφανειών</string>
      <string name="set_as_video_wallpaper_description">Κάντε λήψη αυτού του στοιχείου και χρησιμοποιήστε το ως βίντεο ταπετσαρία;</string>
      <string name="set_as_video_wallpaper_title">Ορισμός βίντεο ταπετσαρίας</string>
      <string name="set_as_wallpaper_description">Αυτή η εικόνα είναι μια μικρογραφία, λήψη πρωτότυπης;</string>

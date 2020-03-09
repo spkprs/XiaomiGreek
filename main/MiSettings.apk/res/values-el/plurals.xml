@@ -4,6 +4,14 @@
         <item quantity="other">%d ημ</item>
         <item quantity="one">%d ημ</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">"Χρησιμοποιείτε τη συσκευή σας για %d λεπ χωρίς διακοπές"</item>
+        <item quantity="one">"Χρησιμοποιήσατε τη συσκευή σας για %d λεπ χωρίς διακοπές"</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d λεπ</item>
+        <item quantity="one">%d λεπ</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Ο Χρόνος οθόνης σήμερα ισούται με το μέσο όρο των %d ημερών σας</item>
         <item quantity="one">Ο Χρόνος οθόνης σήμερα ισούται με το μέσο όρο των %d ημερών σας</item>
@@ -82,12 +90,12 @@
         <item quantity="one">%d φορά</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
-        <item quantity="other">ΣΚ: %d ώρες</item>
-        <item quantity="one">ΣΚ: %d ώρα</item>
+        <item quantity="other">Σ/Κ: %d ώρες</item>
+        <item quantity="one">Σ/Κ: %d ώρα</item>
     </plurals>
     <plurals name="usage_state_week_day_minute">
-        <item quantity="other">ΣΚ: %d λεπ</item>
-        <item quantity="one">ΣΚ: %d λεπ</item>
+        <item quantity="other">Σ/Κ: %d λεπ</item>
+        <item quantity="one">Σ/Κ: %d λεπ</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
         <item quantity="other">Εργάσιμες: %d ώρ</item>

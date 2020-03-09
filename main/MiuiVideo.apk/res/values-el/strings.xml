@@ -621,7 +621,7 @@
   <string name="player_vip_buy_title">Συνδρομή Mi Βίντεο</string>
   <string name="playing">Παίζει</string>
   <string name="plugin_install_failure">Δεν ήταν δυνατή η εγκατάσταση της προσθήκης</string>
-  <string name="plus_add_shortcut">Δημιουργία συντόμευσης αρχικής οθόνης</string>
+  <string name="plus_add_shortcut">Δημιουργία συντόμ. στην Αρχ. οθόνη</string>
   <string name="plus_bottom_bar_delete">Διαγραφή</string>
   <string name="plus_bottom_bar_hide">Απόκρυψη</string>
   <string name="plus_bottom_bar_rename">Μετονομασία</string>
@@ -636,10 +636,10 @@
   <string name="plus_gallery_folder_switch_guid">Πατήστε για να μεταβείτε στην προβολή λίστας</string>
   <string name="plus_gallery_folders_showall">Προβολή όλων</string>
   <string name="plus_gallery_folders_showsection">Απόκρυψη</string>
-  <string name="plus_gallery_mediatype_aimusic">Ηχογραφήματα</string>
+  <string name="plus_gallery_mediatype_aimusic">Κομμάτια ήχου</string>
   <string name="plus_gallery_mediatype_changtu">Μεγάλες εικόνες</string>
   <string name="plus_gallery_mediatype_fangtu">Τετράγωνες εικόνες</string>
-  <string name="plus_gallery_mediatype_fastslowvideo">Χρόνος-λήξη και αργή κίνηση</string>
+  <string name="plus_gallery_mediatype_fastslowvideo">Γρήγορη &amp; Αργή κίνηση</string>
   <string name="plus_gallery_mediatype_hidded">Κρυφό</string>
   <string name="plus_gallery_mediatype_quanjing">Πανόραμα</string>
   <string name="plus_gallery_nocontents">Δεν υπάρχουν στοιχεία ακόμα.</string>
@@ -702,13 +702,14 @@
   <string name="plus_search_barhint">Αναζήτηση τοπικών βίντεο</string>
   <string name="plus_search_guide">Αναζήτηση βίντεο</string>
   <string name="plus_search_result_empty">Δεν ήταν δυνατή η εύρεση αποτελεσμάτων</string>
+  <string name="plus_shortcut">Τοπικά βίντεο</string>
   <string name="plus_shortcut_created_succ">Δημιουργήθηκε η συντόμευση στην αρχική οθόνη με επιτυχία</string>
   <string name="plus_shortcut_existed">Αυτή η συντόμευση υπάρχει ήδη</string>
   <string name="plus_sort_title">Ταξινόμιση</string>
   <string name="plus_sort_type_default">Προεπιλογή</string>
   <string name="plus_sort_type_name">Όνομα</string>
   <string name="plus_sort_type_size">Μέγεθος</string>
-  <string name="plus_sort_type_time">Χρόνος</string>
+  <string name="plus_sort_type_time">Ημ/νία</string>
   <string name="plus_tab_gallery">Φάκελοι</string>
   <string name="plus_tab_time">Χρονολόγιο</string>
   <string name="portrait_speed_title">Ταχύτητα αναπαραγωγής</string>
