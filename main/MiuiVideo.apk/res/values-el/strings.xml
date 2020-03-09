@@ -266,7 +266,7 @@
   <string name="h5_comment_hint">Εισάγετε το σχόλιό σας</string>
   <string name="h5_refresh">Ανανέωση</string>
   <string name="h5_unsharedable">Αδύνατη η κοινή χρήση αυτού του στοιχείου.</string>
-  <string name="have_learned">Το έπιασα</string>
+  <string name="have_learned">Κατανοητό</string>
   <string name="have_no_more_comments">Αυτά για τώρα.</string>
   <string name="high_quality_author">Κορυφαίο κανάλι</string>
   <string name="history_video">Νωρίτερα</string>
@@ -345,7 +345,7 @@
   <string name="message_setting_unread_message_title">Ειδοποίηση μη αναγν. μηνυμάτων</string>
   <string name="mibi">mibi</string>
   <string name="mipush_setting">ΜΙ ειδοποιήσεις</string>
-  <string name="moment_guide_desc">Χρήση κινήσεων για μεγέθυνση και σμίκρυνση</string>
+  <string name="moment_guide_desc">Σάρωση για μεγέθυνση &amp; σμίκρυνση</string>
   <string name="moment_tab_all">Όλα</string>
   <string name="moment_tab_image">Εικόνες</string>
   <string name="moment_tab_video">Βίντεο</string>
@@ -655,7 +655,7 @@
   <string name="plus_player_detail_file_location">Τοποθεσία:</string>
   <string name="plus_player_detail_file_name">Ονομα αρχείου:</string>
   <string name="plus_player_detail_file_param">Παράμετροι:</string>
-  <string name="plus_player_detail_file_path">Μονοπάτι:</string>
+  <string name="plus_player_detail_file_path">Διαδρομή:</string>
   <string name="plus_player_detail_file_time">"Χρονική σήμανση: "</string>
   <string name="plus_player_hide">Απόκρυψη</string>
   <string name="plus_player_page_refresh">Αυτό το στοιχείο ενημερώθηκε στο παρασκήνιο. Προσπάθησε ξανά.</string>
@@ -663,7 +663,7 @@
   <string name="plus_player_pip_unsupport">Εικόνα σε Εικόνα δεν υποστηρίζεται σε αυτή την έκδοση του συστήματός σας.</string>
   <string name="plus_player_play_mode_auto">Αυτόματη αναπαραγωγή</string>
   <string name="plus_player_play_mode_list">Επανάληψη όλων</string>
-  <string name="plus_player_play_mode_single_circle">Επαναλάβετε ένα</string>
+  <string name="plus_player_play_mode_single_circle">Επανάληψη ενός</string>
   <string name="plus_player_play_mode_stop">Play</string>
   <string name="plus_player_share_empty_toast">Επιλέξτε στοιχεία για κοινή χρήση</string>
   <string name="plus_player_share_screen">Μετάδοση</string>

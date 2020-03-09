@@ -352,7 +352,7 @@
 	<string name="mimoji_check_multi_face">Ένα άτομο τη φορά!</string>
 	<string name="mimoji_check_no_face">Αδύνατη η ανίχνευση προσώπου</string>
 	<string name="mimoji_check_normal">Αγγίξτε το πλήκτρο λήψης</string>
-	<string name="mimoji_confirm">Επιβεβαίωση</string>
+	<string name="mimoji_confirm">ΟΚ</string>
 	<string name="mimoji_create_tips">Κοιτάξτε απευθείας στην κάμερα για να δημιουργήσετε το Mimoji</string>
     <string name="mimoji_create_emoticon">Δημιουργία πακέτου αυτοκόλλητων</string>
     <string name="mimoji_create_emoticon_error">"Αδύνατη η δημιουργία πακέτου αυτοκόλλητων"</string>

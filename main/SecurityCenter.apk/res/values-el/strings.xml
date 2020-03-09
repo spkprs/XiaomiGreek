@@ -1200,7 +1200,14 @@
      <string name="gmscore_support_service">Υπηρεσίες Google</string>
      <string name="go_to">Μετάβαση</string>
      <string name="go_to_setting_fingerprint">Ρυθμίσεις</string>
+     <string name="google_base_app_fail">"Δεν ήταν δυνατή η λήψη. Ελέγξτε αν επιτρέπεται στην Ασφάλεια να συνδεθεί στο Internet."</string>
      <string name="google_base_app_install_choice">Η εφαρμογή απαιτεί το Google Services Framework για να λειτουργήσει κανονικά. Να γίνει λήψη και εγκατάσταση;</string>
+	 <string name="google_base_app_installed">Εγκαταστάθηκε με επιτυχία</string>
+	 <string name="google_base_app_installing">Εγκατάσταση...</string>
+	 <string name="google_base_app_network_anomaly">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά."</string>
+	 <string name="google_base_app_timeout">Έληξε το χρονικό όριο της περιόδου λειτουργίας. Δοκιμάστε ξανά.</string>
+	 <string name="google_base_app_title">Εγκατάσταση υπηρεσιών Google</string>
+	 <string name="google_base_app_toast">Το Google Services Framework εγκαθίσταται στο παρασκήνιο. Περιμένετε και δοκιμάστε ξανά.</string>
      <string name="gs_advanced_setting_summary">Ρυθμίσεις για μεμονωμένα παιχνίδια</string>
      <string name="gs_advanced_setting_title">Πρόσθετες ρυθμίσεις</string>
      <string name="gs_anto_clean_memory_whitelist">Εξαιρέσεις μνήμης</string>

@@ -16,7 +16,8 @@
      <string name="hide_touch_assistant_intro">Απόκρυψη Βοηθού Αφής σε ορισμένες εφαρμογές.</string>
      <string name="hide_when_fullscreen">Απόκρυψη σε πλήρη οθόνη</string>
      <string name="hide_when_fullscreen_intro">Απόκρυψη κατά την εκτέλεση εφαρμογών σε λειτουργία πλήρους οθόνης.</string>
-     <string name="mi_wallet_summary">Transport card/Mi Pay/Key card</string>
+     <string name="mi_ai">Mi AI συντόμευση</string>
+     <string name="mi_wallet_summary">Κάρτα Μεταφοράς/Mi Pay/Key card</string>
      <string name="motion_behavior">Τρόπος λειτουργίας</string>
      <string name="name_alipay_payment_code">Γρήγορη πληρωμή Alipay</string>
      <string name="name_alipay_scan">Σάρωση κωδικού Alipay</string>

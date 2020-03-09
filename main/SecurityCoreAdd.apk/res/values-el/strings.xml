@@ -469,6 +469,7 @@
      <string name="xspace_weibo_title">Weibo</string>
      <string name="xspace_weixin_title">WeChat</string>
      <string name="master_clear_not_available">Η Εργοστασιακή επαναφορά είναι απαγορευμένη απο την εταιρεία σας.</string>
+     <string name="master_clear_not_available_ep">"Δεν επιτρέπεται να εκτελείτε επαναφορά εργοστασιακών ρυθμίσεων ή να ανακαλέσετε την εξουσιοδότησή σας τώρα. Επικοινωνήστε με τον προϊστάμενό σας."</string>
 	 <string name="kid_mode_label">Παιδικός Χώρος</string>
 	 <string name="close_kid_space_success">Διαγραφή Παιδικού Χώρου</string>
 	 <string name="xspace_whatsapp_title">WhatsApp</string>
