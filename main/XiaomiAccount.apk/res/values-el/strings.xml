@@ -259,7 +259,7 @@ ID:%s
      <string name="passport_account_hint_text">Διεύθυνση email ή αριθμός τηλεφώνου</string>
      <string name="passport_account_identity_title">Επιβεβαιώστε την ταυτότητά σας</string>
      <string name="passport_account_label">Λογαριασμός Mi</string>
-     <string name="passport_account_name">Λογαριασμός: %1$s</string>
+     <string name="passport_account_name">"Λογαριασμός: %1$s "</string>
      <string name="passport_account_not_activated">Ο λογαριασμός σας δεν έχει ενεργοποιηθεί</string>
      <string name="passport_account_not_actived">Ο λογαριασμός σας δεν ενεργοποιήθηκε</string>
      <string name="passport_account_set_password">Ορίστε κωδικό</string>
