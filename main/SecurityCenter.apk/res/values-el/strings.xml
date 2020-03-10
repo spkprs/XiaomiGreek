@@ -624,6 +624,7 @@
      <string name="button_text_next_step_timer">Επόμενο ( %d )</string>
      <string name="button_text_open_now">Άνοιγμα</string>
      <string name="button_text_reject">Απόρριψη</string>
+     <string name="button_text_trust">Αξιόπιστο δίκτυο</string>
      <string name="button_text_update_now">Ενημέρωση</string>
      <string name="button_to_setting">Ρυθμίσεις</string>
      <string name="byteShort">B</string>
@@ -2303,9 +2304,9 @@
      <string name="sp_settings_check_item_title_wifi">Wi‑Fi</string>
      <string name="sp_settings_exception_count_zero">Χωρίς στοιχεία</string>
      <string name="sp_settings_group_title_check_item">Έλεγχος πολλαπλών στοιχείων</string>
-     <string name="sp_settings_info_input_method">Χρήση πληκτρολογίου συστήματος σε εφαρμογές πληρωμών</string>
+     <string name="sp_settings_info_input_method">Έλεγχος πληκτρολογίων για θέματα ασφαλείας κατά την πραγματοποίηση πληρωμών</string>
      <string name="sp_settings_info_monitor">Παρακολούθηση περιβάλλοντος συστήματος όταν ξεκινούν εφαρμογές πληρωμών</string>
-     <string name="sp_settings_title_input_method">Ασφαλής πληκτρολόγηση</string>
+     <string name="sp_settings_title_input_method">Έλεγχος πληκτ/ων για θέματα ασφαλείας</string>
      <string name="sp_toast_removed_from_sign_white_list">Αφαιρέθηκε από τις εξαιρέσεις. Το στοιχείο θα σαρωθεί την επόμενη φορά.</string>
      <string name="special_number_group">Αποκλεισμός ειδικών αριθμών</string>
      <string name="sponsored_sec_fb">Ευγενική χορηγία</string>
@@ -2830,7 +2831,7 @@
      <string name="wifi_item_title_arp_attack">Επιθέσεις ARP</string>
      <string name="wifi_item_title_connection">Σύνδεση Wi‑Fi</string>
      <string name="wifi_item_title_dns">Ασφάλεια διακομιστή DNS</string>
-     <string name="wifi_item_title_encryption">Κρυπτογράφηση Wi‑Fi</string>
+     <string name="wifi_item_title_encryption">Μη κρυπτο/μένο Wi‑Fi</string>
      <string name="wifi_item_title_fake">Ανίχνευση ψευδούς Wi‑Fi</string>
      <string name="wifi_network_blocked_notification_title">Δεν υπάρχει σύνδεση στο Internet</string>
      <string name="wifi_optizition_loading">Ενεργοποίηση της αύξησης ταχύτητας του δικτύου Xunyou…</string>
@@ -3328,4 +3329,8 @@
 	<string name="power_save_ps_close_setting_pickupwakeup">\"Ανύψωση για αφύπνιση\"</string>
 	<string name="power_save_ps_close_setting_sync">Συγχρονισμός</string>
     <string name="antivirus_monitored_app_empty">"Αδύνατη η εύρεση συμβατών εφαρμογών πληρωμής"</string>
+    <string name="sp_background_risk_dialog_summary_new">Το τρέχον περιβάλλον πληρωμών ενδέχεται να ενέχει κινδύνους για την ασφάλεια. Αφιερώστε λίγο χρόνο για να λύσετε τα υπάρχοντα προβλήματα.</string>
+    <string name="wifi_danger_dialog_messgae">Το τρέχον δίκτυο Wi-Fi ενδέχεται να θέτει σε κίνδυνο την ασφάλεια. Χρησιμοποιήστε το με προσοχή.</string>
+    <string name="wifi_danger_dialog_tips">Μπορείτε να διαχειριστείτε την ασφάλεια Wi-Fi στην επιλογή Ασφάλεια > Anti-virus > Ρυθμίσεις > Wi-Fi.</string>
+    <string name="wifi_danger_dialog_title">"Το δίκτυο Wi-Fi δεν είναι ασφαλές"</string>
 </resources>
