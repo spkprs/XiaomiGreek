@@ -921,6 +921,8 @@
      <string name="downloading_desc">%1$d/%2$d</string>
      <string name="downloading_dialog_message">Μπορείτε να επιλέξετε την ποιότητα των ληφθέντων εικόνων ή να απενεργοποιήσετε τις αυτόματες λήψεις στις Ρυθμίσεις.</string>
      <string name="downloading_title">Λήψη φωτογραφιών από το Xiaomi Cloud</string>
+     <string name="drag_view_tip_sub_title">Πατήστε παρατεταμένα ένα άλμπουμ για αναδιάταξη</string>
+     <string name="drag_view_tip_title">Αναδιάταξη άλμπουμ</string>
      <string name="dump_db_info">Απόρριψη πληροφοριών βάσης δεδομένων</string>
      <string name="edit_baby_info">Προβολή πληροφοριών μωρού</string>
      <string name="edit_subtitle_enter" />
@@ -1119,7 +1121,7 @@
      <string name="filter_people_sepia">Σέπια</string>
      <string name="filter_people_story">Ιστορία</string>
      <string name="filter_people_tea">Τσαγιού</string>
-     <string name="filter_portrait_hint">Ανάδυση χρώματος</string>
+     <string name="filter_portrait_hint">Εστίαση χρώματος</string>
      <string name="filter_scene_city">Πόλη</string>
      <string name="filter_scene_df">Ομίχλη</string>
      <string name="filter_scene_koizora">Έρωτας</string>
@@ -1571,7 +1573,7 @@
      <string name="photo_page_save_uri_image_ok">Αποθήκευση φωτογραφίας στον φάκελο της κάμερας.</string>
      <string name="photo_portrait_color_download_fail">"Δεν ήταν δυνατή η λήψη της προσθήκης. Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</string>
      <string name="photo_portrait_color_download_success">Η λήψη φίλτρων ολοκληρώθηκε με επιτυχία</string>
-     <string name="photo_portrait_color_no_face">Η χρωματική ανάδυση λειτουργεί μόνο σε φωτογραφίες με άτομα</string>
+     <string name="photo_portrait_color_no_face">Η Εστίαση χρώματος λειτουργεί μόνο σε φωτογραφίες με άτομα</string>
      <string name="photo_portrait_download_sdk_without_wifi_msg">"Φαίνεται ότι η συσκευή σας δεν είναι συνδεδεμένη στο Wi-Fi τώρα. Μπορείτε να κάνετε λήψη φίλτρων (%1$dMB) χρησιμοποιώντας δεδομένα κινητής συσκευής."</string>
      <string name="photo_portrait_download_sdk_without_wifi_title">Λήψη φίλτρων</string>
      <string name="photo_print_menu_loading">Φόρτωση plug-in…</string>
@@ -2197,6 +2199,7 @@
      <string name="vlog_caption_style">Μορφή λεζάντας</string>
      <string name="vlog_caption_title">Συντελεστές</string>
      <string name="vlog_clip_cut_fail">Τα αποσπάσματα πρέπει να έχουν μήκος τουλάχιστον %1$d δευτ</string>
+     <string name="vlog_clip_cut_fail_min_time">Τα αποσπάσματα πρέπει να έχουν μήκος τουλάχιστον %1$s δευτ</string>
      <string name="vlog_clip_delete_dialog_btn_cancel">Ακύρωση</string>
      <string name="vlog_clip_delete_dialog_btn_delete">Διαγραφή</string>
      <string name="vlog_clip_delete_dialog_btn_msg">Διαγραφή αυτού του βίντεο;</string>
