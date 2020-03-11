@@ -18,6 +18,7 @@
 	<string name="cloud_addr_info">Πληροφορίες Cloud</string>
 	<string name="cloud_china_addr">Ενημέρωση δεδομένων Κινεζικού διακομιστή</string>
 	<string name="cloud_international_addr">Ενημέρωση δεδομένων διεθνούς διακομιστή</string>
+    <string name="cloud_russion_addr">Ενημέρωση δεδομένων Ρωσσικού διακομιστή</string>
 	<string name="cloud_staging_addr">Ενημερωμένη έκδοση διακομιστή δεδομένων</string>
 	<string name="config_classify">Ταξινομ. κατά ρυθμ. εφαρμογών</string>
 	<string name="config_description">Το MIUI μπορεί να προσδιορίσει τις εφαρμογές με συγκεκριμένες διεργασίες παρασκηνίου (π.χ. ανταλλαγή μηνυμάτων, εφαρμογές πλοήγησης και μουσικής) και να εφαρμόσει την Εξοικονόμηση Μπαταρίας με τέτοιο τρόπο, που δεν θα επηρεάζει τις σημαντικές διεργασίες παρασκηνίου.</string>

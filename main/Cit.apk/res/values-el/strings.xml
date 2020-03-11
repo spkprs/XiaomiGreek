@@ -71,7 +71,7 @@
   <string name="bad_point_touch_sensor">Πιέστε τη μονάδα δακτυλικών αποτυπωμάτων</string>
   <string name="badpoint_category">Δοκιμή νεκρού σημείου</string>
   <string name="battery_authentic">BatteryAuthentic</string>
-  <string name="battery_dual_connector">BatteryDualConnector</string>
+  <string name="battery_dual_connector">Δεύτερη υποδοχή σύνδεσης μπαταρίας</string>
   <string name="battery_id">Αναγνωριστικό μπαταρίας:</string>
   <string name="battery_info">Φόρτιση της μπαταρίας σχετικές πληροφορίες</string>
   <string name="battery_plug_wirelee_summary">Ασύρματη φόρτιση κάθε σύνδεση, αποσυνδέστε μία φορά</string>

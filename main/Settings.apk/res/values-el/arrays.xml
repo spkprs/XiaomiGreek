@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
+    <string-array name="aggregate_entries">
+        <item>Συνιστάται</item>
+        <item>Σημαντική</item>
+        <item>Ασήμαντη</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>Η MIUI θα αποφασίσει ποιες ειδοπ/σεις πρέπει να εμφανίζονται άμεσα</item>
+        <item>Οι ειδοπ/σεις θα εμφανίζονται στον Πίνακα ειδοπ/σεων</item>
+        <item>Οι ειδοπ/σεις θα εμφανίζονται σε ξεχωριστό φάκελο</item>
+    </string-array>
+    <string-array name="aggregate_values">
+        <item>0</item>
+        <item>-1</item>
+        <item>1</item>
+    </string-array>
      <string-array name="agps_network_entries">
         <item>Τοπικό δίκτυο</item>
         <item>Όλα τα δίκτυα</item>

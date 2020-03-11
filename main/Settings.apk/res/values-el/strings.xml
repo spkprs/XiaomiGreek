@@ -6978,5 +6978,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="easymode_hint">Άγγιγμα για απενεργοποίηση λειτουργίας Lite</string>
 	<string name="oldman_mode_settings">Λειτουργία Lite</string>
 	<string name="video_tool_box_title">Εργαλεία Video</string>
+    <string name="aggregate_title">Κανόνες για ομαδοποιημένες ειδοποιήσεις</string>
 </resources>
 
