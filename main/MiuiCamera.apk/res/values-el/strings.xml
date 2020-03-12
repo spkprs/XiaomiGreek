@@ -368,7 +368,7 @@
     <string name="mimoji_gif_edit_title">Επεξεργασία GIF</string>
     <string name="mimoji_gif_reverse">Αντιστροφή</string>
     <string name="mimoji_save_finish">Ολοκλήρωση</string>
-    <string name="mimoji_select_number_error">Επιλέξτε τουλάχιστον 1 στοιχείο</string>
+    <string name="mimoji_select_number_error">Επιλέξτε τουλάχιστον %d στοιχείο</string>
 	<string name="mimoji_delete">" "<font fgcolor="#ffff0000">Διαγραφή</font>" "</string>
 	<string name="mimoji_delete_dialog_title">Διαγραφή του Mimoji;</string>
 	<string name="mimoji_delete_mimoji">Διαγραφή emoji</string>
