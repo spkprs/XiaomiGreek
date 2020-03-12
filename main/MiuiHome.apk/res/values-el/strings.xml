@@ -344,6 +344,8 @@
 	<string name="open_personal_assistant_dialog_title">Απενεργ. Προσωπικού βοηθού</string>
 	<string name="open_personal_assistant_title">Ενεργ. Προσωπικού βοηθού</string>
 	<string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
+    <string name="permdesc_uninstall_widget">Επιτρέπει σε μια εφαρμογή να αφαιρεί Γραφικά στοιχεία χωρίς παρέμβαση του χρήστη.</string>
+    <string name="permlab_uninstall_widget">Απεγκατάσταση Γραφικών στοιχείων</string>
 	<string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
 	<string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή να προσθέτει widgets, χωρίς την παρέμβαση του χρήστη.</string>
 	<string name="permdesc_read_settings">Επιτρέπει σε μια εφαρμογή την ανάγνωση των ρυθμίσεων και των συντομεύσεων στην αρχική οθόνη.</string>

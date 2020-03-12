@@ -1223,5 +1223,16 @@
 	<string name="year_month_day_format">MM/dd/yyyy</string>
 	<string name="yellow_page_website">Επίσημη ιστοσελίδα</string>
 	<string name="yesterday">Χθες</string>
+     <string name="access_deselect">Αποεπιλογή %s</string>
+     <string name="access_deselected">Αποεπιλεχθησαν %s</string>
+     <string name="access_selected">Επιλεγμένες %s</string>
+     <string name="app_version_name">"Εκδοση: "</string>
+     <string name="debug_card_brief">Ρυθμίσεις και εργαλεία εντοπισμού σφαλμάτων</string>
+     <string name="debug_card_detail">Ρυθμίσεις και εργαλεία εντοπισμού σφαλμάτων</string>
+     <string name="debug_card_title">Εντοπισμός σφαλμάτων</string>
+     <string name="miot_device_closed">Η συσκευή είναι ανενεργή</string>
+     <string name="miot_device_disabled">"Αδύνατος ο έλεγχος αυτής της συσκευής τώρα"</string>
+     <string name="miot_device_opening">Η συσκευή είναι ενεργή</string>
+     <string name="trip_required_info">Υποχρεωτικά</string>
 </resources>
 
