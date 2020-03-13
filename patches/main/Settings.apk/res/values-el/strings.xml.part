@@ -84,4 +84,5 @@
   <string name="folder_blur_title">Θόλωση φόντου φακέλου</string>
   <string name="use_new_miui_gestures_title">Χρήση νέων χειρονομιών</string>
   <string name="use_only_dark_24hwallpaper_title">Χρήση 24ωρης ταπετσαρίας μόνο σε Σκοτεινή λειτουργία</string>
+  <string name="show_privacy_behavior_icons_title"> Εμφάνιση εικονιδίων συμπεριφοράς απορρήτου</string>
 </resources>
