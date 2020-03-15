@@ -85,4 +85,5 @@
   <string name="use_new_miui_gestures_title">Χρήση νέων χειρονομιών</string>
   <string name="use_only_dark_24hwallpaper_title">Χρήση 24ωρης ταπετσαρίας μόνο σε Σκοτεινή λειτουργία</string>
   <string name="show_privacy_behavior_icons_title">Εμφάνιση εικονιδίων συμπεριφοράς απορρήτου</string>
+  <string name="use_old_battery_icon_title">Χρήση παλιού εικονιδίου μπαταρίας</string>
 </resources>
