@@ -768,6 +768,7 @@
   <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="pause_download">Παύση</string>
   <string name="paused_by_app">Παύση</string>
+  <string name="pause_play">Παύση αναπ/γής</string>
   <string name="paused_in_power_save_mode">Παύση όταν είναι ενεργοποιημένη η εξοικονόμηση μπαταρίας</string>
   <string name="paused_insufficient_space">Αναμονή</string>
   <string name="paused_queued_for_wifi">Αναμονή για σύνδεση</string>
