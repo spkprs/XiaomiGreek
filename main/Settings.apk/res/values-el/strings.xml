@@ -832,8 +832,8 @@
      <string name="boot_sounds_title">Ήχοι ενεργοποίησης</string>
 	 <string name="bluetooth_connect_settings">Ρυθμίσεις σύνδεσης Bluetooth</string>
 	 <string name="bluetooth_display_settings">Ρυθμίσεις προβολής Bluetooth</string>
-	 <string name="bluetooth_mi_fast_connect">Mi Link</string>
-	 <string name="bluetooth_mi_fast_connect_summary">Σύνδεση σε κοντινές συσκευές Bluetooth</string>
+	 <string name="bluetooth_mi_fast_connect">Σύζευξη συμβατών συσκευών</string>
+	 <string name="bluetooth_mi_fast_connect_summary">Σύνδεση σε κοντινές συσκευές με απλοποιημένη διαδικασία σύζευξης</string>
      <string name="bootloader">Λειτουργία Fastboot</string>
      <string name="bootloader_apply_step_1">Ενεργοποίηση λειτουργίας Fastboot;</string>
      <string name="bootloader_apply_step_2">Όταν η συσκευή σας είναι σε λειτουργία Fastboot και συνδεδεμένη σε υπολογιστή</string>
