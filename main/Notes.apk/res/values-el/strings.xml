@@ -41,6 +41,8 @@
 	<string name="cta_dialog_title">Απαιτούνται δικαιώματα</string>
 	<string name="cta_reminder">Οι σημειώσεις χρειάζονται δικαιώματα για σύνδεση στο διαδίκτυο, εγγραφή ήχου και πρόσβαση στις επαφές σας για να λειτουργήσει κανονικά. Επιτρέπετε?</string>
 	<string name="date_calculate_today">0 ημέρες</string>
+    <string name="data_empty_note">Δεν υπάρχουν σημειώσεις εδώ ακόμη</string>
+    <string name="data_empty_todo">Δεν υπάρχουν εργασίες εδώ ακόμη</string>
 	<string name="date_time_picker_alarm_reminder">Ειδοποίηση</string>
 	<string name="date_time_picker_dialog_title">Ορισμός ημέρας και ώρας</string>
 	<string name="date_time_picker_has_not_set_alarm">"Η Ειδοποίηση δεν ρυθμίστηκε"</string>

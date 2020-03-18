@@ -205,6 +205,7 @@
 	<string name="app_behavior_time_today">Σήμερα</string>
 	<string name="app_behavior_time_yesterday">Χθες</string>
 	<string name="app_perm_manager_service">Υπηρεσία διαχείρισης δικαιωμάτων</string>
+    <string name="notify_channel_name_behavior">Εγγραφή συμπεριφοράς</string>
 	<string name="app_behavior_perm_allow_always_danger_tip">Οι εφαρμογές ενδέχεται να εκτελούν ευαίσθητες ενέργειες όταν εκχωρούνται δικαιώματα</string>
 	<string name="app_behavior_perm_change_dialog_desc_title">Πληροφορίες για αυτό το δικαίωμα:</string>
 	<string name="app_behavior_perm_change_tip_allow">Αυτή η ενέργεια (%1s) επιτρέπεται τώρα</string>
