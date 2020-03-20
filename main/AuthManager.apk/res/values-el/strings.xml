@@ -80,11 +80,11 @@
 	<string name="HIPS_SecurityPrompt_Reject">Απόρριψη (%d)</string>
 	<string name="HIPS_SecurityPrompt_Reject_Once">Απόρριψη μία φορά (%d)</string>
     <string name="HIPS_Perm_clipboard">Πρόχειρο</string>
-    <string name="HIPS_Perm_clipboard_Desc">Πρόσβαση και αλλαγή περιεχομένου στο πρόχειρο</string>
-    <string name="grant_dialog_button_allow_onetime">Να επιτρέπεται αυτή η ώρα</string>
+    <string name="HIPS_Perm_clipboard_Desc">Επιτρέπεται η πρόσβαση και προσθήκη στοιχείων στο πρόχειρο</string>
+    <string name="grant_dialog_button_allow_onetime">Μία φορά</string>
 	<string name="HIPS_SecurityPrompt_Title">Το %1$s ζητάει %2$s</string>
 	<string name="Su_Package_Forbidden2">δεν έχει πρόσβαση root.</string>
-	<string name="app_name">Διαχείριση δικαιωμάτων</string>
+	<string name="app_name">Άδειες</string>
 	<string name="background_location_access_reminder_notification_content">Αυτή η εφαρμογή μπορεί να έχει πάντα πρόσβαση στην τοποθεσία σας. Πατήστε για αλλαγή.</string>
 	<string name="background_location_access_reminder_notification_title">%s χρησιμοποίησαν την τοποθεσία σας</string>
 	<string name="current_permission_template">%1$s από %2$s</string>
@@ -96,7 +96,7 @@
 	<string name="grant_dialog_button_deny">Απόρριψη</string>
 	<string name="grant_dialog_button_deny_and_dont_ask_again">Άρνηση &amp; μην ξαναερωτηθώ</string>
 	<string name="grant_dialog_button_deny_background">Μόνο κατά τη χρήση της εφαρμογής</string>
-	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Αποδοχή κατά την χρήση της εφαρμ &amp; να μην ξαναερωτηθώ</string>
+	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Πάντα, αλλά μόνο κατά τη χρήση της εφαρμογής</string>
 	<string name="location_settings">Υπηρεσίας τοποθεσίας</string>
 	<string name="location_warning">Ο %1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις της τοποθεσίας.</string>
 	<string name="never_ask_again">"Να μην ερωτηθώ ξανά μετά τον περιορισμό"</string>

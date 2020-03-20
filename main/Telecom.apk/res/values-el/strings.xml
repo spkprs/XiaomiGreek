@@ -497,6 +497,7 @@
   <string name="voice_dial_out">Φωνητική κλήση</string>
   <string name="voice_report_incoming_call">Εισερχόμενη κλήση</string>
   <string name="voice_report_unknown_num">Άγνωστος αριθμός</string>
+  <string name="volume_boost_text">Ολοκληρώθηκε επιτυχώς η Ενίσχυση ήχου</string>
   <string name="vpn_settings_not_available">Οι ρυθμίσεις VPN δεν είναι διαθέσιμες γι\' αυτόν το χρήστη</string>
   <string name="wait_for_debugger">Περιμένετε το εργαλείο εντοπισμού σφαλμάτων</string>
   <string name="wait_for_debugger_summary">Αναμονή εφαρμογής για να συνδεθεί ο εντοπισμός σφαλμάτων</string>
