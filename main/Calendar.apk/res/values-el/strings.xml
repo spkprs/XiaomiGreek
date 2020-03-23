@@ -613,6 +613,12 @@
 	<string name="preferences_week_start_day_default">-1</string>
 	<string name="preferences_week_start_day_dialog">Έναρξη εβδομάδος</string>
 	<string name="preferences_week_start_day_title">Έναρξη εβδομάδος</string>
+    <string name="productivity_add_event">Δημιουργία συμβάντος</string>
+    <string name="productivity_cannot_move_event">"Αδύνατη η μετακίνηση αυτού του συμβάντος"</string>
+    <string name="productivity_move_event_failed">"Αδύνατη η μετακίνηση αυτού του συμβάντος στις MMMM dd, yyyy"</string>
+    <string name="productivity_move_event_hint">Κρατήστε παρατεταμένα ένα συμβάν για να το μετακινήσετε σε άλλη ημερομηνία</string>
+    <string name="productivity_move_event_success">Μετακινήθηκε αυτό το συμβάν στις MMMM dd, yyyy</string>
+    <string name="productivity_no_event">Δεν έχουν προγραμματιστεί συμβάντα για σήμερα</string>
 	<string name="pull_to_refresh_hint">Τραβήξτε για ανανέωση συμβάντων του %1$d</string>
 	<string name="receive_net_mock_success">Net mock receive success</string>
 	<string name="recommend_card_add">立即订阅</string>

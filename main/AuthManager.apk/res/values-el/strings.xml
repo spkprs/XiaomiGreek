@@ -136,4 +136,10 @@
      <string name="permdesc_sensors">Πρόσβαση δεδομένων αισθητήρα σώματος</string>
      <string name="permdesc_write_calendar">Πρόσβαση και προσθήκη συμβάντων ημερολογίου</string>
      <string name="permdesc_write_storage">Πρόσβαση και αποθήκευση φωτογραφιών και αρχείων στη συσκευή</string>
+    <string name="virtual_reject_notice_content">Εστάλη κενή απάντηση στην εφαρμογή για την προστασία των προσωπικών σας στοιχείων</string>
+    <string name="virtual_reject_notice_title_calendar">%1$s πρόσβαση στο ημερολόγιο</string>
+    <string name="virtual_reject_notice_title_calllog">%1$s πρόσβαση στο ιστορικό κλήσεων</string>
+    <string name="virtual_reject_notice_title_contacts">%1$s πρόσβαση στις επαφές</string>
+    <string name="virtual_reject_notice_title_phonestate">%1$s πρόσβαση στις πληροφορίες συσκευής</string>
+    <string name="virtual_reject_notice_title_sms">%1$s πρόσβαση σε μηνύματα</string>
 </resources>
