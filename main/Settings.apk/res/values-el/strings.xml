@@ -3767,7 +3767,7 @@
      <string name="repeat_call_info">Επιτρέπεται ήχος για επαναλαμβανόμενες κλήσεις εντός 15 λεπτών σε Αθόρυβη λειτουργία</string>
      <string name="repeat_title">Επανάληψη</string>
      <string name="reset_aaid">Επαναφορά αναγνωριστικού διαφήμισης</string>
-     <string name="reset_app_preferences">Επαναφορά προτιμήσεων εφαρμ</string>
+     <string name="reset_app_preferences">Επαναφορά ιδιοτήτων εφαρμ</string>
      <string name="reset_app_preferences_button">Επαναφορά</string>
      <string name="reset_app_preferences_desc">"Αυτό θα επαναφέρει τις προτιμήσεις σε:
 

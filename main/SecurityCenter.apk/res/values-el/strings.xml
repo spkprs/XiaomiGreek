@@ -1881,7 +1881,7 @@
     <string name="permission_upgrade_virtual">"Εάν δεν θέλετε να επιτρέψετε στις εφαρμογές να έχουν πρόσβαση στις επαφές ή το ιστορικό κλήσεων, μπορείτε να επιλέξετε \"Επιστροφή κενών μηνυμάτων\" όταν εκχωρείτε αντίστοιχα δικαιώματα."</string>
      <string name="person_hotpot">Hotspot κινητής</string>
      <string name="phone">Τηλέφωνο</string>
-	<string name="phone_manage">Χρήσιμα</string>
+	<string name="phone_manage">Εργαλεία</string>
 	<string name="phone_manage_app_manager_summary">Διαχείριση των εφαρμογών σας</string>
 	<string name="phone_manage_clean_summary">Απελευθερώστε αποθ. χώρο</string>
 	<string name="phone_manage_clean_title">Καθαριστής</string>
