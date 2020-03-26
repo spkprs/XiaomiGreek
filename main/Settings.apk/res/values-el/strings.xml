@@ -3890,6 +3890,9 @@ Bluetooth"</string>
      <string name="screen_compatibility_label">Συμβατότητα οθόνης</string>
      <string name="screen_compatibility_text">Αυτή η εφαρμογή μπορεί να μην σχεδιάστηκε για την οθόνη σας Μπορείτε να ελέγξετε πώς να την προσαρμόσετε στην οθόνη σας εδώ</string>
      <string name="screen_dark_mode_time_title">Χρονοδιάγραμμα</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">Εφαρμογές τρίτων</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Ορισμένες εφαρμογές ενδέχεται να εμφανίζονται εσφαλμένα στη λειτουργία Σκοτεινό. Μπορείτε να περιορίσετε τη χρήση της λειτουργίας Σκοτεινό για μεμονωμένες εφαρμογές εδώ.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">Μεμονωμένες εφαρμογές</string>
      <string name="screen_effect">Συνδυασμός χρωμάτων</string>
      <string name="screen_fps_title">Ρυθμός ανανέωσης</string>
      <string name="screen_fps_unit">%dHz</string>

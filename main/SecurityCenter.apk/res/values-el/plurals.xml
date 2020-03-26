@@ -8,6 +8,10 @@
          <item quantity="other">Απορρίφθηκε %3$d φορές από %1$s έως %2$s</item>
          <item quantity="one">Απορρίφθηκε %3$d φορά από %1$s έως %2$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">Επέστρεψε %3$d κενά μηνύματα μεταξύ %1$s και %2$s</item>
+        <item quantity="one">Επέστρεψε %3$d κενό μήνυμα μεταξύ %1$s και %2$s</item>
+    </plurals>
     <plurals name="app_behavior_notification_audio_more">
         <item quantity="other">%2$d συμπεριλαμβανομένων των %1$1s εγγράφουν ήχο</item>
         <item quantity="one">%2$d συμπεριλαμβανομένης της %1$1s εγγράφουν ήχο</item>

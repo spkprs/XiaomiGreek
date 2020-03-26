@@ -140,6 +140,8 @@
 	<string name="app_behavior_audio_bg">%1s ηχογράφησε στο παρασκήνιο</string>
 	<string name="app_behavior_audio_now">%1s ηχογράφηση στο παρασκήνιο</string>
 	<string name="app_behavior_autostart">%1s αυτόματη εκκίνηση</string>
+    <string name="app_behavior_desc_virtual_once">Επέστρεψε ένα κενό μήνυμα στις %1$s</string>
+    <string name="app_behavior_perm_change_tip_virtual">Το \"%1s\" έχει αλλάξει σε \"Επιστροφή κενών μηνυμάτων\"</string>
 	<string name="app_behavior_calendar">%1s πρόσβαση στα συμβάντα Ημερολογίου</string>
 	<string name="app_behavior_calendar_bg">%1s πρόσβαση στα συμβάντα Ημερολογίου στο παρασκήνιο</string>
 	<string name="app_behavior_calllog">%1s πρόσβαση στο ιστορικό κλήσεων</string>
@@ -1869,7 +1871,14 @@
      <string name="permission_with_SMS_and_MMS">Δικαιώματα σχετικά με SMS και MMS</string>
      <string name="permission_with_call_and_contact">Δικαιώματα που σχετίζονται με τηλεφωνικές κλήσεις, πληροφορίες επαφών, και αρχεία καταγραφής κλήσεων.</string>
      <string name="permit_running_network">Δεδομένα παρασκηνίου</string>
-     <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
+    <string name="permission_action_desc">Παραχώρηση δικαιωμάτων, αλλά επιστροφή κενών μηνυμάτων στην εφαρμογή για προστασία του απορρήτου</string>
+    <string name="permission_action_tag">Προστασία απορρήτου</string>
+    <string name="permission_action_virtual">Επιστροφή κενών μηνυμάτων</string>
+    <string name="permission_upgrade_more">Περισσότερα χαρακτηριστικά απορρήτου</string>
+    <string name="permission_upgrade_privacy_title">"Τα δικαιώματα εγγραφής ήχου και πρόσβασης σε επαφές τώρα έχουν μια επιλογή που σας επιτρέπει να δώσετε τέτοια δικαιώματα μόνο όταν χρησιμοποιείτε αντίστοιχες εφαρμογές. Για την προστασία του απορρήτου των προσωπικών σας στοιχείων, οι εφαρμογές δεν θα εκτελέσουν αυτές τις ενέργειες στο παρασκήνιο."</string>
+    <string name="permission_upgrade_runtime">"Τα δικαιώματα πρόσβασης στην τοποθεσία σας ή λήψης φωτογραφιών έχουν τώρα μια επιλογή που σας επιτρέπει να δώσετε τέτοια δικαιώματα μόνο μία φορά. Για την προστασία του απορρήτου των προσωπικών σας στοιχείων, αυτές οι ενέργειες δεν θα εκτελεστούν μετά την αποχώρησή σας από την εφαρμογή. Θα σας ζητηθούν ξανά δικαιώματα όταν θα χρησιμοποιήσετε τις σχετικές λειτουργίες την επόμενη φορά."</string>
+    <string name="permission_upgrade_title">Ενημερώθηκαν τα δικαιώματα</string>
+    <string name="permission_upgrade_virtual">"Εάν δεν θέλετε να επιτρέψετε στις εφαρμογές να έχουν πρόσβαση στις επαφές ή το ιστορικό κλήσεων, μπορείτε να επιλέξετε \"Επιστροφή κενών μηνυμάτων\" όταν εκχωρείτε αντίστοιχα δικαιώματα."</string>
      <string name="person_hotpot">Hotspot κινητής</string>
      <string name="phone">Τηλέφωνο</string>
 	<string name="phone_manage">Χρήσιμα</string>
