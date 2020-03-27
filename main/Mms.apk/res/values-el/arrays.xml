@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="contact_entries">
         <item>Όνομα</item>
@@ -15,6 +14,11 @@
         <item>Σημείωση</item>
         <item>Σχέση</item>
      </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Προωθητικά μηνύματα από %s</item>
+        <item>Μηνύματα υπηρεσίας φορέα από %s</item>
+        <item>Οικονομικά μηνύματα από %s</item>
+    </string-array>
      <string-array name="entries_mms_validity_period">
         <item>Μέγιστο</item>
         <item>Δύο ημέρες</item>
