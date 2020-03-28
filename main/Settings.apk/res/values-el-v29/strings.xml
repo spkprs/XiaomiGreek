@@ -598,8 +598,8 @@
   <string name="trust_lost_locks_screen_summary">Εάν ενεργοποιηθεί, η συσκευή θα κλειδώνει όταν ο τελευταίος αξιόπιστος παράγοντας χάσει την αξιοπιστία του</string>
   <string name="trust_lost_locks_screen_title">Κλείδωμα οθόνης όταν χαθεί η αξιοπιστία</string>
   <string name="tx_link_speed">%1$d Mbps</string>
-  <string name="tx_link_speed_label">Ταχύτητα σύνδεσης μετάδοσης:</string>
-  <string name="tx_wifi_speed">Ταχύτητα μετάδοσης συνδέσμου</string>
+  <string name="tx_link_speed_label">Ταχύτητα μετάδοσης σύνδεσης:</string>
+  <string name="tx_wifi_speed">Ταχύτητα μετάδοσης σύνδεσης</string>
   <string name="unlock_footer_high_complexity_requested">Η εφαρμογή %1$s συνιστά να ορίσετε ένα ισχυρό PIN ή κωδικό πρόσβασης και μπορεί να μην λειτουργεί με τον αναμενόμενο τρόπο εάν δεν το κάνετε</string>
   <string name="unlock_footer_low_complexity_requested">Η εφαρμογή %1$s συνιστά να ορίσετε ένα νέο μοτίβο, PIN ή κωδικό πρόσβασης και μπορεί να μην λειτουργεί με τον αναμενόμενο τρόπο εάν δεν το κάνετε.</string>
   <string name="unlock_footer_medium_complexity_requested">Η εφαρμογή %1$s συνιστά να ορίσετε ένα νέο PIN ή κωδικό πρόσβασης και μπορεί να μην λειτουργεί με τον αναμενόμενο τρόπο εάν δεν το κάνετε.</string>
@@ -618,7 +618,7 @@
   <string name="wfc_disclaimer_title_text">Σημαντικές πληροφορίες</string>
   <string name="wifi_ap_2G">2,4 GHz</string>
   <string name="wifi_ap_5G">5,0 GHz</string>
-  <string name="wifi_ap_choose_vendor_both">Both</string>
+  <string name="wifi_ap_choose_vendor_both">Και τα δύο</string>
   <string name="wifi_ap_prefer_5G">Προτιμάται ζώνη 5,0 GHz</string>
   <string name="wifi_calling_mode_cellular_preferred_summary">Εάν το δίκτυο κινητής τηλεφωνίας δεν είναι διαθέσιμο, χρήση Wi‑Fi</string>
   <string name="wifi_calling_mode_wifi_only_summary">Κλήση μέσω Wi‑Fi. Εάν χαθεί η σύνδεση Wi‑Fi, η κλήση τερματίζεται.</string>

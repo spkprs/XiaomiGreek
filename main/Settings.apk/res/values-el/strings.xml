@@ -3117,10 +3117,10 @@
      <string name="nfc_payment_how_it_works">Πως λειτουργεί</string>
      <string name="nfc_payment_no_apps">Πληρώστε με ένα απλό άγγιγμα</string>
      <string name="nfc_payment_pay_with">Σε ένα τερματικό πληρωμών, πληρώστε με:</string>
-     <string name="nfc_payment_set_default">Χρήση πάντα του %1$s κατά την διαδικασία Πατήστε και Πληρώστε;</string>
-     <string name="nfc_payment_set_default_instead_of">Χρήση πάντα του %1$s αντί για το %2$s κατά την διαδικασία Πατήστε και Πληρώστε;</string>
+     <string name="nfc_payment_set_default">Χρήση πάντα του %1$s κατά την διαδικασία Πατήστε &amp; Πληρώστε;</string>
+     <string name="nfc_payment_set_default_instead_of">Χρήση πάντα του %1$s αντί για το %2$s κατά την διαδικασία Πατήστε &amp; Πληρώστε;</string>
      <string name="nfc_payment_set_default_label">Ορισμός ως προτίμησή σας;</string>
-     <string name="nfc_payment_settings_title">Πατήστε και πληρώστε</string>
+     <string name="nfc_payment_settings_title">Πατήστε &amp; πληρώστε</string>
      <string name="nfc_payment_use_default">Χρήση προεπιλογής</string>
      <string name="nfc_quick_toggle_summary">Να επιτρέπεται η ανταλλαγή δεδομένων όταν το τηλέφωνο αγγίζει άλλη συσκευή</string>
      <string name="nfc_quick_toggle_title">NFC</string>

@@ -652,7 +652,7 @@
      <string name="fingerprint_enter_second_psw_msg">Εισάγετε τον κωδικό του Δεύτερου προφίλ μετά την επανεκκίνηση της συσκευής για να μπορείτε να χρησιμοποιήσετε την αναγνώριση δακτυλικών αποτυπωμάτων</string>
      <string name="fingerprint_enter_second_psw_msg_oldman">Δεν είναι δυνατή η είσοδος στο Δεύτερο προφίλ όσο η λειτουργία Lite είναι ενεργή</string>
      <string name="fingerprint_enter_second_psw_title">Εισάγετε τον κωδικό του Δεύτερου προφίλ</string>
-     <string name="fingerprint_not_identified_msg">Αδυναμία επαλήθευσης Δακτυλικού αποτυπώματος. Πληκτρολογήστε τον κωδικό σας.</string>
+     <string name="fingerprint_not_identified_msg">Αδυναμία επαλήθευσης Δακτυλικού αποτυπώματος. Εισάγετε τον κωδικό ή το μοτίβο σας.</string>
      <string name="fingerprint_not_identified_msg_lock">Πολλές αποτυχημένες προσπάθειες. Εισάγετε τον κωδικό πρόσβασης τώρα.</string>
      <string name="fingerprint_not_identified_title">Εισαγωγή κωδικού</string>
      <string name="fingerprint_not_recognized">Μη αναγνωρίσιμο</string>
@@ -734,7 +734,7 @@
      <string name="inactive_apps_title">Ανενεργές εφαρμογές</string>
      <string name="incorrect_pincode">Λανθασμένο PIN</string>
      <string name="incorrect_pukcode">Λανθασμένο PUK</string>
-     <string name="input_password_after_boot_msg">Για να ξεκλειδώσετε τη συσκευή, εισάγετε τον κωδικό σας</string>
+     <string name="input_password_after_boot_msg">Για να ξεκλειδώσετε τη συσκευή, εισάγετε τον κωδικό ή το μοτίβο σας</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Δεν είναι δυνατή η εναλλαγή μεταξύ των προφίλ κατά τη διάρκεια μιας κλήσης</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Αδύνατη η εναλλαγή μεταξύ Χώρων με τον Γονικό έλεγχο ενεργό"</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Πρέπει να εισέλθετε στο Πρώτο προφίλ μετά την επανεκκίνηση της συσκευής σας</string>

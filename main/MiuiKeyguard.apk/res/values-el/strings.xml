@@ -77,7 +77,7 @@
   <string name="gxzw_use_password">Χρησιμοποιείστε τον κωδικό σας για ξεκλείδωμα</string>
   <string name="incorrect_pincode">Λανθασμένο PIN</string>
   <string name="incorrect_pukcode">Λανθασμένο PUK</string>
-  <string name="input_password_after_boot_msg">Για να ξεκλειδώσετε τη συσκευή, εισάγετε τον κωδικό σας</string>
+  <string name="input_password_after_boot_msg">Για να ξεκλειδώσετε τη συσκευή, εισάγετε τον κωδικό ή το μοτίβο σας</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Δεν είναι δυνατή η εναλλαγή μεταξύ των προφίλ κατά τη διάρκεια μιας κλήσης</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Αδύνατη η εναλλαγή μεταξύ Χώρων όταν είναι ενεργά τα γονικά στοιχεία ελέγχου</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Πρέπει να εισέλθετε στο Πρώτο προφίλ μετά την επανεκκίνηση της συσκευής σας</string>

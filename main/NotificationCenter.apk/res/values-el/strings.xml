@@ -29,10 +29,10 @@
 	<string name="confirm">Επιβεβαίωση</string>
 	<string name="default_list_type">Ταξινόμηση ειδοποιήσεων</string>
 	<string name="disable_float_notification">"Χωρίς αναδυόμενες ειδοπ/σεις"</string>
-	<string name="disable_lockscreen_notification">"Χωρίς ειδοπ/σεις Οθόνης Κλειδώματος"</string>
+	<string name="disable_lockscreen_notification">"Χωρίς ειδοπ/σεις Οθ. κλειδ/τος"</string>
 	<string name="disable_show_badge_notification">"Χωρίς ενδείξεις ειδοπ/σεων"</string>
 	<string name="enable_float_notification">Με αναδυόμενες ειδοπ/σεις</string>
-	<string name="enable_lockscreen_notification">Με ειδοπ/σεις οθ. κλειδ/τος</string>
+	<string name="enable_lockscreen_notification">Ειδοπ/σεις σε οθ. κλειδ/τος</string>
 	<string name="enable_show_badge_notification">Με ενδείξεις ειδοπ/σεων</string>
 	<string name="error_icon_content_description">Σφάλμα</string>
 	<string name="expand_top_notification">Ανάπτυξη πρώτης ειδοπ/σης</string>
@@ -49,7 +49,7 @@
 	<string name="hint_search_in_enabled_apps">Αναζήτηση με εμφάνιση ειδοπ/σεων</string>
 	<string name="icon_content_description">Εικονίδιο διαλόγου</string>
 	<string name="last_sent_time_second">Μόλις τώρα</string>
-	<string name="list_title_disable_notification">"Οι ειδοπ/σεις δεν επιτρέπονται"</string>
+	<string name="list_title_disable_notification">"Δεν επιτρέπονται ειδοπ/σεις"</string>
 	<string name="loading">Μισό λεπτό.…</string>
 	<string name="lock_screen_display_rules">Τύπος</string>
 	<string name="lock_screen_tip_toast">Επιτρέψτε τις ειδοπ/σεις οθόνης κλειδώματος σε \"Τύπο\".</string>
@@ -91,11 +91,11 @@
 	<string name="summary_disable_lockscreen_notification">"Χωρίς ειδοπ/σεις Οθόνης Κλειδώματος"</string>
 	<string name="summary_disable_show_badge_notification">"Χωρίς ενδείξεις ειδοπ/σης"</string>
 	<string name="summary_enable_float_notification">Επιτρέπονται αναδυόμενες ειδοπ/σεις</string>
-	<string name="summary_enable_lockscreen_notification">Επιτρέπονται οι ειδοπ/σεις στην Οθ. Κλειδώματος</string>
-	<string name="summary_enable_show_badge_notification">Επιτρέπονται οι ενδείξεις ειδοποίησης</string>
-	<string name="summary_float_enable_notification_first">Επιτρέπεται στις ειδοπ/σεις την ενεργοποίηση αναδυόμενων ειδοπ/σεων</string>
-	<string name="summary_lock_screen_enable_notification_first">Επιτρέπεται στις ειδοπ/σεις την ενεργοποίηση ειδοπ/σεων Οθόνης Κλειδώματος</string>
-	<string name="summary_show_badge_enable_notification_first">Επιτρέπεται στις ειδοπ/σεις την ενεργοποίηση ενδείξεων ειδοπ/σεων</string>
+	<string name="summary_enable_lockscreen_notification">Επιτρέπονται ειδοπ. στην Οθ. Κλειδ.</string>
+	<string name="summary_enable_show_badge_notification">Επιτρέπονται οι ενδείξεις ειδοπ.</string>
+	<string name="summary_float_enable_notification_first">Επιτρέψτε την ενεργ. αναδ. ειδοπ.</string>
+	<string name="summary_lock_screen_enable_notification_first">Επιτρέψτε την ενεργ. ειδοπ. Οθ Κλειδ.</string>
+	<string name="summary_show_badge_enable_notification_first">Επιτρέψτε την ενεργ. ενδειξ. ειδοπ.</string>
 	<string name="tip_feedback_success">Υποβλήθηκε με επιτυχία</string>
     <string name="tip_select_category">Επιλογή κατηγορίας ειδοποιήσεων</string>
 </resources>
