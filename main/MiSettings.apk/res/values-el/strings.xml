@@ -291,4 +291,9 @@
 	<string name="touch_title">Βελτιωμένα στοιχεία ελέγχου αφής</string>
 	<string name="usage_home_premission_second_summary_double_link_prefix">"Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, και πολιτικές απορρήτου. Εάν δεν συμφωνείτε δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας Χρόνος Οθόνης &gt; Ρυθμίσεις &gt; Απενεργοποίηση Χρόνου Οθόνης."</string>
 	<string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Πριν χρησιμοποιήσετε αυτήν την εφαρμογή, διαβάστε και συμφωνείτε με την &amp;lt;a href='%1s'&amp;gt;Συμφωνία Χρήστη&amp;lt;/a&amp;gt; και &amp;lt;a href='%2s'&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="focus_mode_timer_add_limit">Προσθέστε έως %d περιόδους</string>
+    <string name="focus_mode_timer_delete">Διαγραφή</string>
+    <string name="focus_mode_timer_exist">Αυτή η περίοδος υπάρχει ήδη</string>
+    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d σε %d λεπτά</string>
+    <string name="focus_mode_timer_pick_dialog_title">Εισάγετε διάρκεια</string>
 </resources>
