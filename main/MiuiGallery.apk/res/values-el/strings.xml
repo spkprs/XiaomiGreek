@@ -1917,7 +1917,7 @@
      <string name="story_remove_confirm_message">"Οι διεγραμένες φωτογραφίες δεν θα εμφανιστούν ξανά σε αυτήν την Ανάμνηση."</string>
      <string name="story_remove_confirm_positive">Κατάργηση</string>
      <string name="story_remove_confirm_title">Αφαίρεση φωτογραφιών</string>
-     <string name="story_rename_invalid_char">"Αδύνατη η χρήση \"%s\" στον τίτλο της Ανάμνησης. Χρησιμοποιήστε γράμματα, ψηφία και Κνέζικους χαρακτήρες."</string>
+     <string name="story_rename_invalid_char">"Αδύνατη η χρήση \"%s\" στον τίτλο της Ανάμνησης. Χρησιμοποιήστε γράμματα, ψηφία και Κινέζικους χαρακτήρες."</string>
      <string name="story_rename_invalid_prefix">"Αδύνατη η εκκίνηση τίτλων Αναμνήσεων με \".\" ή \"_\""</string>
      <string name="sub_discard_confirm_message">Αποθήκευση αλλαγών;</string>
      <string name="sub_discard_negative_btn">Απόρριψη</string>

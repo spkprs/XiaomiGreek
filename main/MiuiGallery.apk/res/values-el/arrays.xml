@@ -53,18 +53,18 @@
         <item>Χριστούγεννα τα χρόνια</item>
      </string-array>
      <string-array name="last_month">
-        <item>Ιανουάριος</item>
-        <item>Φεβρουάριος</item>
-        <item>Μάρτιος</item>
-        <item>Απρίλιος</item>
-        <item>Μάιος</item>
-        <item>Ιούνιος</item>
-        <item>Ιούλιος</item>
-        <item>Αύγουστος</item>
-        <item>Σεπτέμβριος</item>
-        <item>Οκτώμβριος</item>
-        <item>Νοέμβριος</item>
-        <item>Δεκέμβριος</item>
+        <item>Ιαν.</item>
+        <item>Φεβ.</item>
+        <item>Μάρ.</item>
+        <item>Απρ.</item>
+        <item>Μάι.</item>
+        <item>Ιούν.</item>
+        <item>Ιούλ.</item>
+        <item>Αύγ.</item>
+        <item>Σεπ.</item>
+        <item>Οκτ.</item>
+        <item>Νοέ.</item>
+        <item>Δεκ.</item>
      </string-array>
      <string-array name="menu_copy_or_move">
         <item>Μετακίνηση</item>
@@ -72,18 +72,18 @@
         <item>@string/cancel</item>
      </string-array>
      <string-array name="month">
-        <item>Ιανουάριος</item>
-        <item>Φεβρουάριος</item>
-        <item>Μάρτιος</item>
-        <item>Απρίλιος</item>
-        <item>Μάιος</item>
-        <item>Ιούνιος</item>
-        <item>Ιούλιος</item>
-        <item>Αύγουστος</item>
-        <item>Σεπτέμβριος</item>
-        <item>Οκτώμβριος</item>
-        <item>Νοέμβριος</item>
-        <item>Δεκέμβριος</item>
+        <item>Ιαν.</item>
+        <item>Φεβ.</item>
+        <item>Μάρ.</item>
+        <item>Απρ.</item>
+        <item>Μάι.</item>
+        <item>Ιούν.</item>
+        <item>Ιούλ.</item>
+        <item>Αύγ.</item>
+        <item>Σεπ.</item>
+        <item>Οκτ.</item>
+        <item>Νοέ.</item>
+        <item>Δεκ.</item>
      </string-array>
      <string-array name="month_last_year">
         <item>Τον Περασμένο Ιανουάριο</item>
@@ -164,9 +164,9 @@
         <item>Ζωντανές στιγμές</item>
     </string-array>
     <string-array name="last_weekend_title">
-        <item>Τα Σ/Κ μου</item>
+        <item>Τα ΣΚ μου</item>
         <item>Στιγμές μου</item>
-        <item>Αναμνήσεις Σ/Κ</item>
+        <item>Αναμνήσεις ΣΚ</item>
     </string-array>
     <string-array name="parties_title">
         <item>Μαζί</item>
