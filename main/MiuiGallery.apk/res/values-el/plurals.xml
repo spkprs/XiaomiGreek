@@ -15,8 +15,8 @@
         <item quantity="one">%d λεπτό πριν</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Απόκρυψη αυτών των αρχείων;</item>
-        <item quantity="one">Απόκρυψη αυτού του αρχείου;</item>
+        <item quantity="other">Προσθήκη αυτών των στοιχείων στο ιδιωτικό άλμπουμ;</item>
+        <item quantity="one">Προσθήκη αυτού του στοιχείου στο ιδιωτικό άλμπουμ;</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Προστέθηκαν %d cloud φωτο , απενεργοποιήστε την επιλογή &amp;quot;Εμφάνιση μόνο τοπικά άλμπουμ&amp;quot; για προβολή.</item>
@@ -27,8 +27,8 @@
         <item quantity="one">%2$d στοιχείο δεν μπορεί να προστεθεί στο άλμπουμ. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d στοιχεία δεν μπορούν να προστεθούν στο κρυφό άλμπουμ. %1$s.</item>
-        <item quantity="one">%2$d στοιχείο δεν μπορεί να προστεθεί στο κρυφό άλμπουμ. %1$s.</item>
+        <item quantity="other">%2$d στοιχεία δεν μπορούν να προστεθούν στο ιδιωτικό άλμπουμ. %1$s.</item>
+        <item quantity="one">%2$d στοιχείο δεν μπορεί να προστεθεί στο ιδιωτικό άλμπουμ. %1$s.</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d ημέρες</item>
@@ -214,6 +214,10 @@
         <item quantity="other">"%d αρχεία δεν έχουν ληφθεί ακόμα. Να ακυρωθεί οπωσδήποτε;"</item>
         <item quantity="one">"%d αρχείο δεν έχει ληφθεί ακόμα. Να ακυρωθεί οπωσδήποτε;"</item>
     </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Λήψη %d υπόλοιπων αρχείων</item>
+        <item quantity="one">Λήψη %d υπόλοιπου αρχείου</item>
+    </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Αδύνατη η λήψη %1$d φωτογραφιών, συνδεθείτε στο δίκτυο και δοκιμάστε ξανά</item>
         <item quantity="one">Αδύνατη η λήψη φωτογραφιών, συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</item>
@@ -243,8 +247,8 @@
         <item quantity="one">Σύνολο %d φωτογραφία</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d στοιχεία δεν μπορούν να καταργηθούν από το κρυφό άλμπουμ. %1$s.</item>
-        <item quantity="one">%2$d στοιχείο δεν μπορεί να καταργηθεί από το κρυφό άλμπουμ.. %1$s.</item>
+        <item quantity="other">%2$d στοιχεία δεν μπορούν να καταργηθούν από το ιδιωτικό άλμπουμ. %1$s.</item>
+        <item quantity="one">%2$d στοιχείο δεν μπορεί να καταργηθεί από το ιδιωτικό άλμπουμ.. %1$s.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">Προστέθηκαν %1$d φωτογραφίες σε \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
