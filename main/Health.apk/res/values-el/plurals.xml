@@ -222,6 +222,6 @@
   </plurals>
   <plurals name="user_age_display_format_year">
     <item quantity="other">%1$d ετών</item>
-    <item quantity="one">%1$d έτους</item>
+    <item quantity="one">%1$d ετών</item>
   </plurals>
 </resources>
