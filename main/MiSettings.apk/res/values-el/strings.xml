@@ -288,7 +288,7 @@
   <string name="usage_state_app_usage_limit_summary">Χρονικό ημερήσιο όριο οθόνης για εφαρμογές</string>
   <string name="usage_state_app_usage_list_title">Χρόνος οθόνης εφαρμογών</string>
   <string name="usage_state_app_usage_list_week_title">Χρόνος οθόνης εφαρμογών</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Χρόνος οθόνης μεταξύ %d:00 έως %d:00</string>
+  <string name="usage_state_app_usage_tip_title">Χρόνος οθόνης μεταξύ %1$d:00 έως %2$d:00</string>
   <string name="usage_state_app_use_time">Χρόνος οθόνης εφαρμογής</string>
   <string name="usage_state_card_add">Προσθήκη</string>
   <string name="usage_state_card_cancel">Ακύρωση</string>
@@ -299,8 +299,8 @@
   <string name="usage_state_date">d MMM</string>
   <string name="usage_state_device_limit_summary">Ορισμός χρονικών ορίων ημερήσιας οθόνης για τη συσκευή σας</string>
   <string name="usage_state_device_limit_title">Χρονικά όρια οθόνης συσκευής</string>
-  <string name="usage_state_device_noti_today_tip_title" formatted="false">Ειδοποιήσεις μεταξύ %d:00 έως %d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Ξεκλειδώθηκε μεταξύ %d:00 έως %d:00</string>
+  <string name="usage_state_device_noti_today_tip_title">Ειδοποιήσεις μεταξύ %1$d:00 έως %2$d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title">Ξεκλειδώθηκε μεταξύ %1$d:00 and %2$d:00</string>
   <string name="usage_state_download">Αποθήκευση στη Συλλογή</string>
   <string name="usage_state_duration_title">Αυτή η περίοδος</string>
   <string name="usage_state_focus_call">Κλήση έκτακτης ανάγκης</string>
@@ -320,7 +320,7 @@
   <string name="usage_state_focus_weak_summary">Αφήστε το τηλέφωνό σας μακριά</string>
   <string name="usage_state_friday">Παρ</string>
   <string name="usage_state_go_more">Περισσότερες εφαρμογές</string>
-  <string name="usage_state_hour_minute" formatted="false">%d Ωρ. %d Λεπ.</string>
+  <string name="usage_state_hour_minute">%1$dΩρ. %2$dΛεπ.</string>
   <string name="usage_state_less_one_minute">&lt; από 1 λεπτό</string>
   <string name="usage_state_monday">Δευτ</string>
   <string name="usage_state_mourth_day">Χρόνος ενεργής οθόνης %s</string>
@@ -359,11 +359,11 @@
   <string name="usage_state_use_time_remind_title">Ειδοποίηση χρόνου οθόνης</string>
   <string name="usage_state_wakeups_title">Ενεργοποίηση οθόνης</string>
   <string name="usage_state_wednesday">Τετ</string>
-  <string name="usage_state_week_day_hour_minute" formatted="false">Σαββατοκύριακα: %dΩ %dΛ</string>
+  <string name="usage_state_week_day_hour_minute">Σαββατοκύριακα: %1$dΩ %2$dΛ</string>
   <string name="usage_state_week_total_text">Χρόνος οθόνης (7 ημερών)</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Εργάσιμες</string>
-  <string name="usage_state_work_day_hour_minute" formatted="false">Εργάσιμες: %dΩ %dΛ</string>
+  <string name="usage_state_work_day_hour_minute">Εργάσιμες: %1$dΩ %2$dΛ</string>
   <string name="usage_stats_device_limit">Ημερήσιο χρονικό όριο οθόνης</string>
   <string name="usage_stats_device_limit_summary">Ορισμός ημερήσιου ορίου χρήσης</string>
   <string name="usage_stats_experience_text">Πατήστε για δοκιμή (1 λ)</string>
@@ -402,9 +402,9 @@
   <string name="usagestats_app_category_miui_video_etc">Μουσική και βίντεο</string>
   <string name="usagestats_device_notification_des">Χρονικό όριο οθόνης για σήμερα: %s</string>
   <string name="usagestats_device_notification_des_over">Εχετε ήδη φτάσει στο χρονικό όριο της οθόνης σας σήμερα.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Ημερήσιο όριο: %s | %s απομένουν</string>
+  <string name="usagestats_device_notification_des_reset">Ημερήσιο όριο: %1$s | %2$s απομένουν</string>
   <string name="usagestats_device_notification_title">Ειδοποίηση χρόνου οθόνης</string>
-  <string name="usagestats_device_timeout_des" formatted="false">Χρησιμοποιήσατε τη συσκευή σας για %dΩ %dΛ σήμερα. Κάντε ένα διάλειμμα!</string>
+  <string name="usagestats_device_timeout_des">Χρησιμοποιήσατε τη συσκευή σας για %1$dΩ %2$dΛ σήμερα. Κάντε ένα διάλειμμα!</string>
   <string name="usagestats_device_timeout_negative">Υπενθύμιση σε 1 ώρα</string>
   <string name="usagestats_device_timeout_positive">Κατάλαβα</string>
   <string name="usagestats_device_timeout_title">Ειδοποίηση χρόνου οθόνης</string>
