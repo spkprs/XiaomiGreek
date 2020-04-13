@@ -43,6 +43,7 @@
 	<string name="account_and_calendar">Λογαριασμός και ημερολόγιο</string>
 	<string name="action_bar_return">Επιστροφή</string>
 	<string name="action_label">Επιστροφή</string>
+    <string name="action_text_card_manager">Κανάλι</string>
 	<string name="ad_card_download_count_million">%1$s万人下载</string>
 	<string name="ad_card_download_use_count">%1$d人正在用</string>
 	<string name="ad_card_download_use_count_million">%1$d万人正在用</string>
@@ -626,7 +627,7 @@
     <string name="productivity_move_event_failed">"Αδύνατη η μετακίνηση αυτού του συμβάντος στις MMMM dd, yyyy"</string>
     <string name="productivity_move_event_hint">Κρατήστε παρατεταμένα ένα συμβάν για να το μετακινήσετε σε άλλη ημερομηνία</string>
     <string name="productivity_move_event_success">Μετακινήθηκε αυτό το συμβάν στις MMMM dd, yyyy</string>
-    <string name="productivity_no_event">Δεν έχουν προγραμματιστεί συμβάντα για σήμερα</string>
+    <string name="productivity_no_event">Δεν υπάρχουν συμβάντα ακόμη</string>
 	<string name="pull_to_refresh_hint">Τραβήξτε για ανανέωση συμβάντων του %1$d</string>
 	<string name="receive_net_mock_success">Net mock receive success</string>
 	<string name="recommend_card_add">立即订阅</string>

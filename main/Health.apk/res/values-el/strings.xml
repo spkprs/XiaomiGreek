@@ -357,7 +357,7 @@
   <string name="exercise_detail_no_exercise_hint">Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες για τη διάρκεια της άσκησης.\nΜπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα > Πηγές δεδομένων.</string>
   <string name="exercise_detail_no_steps_hint">Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες μέτρησης βημάτων.\nΜπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα >  Πηγές δεδομένων.</string>
   <string name="exercise_duration">Διάρκεια άσκησης</string>
-  <string name="exercise_duration_consume">Διάρκεια: %1$d λεπ. %2$d Cal</string>
+  <string name="exercise_duration_consume">Διάρκεια: %1$s λεπ. %2$s Cal</string>
   <string name="exercise_goal">Στόχος δραστηριότητας</string>
   <string name="exercise_goal_accomplished">Ο στόχος επιτεύχθηκε</string>
   <string name="exercise_goal_lack_exercise">Ανεπαρκής δραστηριότητα</string>
@@ -1021,8 +1021,8 @@
   <string name="tb_exercise_list_sport">%1$s. Απόσταση σε χιλιόμετρα: %2$s. Ώρα λήξης: %3$s. Προέλευση δεδομένων: %4$s. Πατήστε για να δείτε λεπτομέρειες.</string>
   <string name="tb_exercise_list_sport_one">%1$s. Διάρκεια: %2$s. Ώρα λήξης: %3$s. Προέλευση δεδομένων: %4$s. Πατήστε για να δείτε λεπτομέρειες.</string>
   <string name="tb_exercise_list_walk">Αριθμός βημάτων: %1$s. Ώρα λήξης: %2$s. Πατήστε για να δείτε λεπτομέρειες.</string>
-  <string name="tb_exercise_sport_no_distance">%1$s. Διάρκεια: %2$d. Καμένες θερμίδες: %3$d.</string>
-  <string name="tb_exercise_sport_normal">%1$s. Απόσταση %2$.1f. Διάρκεια: %3$d. Καμένες θερμίδες: %4$d.</string>
+  <string name="tb_exercise_sport_no_distance">%1$s. Διάρκεια: %2$s. Καμένες θερμίδες: %3$s.</string>
+  <string name="tb_exercise_sport_normal">%1$s. Απόσταση %2$.1f. Διάρκεια: %3$s. Καμένες θερμίδες: %4$s.</string>
   <string name="tb_exercise_sport_sum">Έκθεση άσκησης. %1$s. Πατήστε για να δείτε λεπτομέρειες.</string>
   <string name="tb_exercise_steps_no_data">Δεν υπάρχουν δεδομένα βημάτων. Τρέχων στόχος: %1$d. Πατήστε για να δείτε λεπτομέρειες.</string>
   <string name="tb_exercise_steps_no_goal">Αριθμός βημάτων: %1$d. Πατήστε για να δείτε λεπτομέρειες.</string>
