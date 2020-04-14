@@ -4,6 +4,11 @@
 	<string name="accessibility_menu_item_split_disable">"Η εφαρμογή δεν υποστηρίζει Διαίρεση οθόνης."</string>
 	<string name="accessibility_menu_item_split_enable">Η εφαρμογή υποστηρίζει Διαίρεση οθόνης</string>
 	<string name="accessibility_recents_item_open_app_info">Άνοιγμα πληροφοριών εφαρμογής %s.</string>
+    <string name="accessibility_recent_task_enter">Άνοιγμα Πρόσφατα</string>
+    <string name="accessibility_recent_task_exit">Κλείσιμο Πρόσφατα</string>
+    <string name="accessibility_recent_task_locked_state">Κλειδώθηκε</string>
+    <string name="accessibility_recent_task_memory_info">Συνολική RAM: %2$s | Διαθέσιμη RAM: %1$s. Καθαρισμός με διπλό άγγιγμα.</string>
+    <string name="accessibility_recent_task_unlocked_state">Ξεκλειδώθηκε</string>
 	<string name="accessibility_splite_screen_primary">Προστέθηκε ως η κύρια εφαρμογή στη Διαιρούμενη οθόνη</string>
 	<string name="accessibility_splite_screen_secondary">Προστέθηκε ως η δευτερεύουσα εφαρμογή στη Διαιρούμενη οθόνη</string>
 	<string name="action_add_to_workspace">Προσθήκη στο χώρο εργασίας</string>
@@ -20,7 +25,7 @@
 	<string name="all_app_category_entertainment">Ψυχαγωγία</string>
 	<string name="all_app_category_finance_business">Οικονομία &amp; Επιχειρήση</string>
 	<string name="all_app_category_games">Παιχνίδια</string>
-	<string name="all_app_category_knowledge_education">Γνώση &amp; εκπαίδευση</string>
+	<string name="all_app_category_knowledge_education">Μάθηση &amp; εκπαίδευση</string>
 	<string name="all_app_category_lifestyle">Τρόπος ζωής</string>
 	<string name="all_app_category_news_reading">Νέα &amp; ανάγνωση</string>
 	<string name="all_app_category_personalization">Εξατομίκευση</string>
@@ -393,6 +398,7 @@
     <string name="recents_empty_message_multi_window">Άνοιγμα εφαρμογών από την Αρχική οθόνη</string>
     <string name="recents_exit_multi_window_mode">Έξοδος</string>
 	<string name="recents_forbid_dock_when_screening_toast_text">"Αδύνατη η χρήση της Διαίρεσης οθόνης κατά την Μετάδοση οθόνης"</string>
+    <string name="recents_incompatible_app_message">"Αυτή η εφαρμ. δεν υποστηρίζεται σε Διαίρεση Οθόνης"</string>
 	<string name="recents_task_screening">Μετάδοση</string>
     <string name="recents_title_app_manager">Διαχείριση εφαρμογών</string>
     <string name="recents_title_game">Παιχνίδια</string>
