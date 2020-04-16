@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="aod_batch_has_update_text">
+         <item quantity="one">Υπάρχει διαθέσιμη ενημέρωση για %1$d θέμα</item>
+         <item quantity="other">Υπάρχουν διαθέσιμες ενημερώσεις για %1$d θέματα</item>
+     </plurals>
+     <plurals name="aod_batch_updating_text">
+         <item quantity="one">Ενημέρωση %1$d θέματος</item>
+         <item quantity="other">Ενημέρωση %1$d θέματα</item>
+     </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d ωρ. πρίν</item>
         <item quantity="one">%d ωρ. πρίν</item>
