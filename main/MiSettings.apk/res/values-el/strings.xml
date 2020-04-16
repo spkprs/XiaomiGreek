@@ -163,7 +163,7 @@
   <string name="stop_summary">Όλα τα στατιστικά και δεδομένα του Χρόνου Οθόνης θα διαγραφούν όταν απενεργοποιήσετε αυτή την λειτουργία</string>
   <string name="suggestion">Προτάσεις</string>
   <string name="sunday">Κυριακή</string>
-  <string name="sunday_short">Ήλιος</string>
+  <string name="sunday_short">Κυρ</string>
   <string name="sunday_shortest">Κ</string>
   <string name="thememanager_not_found">Αδυναμία εκκίνησης Θεμάτων. Βεβαιωθείτε ότι αυτή η εφαρμογή είναι εγκατεστημένη στη συσκευή σας.</string>
   <string name="thursday">Πέμπτη</string>

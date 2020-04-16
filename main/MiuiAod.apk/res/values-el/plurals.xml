@@ -12,4 +12,56 @@
         <item quantity="other">%d νέες ειδοποιήσεις</item>
         <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ωρ πριν</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ωρ πριν</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Πριν μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Αμέσως</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="one">σε 1 λεπ</item>
+        <item quantity="other">σε %d λεπ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="one">πριν 1 λεπ</item>
+        <item quantity="other">%d λεπ πριν</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Πριν μισή ώρα</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Αμέσως</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="one">σε 1 λεπ</item>
+        <item quantity="other">σε %d λεπ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">πριν 1 λεπτό</item>
+        <item quantity="other">πριν %d λεπ</item>
+    </plurals>
 </resources>

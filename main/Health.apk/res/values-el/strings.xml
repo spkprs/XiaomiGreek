@@ -1151,7 +1151,7 @@
   <string name="time_duration_date">%1$s-%2$s</string>
   <string name="time_duration_number">%1$s:%2$s</string>
   <string name="time_format_hh_mm">HH:mm</string>
-  <string name="time_picker_dialog_title">Ορισμός χρόνου</string>
+  <string name="time_picker_dialog_title">Ορισμός ώρας</string>
   <string name="time_picker_label_hour">Ω</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tips_default">Δεν υπάρχουν δεδομένα</string>
