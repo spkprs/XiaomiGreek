@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="Approval">Εφαρμογή</string>
-	<string name="Xiaomi_account_pending_approval">Αναθεώρηση εφαρμογής</string>
 	<string name="abc_action_bar_home_description">Πλοήγηση στην Αρχική</string>
 	<string name="abc_action_bar_up_description">Πλοήγηση επάνω</string>
 	<string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -37,6 +35,7 @@
 	<string name="app_description_title">Σχετικά με Σαρωτή</string>
 	<string name="app_details">Εφαρμογή:</string>
 	<string name="app_name">Σαρωτής</string>
+	<string name="Approval">Εφαρμογή</string>
 	<string name="back">Πίσω</string>
 	<string name="barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
 	<string name="birthday">Γενέθλια:</string>
@@ -123,6 +122,7 @@
 	<string name="document_title">Λήψη φωτογραφίας του εγγράφου</string>
 	<string name="document_top_panel_title">Φωτογραφία εγγράφου</string>
 	<string name="done">Ολοκληρώθηκε</string>
+	<string name="download_mipay">Χρήση Mi Pay</string>
 	<string name="download_stable_version">Χρήση σταθερής έκδοσης</string>
 	<string name="download_use_stable_version">Λήψη σταθερής έκδοσης</string>
 	<string name="drag_barcode_into_frame">Σύρετε το πλαίσιο για να ταιριάζει στον κώδικα</string>
@@ -197,6 +197,10 @@
 	<string name="language_entry_swedish">Σουηδικά</string>
 	<string name="logistics">Ταχεία παράδοση</string>
 	<string name="low_version_tip">Ενημερώστε το MIUI στην πιο πρόσφατη έκδοση του, για να μπορέσετε να χρησιμοποιήσετε το σαρωτή.</string>
+	<string name="mipay">Mi Pay</string>
+	<string name="mipayin_dialog_mipayName">Mi Pay</string>
+	<string name="mipayin_dialog_more">Περισσότερα</string>
+	<string name="mipayin_dialog_title">Άνοιγμα με</string>
 	<string name="miracast_connect">Προβολή</string>
 	<string name="miracast_connect_fail">"Αδυναμία Προβολής, δοκιμάστε ξανά"</string>
 	<string name="miracast_connecting">Προβάλεται…</string>
@@ -379,8 +383,8 @@
 	<string name="wifi_ssid">SSID:</string>
 	<string name="will_be_sent_tothe_background_review">" (Η αίτησή σας θα σταλεί για αναθεώρηση σύντομα.)"</string>
 	<string name="wx_not_installed_toast">Αυτή η λειτουργία χρησιμοποιεί το WeChat. Εγκαταστήστε πρώτα το WeChat.</string>
-	<string name="xiaoai_dialog">"Προσπαθήστε να πείτε αυτό που
-θέλετε να βρείτε στη Mi AI"</string>
+	<string name="xiaoai_dialog">Προσπαθήστε να πείτε αυτό που\nθέλετε να βρείτε στη Mi AI</string>
+	<string name="Xiaomi_account_pending_approval">Αναθεώρηση εφαρμογής</string>
 	<string name="you_have_permission_to_download">Πατήστε για λήψη της έκδοσης Beta</string>
 	<string name="you_id">"Το ID σας: "</string>
 	<string name="your_application_is_under_review">" (Η αίτησή σας εξετάζεται.)"</string>
