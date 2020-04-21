@@ -494,7 +494,8 @@
 	<string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
 	<string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
 	<string name="permission_account_tip">Πληροφορίες πρόσβασης λογαριασμού</string>
-	<string name="permission_storage_tip">Πρόσβαση σε εικόνες στη συσκευή σας για να τις χρησιμοποιήσετε ως ταπετσαρίες</string>
+    <string name="permission_storage_read_tip">Πρόσβαση σε φωτογραφίες αποθηκευμένες στη συσκευή σας</string>
+	<string name="permission_storage_tip">Αποθήκευση στοιχείων που έχετε λάβει στη συσκευή σας</string>
 	<string name="phone_bind_too_many">Αυτό το τηλέφωνο έχει συσχετιστεί με αρκετούς Λογαριασμούς Mi σε σύντομο χρονικό διάστημα. Δοκιμάστε να χρησιμοποιήσετε έναν άλλο αριθμό τηλεφώνου.</string>
 	<string name="phone_hint">Αριθμός τηλεφώνου</string>
 	<string name="phone_num_use_for">Ο αριθμός τηλεφώνου χρησιμοποιείται για:</string>
@@ -662,6 +663,8 @@
 	<string name="subscribe_dlg_btn">Έναρξη</string>
 	<string name="subscribe_dlg_content">Εγγραφείτε για να πάρετε φρέσκες ταπετσαρίες που παραδίδονται στην οθόνη κλειδώματος καθημερινά και να λάβετε πρωινούς χαιρετισμούς.</string>
 	<string name="subscribe_dlg_content2">Εγγραφή σε \"%1$s\"</string>
+    <string name="subscribe_dlg_btn_txt">Εγγραφείτε</string>
+    <string name="subscribe_dlg_desc">Εγγραφείτε για προβολή παρουσιάσεων</string>
 	<string name="subscribe_dlg_title">Προσθέστε τις αγαπημένες σας εικόνες στη μίξη</string>
 	<string name="subscribe_free">Εγγραφείτε</string>
 	<string name="subscribe_item_checked">Εγγραφή</string>

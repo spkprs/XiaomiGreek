@@ -933,4 +933,8 @@
 	<string name="theme_setting_all">Ολα τα Θέματα</string>
 	<string name="wallpaper_setting_all">Ολες οι Ταπετσαρίες</string>
 	<string name="wallpaper_setting_live">Ζωντανές</string>
+    <string name="system_cta_agree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και να εκχωρήσει τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
+    <string name="system_cta_all_purpose">Καλώς ορίσατε στα \"Θέματα\"! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να διαχειριστείτε τα θέματα, τις ταπετσαρίες, τους ήχους κλήσης και τις γραμ/σειρές σας.</string>
+    <string name="system_cta_runtime_perm_desc_read_phone_state">Πρόσβαση στο ID της συσκευής σας για την αναγνώριση της</string>
+    <string name="system_cta_runtime_perm_desc_storage">Για την φύλαξη αποθηκευμένων θεμάτων και άλλων στοιχείων</string>
 </resources>
