@@ -920,10 +920,10 @@
      <string name="preference_import">Εισαγωγή</string>
      <string name="preference_import_export">Εισαγωγή/Εξαγωγή</string>
      <string name="preference_import_export_title">Εισαγωγή/Εξαγωγή επαφών</string>
-     <string name="preference_key_trash_bin_title">Προβολή πρόσφατων διεγραμμένων επαφών</string>
-     <string name="preference_other">Άλλο</string>
+     <string name="preference_key_trash_bin_title">Διεγραμμένες επαφές</string>
+     <string name="preference_other">Άλλα</string>
      <string name="preference_others">Άλλα</string>
-     <string name="preference_phone">Τηλέφωνο</string>
+     <string name="preference_phone">Συσκευή</string>
      <string name="preference_phone_more_title">Ρυθμίσεις κλήσεων</string>
      <string name="preference_privacy_policy_title">Πολιτική Απορρήτου</string>
      <string name="preference_remove_duplicate">Συγχώνευση όμοιων επαφών</string>
