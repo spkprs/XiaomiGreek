@@ -1170,10 +1170,10 @@
      <string name="t9_search_empty_edit_contact">Προσθήκη στις επαφές</string>
      <string name="t9_search_empty_send_sms">Στείλτε μήνυμα</string>
      <string name="t9_search_empty_video_call">Κλήση βίντεο</string>
-     <string name="t9_search_guide_pinyin_title1">Γρήγορη αναζήτηση επαφών με την εισαγωγή γραμμάτων</string>
-     <string name="t9_search_guide_pinyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
-     <string name="t9_search_guide_zhuyin_title1">Γρήγορη αναζήτηση επαφών με την εισαγωγή γραμμάτων</string>
-     <string name="t9_search_guide_zhuyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
+     <string name="t9_search_guide_pinyin_title1">Εισαγωγή αριθμών για αναζήτηση επαφών</string>
+     <string name="t9_search_guide_pinyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση <font fgcolor="">X</font>avier <font fgcolor="">H</font>enry</string>
+     <string name="t9_search_guide_zhuyin_title1">Εισαγωγή αριθμών για αναζήτηση επαφών</string>
+     <string name="t9_search_guide_zhuyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
      <string name="take_new_photo">Λήψη νέας φωτογραφίας</string>
      <string name="take_photo">Λήψη φωτογραφίας</string>
      <string name="titleJoinContactDataWith">Συγχώνευση επαφών</string>
