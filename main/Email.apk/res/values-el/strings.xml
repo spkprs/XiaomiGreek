@@ -441,6 +441,7 @@
   <string name="exchange_name">Εταιρικό</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Αναπτύξτε τα στοιχεία του δικαιούχου</string>
+  <string name="expand_slide">Ανάπτυξη πλευρικής μπάρας</string>
   <string name="fail_get_email_message">Αποτυχία λήψης μηνύματος.</string>
   <string name="failed">Δεν ήταν δυνατή η φόρτωση της εικόνας</string>
   <string name="failed_parse_eml_file">Αδυναμία ανοίγματος αρχείου EML, προσπαθήστε ξανά.</string>
@@ -535,6 +536,7 @@
   <string name="gmail_server_authorization_deleted">Δεν ήταν δυνατή η επικύρωση του λογαριασμού. Δοκιμάστε ξανά να προσθέσετε αυτό το λογαριασμό.</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Σύνδεση στο Gmail</string>
+  <string name="go_to_mail_content">Προβολή Mail</string>
   <string name="have_auth_code">Έχω κωδικό</string>
   <string name="header_category_account">Λογαριασμοί</string>
   <string name="header_category_other">Πρόσθετες ρυθμίσεις</string>
@@ -709,6 +711,7 @@
   <string name="mibill_privacy_policy_link">Συμφωνείτε &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt; στους όρους παροχής υπηρεσιών λογαριασμών πιστωτικών καρτών&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Mi Wallet: ανάλυση καταστάσεων email</string>
   <string name="min_payment_text">Ελάχιστη πληρωμή</string>
+  <string name="modify_contact_address">Τροποποίηση e-mail επαφής</string>
   <string name="more_context">Περισσότερα</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Μεταφέρθηκε σε άλλο φάκελο</string>
@@ -1068,6 +1071,7 @@
   <string name="share_choose">Παρακαλώ επιλέξτε</string>
   <string name="sharing">Κοινή χρήση</string>
   <string name="shortcut_name_title">Συντόμευση Ονόματος φακέλου</string>
+  <string name="show_contact_address">Εμφάνιση διεύθυνσης email επαφής</string>
   <string name="show_elided">▶ Εμφάνιση κειμένου σε παράθεση</string>
   <string name="show_images">Προβολή φωτογραφιών</string>
   <string name="show_more_attachment">Περισσότερα συνημμένα</string>
