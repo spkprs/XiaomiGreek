@@ -1616,7 +1616,7 @@
      <string name="download_current_rom">Λήψη τελευταίας έκδοσης της MIUI</string>
      <string name="downloading_description">Λήψη…</string>
      <string name="doze_summary">Ενεργοποίηση οθόνης όταν τη σηκώνετε ή όταν φτάνει νέα ειδοποίηση</string>
-     <string name="doze_title">Πάντα ενεργή οθόνη</string>
+     <string name="doze_title">Πάντα στην Οθόνη</string>
      <string name="draw_overlay">Επικάλυψη άλλων εφαρμογών</string>
      <string name="draw_overlay_title">Εφαρμογές που μπορούν να σχεδιάσουν πάνω από άλλες εφαρμογές</string>
      <string name="dtmf_tone_enable_title">Ήχοι Πληκτρολογίου</string>
@@ -6197,7 +6197,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
       <string name="ambient_display_pickup_title">Σηκώστε το για να δείτε</string>
       <string name="ambient_display_summary">Για να ελέγξετε γρήγορα τις ειδοποιήσεις σας, κάντε διπλό πάτημα στην οθόνη.</string>
 	  <string name="ambient_display_title">Πατήστε δύο φορές για να ελέγξετε το τηλέφωνο</string>
-      <string name="ambient_display_screen_title">Πάντα ενεργή οθόνη</string>
+      <string name="ambient_display_screen_title">Πάντα στην Οθόνη</string>
       <string name="ambient_display_screen_summary_always_on">Πάντα Ενεργή/Αυξημένη χρήση μπαταρίας</string>
       <string name="ambient_display_screen_summary_notifications">Νέες ειδοποιήσεις</string>
 	  <string name="input_assistance">Βοηθός πληκτρολόγησης</string>
@@ -6536,7 +6536,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="choose_unlock_fingerprint_msg">Ορισμός κλειδώματος οθόνης πριν από την προσθήκη Δακτ. αποτυπώματος.</string>
 	<string name="miui_lab_gesture_title">Χειρονομίες πλήρους οθόνης</string>
 	<string name="miui_lab_gesture_desc">Χρήση Χειρονομιών αντί Πλήκτρων πλοήγησης</string>
-	<string name="search_ambient_display_screen_title">Πάντα ενεργή οθόνη;Πάντα Ενεργή οθόνη;Πάντα Ενεργή οθόνη</string>
+	<string name="search_ambient_display_screen_title">Πάντα στην Οθόνη;Πάντα στην Οθόνη;Πάντα στην Οθόνη</string>
 	<string name="search_doze_always_on_title">Πάντα Ενεργή</string>
     <string name="popup_led_try_later">Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά</string>
     <string name="popup_title">Εφέ εμπρός Κάμερας</string>
@@ -6673,9 +6673,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="gesture_open_camera">Άνοιγμα Κάμερας</string>
 	<string name="gesture_open_wechat">Άνοιγμα WeChat</string>
 	<string name="gesture_open_alipay">Άνοιγμα Alipay</string>
-    <string name="aod_and_lock_screen_settings_title">Πάντα ενεργή οθόνη &amp; Κλειδώματος</string>
-    <string name="aod_settings_category_name">Πάντα ενεργή οθόνη</string>
-    <string name="aod_settings_title">Πάντα ενεργή οθόνη</string>
+    <string name="aod_and_lock_screen_settings_title">Πάντα στην Οθόνη &amp; Κλειδώματος</string>
+    <string name="aod_settings_category_name">Πάντα στην Οθόνη</string>
+    <string name="aod_settings_title">Πάντα στην Οθόνη</string>
     <string name="applications_settings_title">Εφαρμογές</string>
     <string name="feedback_settings">Υπηρεσίες &amp; Σχόλια</string>
     <string name="full_screen_display">Λειτουργία Πλήρους Οθόνης</string>
@@ -6812,7 +6812,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="wifi_generation_summary">Εμφάνιση του αριθμού του τύπου γενιάς ασύρματης τεχνολογίας στο εικονίδιο Wi-Fi</string>
     <string name="choose_lock_pattern_header_text">Ορισμός μοτίβου</string>
     <string name="confirm_lock_pattern_header_text">Σχεδιάστε το μοτίβο σας</string>
-    <string name="aod_name_wanxiang">Πάντα ενεργή οθόνη</string>
+    <string name="aod_name_wanxiang">Πάντα στην Οθόνη</string>
     <string name="speaker_clean">Καθαρισμός Ηχείου</string> 
     <string name="timer">Χρονόμετρο ασύρματου δικτύου</string>
     <string name="timer_setting">Χρονόμετρο σύνδεσης</string>

@@ -3059,7 +3059,7 @@
     <string name="pc_main_power_manager_hour_minute">%1$s Ωρ %2$s Λεπ έως την πλήρη φόρτιση</string>
     <string name="sms_delete_all_hint">Διαγραφή όλων των αποκλεισμένων μηνυμάτων?</string>
     <string name="delete_all_sms">Διαγραφή όλων</string>
-    <string name="power_ambient_display">Πάντα Ενεργή οθόνη</string>
+    <string name="power_ambient_display">Πάντα στην Οθόνη</string>
     <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την \"Πάντα Ενεργή\"</string>
     <string name="st_antispam_title_mms">MMS</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Καλώς ήλθατε στον \"%1s\"! Επιτρέψτε να χρησιμοποιήσει τις παρακάτω λειτουργίες: %2s</string>
@@ -3080,7 +3080,7 @@
     <string name="superpower_notification_hint_enter">Ενεργό</string>
     <string name="superpower_savemode_limit1">Σκοτεινό θέμα</string>
     <string name="superpower_savemode_limit2">Περιορισμός δραστηριότητας παρασκηνίου</string>
-    <string name="superpower_savemode_limit3">Περιορισμός δραστηριότητας που καταναλώνει ενέργεια (συγχρονισμός, GPS, δόνηση, Πάντα Ενεργή οθόνη κ.λπ.)</string>
+    <string name="superpower_savemode_limit3">Περιορισμός δραστηριότητας που καταναλώνει ενέργεια (συγχρονισμός, GPS, δόνηση, Πάντα στην Οθόνη κ.λπ.)</string>
     <string name="superpower_savemode_limit4">Επιτρέψτε στις επιλεγμένες εφαρμογές την κανονική λειτουργία</string>
     <string name="superpower_settins_switch_summary">Περιορίζει τις πιο απαιτητικές λειτουργίες ώστε να παραμείνουν διαθέσιμες περισσότερες βασικές λειτουργίες (π.χ. κλήσεις, SMS και επιλεγμένες εφαρμογές)</string>
     <string name="superpower_settins_autoleave_title">Αυτόματη απενεργοποίηση</string>

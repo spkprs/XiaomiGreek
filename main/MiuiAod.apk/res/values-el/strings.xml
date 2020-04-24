@@ -51,7 +51,7 @@ d.M"</string>
 	<string name="aod_mode_summary">Εμφάνιση ρολογιού, ημερομηνίας, ειδοποιήσεων και εικόνων φόντου όταν η οθόνη είναι ανενεργή</string>
 	<string name="aod_mode_time_summary">Χρόνος προγραμματισμού για ενεργοποίηση και απενεργοποίηση της λειτουργίας Πάντα σε λειτουργία</string>
 	<string name="aod_mode_time_title">Χρονοδιάγραμμα</string>
-	<string name="aod_mode_title">Πάντα ενεργή οθόνη</string>
+	<string name="aod_mode_title">Πάντα στην Οθόνη</string>
 	<string name="aod_show_date_and_time">Εμφάνιση ημερ/νίας και ώρας</string>
 	<string name="aod_show_style_title">Εμφάνιση στοιχείων</string>
 	<string name="aod_style">Θέμα</string>
@@ -164,7 +164,7 @@ d.M"</string>
     <string name="scheduled_mode_msg">Ενεργή περίοδος: %s</string>
     <string name="scope_des">Κάθε καλειδοσκόπιο περιέχει 5 διαφορετικά μοτίβα που θα εμφανίζονται με τη σειρά κάθε φορά που ανάβει η οθόνη.</string>
     <string name="theme_cate_title">Θέμα</string>
-    <string name="tip_to_open_aod_mode">Η λειτουργία "\Πάντα ενεργή οθόνη"\ είναι ανενεργή. Να ενεργοποιηθεί τώρα;</string>
+    <string name="tip_to_open_aod_mode">Η λειτουργία "\Πάντα στην Οθόνη"\ είναι ανενεργή. Να ενεργοποιηθεί τώρα;</string>
     <string name="time_aod_show_title">Ενεργή λειτουργία</string>
     <string name="time_aod_show_summary">Διάρκεια: %s δευτ.</string>
 	<string name="actionbar_button_up_description">Πίσω</string>

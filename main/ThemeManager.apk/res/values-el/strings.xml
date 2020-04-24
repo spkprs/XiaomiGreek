@@ -68,11 +68,11 @@
 	<string name="apply_font_btn_exclude">Εφαρμογή χωρίς γραμματοσειρά</string>
 	<string name="apply_font_btn_reboot">Επανεκκίνηση</string>
 	<string name="apply_font_tip">Θέμα με γραμ/σειρά. Απαιτείται επανεκκίνηση.</string>
-	<string name="apply_not_support_aod">Η \"Πάντα Ενεργή Οθόνη\" δεν υποστηρίζεται σε αυτήν τη συσκευή</string>
+	<string name="apply_not_support_aod">Η \"Πάντα στην Οθόνη\" δεν υποστηρίζεται σε αυτήν τη συσκευή</string>
 	<string name="apply_not_support_in_second_space">Αδυναμία εφαρμογής του στοιχείου στον Δεύτερο Χώρο</string>
-	<string name="apply_not_support_maml_aod">Αδύνατος ο συνδυασμός της \"Πάντα Ενεργή Οθόνη\" με θέματα σε αυτήν τη συσκευή</string>
-	<string name="apply_success_not_enable_aod">Ενεργοποιήστε πρώτα την \"Πάντα Ενεργή Οθόνη\" στις Ρυθμίσεις</string>
-	<string name="apply_success_not_support_aod">Αδύνατος ο συνδυασμός της \"Πάντα Ενεργή Οθόνη\" με θέματα σε αυτήν τη συσκευή. Τα υπόλοιπα στοιχεία αυτού του θέματος εφαρμόστηκαν με επιτυχία.</string>
+	<string name="apply_not_support_maml_aod">Αδύνατος ο συνδυασμός της \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή</string>
+	<string name="apply_success_not_enable_aod">Ενεργοποιήστε πρώτα την \"Πάντα στην Οθόνη\" στις Ρυθμίσεις</string>
+	<string name="apply_success_not_support_aod">Αδύνατος ο συνδυασμός της \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή. Τα υπόλοιπα στοιχεία αυτού του θέματος εφαρμόστηκαν με επιτυχία.</string>
 	<string name="apply_theme_with_ringtones">Ενεργοποίηση ήχων κλήσης</string>
 	<string name="audio_duration_minutes_format">%1$d λεπτά</string>
 	<string name="audio_duration_seconds_format">%1$d δευτ.</string>
@@ -144,7 +144,7 @@
 	<string name="de_icon_text_share">Κοινή χρήση</string>
 	<string name="de_mix">Δημιουργία</string>
 	<string name="de_mix_dialog_title">Δημιουργήστε το θέμα σας</string>
-	<string name="de_mix_mode_aod">Πάντα Ενεργή Οθόνη</string>
+	<string name="de_mix_mode_aod">Πάντα στην Οθόνη</string>
 	<string name="de_mix_mode_aod_desc">Προσαρμογή φόντων και μορφής ρολογιού</string>
 	<string name="de_mix_mode_desktop">Αρχική οθόνη</string>
 	<string name="de_mix_mode_desktop_desc">Ταπετσαρία και ρολόι</string>
@@ -186,7 +186,7 @@
 	<string name="download_success">Η λήψη ολοκληρώθηκε!</string>
 	<string name="dynamic_video_wallpaper">24Ω ταπετσαρία</string>
 	<string name="enable_all_free_mode">Εξαργυρώσετε</string>
-	<string name="enable_aod_list">Ενεργοποίηση \"Πάντα Ενεργή Οθόνη\"</string>
+	<string name="enable_aod_list">Ενεργοποίηση \"Πάντα στην Οθόνη\"</string>
 	<string name="enable_transparent_wallpaper">Χρήση διάφανης ταπετσαρίας</string>
 	<string name="enabling_all_free_mode">Εξαργύρωση…</string>
 	<string name="exchange_alert">Μπορείτε να λαμβάνετε κουπόνια κατά τη διάρκεια των διαφημιστικών μας εκδηλώσεων και να τα ανταλλάσσετε με θέματα.</string>
@@ -721,9 +721,9 @@
 	<string name="support_theme_store_supported">Ευχαριστώ για την υποστήριξή σας!</string>
 	<string name="support_theme_store_title">Υποστηρίξτε τους σχεδιαστές μας</string>
 	<string name="swipe_find_more">Σύρετε προς τα πάνω για να δείτε περισσότερα</string>
-	<string name="system_aod_dialog_message">Ενεργοποιήστε πρώτα την \"Πάντα Ενεργή Οθόνη\" στις Ρυθμίσεις.</string>
+	<string name="system_aod_dialog_message">Ενεργοποιήστε πρώτα την \"Πάντα στην Οθόνη\" στις Ρυθμίσεις.</string>
 	<string name="system_aod_dialog_positive_button">Ρυθμίσεις</string>
-	<string name="system_aod_dialog_title">Απενεργοποίηση \"Πάντα Ενεργή Οθόνη\"</string>
+	<string name="system_aod_dialog_title">Απενεργοποίηση \"Πάντα στην Οθόνη\"</string>
 	<string name="system_cta_agree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και να εκχωρήσει τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
 	<string name="system_cta_all_purpose">Καλώς ορίσατε στα \"Θέματα\"! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να διαχειριστείτε τα θέματα, τις ταπετσαρίες, τους ήχους κλήσης και τις γραμ/σειρές σας.</string>
 	<string name="system_cta_main_purpose">Διαχειριστείτε και χρησιμοποιήστε διαδικτυακά και offline θέματα, ταπετσαρίες, ήχους κλήσης, γραμματοσειρές και ταπετσαρίες βίντεο</string>
@@ -762,7 +762,7 @@
 	<string name="theme_component_title_alarm">Αφύπνιση</string>
 	<string name="theme_component_title_alarmstyle">Στυλ Αφύπνισης</string>
 	<string name="theme_component_title_all">Θέματα</string>
-	<string name="theme_component_title_aod">Πάντα Ενεργή Οθόνη</string>
+	<string name="theme_component_title_aod">Πάντα στην Οθόνη</string>
 	<string name="theme_component_title_audio_effect">Εφέ ήχου</string>
 	<string name="theme_component_title_boot_animation">Γραφικά εκκίνησης</string>
 	<string name="theme_component_title_boot_audio">Ήχος εκκίνησης</string>
