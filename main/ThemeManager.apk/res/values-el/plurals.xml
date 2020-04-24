@@ -1,83 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="aod_batch_has_update_text">
-         <item quantity="one">Υπάρχει διαθέσιμη ενημέρωση για %1$d θέμα</item>
-         <item quantity="other">Υπάρχουν διαθέσιμες ενημερώσεις για %1$d θέματα</item>
-     </plurals>
-     <plurals name="aod_batch_updating_text">
-         <item quantity="one">Ενημέρωση %1$d θέματος</item>
-         <item quantity="other">Ενημέρωση %1$d θέματα</item>
-     </plurals>
-    <plurals name="detail_update_time_hour">
-        <item quantity="other">%d ωρ. πρίν</item>
-        <item quantity="one">%d ωρ. πρίν</item>
-    </plurals>
-    <plurals name="detail_update_time_minute">
-        <item quantity="other">%d λεπ. πρίν</item>
-        <item quantity="one">%d λεπ. πρίν</item>
-    </plurals>
-    <plurals name="wallpaper_quantity">
-        <item quantity="other">%1$d εικόνες</item>
-        <item quantity="one">%1$d εικόνα</item>
-    </plurals>
+  <plurals name="aod_batch_has_update_text">
+    <item quantity="one">Ενημερώσεις για %1$d θέματα</item>
+    <item quantity="other">Ενημέρωση για %1$d θέμα</item>
+  </plurals>
+  <plurals name="aod_batch_updating_text">
+    <item quantity="one">Ενημέρωση %1$d θέματα</item>
+    <item quantity="other">Ενημέρωση %1$d θέματος</item>
+  </plurals>
+  <plurals name="de_author_fans_amount">
+    <item quantity="one">%1$d θαυμαστές</item>
+    <item quantity="other">%1$d θαυμαστής</item>
+  </plurals>
+  <plurals name="de_author_theme_amount">
+    <item quantity="one">%1$d στοιχεία</item>
+    <item quantity="other">%1$d στοιχείο</item>
+  </plurals>
+  <plurals name="de_icon_count">
+    <item quantity="other">%1$d εικονίδια</item>
+    <item quantity="one">%1$d εικονίδιο</item>
+  </plurals>
+  <plurals name="de_more_comment">
+    <item quantity="one">%1$d περισσότερα σχόλια</item>
+    <item quantity="other">%1$d περισσότερα σχόλια</item>
+  </plurals>
+  <plurals name="detail_update_time_hour">
+    <item quantity="other">%d ωρ. πρίν</item>
+    <item quantity="one">%d ωρ. πρίν</item>
+  </plurals>
+  <plurals name="detail_update_time_minute">
+    <item quantity="other">%d λεπ. πρίν</item>
+    <item quantity="one">%d λεπ. πρίν</item>
+  </plurals>
+  <plurals name="guide_used_number">
+    <item quantity="other">Εφαρμόστηκε σε %1$d συσκευές</item>
+    <item quantity="one">Εφαρμόστηκε σε %1$d συσκευή</item>
+  </plurals>
+  <plurals name="icon_batch_has_update_text">
+    <item quantity="other">Ενημερώσεις για %1$d εικονίδια είναι διαθέσιμα</item>
+    <item quantity="one">Ενημερώσεις για %1$d εικονίδιο είναι διαθέσιμο</item>
+  </plurals>
+  <plurals name="icon_batch_updating_text">
+    <item quantity="other">Ενημέρωση %1$d εικονίδια…</item>
+    <item quantity="one">Ενημέρωση %1$d εικονίδιο…</item>
+  </plurals>
+  <plurals name="resource_comment_score_count">
+    <item quantity="other">%d σχόλια</item>
+    <item quantity="one">%d σχόλιο</item>
+  </plurals>
+  <plurals name="resource_rating">
+    <item quantity="other">%1$.1f πόντοι</item>
+    <item quantity="one">%1$.1f πόντος</item>
+  </plurals>
+  <plurals name="ringtone_nums">
+    <item quantity="other">%1$s ήχοι κλήσης</item>
+    <item quantity="one">%1$s ήχος κλήσης</item>
+  </plurals>
   <plurals name="theme_batch_has_update_text">
-    <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα.</item>
-    <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα.</item>
+    <item quantity="other">Ενημερώσεις για %1$d θέματα.</item>
+    <item quantity="one">Ενημέρωση για %1$d θέμα.</item>
+  </plurals>
+  <plurals name="theme_designer_products_count">
+    <item quantity="other">%1$s έργα</item>
+    <item quantity="one">%1$s έργο</item>
   </plurals>
   <plurals name="theme_update_local_resource_notifaction">
     <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα</item>
     <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα</item>
   </plurals>
+  <plurals name="transparent_wallpaper_filter_hint">
+    <item quantity="other">Αναζήτηση μεταξύ %1$d εφαρμ.</item>
+    <item quantity="one">Αναζήτηση μεταξύ %1$d εφαρμ.</item>
+  </plurals>
+  <plurals name="transparent_wallpaper_filter_result">
+    <item quantity="other">Βρέθηκαν %1$d εφαρμ.</item>
+    <item quantity="one">Βρέθηκε %1$d εφαρμ.</item>
+  </plurals>
+  <plurals name="trial_countdown_notification_tip">
+    <item quantity="other">Θα μπορείτε να δοκιμάσετε \"%2$s\" δωρεάν σε %1$d ώρες</item>
+    <item quantity="one">Θα μπορείτε να δοκιμάσετε \"%2$s\" δωρεάν σε %1$d ώρα</item>
+  </plurals>
+  <plurals name="try_3_day">
+    <item quantity="other">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχεία απομένουν για σήμερα)</item>
+    <item quantity="one">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχείο απομένει για σήμερα)</item>
+  </plurals>
+  <plurals name="wallpaper_quantity">
+    <item quantity="other">%1$d εικόνες</item>
+    <item quantity="one">%1$d εικόνα</item>
+  </plurals>
   <plurals name="wallpaper_staggered_item_text">
     <item quantity="other">%1$s | %2$d εικόνες</item>
     <item quantity="one">%1$s | %2$d εικόνα</item>
   </plurals>
-    <plurals name="resource_comment_score_count">
-        <item quantity="other">%d σχόλια</item>
-        <item quantity="one">%d σχόλιο</item>
-    </plurals>
-     <plurals name="theme_designer_products_count">
-        <item quantity="other">%1$s έργα</item>
-        <item quantity="one">%1$s έργο</item>
-    </plurals>
-    <plurals name="transparent_wallpaper_filter_hint">
-        <item quantity="other">Αναζήτηση μεταξύ %1$d εφαρμ.</item>
-        <item quantity="one">Αναζήτηση μεταξύ %1$d εφαρμ.</item>
-    </plurals>
-    <plurals name="transparent_wallpaper_filter_result">
-        <item quantity="other">Βρέθηκαν %1$d εφαρμ.</item>
-        <item quantity="one">Βρέθηκε %1$d εφαρμ.</item>
-    </plurals>
-    <plurals name="resource_rating">
-        <item quantity="other">%1$.1f πόντοι</item>
-        <item quantity="one">%1$.1f πόντος</item>
-    </plurals>
-    <plurals name="ringtone_nums">
-        <item quantity="other">%1$s ήχοι κλήσης</item>
-        <item quantity="one">%1$s ήχος κλήσης</item>
-    </plurals>
-    <plurals name="trial_countdown_notification_tip">
-        <item quantity="other">"Θα μπορείτε να δοκιμάσετε \"%2$s\" δωρεάν σε %1$d ώρες"</item>
-        <item quantity="one">"Θα μπορείτε να δοκιμάσετε \"%2$s\" δωρεάν σε %1$d ώρα"</item>
-    </plurals>
-    <plurals name="try_3_day">
-        <item quantity="other">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχεία απομένουν για σήμερα)</item>
-        <item quantity="one">Δωρεάν δοκιμή 3 ημερών (%1$d στοιχείο απομένει για σήμερα)</item>
-    </plurals>
-    <plurals name="guide_used_number">
-        <item quantity="other">Εφαρμόστηκε σε %1$d συσκευές</item>
-        <item quantity="one">Εφαρμόστηκε σε %1$d συσκευή</item>
-    </plurals>
-    <plurals name="de_author_fans_amount">
-        <item quantity="one">%1$d θαυμαστής</item>
-        <item quantity="other">%1$d θαυμαστές</item>
-    </plurals>
-    <plurals name="de_author_theme_amount">
-        <item quantity="one">%1$d στοιχείο</item>
-        <item quantity="other">%1$d στοιχεία</item>
-    </plurals>
-    <plurals name="de_more_comment">
-        <item quantity="one">%1$d περισσότερα σχόλια</item>
-        <item quantity="other">%1$d περισσότερα σχόλια</item>
-    </plurals>
 </resources>
