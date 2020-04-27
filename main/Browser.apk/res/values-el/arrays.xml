@@ -58,4 +58,14 @@
         <item>Μήνυμα από τον Browser</item>
         <item>Συντονιστείτε με τους Ολυμπιακούς Αγώνες μέσω Mi</item>
     </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Σελίδα Εμπρός/Πίσω</item>
+        <item>Εναλλαγή καρτελών</item>
+        <item>Χωρίς</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Ερώτηση πάντα</item>
+        <item>Άνοιγμα</item>
+        <item>Κλείσιμο</item>
+    </string-array>
 </resources>
