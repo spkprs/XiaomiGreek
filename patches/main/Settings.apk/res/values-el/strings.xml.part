@@ -86,4 +86,6 @@
   <string name="use_only_dark_24hwallpaper_title">Χρήση 24ωρης ταπετσαρίας μόνο σε Σκοτεινή λειτουργία</string>
   <string name="show_privacy_behavior_icons_title">Εμφάνιση εικονιδίων συμπεριφοράς απορρήτου</string>
   <string name="use_old_battery_icon_title">Χρήση παλαιό εικον. μπαταρίας</string>
+    <string name="always_show_network_type_title">Εμφάνιση πάντα ο τύπος δικτύου στη γραμμή κατάστασης</string>
+    <string name="show_powermenu_on_lockscreen_title">Εμφάνιση Power μενού στην Οθόνη Κλειδώματος</string>
 </resources>
